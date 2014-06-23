@@ -1,0 +1,91 @@
+//
+// Scaffolding
+// --------------------------------------------------
+
+
+// :focus
+
+:focus {
+  outline: 0 !important;
+}
+
+
+// Figures
+
+figure {
+  padding: 0;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+}
+
+
+// Images
+
+img[src*=".svg"] {
+	height: 100%; 
+}
+
+
+// Iframes
+
+iframe {
+  border: none;
+}
+
+
+// Last paragraphs
+
+* > p:last-child {
+	padding-bottom: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+
+// Body reset
+
+html {
+  @media (max-width: @screen-sm-max) {
+    overflow-x: hidden;
+  }
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+	text-rendering: optimizeLegibility;
+	overflow-x: hidden;
+	height: auto !important;
+  @media (max-width: @screen-xs-max) {
+    height: 100vh;
+  }
+}
+
+
+// Main custom
+
+main {
+	background-color: @main-bg;
+}
+
+
+// Container reset
+
+.container {
+  padding-right: 0;
+  padding-left: 0;
+  @media (max-width: @screen-xs-max) {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+  @media (min-width: @screen-sm-min) and (max-width: 979px) {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  @media (min-width: @screen-lg-min) {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}

@@ -1,0 +1,262 @@
+/*===================================================================================*/
+/*  IMPORTS
+/*===================================================================================*/
+
+
+//
+// Variables
+// --------------------------------------------------
+
+@import "includes/bootstrap-variables.less";
+@import "includes/reen-variables.less";
+
+
+//
+// Less files
+// --------------------------------------------------
+
+@import "../bower_components/reen/less/mixins.less";
+@import "../bower_components/reen/less/scaffolding.less";
+@import "../bower_components/reen/less/type.less";
+@import "../bower_components/reen/less/hero.less";
+@import "../bower_components/reen/less/post-title.less";
+@import "../bower_components/reen/less/inner-outer-height.less";
+//@import "../bower_components/reen/less/dropcap.less";
+//@import "../bower_components/reen/less/blockquote.less";
+@import "../bower_components/reen/less/map.less";
+@import "../bower_components/reen/less/figure.less";
+//@import "../bower_components/reen/less/member.less";
+@import "../bower_components/reen/less/background-images.less";
+//@import "../bower_components/reen/less/screen-container.less";
+//@import "../bower_components/reen/less/sidelines.less";
+//@import "../bower_components/reen/less/video-container.less";
+@import "../bower_components/reen/less/background-colors.less";
+//@import "../bower_components/reen/less/text-colors.less";
+@import "../bower_components/reen/less/icon.less";
+//@import "../bower_components/reen/less/tagcloud.less";
+@import "../bower_components/reen/less/footer.less";
+//@import "../bower_components/reen/less/meta-more.less";
+//@import "../bower_components/reen/less/borders.less";
+@import "../bower_components/reen/less/reset-space.less";
+//@import "../bower_components/reen/less/aside.less";
+//@import "../bower_components/reen/less/thumbs-gap.less";
+//@import "../bower_components/reen/less/header.less";
+//@import "../bower_components/reen/less/mega-menu.less";
+@import "../bower_components/reen/less/buttons.less";
+//@import "../bower_components/reen/less/social-icons.less";
+//@import "../bower_components/reen/less/tabs-on-side.less";
+//@import "../bower_components/reen/less/tabs-on-top.less";
+@import "../bower_components/reen/less/tabs-circled-on-top.less";
+//@import "../bower_components/reen/less/tabs-2-big-top.less";
+//@import "../bower_components/reen/less/testimonials-quotes.less";
+//@import "../bower_components/reen/less/accordion-toggle.less";
+@import "../bower_components/reen/less/portfolio.less";
+//@import "../bower_components/reen/less/overlay.less";
+//@import "../bower_components/reen/less/owl-carousel.less";
+//@import "../bower_components/reen/less/pricing-tables.less";
+//@import "../bower_components/reen/less/forms.less";
+@import "../bower_components/reen/less/blog.less";
+//@import "../bower_components/reen/less/author.less";
+//@import "../bower_components/reen/less/sidebar.less";
+//@import "../bower_components/reen/less/tooltips.less";
+//@import "../bower_components/reen/less/pagination.less";
+//@import "../bower_components/reen/less/comments.less";
+//@import "../bower_components/reen/less/go-to-top-scroll-up.less";
+@import "../bower_components/reen/less/features-styles.less";
+//@import "../bower_components/reen/less/responsive.less";
+//@import "../bower_components/reen/less/skrollr-animations";
+@import "../bower_components/reen/less/brand-primary.less";
+@import "../bower_components/reen/fonts/fontello.less";
+
+//
+// CSS Libraries (revisar)
+// --------------------------------------------------
+
+//@import "../bower_components/reen/css/owl.carousel.css";
+@import "../bower_components/reen/css/owl.transitions.css";
+@import "../bower_components/reen/css/animate.min.css";
+
+
+
+
+/*===================================================================================*/
+/*  OWN STYLES : EXAMPLES
+/*===================================================================================*/
+
+
+//
+// Scaffolding
+// --------------------------------------------------
+
+
+// Links
+
+a {
+    color: inherit;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+a:hover,
+a:focus {
+    color: @link-color;
+    text-decoration: none;
+}
+
+
+// Horizontal rules
+
+hr {
+  margin-top:    @line-height-computed * 3;
+  margin-bottom: @line-height-computed * 3;
+}
+
+
+//
+// Typography
+// --------------------------------------------------
+
+
+// Headings
+// -------------------------
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  letter-spacing: 0.025em;
+  margin-top: 0;
+}
+
+h1, h2, h3, h4,
+.h1, .h2, .h3, .h4 {
+  @media (max-width: @screen-xs-max) {
+    letter-spacing: .0125em;
+  }
+}
+
+
+h1, .h1 {
+  line-height: 1.2;
+  margin-bottom: 25px;
+  @media (max-width: @screen-xs-max) {
+    font-size: 33px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+  }
+}
+
+h2, .h2 {
+  line-height: 1.3;
+  margin-bottom: 20px;
+}
+
+h3, .h3 {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+h4, .h4 {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+h5, .h5 {
+  line-height: 1.6%;
+  margin-bottom: 13px;
+}
+
+h6, .h6 {
+  line-height: 1.6%;
+  margin-bottom: 10px;
+}
+
+
+// Body text
+// -------------------------
+
+p {
+	margin-bottom: @line-height-computed;
+}
+
+p a {
+	border-bottom: 1px solid @text-color;
+}
+
+p a:hover {
+	border-color: transparent;
+}
+
+
+// Lists
+// --------------------------------------------------
+
+// Unordered and Ordered lists
+
+ol {
+	position: relative;
+	padding-left: 22px;
+}
+ul {
+  list-style: none;
+	position: relative;
+	padding-left: 22px;
+}
+ol li {
+	margin-bottom: 5px;
+}
+
+
+//
+// Utility classes
+// --------------------------------------------------
+
+// Floats
+// -------------------------
+
+.center-block {
+	float: none;
+}
+
+
+/*===================================================================================*/
+/*  OWN STYLES
+/*===================================================================================*/
+
+
+.ribbon{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border-radius: 100000px;
+  display: table;
+  .wrapper{
+    display: table-cell;
+    vertical-align: middle;
+  }
+  span{
+    display: block;
+  }
+  strong{
+    font-size: @font-size-large;
+  }
+}
+
+#hero{
+  background-image: url(http://lorempixel.com/g/1920/1280/abstract/9/);
+}
+
+
+#financing{
+  .ribbon{
+    position: absolute;
+    top: 0;
+    right: -200px;
+  }
+  .classic-blog .post .date{
+    width: 100px;
+    height: 100px;
+  }
+  .sidemeta .date-wrapper{
+    left: -115px;
+  } 
+}

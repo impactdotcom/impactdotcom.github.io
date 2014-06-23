@@ -1,0 +1,138 @@
+//
+// Typography
+// --------------------------------------------------
+
+
+// Headers
+// -------------------------
+
+header p {
+	font-size: @font-size-large;
+	@media (max-width: @screen-xs-max) {
+		font-size: 20px;
+	}
+}
+
+
+// Headings
+// -------------------------
+
+p + h2,
+p + h3 {
+	padding-top: 15px;
+}
+
+
+// Emphasis & misc
+// -------------------------
+
+.text-small {
+	font-size: @font-size-small;
+	line-height: 1.6;
+}
+
+.text-normal {
+	font-size: inherit;
+	line-height: inherit;
+}
+
+h2 + .text-small {
+	margin-top: -5px;
+}
+
+header h2 + .text-small {
+	margin-top: 0;
+}
+
+
+// Lists
+// --------------------------------------------------
+
+
+// Arrow & Circle items list
+
+.arrowed,
+.circled{
+	li{
+		margin-bottom: 5px;
+	}
+}
+
+.arrowed{
+	li{
+		&:before {
+		  content: '\2192';
+		  font-weight: normal;
+		  color: @brand-primary;
+		  margin-top: -1px;
+			margin-left: -23px;
+		  vertical-align: top;
+			position: absolute;
+		}
+	}
+}
+
+.circled{
+	li{
+		&:before {
+			font-family: 'fontello-circle';
+			content: '\e800';
+			font-size: 8px;
+			font-weight: normal;
+			color: @brand-primary;
+			padding-top: 7px;
+			margin-left: -20px;
+			vertical-align: top;
+			position: absolute;
+		}
+	}
+}
+
+
+// Contacts items list
+
+.contacts {
+  padding-left: 0;
+	li {
+    margin-bottom: 5px;
+  }
+}
+
+footer{
+	.contacts{
+		li {
+    	margin-bottom: 2px;
+    }
+  }
+}
+
+
+// Social network list
+
+.social-network {
+    position: relative;
+    z-index: 0;
+    padding-top: 25px;
+}
+
+.social-network{
+	.social{
+		li {
+    	display: table-cell;
+    }
+  }
+}
+
+.social-network {
+	.social {
+		li {
+			a {
+				i {
+			    width: 55px;
+			    height: 80px;
+			    font-size: 20px;
+			  }
+			}
+		}
+	}	
+}

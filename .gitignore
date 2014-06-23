@@ -1,0 +1,5 @@
+node_modules
+.tmp
+.jekyll
+*/.idea
+_site

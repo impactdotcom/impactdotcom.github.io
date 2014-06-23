@@ -1,0 +1,41 @@
+blockquote {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+blockquote p {
+    font-size: 22px;
+    line-height: 160%;
+	font-style: italic;
+}
+blockquote footer,
+blockquote small,
+blockquote .small {
+	color: @dark-color;
+	font-size: 14px;
+	line-height: 150%;
+	font-weight: 700;
+}
+blockquote footer:before,
+blockquote small:before,
+blockquote .small:before,
+blockquote footer:after,
+blockquote small:after,
+blockquote .small:after {
+	content: '';
+	display: inline-block;
+	width: 20px;
+	height: 1px;
+	background-color: @dark-color;
+	margin-bottom: .28em;
+}
+blockquote footer:before,
+blockquote small:before,
+blockquote .small:before {
+	margin-right: 10px;
+}
+blockquote footer:after,
+blockquote small:after,
+blockquote .small:after {
+	margin-left: 10px;
+}
