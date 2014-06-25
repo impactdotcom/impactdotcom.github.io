@@ -17,10 +17,10 @@
 //@gray:           bootstrap-variables.less
 
 //## Background colors
-@light-bg:         				#f4f4f4;
-@dark-bg:          				#404040;
-@medium-color:    				#b1b1b1;
-@dark-color: 							#6a6a6a;
+@light-bg:         				#222;
+@dark-bg:          				#111111;
+@medium-color:    				darken(#fff, 50%);
+@dark-color: 							darken(#fff, 75%);
 
 
 //== Scaffolding
@@ -28,7 +28,7 @@
 // ## Settings for some of the most global styles.
 
 //** Background color for `<main>`.
-@main-bg:               #fff;
+@main-bg:               #333;
 
 
 //== Inner
@@ -78,3 +78,15 @@
 @inner-md-mobile:       65px;
 @inner-sm-mobile:       50px;
 @inner-xs-mobile:       @inner-xs;
+
+//== Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+@font-size-h1-xs-max:   		33px;
+@font-size-hero-h1:     		200px;
+@font-size-hero-h1-xs-max: 	38px;
+
+
+@footer-color: 							@medium-color;
+@footer-bottom-background: 	@dark-bg;
+@footer-bottom-color: 			@medium-color;

@@ -9,9 +9,7 @@
 footer {
 	font-size: @font-size-small;
 	line-height: @line-height-base;
-	&.dark-bg {
-	   color: @medium-color;
-	}
+	color: @footer-color;
 	.inner {
 		padding-top: 45px;
 		padding-bottom: 35px;
@@ -84,8 +82,8 @@ footer {
 // -------------------------
 
 .footer-bottom {
-  background: #283645;
-	color: #707E8C;
+  background: @footer-bottom-background;
+	color: @footer-bottom-color;
 	&.container{
 		&.inner {
 	  	padding-top: 30px;
