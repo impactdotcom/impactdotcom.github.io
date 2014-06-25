@@ -1,62 +1,113 @@
+//
+// Footer
+// --------------------------------------------------
+
+
+// Footer
+// -------------------------
+
 footer {
 	font-size: @font-size-small;
 	line-height: @line-height-base;
+	&.dark-bg {
+	   color: @medium-color;
+	}
+	.inner {
+		padding-top: 45px;
+		padding-bottom: 35px;
+		@media (max-width: @screen-xs-max) {
+			padding-top: 35px;
+      padding-bottom: 25px;
+		}
+	}
+	.container{
+		> .row {
+			margin-left: -25px;
+			margin-right: -25px;
+			@media (max-width: @screen-xs-max) {
+				margin-left: -20px;
+        margin-right: -20px;
+			}
+		}
+	}
+	.row{
+		.inner {
+			padding: 25px;
+			@media (max-width: @screen-xs-max) {
+				padding-left: 20px;
+        padding-right: 20px;
+			}
+		}
+	}
+	.logo {
+		height: auto;
+		max-height: 100%;
+	}
+	h4 {
+		text-transform: uppercase;
+		margin-bottom: 20px;
+	}
+	p {
+		margin-bottom: 15px;
+	}
 }
-footer.dark-bg {
-    color: @medium-color;
-}
-footer .inner {
-	padding-top: 45px;
-	padding-bottom: 35px;
-}
-footer .container > .row {
-	margin-left: -25px;
-	margin-right: -25px;
-}
-footer .row .inner {
-	padding: 25px;
-}
-footer .logo {
-	height: auto;
-	max-height: 100%;
-}
-footer h4 {
-	text-transform: uppercase;
-	margin-bottom: 20px;
-}
-footer p {
-	margin-bottom: 15px;
-}
+
+
+// Footer menu
+// -------------------------
+
 .footer-menu {
-    padding: 0;
-    margin: 0;
-    list-style: none;
-}
-.footer-menu li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  li {
     display: inline;
     padding-left: 10px;
-}
-.footer-menu li:before {
+    @media (max-width: @screen-xs-max) {
+    	 padding: 0 5px;
+    }
+	}
+	&:before {
     display: inline-block;
     content: "·";
     padding-right: 12px;
+	}
+	&:first-child{
+		&:before {
+	    display: none;
+	  }
+	}
 }
-.footer-menu li:first-child:before {
-    display: none;
-}
+
+
+// Footer bottom
+// -------------------------
+
 .footer-bottom {
-  //background: #283645;
-	//color: #707E8C;
-}
-.footer-bottom .container.inner {
-  padding-top: 30px;
-	padding-bottom: 30px;
-}
-.footer-bottom p,
-.footer-bottom a {
-	color: @text-color;
-}
-.footer-bottom p {
+  background: #283645;
+	color: #707E8C;
+	&.container{
+		&.inner {
+	  	padding-top: 30px;
+			padding-bottom: 30px;
+		}
+	}
+	p,
+	a {
+		color: @text-color;
+	}
+	p {
     padding: 0;
     margin: 0;
+    @media (max-width: @screen-xs-max) {
+    	margin-bottom: 20px;
+    }
+	}
+	p.pull-left,
+	ul.pull-right{
+		@media (max-width: @screen-xs-max) {
+			float: none !important;
+      text-align: center;
+		}
+	}
 }

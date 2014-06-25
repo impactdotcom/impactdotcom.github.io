@@ -1,40 +1,88 @@
+//
+// Reset space
+// --------------------------------------------------
+
+
+// Last parragraphs
+// -------------------------
+
 .last-bottom {
     padding-bottom: 0 !important;
     margin-bottom: 0 !important;
+    @media (max-width: @screen-xs-max) {
+        padding-bottom: 20px !important;
+    }
+    + .last-bottom {
+        @media (max-width: @screen-xs-max) {
+            padding-bottom: 0 !important;
+        }   
+    }
 }
+
 .last-right {
     padding-right: 0 !important;
     margin-right: 0 !important;
 }
+
+
+// Reset margins & paddings
+// -------------------------
+
 .reset-margin {
     margin: 0;
 }
+
 .reset-margin-left {
     margin-left: 0;
 }
+
 .reset-margin-right {
     margin-right: 0;
 }
+
 .reset-padding {
     padding: 0;
 }
+
 .reset-padding-left {
     padding-left: 0;
 }
+
 .reset-padding-right {
     padding-right: 0;
 }
+
+
+// Single block
+// -------------------------
+
 .single-block {
     padding: 0;
     border: 0;
     margin: 0;
 }
-h1 + .single-line,
-h2 + .single-line,
-h3 + .single-line,
-h4 + .single-line {
-    margin-top: -.5em;
+
+h1,
+h2,
+h3,
+h4{
+    + .single-line {
+        margin-top: -.5em;
+    }
 }
+h1.single-block{
+    .btn {
+        @media (max-width: @screen-xs-max) {
+            margin-left: 0;
+        }
+    }
+}
+
+
+
+// Image in text
+// -------------------------
+
 .img-intext {
     margin-bottom: 20px;
 }

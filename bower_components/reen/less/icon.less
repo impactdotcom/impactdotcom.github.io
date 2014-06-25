@@ -1,3 +1,11 @@
+//
+// Icons
+// --------------------------------------------------
+
+
+// General
+// -------------------------
+
 .icon {
     display: inline-block;
 	margin-bottom: 20px;
@@ -5,40 +13,50 @@
        -moz-transition: all 200ms ease-out;
          -o-transition: all 200ms ease-out;
             transition: all 200ms ease-out;
+    &.circle {
+        padding: 30px;
+        border: 1px solid #1ABB9C;
+        border-radius: 50%;
+        &.xs {
+            padding: 15px;
+        }
+        &.sm {
+            padding: 20px;
+        }
+        &.lg {
+            padding: 35px;
+        }
+    }
+    &.pull-right {
+        @media (max-width: @screen-xs-max) {
+            margin-left: 10px;
+        }
+    }
+    i.icn {
+        display: block;
+        color: #1ABB9C;
+        font-size: 65px;
+        line-height: 100%;
+        -webkit-transition: all 200ms ease-out;
+           -moz-transition: all 200ms ease-out;
+             -o-transition: all 200ms ease-out;
+                transition: all 200ms ease-out;
+        &.xs {
+            font-size: 20px;
+        }
+        &.sm {
+            font-size: 35px;
+        }
+        &.lg {
+            font-size: 85px;
+        }
+    }
 }
-.icon.circle {
-	padding: 30px;
-	border: 1px solid #1ABB9C;
-	border-radius: 50%;
-}
-.icon.circle.xs {
-	padding: 15px;
-}
-.icon.circle.sm {
-	padding: 20px;
-}
-.icon.circle.lg {
-	padding: 35px;
-}
-.icon i.icn {
-    display: block;
-    color: #1ABB9C;
-    font-size: 65px;
-    line-height: 100%;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
-}
-.icon i.icn.xs {
-	font-size: 20px;
-}
-.icon i.icn.sm {
-	font-size: 35px;
-}
-.icon i.icn.lg {
-	font-size: 85px;
-}
+
+
+// Contact
+// -------------------------
+
 i.contact {
     margin-right: 5px;
     width: auto;

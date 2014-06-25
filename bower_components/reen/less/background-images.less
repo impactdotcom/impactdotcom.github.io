@@ -1,50 +1,80 @@
+//
+// Background images
+// --------------------------------------------------
+
+
+// Aligment
+// -------------------------
+
 .img-bg,
 .img-bg-center {
     background-position: center !important;
     background-size: cover;
 }
+
 .img-bg-top {
     background-position: top !important;
     background-size: cover;
 }
+
 .img-bg-bottom {
     background-position: bottom !important;
     background-size: cover;
 }
+
+
+
+// Soft & Softer
+// -------------------------
+
 .img-bg-soft,
 .img-bg-softer {
     background-position: center;
     position: relative;
+    &:before{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
 }
-.img-bg-soft:before,
-.img-bg-softer:before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+
+
+// Soft
+// -------------------------
+
 .light-bg.img-bg-soft:before {
     background-color: @light-bg;
     opacity: .66;
 }
+
 .dark-bg.img-bg-soft:before {
     background-color: @dark-bg;
     opacity: .57;
 }
+
 .tint-bg.img-bg-soft:before {
     background-color: @brand-primary;
     opacity: .84;
 }
+
+
+
+// Softer
+// -------------------------
+
 .light-bg.img-bg-softer:before {
     background-color: @light-bg;
     opacity: .95;
 }
+
 .dark-bg.img-bg-softer:before {
     background-color: @dark-bg;
     opacity: .97;
 }
+
 .tint-bg.img-bg-softer:before {
     background-color: @brand-primary;
     opacity: .96;

@@ -1,42 +1,262 @@
-/*
-Bootstrap 3.1.1.
-*/
-
-@import "bootstrap/variables.less";
+/*===================================================================================*/
+/*  IMPORTS
+/*===================================================================================*/
 
 
-/*
-Template: 		REEN – Made for Designers
-Description: 	Creative Portfolio Bootstrap 3 Template
-Version: 		1.0.1
-Author: 		fuviz
-Demo URI: 		http://demo.fuviz.com/reen
-*/
+//
+// Variables
+// --------------------------------------------------
 
-@import "reen/inner-outer.less";
-@import "reen/header.less";
-@import "reen/mega-menu.less";
-@import "reen/buttons.less";
-@import "reen/social-icons.less";
-@import "reen/tabs-on-side.less";
-@import "reen/tabs-on-top.less";
-@import "reen/tabs-circled-on-top.less";
-@import "reen/tabs-2-big-top.less";
-@import "reen/testimonials-quotes.less";
-@import "reen/accordion-toggle.less";
-@import "reen/portfolio.less";
-@import "reen/overlay.less";
-@import "reen/owl-carousel.less";
-@import "reen/pricing-tables.less";
-@import "reen/forms.less";
-@import "reen/blog.less";
-@import "reen/author.less";
-@import "reen/sidebar.less";
-@import "reen/tooltips.less";
-@import "reen/pagination.less";
-@import "reen/comments.less";
-@import "reen/go-to-top-scroll-up.less";
-@import "reen/features-styles.less";
-@import "reen/responsive.less";
-@import "reen/demo-only.less";
-@import "reen/skrollr-animations";
+@import "../../../_less/includes/bootstrap-variables.less";
+@import "../../../_less/includes/reen-variables.less";
+
+
+//
+// Less files
+// --------------------------------------------------
+
+@import "mixins.less";
+@import "scaffolding.less";
+@import "type.less";
+@import "hero.less";
+@import "inner-outer-height.less";
+@import "dropcap.less";
+@import "blockquote.less";
+@import "embedded-content.less";
+@import "figure.less";
+@import "member.less";
+@import "background-images.less";
+@import "screen-container.less";
+@import "sidelines.less";
+@import "video-container.less";
+@import "background-colors.less";
+@import "text-colors.less";
+@import "icon.less";
+@import "tagcloud.less";
+@import "footer.less";
+@import "meta-more.less";
+@import "borders.less";
+@import "reset-space.less";
+@import "aside.less";
+@import "thumbs-gap.less";
+@import "header.less";
+@import "mega-menu.less";
+@import "buttons.less";
+@import "social-icons.less";
+@import "tabs-on-side.less";
+@import "tabs-on-top.less";
+@import "tabs-circled-on-top.less";
+@import "tabs-2-big-top.less";
+@import "testimonials-quotes.less";
+@import "accordion-toggle.less";
+@import "portfolio.less";
+@import "overlay.less";
+@import "owl-carousel.less";
+@import "pricing-tables.less";
+@import "forms.less";
+@import "blog.less";
+@import "author.less";
+@import "sidebar.less";
+@import "tooltips.less";
+@import "pagination.less";
+@import "comments.less";
+@import "go-to-top-scroll-up.less";
+@import "features-styles.less";
+@import "team.less";
+@import "responsive.less";
+@import "skrollr-animations";
+@import "brand-primary.less";
+@import "../fonts/fontello.less";
+
+//
+// CSS Libraries (revisar)
+// --------------------------------------------------
+
+@import "../css/owl.carousel.css";
+@import "../css/owl.transitions.css";
+@import "../css/animate.min.css";
+
+
+
+
+/*===================================================================================*/
+/*  OWN STYLES : EXAMPLES
+/*===================================================================================*/
+
+
+//
+// Scaffolding
+// --------------------------------------------------
+
+
+// Links
+
+a {
+    color: inherit;
+    -webkit-transition: all 200ms ease-out;
+       -moz-transition: all 200ms ease-out;
+         -o-transition: all 200ms ease-out;
+            transition: all 200ms ease-out;
+}
+a:hover,
+a:focus {
+    color: @link-color;
+    text-decoration: none;
+}
+
+
+// Horizontal rules
+
+hr {
+  margin-top:    @line-height-computed * 3;
+  margin-bottom: @line-height-computed * 3;
+}
+
+
+//
+// Typography
+// --------------------------------------------------
+
+
+// Headings
+// -------------------------
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  letter-spacing: 0.025em;
+  margin-top: 0;
+}
+
+h1, h2, h3, h4,
+.h1, .h2, .h3, .h4 {
+  @media (max-width: @screen-xs-max) {
+    letter-spacing: .0125em;
+  }
+}
+
+
+h1, .h1 {
+  line-height: 1.2;
+  margin-bottom: 25px;
+  @media (max-width: @screen-xs-max) {
+    font-size: 33px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+  }
+}
+
+h2, .h2 {
+  line-height: 1.3;
+  margin-bottom: 20px;
+}
+
+h3, .h3 {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+h4, .h4 {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+h5, .h5 {
+  line-height: 1.6%;
+  margin-bottom: 13px;
+}
+
+h6, .h6 {
+  line-height: 1.6%;
+  margin-bottom: 10px;
+}
+
+
+// Body text
+// -------------------------
+
+p {
+	margin-bottom: @line-height-computed;
+}
+
+p a {
+	border-bottom: 1px solid @text-color;
+}
+
+p a:hover {
+	border-color: transparent;
+}
+
+
+// Lists
+// --------------------------------------------------
+
+// Unordered and Ordered lists
+
+ol {
+	position: relative;
+	padding-left: 22px;
+}
+ul {
+  list-style: none;
+	position: relative;
+	padding-left: 22px;
+}
+ol li {
+	margin-bottom: 5px;
+}
+
+
+//
+// Utility classes
+// --------------------------------------------------
+
+// Floats
+// -------------------------
+
+.center-block {
+	float: none;
+}
+
+
+/*===================================================================================*/
+/*  OWN STYLES
+/*===================================================================================*/
+
+
+.ribbon{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border-radius: 100000px;
+  display: table;
+  .wrapper{
+    display: table-cell;
+    vertical-align: middle;
+  }
+  span{
+    display: block;
+  }
+  strong{
+    font-size: @font-size-large;
+  }
+}
+
+#hero{
+  background-image: url(http://lorempixel.com/g/1920/1280/abstract/9/);
+}
+
+
+#financing{
+  .ribbon{
+    position: absolute;
+    top: 0;
+    right: -200px;
+  }
+  .classic-blog .post .date{
+    width: 100px;
+    height: 100px;
+  }
+  .sidemeta .date-wrapper{
+    left: -115px;
+  } 
+}

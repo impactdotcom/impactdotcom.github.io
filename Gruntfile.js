@@ -18,7 +18,7 @@ module.exports = function(grunt) {
           src: ['*.less','!includes/**/*'],
           dest: 'css',
           ext: '.min.css'
-        }]  
+        }]   
       }
     }
   });

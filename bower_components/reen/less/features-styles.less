@@ -1,44 +1,130 @@
+//
+// Featured styles
+// --------------------------------------------------
+
+
+// Font icons
+// -------------------------
+
 .font-icons {
     list-style: none;
     margin: 0;
     padding: 0;
+    li {
+        display: inline-block;
+        font-size: 25px;
+        margin-bottom: 10px;
+        padding: 0 10px;
+    }
 }
-.font-icons li {
-    display: inline-block;
-    font-size: 25px;
-    margin-bottom: 10px;
-    padding: 0 10px;
+
+
+// Alert
+// -------------------------
+
+.alert{
+    .close {
+        line-height: 28px;
+    }
 }
-.alert .close {
-    line-height: 28px;
+
+
+// Retina icons
+// -------------------------
+
+.retina-icons-code{
+    i {
+        font-size: 18px;
+        @media (max-width: @screen-xs-max) {
+            font-size: 14px;
+        }
+    }
+    tr{
+        td,
+        th{
+            &:first-child {
+                text-align: center;
+                @media (max-width: @screen-xs-max) {
+                    max-width: 30px;
+                }
+            }
+        }
+    }
+    code {
+        color: #73879C;
+        background: none;
+        @media (max-width: @screen-sm-max) {
+            font-size: 11.5px;
+        }
+        @media (max-width: @screen-xs-max) {
+            font-size: 10px;
+        }
+    }
 }
-.retina-icons-code i {
-    font-size: 18px;
-}
-.retina-icons-code tr td:first-child,
-.retina-icons-code tr th:first-child {
-    text-align: center;
-}
-.retina-icons-code code {
-    color: #73879C;
-    background: none;
-}
+
+
+// Tables
+// -------------------------
+
 .table-bordered {
     border: 1px solid #E6E9ED;
     border-left: none;
     background: #FFF;
+    th,
+    td {
+        border-left: 1px solid #E6E9ED;
+    }
+    > thead,
+    > tbody,
+    > tfoot{
+        > tr{
+            th,
+            td{
+                border-color: #E6E9ED;    
+            }
+        }
+    }
 }
-.table-bordered th,
-.table-bordered td {
-    border-left: 1px solid #E6E9ED;
+
+.table{
+    th,
+    td {
+        border-top: 1px solid #E6E9ED;
+    }
+    > thead,
+    > tbody,
+    > tfoot{
+        > tr{
+            th,
+            td{
+                @media (max-width: @screen-xs-max) {
+                    line-height: 100%;
+                    padding-left: 4px;
+                    padding-right: 4px;
+                }
+            }
+        }
+    }
+    > thead{
+        > tr{
+            th{
+                @media (max-width: @screen-xs-max) {
+                    font-size: 11px;
+                }
+            }
+        }
+    }
 }
-.table th,
-.table td {
-    border-top: 1px solid #E6E9ED;
-}
-.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
-    background-color: #F5F7FA;
-}
-.table-bordered > thead > tr > th, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > tbody > tr > td, .table-bordered > tfoot > tr > td {
-    border-color: #E6E9ED;
+
+.table-striped{
+    > tbody{
+        > tr{
+            &:nth-child(2n+1){
+                > td,
+                > th {
+                    background-color: #F5F7FA;
+                }
+            }
+        }
+    }
 }
