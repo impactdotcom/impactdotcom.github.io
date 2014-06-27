@@ -1,14 +1,31 @@
-.tabs-top .etabs {
-    padding: 0;
-    margin: 0;
+.tabs-top{
+    &.left{
+        .tab {
+            @media (min-width: @screen-sm-min) and (max-width: 979px) {
+                margin-right: 2px;
+            }
+            a {
+                @media (min-width: @screen-sm-min) and (max-width: 979px) {
+                    padding: 5px 10px;
+                }
+            }
+        }
+    }
+    .etabs {
+        padding: 0;
+        margin: 0;
+    }
 }
 .tabs-top .etabs:after {
     content: '';
     display: block;
     position: relative;
     z-index: 1;
-    border-top: 1px solid #CED7E0;
+    border-top: 1px solid @border-color;
     margin-top: -1px;
+    @media (max-width: @screen-xs-max) {
+        display: none;
+    }
 }
 .tabs-top .tab {
     display: inline-block;
@@ -16,6 +33,28 @@
     z-index: 0;
     max-width: 40%;
     margin: 0 3px;
+    @media (max-width: @screen-xs-max) {
+        display: block;
+        max-width: 100%;
+        margin: 0;
+    }
+    &:first-child{
+        a{
+            @media (max-width: @screen-xs-max) {
+                border-top-left-radius: 3px;
+                border-top-right-radius: 3px;
+            }
+        }
+    }
+    &:last-child{
+        a{
+            @media (max-width: @screen-xs-max) {
+                border-bottom: 1px solid #E6E9ED;
+                border-bottom-left-radius: 3px;
+                border-bottom-right-radius: 3px;
+            }
+        }
+    }
 }
 .tabs-top .tab a {
     display: inline-block;
@@ -32,6 +71,11 @@
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
     overflow: hidden;
+    @media (max-width: @screen-xs-max) {
+        display: block;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+    }
 }
 .tabs-top .tab a div {
     font-family: 'Lato', sans-serif;
@@ -41,17 +85,27 @@
     margin: -10px 0 5px;
 }
 .tabs-top .tab a:hover {
-    background: #1ABB9C;
+    background: @brand-primary;
     color: #FFF;
-    border-color: #1ABB9C;
+    border-color: @brand-primary;
 }
 .tabs-top .tab.active {
     z-index: 2;
+    + .tab a{
+        @media (max-width: @screen-xs-max) {
+            border-top-color: @border-color;
+        }
+        &:hover{
+            @media (max-width: @screen-xs-max) {
+                border-top-color: @brand-primary;
+            }
+        }
+    }
 }
 .tabs-top .tab.active a {
     background: #FFF !important;
-    color: #1ABB9C;
-    border-color: #CED7E0 !important;
+    color: @brand-primary;
+    border-color: @border-color !important;
 }
 .tabs-top.tab-container .panel-container {
     margin-top: 70px;

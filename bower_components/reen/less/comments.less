@@ -20,12 +20,25 @@
 }
 #comments .commentlist .children {
     padding-left: 80px;
+    @media (max-width: @screen-xs-max) {
+        padding-left: 0;    
+    }
 }
 #comments .commentlist .children .comment {
     padding-top: 40px;
 }
+#comments ul.children {
+    @media (max-width: @screen-xs-max) {
+        padding: 0 0 0 20px;    
+    }    
+}
 #comments .avatar {
     float: left;
+    @media (max-width: @screen-xs-max) {
+        float: none;
+        display: inline-block;
+        margin-bottom: 15px;    
+    }
 }
 #comments .avatar span {
     border-radius: 50%;
@@ -38,6 +51,9 @@
 #comments .commentbody {
     padding-left: 22px;
     overflow: hidden;
+    @media (max-width: @screen-xs-max) {
+        padding-left: 0;    
+    }
 }
 #comments .author {
     margin-bottom: 15px;
@@ -83,4 +99,9 @@
 }
 .blog.no-sidebar #comments .meta {
     text-align: left
+}
+#comments .arrow-box {
+    @media (max-width: @screen-xs-max) {
+        margin-left: 0;
+    }
 }

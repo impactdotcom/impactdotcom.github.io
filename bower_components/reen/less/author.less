@@ -17,9 +17,17 @@
     border-bottom-width: 2px;
     border-radius: 3px;
     margin-bottom: 40px;
+    @media (max-width: @screen-xs-max) {
+        padding: 30px;    
+    }
 }
 .post-author .author-image {
     float: left;
+    @media (max-width: @screen-xs-max) {
+        float: none;
+        display: inline-block;
+        margin-bottom: 20px;    
+    }
 }
 .post-author .author-image img {
     width: 120px;
@@ -31,6 +39,9 @@
     padding-left: 30px;
     z-index: 0;
     overflow: hidden;
+    @media (max-width: @screen-xs-max) {
+        padding-left: 0;    
+    }
 }
 .post-author .author-details p a {
     font-weight: 700;

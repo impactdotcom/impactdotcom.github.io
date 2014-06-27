@@ -25,7 +25,6 @@
     color: #FFF !important;
     background: @brand-primary;
     padding: 11px 20px 13px;
-    margin: 15px 0;
     font-family: @font-family-base;
     font-weight: 700;
     font-size: 14px;
@@ -34,9 +33,7 @@
     -webkit-font-smoothing: antialiased;
     border: none;
     text-transform: uppercase;
-    -webkit-transition: all 200ms ease-out;
-    -o-transition: all 200ms ease-out;
-    -moz-transition: all 200ms ease-out;
+    .transition(all 200ms ease-out);
     -webkit-border-radius: 3px;
     border-radius: 3px;
     -webkit-box-shadow: inset 0 -2px 0 rgba(0,0,0,0.15);
@@ -48,9 +45,7 @@
     &.active {
         background: darken(@brand-primary, 10%);
         color: #FFF !important;
-        -webkit-transition: all 200ms ease-out;
-        -o-transition: all 200ms ease-out;
-        -moz-transition: all 200ms ease-out;
+        .transition(all 200ms ease-out);
         -webkit-box-shadow: inset 0 -2px 0 rgba(0,0,0,0.15);
         -moz-box-shadow: inset 0 -2px 0 rgba(0,0,0,0.15);
         box-shadow: inset 0 -2px 0 rgba(0,0,0,0.15);
@@ -166,7 +161,7 @@
 .tint-bg{
     .btn {
         background: #FFF !important;
-        color: #1ABB9C !important;
+        color: @brand-primary !important;
         &:hover {
             background: #E9E9E9 !important;
             color: @dark-color !important;
@@ -222,10 +217,7 @@
             z-index: -1;
             width: 100%;
             height: 100%;
-            -webkit-transition: all 200ms ease-out;
-               -moz-transition: all 200ms ease-out;
-                 -o-transition: all 200ms ease-out;
-                    transition: all 200ms ease-out;
+            .transition(all 200ms ease-out);
         }
     }
     p {
@@ -314,10 +306,7 @@ p{
     &:after {
         content: '\2192';
         margin-left: 7px;
-        -webkit-transition: all 200ms ease-out;
-           -moz-transition: all 200ms ease-out;
-             -o-transition: all 200ms ease-out;
-                transition: all 200ms ease-out;
+        .transition(all 200ms ease-out);
     }
     &:hover{
         &:after {

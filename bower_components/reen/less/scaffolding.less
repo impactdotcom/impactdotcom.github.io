@@ -3,6 +3,48 @@
 // --------------------------------------------------
 
 
+// Grid
+
+@media (max-width: @screen-sm-max) {
+    [class*="col-md"][class*="inner-left"],
+    [class*="col-md"][class*="inner-right"] {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    [class*="col-md"][class*="border-left"] {
+        border-left: none;
+    }
+    
+    [class*="col-md"][class*="border-right"] {
+        border-right: none;
+    }     
+}
+
+@media (max-width: @screen-xs-max) {    
+    .row{
+        overflow: hidden;
+    }
+    [class*="col"] > figcaption:first-child {
+        padding-top: 20px;
+    }
+    [class*="col"][class*="border-left"] {
+        border-left: none;
+    }
+    [class*="col"][class*="border-right"] {
+        border-right: none;
+    }
+    [class*="col"][class*="inner-left"],
+    [class*="col"][class*="inner-right"],
+    [class*="col"][class*="reset-padding"] {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    [class*="inner-top"].reset-xs {
+        padding-top: 0 !important;
+    } 
+}
+
 // :focus
 
 :focus {
@@ -26,6 +68,13 @@ figure img {
 
 img[src*=".svg"] {
 	height: 100%; 
+}
+
+img {
+  @media (max-width: @screen-xs-max) {  
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 
@@ -61,6 +110,13 @@ body {
   @media (max-width: @screen-xs-max) {
     height: 100vh;
   }
+}
+
+
+// Links
+
+a {  
+  .transition(all 200ms ease-out);
 }
 
 

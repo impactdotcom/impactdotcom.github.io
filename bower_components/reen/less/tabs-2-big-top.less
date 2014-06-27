@@ -11,10 +11,16 @@
     border-bottom: 2px solid transparent;
     border-radius: 3px;
     margin: 0 15px;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
+    .transition(all 200ms ease-out);
+    @media (max-width: @screen-xs-max) {
+        width: 100%;
+        margin: 0 0 50px 0;    
+    }
+    a{
+        @media (max-width: @screen-xs-max) {
+            padding: 25px;    
+        }    
+    }
 }
 .tabs-2-big-top .tab:before, .tabs-2-big-top .tab:after {
     content: '';
@@ -25,10 +31,7 @@
     width: 0;
     border: solid transparent;
     pointer-events: none;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
+    .transition(all 200ms ease-out);
 }
 .tabs-2-big-top .tab:before {
     border-width: 23px;
@@ -75,6 +78,9 @@
     position: relative;
     margin-top: 80px;
     z-index: 1;
+    @media (max-width: @screen-xs-max) {
+        margin-top: 0;    
+    }
 }
 .tabs-2-big-top.tab-container .panel-container p {
     margin: 0;

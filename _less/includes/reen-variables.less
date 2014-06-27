@@ -17,10 +17,11 @@
 //@gray:           bootstrap-variables.less
 
 //## Background colors
-@light-bg:         				#222;
-@dark-bg:          				#111111;
-@medium-color:    				darken(#fff, 50%);
-@dark-color: 							darken(#fff, 75%);
+@light-bg:         				#222; // OLd = #F2F5F7
+@dark-bg:          				#111111; // OLd = #2F4052
+//@light-color:             #fff;
+@medium-color:    				darken(#fff, 50%); // OLd = #A3B1BF
+@dark-color: 							darken(#fff, 75%); // OLd = #506A85
 
 
 //== Scaffolding
@@ -82,11 +83,46 @@
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
-@font-size-h1-xs-max:   		33px;
-@font-size-hero-h1:     		200px;
-@font-size-hero-h1-xs-max: 	38px;
+@hero-h1-font-size:         60px;
+@hero-h1-font-size-xs:      @hero-h1-font-size;
+@hero-h1-font-size-sm:      125px;
+@hero-h1-font-size-md:      170px;
+@hero-h1-font-size-lg:      180px;
+@hero-h1-line-height:       .9;
+@hero-h1-letter-spacing:    -0.05em;
+
+@hero-h2-font-size:         24px;
+@hero-h2-font-size-xs:      @hero-h2-font-size;
+@hero-h2-font-size-sm:      50px;
+@hero-h2-font-size-md:      50px;
+@hero-h2-font-size-lg:      50px;
+
+
+@header-top-height:         40px;
+@header-top-background: 	  @light-bg;
+@header-top-border-color: 	@light-bg;
+@header-top-info-color: 	  @navbar-inverse-link-color;
 
 
 @footer-color: 							@medium-color;
 @footer-bottom-background: 	@dark-bg;
 @footer-bottom-color: 			@medium-color;
+
+@border-color:              #CED7E0;
+
+@arrow:                     20px;
+@arrow-md:                  15px;
+@arrow-sm:                  10px;
+@arrow-xs:                  5px;
+
+@social-icon-width:         40px;
+@social-icon-height:        40px;
+
+
+@img-bg-soft-light-bg-opacity: .66;
+@img-bg-soft-dark-bg-opacity:  .2;
+@img-bg-soft-tint-bg-opacity:  .84;
+
+@img-bg-softer-light-bg-opacity: .95;
+@img-bg-softer-dark-bg-opacity:  .97;
+@img-bg-softer-tint-bg-opacity:  .96;

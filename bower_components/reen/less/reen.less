@@ -63,7 +63,6 @@
 @import "go-to-top-scroll-up.less";
 @import "features-styles.less";
 @import "team.less";
-@import "responsive.less";
 @import "skrollr-animations";
 @import "brand-primary.less";
 @import "../fonts/fontello.less";
@@ -87,22 +86,6 @@
 //
 // Scaffolding
 // --------------------------------------------------
-
-
-// Links
-
-a {
-    color: inherit;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
-}
-a:hover,
-a:focus {
-    color: @link-color;
-    text-decoration: none;
-}
 
 
 // Horizontal rules
@@ -183,7 +166,7 @@ p a {
 }
 
 p a:hover {
-	border-color: transparent;
+	border-color: @brand-primary;
 }
 
 

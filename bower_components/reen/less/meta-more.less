@@ -5,23 +5,110 @@
     line-height: 160%;
     cursor: default;
 }
-.meta span:before {
-    display: inline-block;
-    content: "|";
-    padding: 0 10px 0 7px;
+
+.meta{
+    &.tags{
+        a{
+            &:before {
+                content: "#";
+                display: inline-block;
+            }
+        }
+    }
+    li {
+        display: inline-block;
+        margin: 0 6px;
+        &:after{
+            content: "|";
+            margin-left: 12px;
+        }
+        &:last-child{
+            &:after {
+                content: "";
+            }
+        }
+        &.categories,
+        a{
+            &:before {
+                content: "";
+                font-family: "fontello";
+                margin-right: 6px;
+            }
+        }
+        &.categories{
+            &:before,
+            a:before{
+                margin-right: 0;
+            }
+            &:hover{
+                &:before{
+                    color: @brand-primary;
+                    cursor: pointer;
+                }
+            }
+        }
+        &.url{
+            a{
+                &:before {
+                    content: "\f30e";
+                }
+            }
+        }
+        &.author-posts{
+            a{
+                &:before {
+                    content: "\27a6";
+                }
+            }
+        }
+        &.comments{
+            a{
+                &:before {
+                    content: "\e718";
+                }
+                &:after{
+                    content: "Comments";
+                    margin-left: 4px;
+                }
+            }
+        }
+        &.likes{
+            a{
+                &:before {
+                    content: "\2665";
+                }
+                &:after{
+                    content: "Likes";
+                    margin-left: 4px;
+                }
+            }
+        }
+    }
+    span{
+        &:before {
+            display: inline-block;
+            content: "|";
+            padding: 0 10px 0 7px;
+        }
+        &:first-child{
+            &:before {
+                display: none;
+                padding: 0;
+            }
+        }
+    }
+    a {
+        display: inline !important;
+        &:hover{
+            color: @brand-primary;
+        }
+    }
 }
-.meta span:first-child:before {
-    display: none;
-    padding: 0;
+
+.more{
+    &:hover {
+        color: @brand-primary;
+    }
 }
-.meta a {
-    display: inline !important;
-}
-.meta a:hover,
-.more:hover {
-    color: #1ABB9C;
-}
-.meta.tags a:before {
-    content: "#";
-    display: inline-block;
-}
+
+

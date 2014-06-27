@@ -1,0 +1,149 @@
+//
+// Arrows
+// --------------------------------------------------
+
+
+.arrow-top,
+.arrow-top-md,
+.arrow-top-sm,
+.arrow-top-xs,
+.arrow-bottom,
+.arrow-bottom-md,
+.arrow-bottom-sm,
+.arrow-bottom-xs{
+  position: relative;
+}
+
+
+// Top
+// -------------------------
+
+.arrow-top,
+.arrow-top-md,
+.arrow-top-sm,
+.arrow-top-xs{
+  &:before{
+    position: absolute;  
+    content: "";
+    border-style: solid;
+    right: auto;
+    bottom: auto;
+    left: 50%;
+    border-color: transparent transparent @main-bg transparent;
+    z-index: 1;
+  }
+  &.light-bg{
+    &:before{
+      border-color: transparent transparent @light-bg transparent;
+    }
+  }
+  &.dark-bg{
+    &:before{
+      border-color: transparent transparent @dark-bg transparent;
+    }
+  }
+  &.tint-bg{
+    &:before{
+      border-color: transparent transparent @brand-primary transparent;
+    }
+  }
+}
+
+.arrow-top{
+  &:before{
+    margin-left: -@arrow;
+    top: -@arrow;
+    border-width: 0px @arrow @arrow @arrow;
+  }
+}
+
+.arrow-top-md{
+  &:before{
+    margin-left: -@arrow-md;
+    top: -@arrow-md;
+    border-width: 0px @arrow-md @arrow-md @arrow-md;
+  }
+}
+
+.arrow-top-sm{
+  &:before{
+    margin-left: -@arrow-sm;
+    top: -@arrow-sm;
+    border-width: 0px @arrow-sm @arrow-sm @arrow-sm;
+  }
+}
+
+.arrow-top-xs{
+  &:before{
+    margin-left: -@arrow-xs;
+    top: -@arrow-xs;
+    border-width: 0px @arrow-xs @arrow-xs @arrow-xs;
+  }
+}
+
+
+// Bottom
+// -------------------------
+
+.arrow-bottom,
+.arrow-bottom-md,
+.arrow-bottom-sm,
+.arrow-bottom-xs{
+  &:after{
+    position: absolute;  
+    content: "";
+    border-style: solid;
+    left: 50%;
+    right: auto;
+    top: auto;
+    border-color: @main-bg transparent transparent transparent;
+    z-index: 1;
+  }
+  &.light-bg{
+    &:after{
+      border-color: @light-bg transparent transparent transparent;
+    }
+  }
+  &.dark-bg{
+    &:after{
+      border-color: @dark-bg transparent transparent transparent;
+    }
+  }
+  &.tint-bg{
+    &:after{
+      border-color: @brand-primary transparent transparent transparent;
+    }
+  }
+}
+
+.arrow-bottom{
+  &:after{
+    margin-left: -@arrow;
+    bottom: -@arrow;
+    border-width: @arrow @arrow 0px @arrow;
+  }
+}
+
+.arrow-bottom-md{
+  &:after{
+    margin-left: -@arrow-md;
+    bottom: -@arrow-md;
+    border-width: @arrow-md @arrow-md 0px @arrow-md;
+  }
+}
+
+.arrow-bottom-sm{
+  &:after{
+    margin-left: -@arrow-sm;
+    bottom: -@arrow-sm;
+    border-width: @arrow-sm @arrow-sm 0px @arrow-sm;
+  }
+}
+
+.arrow-bottom-xs{
+  &:after{
+    margin-left: -@arrow-xs;
+    bottom: -@arrow-xs;
+    border-width: @arrow-xs @arrow-xs 0px @arrow-xs;
+  }
+}

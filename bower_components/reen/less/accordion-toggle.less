@@ -32,6 +32,9 @@
     line-height: 1.42857;
     font-weight: 700;
     text-transform: uppercase;
+    @media (max-width: @screen-xs-max) {
+        line-height: 18px;
+    }
 }
 .panel-title > a {
     display: block;
@@ -49,7 +52,7 @@
     color: @dark-color;
 }
 .panel-title > a:hover {
-    color: #1ABB9C;
+    color: @brand-primary;
 }
 .panel-title > a span {
     display: block;
@@ -57,10 +60,7 @@
     top: 0;
     color: @dark-color;
     padding-right: 25px;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
+    .transition(all 200ms ease-out);
 }
 .text-right .panel-title > a span {
     padding-left: 25px;
@@ -83,10 +83,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
+    .transition(all 200ms ease-out);
 }
 .text-right .panel-title > a span:after {
     left: 0;
@@ -101,7 +98,7 @@
     content: "\e84c";
 }
 .text-center .panel-title > a:hover span:after {
-    color: #1ABB9C;
+    color: @brand-primary;
     top: -.5em;
     opacity: 1;
 }

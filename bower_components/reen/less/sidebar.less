@@ -1,5 +1,12 @@
 .sidebar {
     padding-left: 25px !important;
+    @media (min-width: @screen-lg-min) {
+        padding-left: 35px !important;   
+    }
+    @media (max-width: @screen-xs-max) {
+        margin-top: 70px;
+        padding-left: 15px !important;    
+    }
 }
 .sidebar.left-sidebar {
     padding: 15px !important
@@ -45,7 +52,7 @@
     padding: 13px 18px;
 }
 .sidenav li a:hover {
-    background: #1ABB9C;
+    background: @brand-primary;
     color: #FFF;
 }
 .sidenav li a:after {
@@ -54,10 +61,7 @@
     content: "\e762";
     font-family: 'fontello';
     font-size: 18px;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
+    .transition(all 200ms ease-out);
     opacity: 0;
 }
 .sidenav li a:hover:after {

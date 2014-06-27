@@ -4,12 +4,11 @@
 
 
 //
-// Variables
+// Variables & Mixins
 // --------------------------------------------------
 
-@import "includes/bootstrap-variables.less";
-@import "includes/reen-variables.less";
-
+@import "includes/custom-variables.less";
+@import "../bower_components/bootstrap/less/mixins.less";
 
 //
 // Less files
@@ -30,7 +29,6 @@
 //@import "../bower_components/reen/less/sidelines.less";
 //@import "../bower_components/reen/less/video-container.less";
 @import "../bower_components/reen/less/colors.less";
-//@import "../bower_components/reen/less/text-colors.less";
 @import "../bower_components/reen/less/icon.less";
 //@import "../bower_components/reen/less/tagcloud.less";
 @import "../bower_components/reen/less/footer.less";
@@ -38,9 +36,7 @@
 //@import "../bower_components/reen/less/borders.less";
 @import "../bower_components/reen/less/reset-space.less";
 //@import "../bower_components/reen/less/aside.less";
-//@import "../bower_components/reen/less/thumbs-gap.less";
 @import "../bower_components/reen/less/header.less";
-//@import "../bower_components/reen/less/mega-menu.less";
 @import "../bower_components/reen/less/buttons.less";
 @import "../bower_components/reen/less/social-icons.less";
 //@import "../bower_components/reen/less/tabs-on-side.less";
@@ -63,11 +59,11 @@
 //@import "../bower_components/reen/less/go-to-top-scroll-up.less";
 @import "../bower_components/reen/less/features-styles.less";
 @import "../bower_components/reen/less/team.less";
-@import "../bower_components/reen/less/responsive.less";
+@import "../bower_components/reen/less/arrows.less";
 
 //@import "../bower_components/reen/less/skrollr-animations";
-@import "../bower_components/reen/less/brand-primary.less";
 @import "../bower_components/reen/fonts/fontello.less";
+
 
 //
 // CSS Libraries (revisar)
@@ -76,7 +72,6 @@
 //@import "../bower_components/reen/css/owl.carousel.css";
 @import "../bower_components/reen/css/owl.transitions.css";
 @import "../bower_components/reen/css/animate.min.css";
-
 
 
 
@@ -90,21 +85,14 @@
 // --------------------------------------------------
 
 
-// Links
+// Body
 
-a {
-    color: inherit;
-    -webkit-transition: all 200ms ease-out;
-       -moz-transition: all 200ms ease-out;
-         -o-transition: all 200ms ease-out;
-            transition: all 200ms ease-out;
+body {
+  padding-top: @navbar-height;
+  @media (min-width: @screen-sm-min) {
+    padding-top: @navbar-height + 1 + @header-top-height;
+  }
 }
-a:hover,
-a:focus {
-    color: @link-color;
-    text-decoration: none;
-}
-
 
 // Horizontal rules
 
@@ -153,22 +141,6 @@ h6, .h6 {
 }
 
 
-// Body text
-// -------------------------
-
-p {
-	margin-bottom: @line-height-computed;
-}
-
-p a {
-	border-bottom: 1px solid @text-color;
-}
-
-p a:hover {
-	border-color: transparent;
-}
-
-
 // Lists
 // --------------------------------------------------
 
@@ -204,6 +176,46 @@ ol li {
 /*  OWN STYLES
 /*===================================================================================*/
 
+.navbar{
+  border-width: 0 0 1px 0; 
+}
+
+
+.navbar-nav {
+  > li > a {
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+}
+
+.navbar-brand{
+  font-weight: 900;
+}
+
+#hero{
+  header{
+    @media (min-width: @screen-lg-min) {
+      padding-top: 185px;
+    }
+
+  }
+  h1{
+    &:before,
+    &:after{
+      font-size: .75em;
+      font-weight: 300;
+    }
+    &:before{
+      content: '< ';
+    }
+    &:after{
+      content: ' >';
+    }
+  }
+  h2{
+    margin-bottom: 0;
+  }
+}
 
 .ribbon{
   width: 200px;
@@ -223,8 +235,11 @@ ol li {
   }
 }
 
+
 #hero{
-  background-image: url(../../../img/bk.deepbanner.jpg);
+  @media (min-width: @screen-sm-min) {
+    background-image: url(../../../img/bk.deepbanner.v5.jpg);
+  }
 }
 
 
