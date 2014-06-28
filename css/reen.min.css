@@ -5379,11 +5379,6 @@ ol li {
 .ribbon strong {
   font-size: 23px;
 }
-@media (min-width: 768px) {
-  #hero {
-    background-image: url(../../../img/bk.deepbanner.v5.jpg);
-  }
-}
 #financing .ribbon {
   position: absolute;
   top: 0;
