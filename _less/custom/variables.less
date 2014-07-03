@@ -5,7 +5,7 @@
 
 //== Colors
 //
-//## Custom colors
+//## Colores diferentes para fondos y textos.
 
 @green:            #1ABB9C;
 @blue:             #3F8DBF;
@@ -14,27 +14,31 @@
 @purple:           #9B59B6;
 @pink:             #D487BE;
 @navy:             #34495E;
-//@gray:           bootstrap-variables.less
-
-//## Background colors
-@light-bg:         				#222; // OLd = #F2F5F7
-@dark-bg:          				#111111; // OLd = #2F4052
-//@light-color:             #fff;
-@medium-color:    				darken(#fff, 50%); // OLd = #A3B1BF
-@dark-color: 							darken(#fff, 75%); // OLd = #506A85
+//@gray:           Variable de definida en Bootstrap
 
 
-//== Scaffolding
+//== Tonos
 //
-// ## Settings for some of the most global styles.
+//## Tonos oscuros, medios y claros.
 
-//** Background color for `<main>`.
+@light-bg:         				#222;
+@dark-bg:          				#111111;
+@light-color:             #fff;
+@medium-color:    				darken(#fff, 50%);
+@dark-color: 							darken(#fff, 75%);
+
+
+//== Main
+//
+//## Color de fondo de <main>.
+
 @main-bg:               #333;
 
 
-//== Inner
+//== Espacios en blanco
 //
-//## White space
+//## Padding, Margin y Height.
+
 @inner:                 120px;
 @inner-md:              100px;
 @inner-sm:              80px;
@@ -80,15 +84,12 @@
 @inner-sm-mobile:       50px;
 @inner-xs-mobile:       @inner-xs;
 
-//== Typography
-//
-//## Font, line-height, and color for body text, headings, and more.
-@hero-font-size:            18px;
-@hero-font-size-xs:         @hero-font-size;
-@hero-font-size-sm:         22px;
-@hero-font-size-md:         24px;
-@hero-font-size-lg:         @hero-font-size-md;
 
+//== Hero
+//
+//## Estilos para deepbanner.
+
+//** Título 1.
 @hero-h1-font-size:         60px;
 @hero-h1-font-size-xs:      @hero-h1-font-size;
 @hero-h1-font-size-sm:      125px;
@@ -97,18 +98,21 @@
 @hero-h1-line-height:       .9;
 @hero-h1-letter-spacing:    -0.05em;
 
+//** Título 2.
 @hero-h2-font-size:         20px;
 @hero-h2-font-size-xs:      @hero-h2-font-size;
 @hero-h2-font-size-sm:      50px;
 @hero-h2-font-size-md:      50px;
 @hero-h2-font-size-lg:      50px;
 
+//** Título 3.
 @hero-h3-font-size:         inherit;
 @hero-h3-font-size-xs:      @hero-h3-font-size;
 @hero-h3-font-size-sm:      @hero-h3-font-size;
 @hero-h3-font-size-md:      @hero-h3-font-size;
 @hero-h3-font-size-lg:      @hero-h3-font-size;
 
+//** Título 4.
 @hero-h4-font-size:         33px;
 @hero-h4-font-size-xs:      @hero-h4-font-size;
 @hero-h4-font-size-sm:      @hero-h4-font-size;
@@ -116,28 +120,55 @@
 @hero-h4-font-size-lg:      @hero-h4-font-size;
 
 
+//== Header top
+//
+//## Barra superior de cabecera
+
 @header-top-height:         40px;
 @header-top-background: 	  @light-bg;
 @header-top-border-color: 	@light-bg;
 @header-top-info-color: 	  @navbar-inverse-link-color;
 
 
+//== Footer
+//
+//## Estilos para el pie
+
 @footer-color: 							@medium-color;
 @footer-bottom-background: 	@dark-bg;
 @footer-bottom-color: 			@medium-color;
 
+
+//== Bordes
+//
+//## Estilos para bordes
+
 @border-color:              #000;
+
+
+//== Flechas
+//
+//## Estilos para flechas
 
 @arrow:                     20px;
 @arrow-md:                  15px;
 @arrow-sm:                  10px;
 @arrow-xs:                  5px;
 
+
+//== Iconos social
+//
+//## Estilos para Iconos social
+
 @social-icon-width:         40px;
 @social-icon-height:        40px;
 @social-icon-color:         #fff;
 @social-icon-font-size:     20px;
 
+
+//== Imagenes de fondo
+//
+//## Estilos para Imagenes de fondo
 
 @img-bg-soft-light-bg-opacity: .66;
 @img-bg-soft-dark-bg-opacity:  .6;
@@ -147,12 +178,30 @@
 @img-bg-softer-dark-bg-opacity:  .97;
 @img-bg-softer-tint-bg-opacity:  .96;
 
-@hr-margin-top:    @line-height-computed * 3;
-@hr-margin-bottom: @hr-margin-top;
+
+
+//== Tipografía
+//
+//## Estilos para...
+
+//** Títulos.
+@font-size-h1-xs-max:      30px;
+@font-size-h2-xs-max:      22px;
+@font-size-h3-xs-max:      22px;
+@font-size-h4-xs-max:      22px;
+@font-size-h5-xs-max:      22px;
+@font-size-h6-xs-max:      22px;
 
 @h1-margin-bottom:         25px;
 @h2-margin-bottom:         20px;
 @h3-margin-bottom:         15px;
 @h4-margin-bottom:         15px;
 @h5-margin-bottom:         13px;
-@h6-margin-bottom:         10px;  
+@h6-margin-bottom:         10px;
+
+//** Cuerpo de texto grande.
+@font-size-large-xs-max:   20px;
+
+//** Hr.
+@hr-margin-top:    @line-height-computed * 3;
+@hr-margin-bottom: @hr-margin-top;

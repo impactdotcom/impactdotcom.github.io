@@ -9,7 +9,7 @@
 header p {
 	font-size: @font-size-large;
 	@media (max-width: @screen-xs-max) {
-		font-size: 20px;
+		font-size: @font-size-large-xs-max;
 	}
 }
 
@@ -24,26 +24,44 @@ h1, h2, h3, h4, h5, h6,
 
 h1, .h1 {
   margin-bottom: @h1-margin-bottom;
+  @media (max-width: @screen-xs-max) {
+  	font-size: @font-size-h1-xs-max;
+  }
 }
 
 h2, .h2 {
   margin-bottom: @h2-margin-bottom;
+  @media (max-width: @screen-xs-max) {
+  	font-size: @font-size-h2-xs-max;
+  }
 }
 
 h3, .h3 {
   margin-bottom: @h3-margin-bottom;
+  @media (max-width: @screen-xs-max) {
+  	font-size: @font-size-h3-xs-max;
+  }
 }
 
 h4, .h4 {
   margin-bottom: @h4-margin-bottom;
+  @media (max-width: @screen-xs-max) {
+  	font-size: @font-size-h4-xs-max;
+  }
 }
 
 h5, .h5 {
   margin-bottom: @h5-margin-bottom;
+  @media (max-width: @screen-xs-max) {
+  	font-size: @font-size-h5-xs-max;
+  }
 }
 
 h6, .h6 {
   margin-bottom: @h6-margin-bottom;
+  @media (max-width: @screen-xs-max) {
+  	font-size: @font-size-h6-xs-max;
+  }
 }
 
 p + h2,

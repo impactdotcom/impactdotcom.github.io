@@ -18,6 +18,7 @@ body {
 // Headings
 
 h1, .h1 {
+  font-weight: 300;
   text-transform: uppercase;
   strong{
     font-weight: 800;
@@ -25,7 +26,6 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-weight: 800;
   text-transform: uppercase;
 }
 
@@ -56,7 +56,7 @@ h2, .h2 {
   &:active,
   &.active,
   .open .dropdown-toggle& {
-    color: #fff;
+    color: @gray-dark;
     background-color: darken(@brand-primary, 30%);
   }   
 }
@@ -88,6 +88,9 @@ h2, .h2 {
   font-weight: 900;
 }
 
+
+// Hero
+
 #hero{
   //background-image: url(../../../img/bk.deepbanner.v2.jpg);
   @media (min-width: @screen-sm-min) {
@@ -109,6 +112,25 @@ h2, .h2 {
     }
   }
 }
+
+
+// Text Overlay
+
+.items li,
+.thumbs .thumb,
+.owl-carousel .item{
+  .text-overlay{
+    .info{
+      h2,
+      h3,
+      h4,
+      p{
+        color: @gray-dark;
+      }
+    }
+  }
+}
+
 
 .ribbon{
   width: 200px;

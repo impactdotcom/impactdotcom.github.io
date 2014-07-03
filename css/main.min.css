@@ -2290,25 +2290,61 @@ h1,
 .h1 {
   margin-bottom: 25px;
 }
+@media (max-width: 767px) {
+  h1,
+  .h1 {
+    font-size: 30px;
+  }
+}
 h2,
 .h2 {
   margin-bottom: 20px;
+}
+@media (max-width: 767px) {
+  h2,
+  .h2 {
+    font-size: 22px;
+  }
 }
 h3,
 .h3 {
   margin-bottom: 15px;
 }
+@media (max-width: 767px) {
+  h3,
+  .h3 {
+    font-size: 22px;
+  }
+}
 h4,
 .h4 {
   margin-bottom: 15px;
+}
+@media (max-width: 767px) {
+  h4,
+  .h4 {
+    font-size: 22px;
+  }
 }
 h5,
 .h5 {
   margin-bottom: 13px;
 }
+@media (max-width: 767px) {
+  h5,
+  .h5 {
+    font-size: 22px;
+  }
+}
 h6,
 .h6 {
   margin-bottom: 10px;
+}
+@media (max-width: 767px) {
+  h6,
+  .h6 {
+    font-size: 22px;
+  }
 }
 p + h2,
 p + h3 {
@@ -2395,29 +2431,6 @@ footer .contacts li {
   width: 55px;
   height: 80px;
   font-size: 20px;
-}
-#hero {
-  font-size: 18px;
-}
-@media (min-width: 480px) {
-  #hero {
-    font-size: 18px;
-  }
-}
-@media (min-width: 768px) {
-  #hero {
-    font-size: 22px;
-  }
-}
-@media (min-width: 992px) {
-  #hero {
-    font-size: 24px;
-  }
-}
-@media (min-width: 1200px) {
-  #hero {
-    font-size: 24px;
-  }
 }
 #hero h1,
 #hero .h1 {
@@ -2560,7 +2573,6 @@ footer .contacts li {
   }
 }
 #hero p {
-  font-size: inherit;
   -webkit-transition: font 200ms ease-out, margin 200ms ease-out;
   transition: font 200ms ease-out, margin 200ms ease-out;
 }
@@ -8548,6 +8560,7 @@ body {
 }
 h1,
 .h1 {
+  font-weight: 300;
   text-transform: uppercase;
 }
 h1 strong,
@@ -8556,7 +8569,6 @@ h1 strong,
 }
 h2,
 .h2 {
-  font-weight: 800;
   text-transform: uppercase;
 }
 .btn {
@@ -8590,7 +8602,7 @@ h2,
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-  color: #fff;
+  color: #333333;
   background-color: #04d299;
 }
 .navbar {
@@ -8626,6 +8638,20 @@ h2,
     height: 162px;
     background: url(../img/img.logo-sm.png) 0 0 no-repeat;
   }
+}
+.items li .text-overlay .info h2,
+.thumbs .thumb .text-overlay .info h2,
+.owl-carousel .item .text-overlay .info h2,
+.items li .text-overlay .info h3,
+.thumbs .thumb .text-overlay .info h3,
+.owl-carousel .item .text-overlay .info h3,
+.items li .text-overlay .info h4,
+.thumbs .thumb .text-overlay .info h4,
+.owl-carousel .item .text-overlay .info h4,
+.items li .text-overlay .info p,
+.thumbs .thumb .text-overlay .info p,
+.owl-carousel .item .text-overlay .info p {
+  color: #333333;
 }
 .ribbon {
   width: 200px;
