@@ -83,6 +83,12 @@
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
+@hero-font-size:            18px;
+@hero-font-size-xs:         @hero-font-size;
+@hero-font-size-sm:         22px;
+@hero-font-size-md:         24px;
+@hero-font-size-lg:         @hero-font-size-md;
+
 @hero-h1-font-size:         60px;
 @hero-h1-font-size-xs:      @hero-h1-font-size;
 @hero-h1-font-size-sm:      125px;
@@ -91,11 +97,23 @@
 @hero-h1-line-height:       .9;
 @hero-h1-letter-spacing:    -0.05em;
 
-@hero-h2-font-size:         24px;
+@hero-h2-font-size:         20px;
 @hero-h2-font-size-xs:      @hero-h2-font-size;
 @hero-h2-font-size-sm:      50px;
 @hero-h2-font-size-md:      50px;
 @hero-h2-font-size-lg:      50px;
+
+@hero-h3-font-size:         inherit;
+@hero-h3-font-size-xs:      @hero-h3-font-size;
+@hero-h3-font-size-sm:      @hero-h3-font-size;
+@hero-h3-font-size-md:      @hero-h3-font-size;
+@hero-h3-font-size-lg:      @hero-h3-font-size;
+
+@hero-h4-font-size:         33px;
+@hero-h4-font-size-xs:      @hero-h4-font-size;
+@hero-h4-font-size-sm:      @hero-h4-font-size;
+@hero-h4-font-size-md:      @hero-h4-font-size;
+@hero-h4-font-size-lg:      @hero-h4-font-size;
 
 
 @header-top-height:         40px;
@@ -108,7 +126,7 @@
 @footer-bottom-background: 	@dark-bg;
 @footer-bottom-color: 			@medium-color;
 
-@border-color:              #CED7E0;
+@border-color:              #000;
 
 @arrow:                     20px;
 @arrow-md:                  15px;
@@ -117,12 +135,24 @@
 
 @social-icon-width:         40px;
 @social-icon-height:        40px;
+@social-icon-color:         #fff;
+@social-icon-font-size:     20px;
 
 
 @img-bg-soft-light-bg-opacity: .66;
-@img-bg-soft-dark-bg-opacity:  .2;
+@img-bg-soft-dark-bg-opacity:  .6;
 @img-bg-soft-tint-bg-opacity:  .84;
 
 @img-bg-softer-light-bg-opacity: .95;
 @img-bg-softer-dark-bg-opacity:  .97;
 @img-bg-softer-tint-bg-opacity:  .96;
+
+@hr-margin-top:    @line-height-computed * 3;
+@hr-margin-bottom: @hr-margin-top;
+
+@h1-margin-bottom:         25px;
+@h2-margin-bottom:         20px;
+@h3-margin-bottom:         15px;
+@h4-margin-bottom:         15px;
+@h5-margin-bottom:         13px;
+@h6-margin-bottom:         10px;  

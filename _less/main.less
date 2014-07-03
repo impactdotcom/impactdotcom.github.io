@@ -1,0 +1,170 @@
+@import "custom.less";
+
+/*===================================================================================*/
+/*  OWN STYLES
+/*===================================================================================*/
+
+
+// Body
+
+body {
+  padding-top: 55px;
+  @media (min-width: @screen-sm-min) {
+    padding-top: 96px;
+  }
+}
+
+
+// Headings
+
+h1, .h1 {
+  text-transform: uppercase;
+  strong{
+    font-weight: 800;
+  }
+}
+
+h2, .h2 {
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+
+// Buttons
+
+.btn {
+  .button-size(@padding-vertical: 12px; @padding-horizontal: 20px; @font-size-small; @line-height-base; @border-radius: 3px);
+  letter-spacing: 0.02em;
+  -webkit-font-smoothing: antialiased;
+  border: none;
+  text-transform: uppercase;
+  .transition(all 200ms ease-out);
+  .box-shadow(inset 0 -2px 0 rgba(0,0,0,0.20));
+  &:hover,
+  &:focus,
+  &:active,
+  &.active{
+    .transition(all 200ms ease-out);
+    .box-shadow(inset 0 -2px 0 rgba(0,0,0,0.20));
+  }
+}
+
+.btn-primary{
+  color: @gray-dark;
+  &:hover,
+  &:focus,
+  &:active,
+  &.active,
+  .open .dropdown-toggle& {
+    color: #fff;
+    background-color: darken(@brand-primary, 30%);
+  }   
+}
+
+
+// Nav bar
+
+.navbar{
+  border-width: 0 0 1px 0; 
+}
+
+.navbar-brand{
+  width: 142px;
+  height: 55px;
+  padding: 15px;
+  display: block;
+  background: url(../img/img.logo-header.png) 15px 14px no-repeat;
+}
+
+
+.navbar-nav {
+  > li > a {
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+}
+
+.navbar-brand{
+  font-weight: 900;
+}
+
+#hero{
+  //background-image: url(../../../img/bk.deepbanner.v2.jpg);
+  @media (min-width: @screen-sm-min) {
+    //background-image: url(../../../img/bk.deepbanner-sm.v2.jpg);
+  }
+  .h2{
+    margin-bottom: 10px;
+  }
+  .brand{
+    width: 280px;
+    height: 64px;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(../img/img.logo.png) 0 0 no-repeat;
+    @media (min-width: @screen-sm-min) {
+      width: 720px;
+      height: 162px;
+      background: url(../img/img.logo-sm.png) 0 0 no-repeat; 
+    }
+  }
+}
+
+.ribbon{
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  border-radius: 100000px;
+  display: table;
+  .wrapper{
+    display: table-cell;
+    vertical-align: middle;
+  }
+  span{
+    display: block;
+  }
+  strong{
+    font-size: @font-size-large;
+  }
+}
+
+
+// Social icons
+
+.social {
+  li {
+    a {
+      i {
+        &.icon-s-youtube{
+          font-size: 28px;
+        }
+      }
+    }
+  }
+}
+
+
+// Hot New Alert
+
+#alert-hot-new {
+  margin-bottom: 0;
+  padding: 8px 10px 12px 10px; 
+  .alert-variant(@brand-primary; @brand-primary; @gray-dark);
+}
+
+
+
+#financing{
+  .ribbon{
+    position: absolute;
+    top: 0;
+    right: -200px;
+  }
+  .classic-blog .post .date{
+    width: 100px;
+    height: 100px;
+  }
+  .sidemeta .date-wrapper{
+    left: -115px;
+  } 
+}

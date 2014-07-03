@@ -20,10 +20,10 @@
                 text-align: center;
                 display: table-cell;
                 vertical-align: middle;
-                color: @link-color;
+                color: @social-icon-color;
                 width: @social-icon-width;
                 height: @social-icon-height;
-                font-size: @font-size-small;
+                font-size: @social-icon-font-size;
                 .transition(all 200ms ease-out);
                 &:after {
                     content: '';
@@ -40,28 +40,28 @@
     }
     a{
         .icon-s-facebook:after {
-            background: #3B5998;
             background: #4668B3;
         }
         .icon-s-gplus:after {
-            background: #DD4B39;
             background: #DE5745;
         }
         .icon-s-twitter:after {
-            background: #00ACED;
             background: #2FBBED;
         }
         .icon-s-pinterest:after {
-            background: #CB2027;
             background: #D94348;
         }
         .icon-s-behance:after {
-            background: #1769FF;
             background: #3079FF;
         }
         .icon-s-dribbble:after {
-            background: #EA4C89;
             background: #EB6397;
+        }
+        .icon-s-linkedin:after {
+            background: #007ab9;
+        }
+        .icon-s-youtube:after {
+            background: #cf3427;
         }
     }
 }

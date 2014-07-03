@@ -3,6 +3,442 @@
 	{
 		"selected_items":
 		[
+			[
+				"font-",
+				"font-family-serif"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"po",
+				"pos-s	position: static;"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"text",
+				"text-color"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"gray-light",
+				"gray-lighter"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bgp",
+				"bgpx	background-position-x"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"font-s",
+				"font-size-small"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size-small"
+			],
+			[
+				"gray-ligh",
+				"gray-light"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"ii",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"b",
+				"bxz	box-sizing: ${1:border-box};"
+			],
+			[
+				"gray-dar",
+				"gray-darker"
+			],
+			[
+				"margi",
+				"margin-bottom-base"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom-large"
+			],
+			[
+				"margin-bo",
+				"margin-bottom-large"
+			],
+			[
+				"padding-",
+				"padding-base"
+			],
+			[
+				"gray-",
+				"gray-lighter"
+			],
+			[
+				"gray-da",
+				"gray-dark"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"gray-li",
+				"gray-light"
+			],
+			[
+				"bgr",
+				"bgr-n	background-repeat: no-repeat;"
+			],
+			[
+				"la",
+				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
+			],
+			[
+				"bgs",
+				"bgsz-ct	background-size: contain;"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"grayLIght",
+				"grayLighter"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"bw",
+				"border-width"
+			],
+			[
+				"wit",
+				"white-space"
+			],
+			[
+				"mih",
+				"min-height"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"fi",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bst",
+				"border-style"
+			],
+			[
+				"bco",
+				"border-color"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"va",
+				"va-tb	vertical-align: text-bottom;"
+			],
+			[
+				"bot",
+				"margin-bottom"
+			],
+			[
+				"ws-",
+				"whs-nw	white-space: nowrap;"
+			],
+			[
+				"wh",
+				"white-space"
+			],
+			[
+				"border-le",
+				"border-left-color"
+			],
+			[
+				"bl",
+				"border-left"
+			],
+			[
+				"bord-s",
+				"border-style"
+			],
+			[
+				"bor-c",
+				"border-color"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"bk",
+				"background-position"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"lan",
+				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
+			],
+			[
+				"las",
+				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"group",
+				"group_id"
+			],
+			[
+				"border-t",
+				"border-top-color"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"bs",
+				"border-style"
+			],
+			[
+				"ta-l",
+				"table-layout"
+			],
+			[
+				"w",
+				"white-space"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"border-to",
+				"border-top-color"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"pt",
+				"padding-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"bor",
+				"border-top-width"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"bt",
+				"border-top"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"pb",
+				"padding-bottom"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"height"
+			]
 		]
 	},
 	"buffers":
@@ -11,20 +447,88 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 347.0,
+		"height": 387.0,
 		"selected_items":
 		[
 			[
-				"package",
+				"pac",
 				"Package Control: Install Package"
 			],
 			[
-				"pa",
+				"li",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"bootstrap b",
+				"Snippet: Bootstrap breadcrumb"
+			],
+			[
+				"lips",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"hero",
+				"Snippet: Bootstrap hero example"
+			],
+			[
+				"thu",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"snippet th",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"sni",
+				"Snippet: Bootstrap info link button"
+			],
+			[
+				"si",
+				"Snippet: Bootstrap thumbnails"
+			],
+			[
+				"lipsu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snip",
+				"Snippet: Bootstrap primary button"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Brow",
 				"Preferences: Browse Packages"
 			],
 			[
-				"pack",
-				"Preferences: Browse Packages"
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"sn",
+				"Snippet: Bootstrap starter"
 			]
 		],
 		"width": 449.0
@@ -44,44 +548,176 @@
 	},
 	"file_history":
 	[
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/blog3.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/footer.html",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/index3.html",
-		"/Users/haritzoyaga/Sites/impact/v2.index.html",
-		"/Users/haritzoyaga/Sites/impact/v3.index.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.selection.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.program.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.financing.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.spaces.html",
-		"/Users/haritzoyaga/Sites/impact/v1.index.html",
-		"/Users/haritzoyaga/Sites/impact/_layouts/default.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/header.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/head.html",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/tab.html",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/index2.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.startups-profile.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/index.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/impact.sublime-project",
+		"/Users/haritzoyaga/Sites/impactdotcom/custom_components/custom/less/type.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/custom/variables.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/custom_components/custom/less/scaffolding.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/custom.less",
+		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/hero.less",
+		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/type.less",
+		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/scaffolding.less",
+		"/Users/haritzoyaga/Sites/custom/_less/custom.less",
+		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/variables.less",
+		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/assets/css/main.css",
+		"/Users/haritzoyaga/Sites/custom/index.html",
 		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/index.html",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/backgrounds.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.impact-about.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v3.impact-about.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v2.startups-profile.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.startups-list.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v2.impact-about.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.call-to-action.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.differences.html",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/contact.html",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/about2.html",
-		"/Users/haritzoyaga/Sites/impact/_includes/v1.companies.html"
+		"/Users/haritzoyaga/Sites/custom/_layouts/default.html",
+		"/Users/haritzoyaga/Sites/custom/_includes/footer.html",
+		"/Users/haritzoyaga/Sites/custom/_includes/header.html",
+		"/Users/haritzoyaga/Sites/custom/_includes/head.html",
+		"/Users/haritzoyaga/Sites/custom/Gruntfile.js",
+		"/Users/haritzoyaga/Sites/custom/css/bootstrap.min.css",
+		"/Users/haritzoyaga/Sites/custom/css/custom.min.css",
+		"/Users/haritzoyaga/Sites/custom/package.json",
+		"/Users/haritzoyaga/Sites/custom/custom.sublime-project",
+		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/reen.sublime-project",
+		"/Users/haritzoyaga/Sites/custom/_layouts/custom.sublime-project",
+		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/reen.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/custom_components/custom/examples/index.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/_layouts/example.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/variables.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/variables/variables.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/bootstrap.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_includes/head.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/Gruntfile.js",
+		"/Users/haritzoyaga/Sites/navarra_es/siteproject/index.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/reen.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/bootstrap/less/type.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/includes/variables.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/includes/reen-variables.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/bootstrap/less/scaffolding.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/_includes/footer.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/reen/less/general.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/assets/js/scripts.js",
+		"/Users/haritzoyaga/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/haritzoyaga/Sites/impactdotcom/css/reen.min.css",
+		"/Users/haritzoyaga/Sites/impactdotcom/css/main.min.css",
+		"/Users/haritzoyaga/Sites/impactdotcom/assets/css/main.css",
+		"/Users/haritzoyaga/Sites/impactdotcom/v1.index.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/_less/main.less",
+		"/Users/haritzoyaga/Sites/impactdotcom/css/main.css",
+		"/Users/haritzoyaga/Sites/impactdotcom/package.json",
+		"/Users/haritzoyaga/Sites/impactdotcom/feed.xml",
+		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/reen/less/reen.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/index.html",
+		"/Users/haritzoyaga/Sites/madridespop/app/_layouts/default.html",
+		"/Users/haritzoyaga/Sites/impactdotcom/_includes/v1.impact-about.html",
+		"/Users/haritzoyaga/Sites/madridespop/app/google9dc3a57cd022838b.html",
+		"/Users/haritzoyaga/Sites/madridespop/app/v3.index.html",
+		"/Users/haritzoyaga/Sites/madridespop/app/js/main.js",
+		"/Users/haritzoyaga/Sites/madridespop/app/_includes/about.md",
+		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/slider-carousel.html",
+		"/Users/haritzoyaga/Sites/madridespop/app/_includes/sponsorship.md",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/main.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/variables.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/overlay.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/portfolio.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_includes/deepbanner.md",
+		"/Users/haritzoyaga/Sites/impact/assets/js/scripts.js",
+		"/Users/haritzoyaga/Sites/madridespop/app/_includes/gallery.md",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/author.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_includes/offer-v3.md",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/general.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-on-top.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-on-side.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-circled-on-top.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-2-big-top.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/social-icons.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/skrollr-animations.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/sidebar.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/responsive.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/pricing-tables.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/portfolio-post.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/pagination.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/owl-carousel.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/mega-menu.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/header.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/go-to-top-scroll-up.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/general.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/forms.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/features-styles.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/demo-only.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/comments.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/buttons.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/blog.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/accordion-toggle.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/testimonials-quotes.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tooltips.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/sidebar.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/tooltips.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/pagination.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/comments.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/go-to-top-scroll-up.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/features-styles.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/responsive.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/demo-only.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/skrollr-animations.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/author.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/testimonials-quotes.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/accordion-toggle.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/portfolio.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/overlay.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/portfolio-post.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/owl-carousel.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/pricing-tables.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/forms.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/blog.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/social-icons.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-on-side.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-on-top.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-circled-on-top.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-2-big-top.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/header.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/buttons.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/mega-menu.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/_less/megamenu.less",
+		"/Users/haritzoyaga/Sites/madridespop/app/css/green.css",
+		"/Users/haritzoyaga/Sites/madrid-es-pop/v1.index.html",
+		"/Users/haritzoyaga/Sites/madridespop/app/_includes/footer.md",
+		"/Users/haritzoyaga/Sites/madridespop/app/_includes/exhibitions.md"
 	],
 	"find":
 	{
-		"height": 38.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 0.0,
 		"where_history":
 		[
+			"/Users/haritzoyaga/Sites/impact/assets/js",
+			"/Users/haritzoyaga/Sites/madridespop/app/_less/reen",
+			"/Users/haritzoyaga/Sites/iacademi,/Users/haritzoyaga/Sites/madridespop/app/_less/reen",
+			"/Users/haritzoyaga/Sites/iacademi",
+			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
+			"/Users/haritzoyaga/Desktop/Corsa",
+			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
+			"/Users/haritzoyaga/Sites/museo/docroot/sites/all/themes/mrs_twitter_bootstrap/css",
+			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
+			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap",
+			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
+			"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/js",
+			"/Users/haritzoyaga/Sites/iacademi/plantillas/css,/Users/haritzoyaga/Sites/startup-mentor",
+			"/Users/haritzoyaga/Sites/iacademi/plantillas/css",
+			"/Users/haritzoyaga/Sites/dontknow,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
+			"/Users/haritzoyaga/Sites/dontknow",
+			"/Users/haritzoyaga/Sites/startup-mentor,/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup",
+			"/Users/haritzoyaga/Sites/startup-mentor",
+			"/Users/haritzoyaga/Sites/startups-mentor",
+			"/Users/haritzoyaga/Sites/startupsmentor",
+			"/Users/haritzoyaga/Sites/startupsmentor/less",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot/",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow",
+			"/Users/haritzoyaga/Sites/dontknow/docroot,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
+			"/Users/haritzoyaga/Sites/dontknow/docroot",
+			"/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
+			""
 		]
 	},
 	"find_state":
@@ -89,22 +725,143 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"blog",
-			"570x512",
-			"inner-bottom-xs",
-			"Startups",
-			"<p>Identity</p>",
-			"business/1",
-			"orempixel.com/400/200",
-			"assets/images/art/work",
-			"mi-class"
+			"bower_components/custom/",
+			"../bower_components/reen/fonts/",
+			"assets/images",
+			"bordered",
+			"border",
+			"hero",
+			"light-color",
+			"light-bg",
+			"main",
+			".css",
+			"custom/css/",
+			"//@import",
+			"assets",
+			"../bower_components/reen",
+			"<tr class=\"ok\">",
+			"inner",
+			"@inner",
+			"@import",
+			".inner",
+			"@import \"",
+			"//@import",
+			"animate",
+			"owl-work-samples",
+			".owl-carousel .item .text-overlay",
+			".items li .text-overlay, .thumbs .thumb .text-overlay, .owl-carousel .item .text-overlay",
+			"text-overlay",
+			"latest-works",
+			"@import \"variables.less\";\n\n",
+			"// @i",
+			"//im",
+			"//@",
+			".btn {",
+			".btn",
+			"header p",
+			"@font-size-h2",
+			"header p",
+			".text-small",
+			".footer-bottom",
+			".light-bg {",
+			".light-bg{",
+			".light-bg",
+			".dark-bg",
+			"tint-bg",
+			".btn",
+			"circulo",
+			"#ed1b2f",
+			"5ea721",
+			"8ebb37",
+			"Open",
+			"otam",
+			"open",
+			"open sans",
+			"h1",
+			"10px",
+			"header-",
+			"header-roj",
+			"tran",
+			"gl",
+			"col-sm4",
+			"zi",
+			"rib",
+			"ri",
+			"discount",
+			"doubts",
+			"overla",
+			"z-inde",
+			"nav",
+			"*",
+			"ast",
+			"main",
+			"Posibilidad",
+			"text-small",
+			"page-car",
+			"page-c",
+			"ast",
+			"doubts",
+			"block-locale-language",
+			"last-doubts",
+			"btn-blo",
+			"Pago parcial",
+			"last-doubts",
+			"shad",
+			"rib",
+			"//XX",
+			"mail",
+			"main-con",
+			".dropdown-menu",
+			"sprite",
+			"emb",
+			"methodology",
+			"modal",
+			"caro",
+			"caru",
+			"text-c",
+			"text-",
+			"master",
+			"col-sm-4 col-md-3",
+			"ellipsis",
+			"thumbnail-text",
+			"class=\"thumbnail-text\"",
+			"product-thumbnail col-xs-6",
+			"&nbsp;",
+			"caracteres",
+			"masters-thumbnails",
+			"form-group",
+			"list-group",
+			"img-responsive",
+			"page-blog",
+			"gly",
+			"gli",
+			"retina-hide",
+			"control-label",
+			"sprit",
+			"inde",
+			"shar",
+			"sha",
+			"pag",
+			"pagination",
+			"comm",
+			"frame",
+			"label",
+			"div#main",
+			"load",
+			"clos",
+			"w-portfolio-item",
+			"close-button",
+			"close",
+			"close-button"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"granate-claro",
+			"&."
 		],
 		"reverse": false,
 		"show_context": true,
@@ -127,11 +884,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -163,9 +920,13 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -173,21 +934,37 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"snippet",
+				"docroot/sites/all/themes/dontknow/templates/node/experiencia/node--experiencia--snippet-big.tpl.php"
+			],
+			[
+				"snippe",
+				"docroot/sites/all/themes/dontknow/templates/node/respuesta/node--respuesta--snippet-big.tpl.php"
+			],
+			[
+				"dk_expe",
+				"sites/all/modules/custom/dk_experiencias/dk_experiencias.module"
+			],
+			[
+				"decision",
+				"sites/all/themes/dontknow/templates/node/decision/node--decision.tpl.php"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 344.0,
+	"side_bar_width": 245.0,
 	"status_bar_visible": true
 }

@@ -4,6 +4,19 @@
 
 
 #hero{
+    font-size: @hero-font-size;
+    @media (min-width: @screen-xs-min) {
+        font-size: @hero-font-size-xs;
+    }
+    @media (min-width: @screen-sm-min) {
+        font-size: @hero-font-size-sm;
+    }
+    @media (min-width: @screen-md-min) {
+        font-size: @hero-font-size-md;
+    }
+    @media (min-width: @screen-lg-min) {
+        font-size: @hero-font-size-lg;
+    }
     h1,
     .h1{
         font-size: @hero-h1-font-size;
@@ -11,7 +24,6 @@
         font-weight: 900;
         letter-spacing: @hero-h1-letter-spacing;
         text-transform: uppercase;
-        margin-bottom: 0;
         .transition(font 200ms ease-out);
         @media (min-width: @screen-xs-min) {
             font-size: @hero-h1-font-size-xs;
@@ -29,6 +41,9 @@
     h2,
     .h2{
         font-size: @hero-h2-font-size;
+        @media (min-width: @screen-xs-min) {
+            font-size: @hero-h2-font-size-xs;
+        }
         @media (min-width: @screen-sm-min) {
             font-size: @hero-h2-font-size-sm;
         }
@@ -37,6 +52,38 @@
         }
         @media (min-width: @screen-lg-min) {
             font-size: @hero-h2-font-size-lg;
+        }
+    }
+    h3,
+    .h3{
+        font-size: @hero-h3-font-size;
+        @media (min-width: @screen-xs-min) {
+            font-size: @hero-h3-font-size-xs;
+        }
+        @media (min-width: @screen-sm-min) {
+            font-size: @hero-h3-font-size-sm;
+        }
+        @media (min-width: @screen-md-min) {
+            font-size: @hero-h3-font-size-md;
+        }
+        @media (min-width: @screen-lg-min) {
+            font-size: @hero-h3-font-size-lg;
+        }
+    }
+    h4,
+    .h4{
+        font-size: @hero-h4-font-size;
+        @media (min-width: @screen-xs-min) {
+            font-size: @hero-h4-font-size-xs;
+        }
+        @media (min-width: @screen-sm-min) {
+            font-size: @hero-h4-font-size-sm;
+        }
+        @media (min-width: @screen-md-min) {
+            font-size: @hero-h4-font-size-md;
+        }
+        @media (min-width: @screen-lg-min) {
+            font-size: @hero-h4-font-size-lg;
         }
     }
     #owl-main{
@@ -57,31 +104,9 @@
             }
         }
     }
-    
-    h4 {
-        font-size: 33px;
-        line-height: 120%;
-    }
     p {
-        font-size: 24px;
-        line-height: 150%;
-        font-weight: 400;
-        letter-spacing: .015em;
-        color: inherit;
-        text-transform: none;
-        margin-top: 20px;
-        margin-bottom: 0;
+        font-size: inherit;
         .transition(font 200ms ease-out, margin 200ms ease-out;);
-        @media (min-width: @screen-sm-min) and (max-height: 1024px) {
-            font-size: 22px;
-            line-height: 135%;
-            margin-top: 17px;
-        }
-        @media (max-width: @screen-xs-max) {
-            font-size: 18px;
-            line-height: 135%;
-            margin-top: 15px;
-        }
     }
     .btn {
         margin-top: 60px;
