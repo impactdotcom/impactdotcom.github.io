@@ -21,99 +21,99 @@
 
 .btn {
     &.btn-green {
-        background: #1ABB9C;
+        background: @green;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #17A78B !important;
+            background: darken(@green, 8%);
         }
     }
     &.btn-blue {
-        background: #3F8DBF;
+        background: @blue;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #387EAA !important;
+            background: darken(@blue, 8%);
         }
     }
     &.btn-red {
-        background: #FA6C65;
+        background: @red;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #CF4C45 !important;
+            background: darken(@red, 8%);
         }
     }
     &.btn-pink {
-        background: #D487BE;
+        background: @pink;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #BD78A9 !important;
+            background: darken(@pink, 8%);
         }
     }
     &.btn-purple {
-        background: #9B59B6;
+        background: @purple;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #8A4FA2 !important;
+            background: darken(@purple, 8%);
         }
     }
     &.btn-orange {
-        background: #F27A24;
+        background: @orange;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #D96716 !important;
+            background: darken(@orange, 8%);
         }
     }
     &.btn-navy {
-        background: #34495E;
+        background: @navy;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #2C3E50 !important;
+            background: darken(@navy, 8%);
         }
     }
     &.btn-gray {
-        background: #95A5A6;
+        background: @gray;
         &:hover,
         &:focus,
         &:active,
         &.active {
-            background: #859394 !important;
+            background: darken(@gray, 8%);
         }
     }
     &.share-facebook {
-        background: #3d5b9b !important;
+        background: @facebook;
         &:hover {
-            background: #334c8e !important;
+            background: darken(@facebook, 8%);
         }
     }
     &.share-twitter {
-        background: #5aa8cd !important;
+        background: @twitter;
         &:hover {
-            background: #499ac8 !important;
+            background: darken(@twitter, 8%);
         }
     }
     &.share-googleplus {
-        background: #3b3b3b !important;
+        background: @gplus;
         &:hover {
-            background: #2e2e2e !important;
+            background: darken(@gplus, 8%);
         }
     }
     &.share-pinterest {
-        background: #c53942 !important;
+        background: @pinterest;
         &:hover {
-            background: #bc2d32 !important;
+            background: darken(@pinterest, 8%);
         }
     }
 }
@@ -130,11 +130,11 @@
 
 .tint-bg{
     .btn {
-        background: #FFF !important;
-        color: @brand-primary !important;
+        background: #FFF;
+        color: @brand-primary;
         &:hover {
-            background: #E9E9E9 !important;
-            color: @dark-color !important;
+            background: #E9E9E9;
+            color: @dark-color;
         }
     }
 }
@@ -156,20 +156,17 @@
         color: #FFF;
         .icon-s-facebook{
             &:after {
-                background: #3B5998;
-                background: #4668B3;
+                background: @facebook;
             }
         }
         .icon-s-gplus{
             &:after {
-                background: #DD4B39;
-                background: #DE5745;
+                background: @gplus;
             }
         }
         .icon-s-twitter{
             &:after {
-                background: #00ACED;
-                background: #2FBBED;
+                background: @twitter;
             }
         }
         p {
@@ -193,7 +190,6 @@
     p {
         position: absolute;
         height: 1.1em;
-        font-family: 'Lato', sans-serif;
         line-height: 100%;
         color: #FFF;
         margin: auto;

@@ -1,0 +1,39 @@
+.circle{
+  width: @circle-size;
+  height: @circle-size;
+  text-align: center;
+  border-radius: @circle-size;
+  display: table;
+  background-color: @brand-primary;
+  color: #fff;
+  &.xs{
+    width: @circle-size-xs;
+    height: @circle-size-xs;
+    border-radius: @circle-size-xs;
+  }
+  &.sm{
+    width: @circle-size-sm;
+    height: @circle-size-sm;
+    border-radius: @circle-size-sm;
+  }
+  &.md{
+    width: @circle-size-md;
+    height: @circle-size-md;
+    border-radius: @circle-size-md;
+  }
+  &.lg{
+    width: @circle-size-lg;
+    height: @circle-size-lg;
+    border-radius: @circle-size-lg;
+  }
+  .circle-inner{
+    display: table-cell;
+    vertical-align: middle;
+  }
+  span{
+    display: block;
+  }
+  strong{
+    font-size: @font-size-large;
+  }
+}

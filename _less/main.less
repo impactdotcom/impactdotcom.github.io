@@ -15,6 +15,12 @@ body {
 }
 
 
+// Strong
+strong{
+  color: #fff;
+}
+
+
 // Headings
 
 h1, .h1 {
@@ -27,6 +33,14 @@ h1, .h1 {
 
 h2, .h2 {
   text-transform: uppercase;
+}
+
+h3, .h3 {
+  text-transform: none;
+}
+
+h4, .h4 {
+  text-transform: none;
 }
 
 
@@ -47,6 +61,10 @@ h2, .h2 {
     .transition(all 200ms ease-out);
     .box-shadow(inset 0 -2px 0 rgba(0,0,0,0.20));
   }
+}
+
+.btn-lg {
+  .button-size(11px; @padding-large-horizontal; @font-size-large; @line-height-large; @border-radius-large);
 }
 
 .btn-primary{
@@ -76,7 +94,6 @@ h2, .h2 {
   background: url(../img/img.logo-header.png) 15px 14px no-repeat;
 }
 
-
 .navbar-nav {
   > li > a {
     font-weight: 600;
@@ -89,6 +106,24 @@ h2, .h2 {
 }
 
 
+// Tabs on side
+.tabs-side{
+  .tab {
+    a {
+      &:hover {
+        color: @gray-dark;
+      }
+    }
+  }
+}
+
+
+// Wells
+.well{
+  .box-shadow(inset 0 0 0 transparent);
+}
+
+
 // Hero
 
 #hero{
@@ -97,7 +132,9 @@ h2, .h2 {
     //background-image: url(../../../img/bk.deepbanner-sm.v2.jpg);
   }
   .h2{
-    margin-bottom: 10px;
+    @media (min-width: @screen-sm-min) {
+      margin-bottom: 40px;
+    }
   }
   .brand{
     width: 280px;
@@ -111,6 +148,23 @@ h2, .h2 {
       background: url(../img/img.logo-sm.png) 0 0 no-repeat; 
     }
   }
+}
+
+
+// Tint backgroung
+
+.tint-bg {
+    color: @gray-dark;
+    h1,
+    h2,
+    h3,
+    h4,
+    p,
+    .item-details li:before,
+    .icon i.icn,
+    strong {
+        color: @gray-dark;
+    }
 }
 
 
@@ -128,25 +182,6 @@ h2, .h2 {
         color: @gray-dark;
       }
     }
-  }
-}
-
-
-.ribbon{
-  width: 200px;
-  height: 200px;
-  text-align: center;
-  border-radius: 100000px;
-  display: table;
-  .wrapper{
-    display: table-cell;
-    vertical-align: middle;
-  }
-  span{
-    display: block;
-  }
-  strong{
-    font-size: @font-size-large;
   }
 }
 
@@ -172,21 +207,177 @@ h2, .h2 {
   margin-bottom: 0;
   padding: 8px 10px 12px 10px; 
   .alert-variant(@brand-primary; @brand-primary; @gray-dark);
+  strong{
+    color: @gray-dark; 
+  }
 }
 
 
+// Qué es IMPACT
 
-#financing{
-  .ribbon{
-    position: absolute;
-    top: 0;
-    right: -200px;
+#what-is-impact{
+  #values{
+    .h2{
+      margin-bottom: 30px;
+      @media (min-width: @screen-sm-min) {
+        margin-top: 30px; 
+      }
+    }
   }
-  .classic-blog .post .date{
-    width: 100px;
-    height: 100px;
+  .wrapper{
+    @media (min-width: @screen-xs-min) {
+      width: 335px;
+      .clearfix;
+      .center-block;
+    }
   }
-  .sidemeta .date-wrapper{
-    left: -115px;
-  } 
+  .circle{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    background-color: rgba(0, 0, 0, 0.2);
+    @media (min-width: @screen-xs-min) {
+      margin-right: -15px;
+      float: left;
+    }
+  }
+}
+
+
+// Como funciona IMPACT
+
+#how-it-works{
+  .col-sm-2{
+    &:last-child{
+      .col-inner{
+        @media (min-width: @screen-sm-min) {
+          margin-right: 0;
+          padding-right: 0;
+          border-top: none;
+        }
+      }
+    }
+    @media (min-width: @screen-sm-min) and (max-width: @screen-md-max) {
+      width: 20%;
+      margin-left: 0;
+    }
+    .col-inner{
+      @media (min-width: @screen-sm-min) {
+        margin-right: -30px;
+        padding-right: 30px;
+        border-top: 1px dotted #fff;
+      }
+    }
+  }
+  .line-steps{
+    @media (min-width: @screen-sm-min) {
+      padding-top: 70px;
+    }
+  }
+  .circle{
+    margin-bottom: 25px;
+    position: relative;
+    color: @gray-dark;
+    @media (max-width: @screen-xs-max) {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    @media (min-width: @screen-sm-min) {
+      margin-top: -88px;
+    }
+    @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max){
+      width: 123px;
+      height: 123px;
+      margin-top: -62px;
+      font-size: 15px;
+    }
+    &.arrow{
+      &:after{
+        margin-left: -20px;
+        position: absolute;
+        content: "";
+        border-style: solid;
+        right: auto;
+        bottom: -15px;
+        left: 50%;
+        top: auto;
+        z-index: 1;
+        border-color: @brand-primary transparent transparent transparent;
+        border-width: 20px 20px 0px 20px;
+        @media (min-width: @screen-sm-min) {
+          margin-left: 0;
+          margin-top: -20px;
+          right: -15px;
+          bottom: auto;
+          left: auto;
+          top: 50%;
+          border-color: transparent transparent transparent @brand-primary;
+          border-width: 20px 0px 20px 20px;
+        }
+      }
+    }
+  }
+  .text-small{
+    @media (max-width: @screen-xs-max) {
+      text-align: center;
+    }
+  }
+  .icon-left-open-mini,
+  .icon-right-open-mini{
+    &:before{
+      float: left;
+    }
+  }
+}
+
+
+// Talento IMPACT
+
+#talent-impact{
+  .member{
+    .h4{
+      margin-bottom: 10px;
+    }
+  }
+}
+
+// Hot News
+
+#hot-news{
+  .h2{
+    padding-top: 15px;
+  }
+}
+
+
+// Call to action
+
+#call-to-action{
+  .form-control{
+    width: 280px;
+    @media (min-width: @screen-xs-min) {
+      width: 528px;
+    }
+    @media (min-width: @screen-sm-min) {
+      width: 350px;
+    }
+    @media (min-width: @screen-md-min) {
+      width: 450px;
+    }
+    @media (min-width: @screen-lg-min) {
+      width: 600px;
+    }
+  }
+  .btn-primary{
+    color: #fff;
+    background-color: @main-bg;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active,
+    .open .dropdown-toggle& {
+      color: #fff;
+      background-color: @gray-darker;
+    }   
+  }
 }

@@ -99,6 +99,13 @@ p a {
 	line-height: inherit;
 }
 
+.text-large {
+	font-size: @font-size-large;
+	@media (max-width: @screen-xs-max) {
+		font-size: @font-size-large-xs-max;
+	}
+}
+
 h2 + .text-small {
 	margin-top: -5px;
 }
