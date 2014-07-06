@@ -9345,6 +9345,15 @@ h4,
 #how-it-works .icon-right-open-mini:before {
   float: left;
 }
+.owl-pagination {
+  border-top-style: dotted;
+}
+.owl-page {
+  padding: 0 10px;
+}
+.owl-page .item-link {
+  border-left: -30px;
+}
 #talent-impact .member .h4 {
   margin-bottom: 10px;
 }

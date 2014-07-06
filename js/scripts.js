@@ -15,9 +15,9 @@ $(document).ready(function () {
 /*===================================================================================*/
 /*	OWL CAROUSEL
 /*===================================================================================*/
-
+var owl;
 $(document).ready(function () {
-	$("#owl-work").owlCarousel({
+	owl = $("#owl-work").owlCarousel({
 		autoPlay: 5000,
 		slideSpeed: 200,
 		paginationSpeed: 600,
@@ -25,16 +25,51 @@ $(document).ready(function () {
 		stopOnHover: true,
 		navigation: true,
 		pagination: true,
-		paginationNumbers: true,
 		rewindNav: true,
 		singleItem: true,
 		autoHeight: true,
 		navigationText: ["<i class='icon-left-open-mini'></i>", "<i class='icon-right-open-mini'></i>"],
 		afterInit : function(elem){
-      var that = this
-      that.owlControls.prependTo(elem)
+      var that = this;
+      that.owlControls.prependTo(elem);
+      // adding A to div.owl-page
+      $('.owl-controls .owl-page').append('<a class="item-link" href="#"/>');
+
+      var pafinatorsLink = $('.owl-controls .item-link');
+
+      $.each(this.owl.userItems, function (i) {
+          $(pafinatorsLink[i])
+              // i - counter
+              // Give some styles and set background image for pagination item
+              .text(getPaginationText(i))
+              // set Custom Event for pagination item
+              .click(function (e) {
+                  e.preventDefault();
+                  owl.trigger('owl.goTo', i);
+              });
+
+      });
     }
 	});
+
+	function getPaginationText(i) {
+		switch(i) {
+	    case 0:
+	        return "Requisitos";
+	    case 1:
+	        return "Selección";
+	    case 2:
+	        return "Financiación";
+	    case 3:
+	        return "Aceleración";
+	    case 4:
+	        return "Formación";
+	    case 5:
+	        return "Mentorización";
+	    case 6:
+	        return "Inversores";
+		}
+	}
 
 	$(".slider-next").click(function () {
 		owl.trigger('owl.next');
@@ -73,39 +108,6 @@ $(document).ready(function () {
 
 
 /*===================================================================================*/
-/*	FORM
-/*===================================================================================*/
-
-jQuery(document).ready(function ($) {
-	$('.forms').dcSlickForms();
-});
-
-$(document).ready(function () {
-
-	$('.comment-form input[title], .comment-form textarea').each(function () {
-
-		if ($(this).val() === '') {
-			$(this).val($(this).attr('title'));
-		}
-
-		$(this).focus(function () {
-			if ($(this).val() == $(this).attr('title')) {
-				$(this).val('').addClass('focused');
-			}
-		});
-
-		$(this).blur(function () {
-			if ($(this).val() === '') {
-				$(this).val($(this).attr('title')).removeClass('focused');
-			}
-		});
-
-	});
-
-});
-
-
-/*===================================================================================*/
 /*	DATA REL
 /*===================================================================================*/
 
@@ -125,7 +127,6 @@ $(document).ready(function () {
 		$("[rel=tooltip]").tooltip();
 	}
 });
-
 
 /*===================================================================================*/
 /*	CONVERTING iOS SAFARI VIEWPORT UNITS (BUGGY) INTO PIXELS
