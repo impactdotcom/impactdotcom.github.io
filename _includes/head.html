@@ -1,24 +1,17 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="viewport" content="width=device-width">
+  <meta name="description" content="{{ site.description }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <!-- Bootstrap Core CSS -->
-		<link href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href="{{ "/css/main.min.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 
-		<!-- Reen Core CSS -->
-		<link href="{{ "/css/main.min.css" | prepend: site.baseurl }}" rel="stylesheet">
-		
-		<!-- Fonts -->
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
-		
-		<!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
-		<!--[if lt IE 9]>
-			<script src="bower_components/reen/js/html5shiv.js"></script>
-			<script src="bower_components/reen/js/respond.min.js"></script>
-		<![endif]-->
-
+  <!--[if lt IE 9]>
+    <script src="bower_components/reen/js/html5shiv.js"></script>
+    <script src="bower_components/reen/js/respond.min.js"></script>
+  <![endif]-->
 </head>

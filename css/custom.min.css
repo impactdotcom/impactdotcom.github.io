@@ -4152,7 +4152,7 @@ p .btn {
   padding: 10%;
   font: 0px/0 a;
   /* remove the gap between inline(-block) elements */
-  background: rgba(115, 252, 213, 0.9);
+  background: rgba(115, 252, 214, 0.9);
   -webkit-transition: all 200ms ease-out;
   transition: all 200ms ease-out;
   opacity: 0;
@@ -4371,7 +4371,7 @@ p .btn {
   cursor: default;
 }
 .owl-carousel .item .text-overlay {
-  background: rgba(115, 252, 213, 0.9);
+  background: rgba(115, 252, 214, 0.9);
 }
 .owl-controls {
   display: inline-block;
