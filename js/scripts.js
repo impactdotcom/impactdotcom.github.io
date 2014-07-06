@@ -25,6 +25,7 @@ $(document).ready(function () {
 		stopOnHover: true,
 		navigation: true,
 		pagination: true,
+		paginationNumbers: true,
 		rewindNav: true,
 		singleItem: true,
 		autoHeight: true,
