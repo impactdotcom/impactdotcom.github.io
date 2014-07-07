@@ -135,3 +135,9 @@ $(document).ready(function () {
 $(document).ready(function () {
 	window.viewportUnitsBuggyfill.init(true);
 });
+
+//sistema de smooth scroll para anclas
+$(".scroll").click(function(event){
+    event.preventDefault();
+    $('html,body').animate({scrollTop:$(this.hash).offset().top - 60}, 500);
+});
