@@ -2487,19 +2487,19 @@ footer .contacts li {
 @media (min-width: 768px) {
   #hero h2,
   #hero .h2 {
-    font-size: 50px;
+    font-size: 34px;
   }
 }
 @media (min-width: 992px) {
   #hero h2,
   #hero .h2 {
-    font-size: 50px;
+    font-size: 34px;
   }
 }
 @media (min-width: 1200px) {
   #hero h2,
   #hero .h2 {
-    font-size: 50px;
+    font-size: 34px;
   }
 }
 #hero h3,
@@ -9157,13 +9157,17 @@ h4,
 }
 @media (min-width: 768px) {
   #hero {
-    background-image: url(../../../img/bk.deepbanner.v1.jpg);
+    background-image: url(../../../img/bk.deepbanner-sm.v2.jpg);
   }
 }
 @media (min-width: 768px) {
   #hero .h2 {
     margin-bottom: 40px;
   }
+}
+#hero p {
+  color: #1abb9c;
+  font-size: 25px;
 }
 #hero .brand {
   width: 280px;
