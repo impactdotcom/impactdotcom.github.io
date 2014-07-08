@@ -2993,7 +2993,7 @@ figure.post-media + * {
   height: 100%;
 }
 .light-bg.img-bg-soft:before {
-  background-color: #333333;
+  background-color: #000000;
   opacity: 0.66;
 }
 .dark-bg.img-bg-soft:before {
@@ -3005,7 +3005,7 @@ figure.post-media + * {
   opacity: 0.84;
 }
 .light-bg.img-bg-softer:before {
-  background-color: #333333;
+  background-color: #000000;
   opacity: 0.95;
 }
 .dark-bg.img-bg-softer:before {
@@ -3045,7 +3045,7 @@ figure.post-media + * {
   border-color: #BCC7D1;
 }
 .light-bg .sidelines span {
-  background: #333333;
+  background: #000000;
 }
 .dark-bg .sidelines {
   border-color: #73879C;
@@ -3148,7 +3148,7 @@ figure.post-media + * {
   margin-top: -2px;
 }
 .light-bg {
-  background-color: #333333;
+  background-color: #000000;
 }
 .dark-bg {
   background-color: #000000;
@@ -3814,7 +3814,7 @@ p .btn {
   }
 }
 .tabs-side .tab:last-child a {
-  border-bottom: 1px solid #1a1a1a;
+  border-bottom: 1px solid #000000;
   border-bottom-left-radius: 3px;
 }
 @media (max-width: 767px) {
@@ -3844,14 +3844,14 @@ p .btn {
 }
 .tabs-side .tab a {
   display: block;
-  background: #333333;
+  background: #000000;
   color: #bfbfbf;
   font-size: 14px;
   line-height: 130%;
   font-weight: 700;
   text-transform: uppercase;
   padding: 15px;
-  border: 1px solid #1a1a1a;
+  border: 1px solid #000000;
   border-right-color: #ffffff;
   border-bottom: none;
   overflow: hidden;
@@ -4571,13 +4571,13 @@ p .btn {
   }
 }
 .light-bg .format-filter li {
-  background: #333333;
+  background: #000000;
 }
 .light-bg .filter:before {
   border-color: #BCC7D1;
 }
 .light-bg .filter li {
-  background: #333333;
+  background: #000000;
 }
 .dark-bg .filter:before {
   border-color: #73879C;
@@ -5941,7 +5941,7 @@ h1.post-title {
 .arrow-top-md.light-bg:before,
 .arrow-top-sm.light-bg:before,
 .arrow-top-xs.light-bg:before {
-  border-color: transparent transparent #333333 transparent;
+  border-color: transparent transparent #000000 transparent;
 }
 .arrow-top.dark-bg:before,
 .arrow-top-md.dark-bg:before,
@@ -5992,7 +5992,7 @@ h1.post-title {
 .arrow-bottom-md.light-bg:after,
 .arrow-bottom-sm.light-bg:after,
 .arrow-bottom-xs.light-bg:after {
-  border-color: #333333 transparent transparent transparent;
+  border-color: #000000 transparent transparent transparent;
 }
 .arrow-bottom.dark-bg:after,
 .arrow-bottom-md.dark-bg:after,
