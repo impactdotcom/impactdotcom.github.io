@@ -2230,7 +2230,7 @@ a {
   transition: all 200ms ease-out;
 }
 main {
-  background-color: #333333;
+  background-color: #222222;
 }
 main header + * {
   margin-top: 35px !important;
@@ -3026,7 +3026,7 @@ figure.post-media + * {
 .sidelines span {
   position: relative;
   top: .5em;
-  background: #333333;
+  background: #222222;
   padding: 0 .5em 0 0;
 }
 .sidelines.text-right span,
@@ -3826,10 +3826,10 @@ p .btn {
   z-index: 2;
 }
 .tabs-side .tab.active a {
-  background: #333333;
+  background: #222222;
   color: #73fcd6;
   border-color: #ffffff;
-  border-right-color: #333333;
+  border-right-color: #222222;
 }
 @media (max-width: 767px) {
   .tabs-side .tab.active a {
@@ -5934,7 +5934,7 @@ h1.post-title {
   right: auto;
   bottom: auto;
   left: 50%;
-  border-color: transparent transparent #333333 transparent;
+  border-color: transparent transparent #222222 transparent;
   z-index: 1;
 }
 .arrow-top.light-bg:before,
@@ -5985,7 +5985,7 @@ h1.post-title {
   left: 50%;
   right: auto;
   top: auto;
-  border-color: #333333 transparent transparent transparent;
+  border-color: #222222 transparent transparent transparent;
   z-index: 1;
 }
 .arrow-bottom.light-bg:after,
