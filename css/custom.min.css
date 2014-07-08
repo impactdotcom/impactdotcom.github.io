@@ -5717,14 +5717,14 @@ h1.post-title {
   border-color: transparent transparent #73fcd6 transparent;
 }
 .arrow-top:before {
+  margin-left: -30px;
+  top: -30px;
+  border-width: 0px 30px 30px 30px;
+}
+.arrow-top-md:before {
   margin-left: -20px;
   top: -20px;
   border-width: 0px 20px 20px 20px;
-}
-.arrow-top-md:before {
-  margin-left: -15px;
-  top: -15px;
-  border-width: 0px 15px 15px 15px;
 }
 .arrow-top-sm:before {
   margin-left: -10px;
@@ -5768,14 +5768,14 @@ h1.post-title {
   border-color: #73fcd6 transparent transparent transparent;
 }
 .arrow-bottom:after {
+  margin-left: -30px;
+  bottom: -30px;
+  border-width: 30px 30px 0px 30px;
+}
+.arrow-bottom-md:after {
   margin-left: -20px;
   bottom: -20px;
   border-width: 20px 20px 0px 20px;
-}
-.arrow-bottom-md:after {
-  margin-left: -15px;
-  bottom: -15px;
-  border-width: 15px 15px 0px 15px;
 }
 .arrow-bottom-sm:after {
   margin-left: -10px;

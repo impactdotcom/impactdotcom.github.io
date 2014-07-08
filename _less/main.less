@@ -248,6 +248,14 @@ h4, .h4 {
       float: left;
     }
   }
+  ul.list-objetivos li {
+    margin-bottom:20px;
+    font-weight: 600;
+    .tint-bg {
+      padding: 5px;
+      line-height: 165%;
+    }
+  }
 }
 
 
@@ -400,4 +408,15 @@ h4, .h4 {
       background-color: @gray-darker;
     }
   }
+}
+
+.arrow-bottom {
+  border-bottom-color: #fff;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+.arrow-bottom.dark-bg:after, .arrow-bottom-md.dark-bg:after, .arrow-bottom-sm.dark-bg:after, .arrow-bottom-xs.dark-bg:after,
+.arrow-bottom:after, .arrow-bottom-md:after, .arrow-bottom-sm:after, .arrow-bottom-xs:after, .arrow-bottom.light-bg:after, .arrow-bottom-md.light-bg:after, .arrow-bottom-sm.light-bg:after, .arrow-bottom-xs.light-bg:after {
+  border-color: #fff transparent transparent transparent;
 }
