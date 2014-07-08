@@ -18,13 +18,13 @@ module.exports = function(grunt) {
           src: ['*.less','!bootstrap/**/*','!custom/**/*','!variables.less'],
           dest: 'css',
           ext: '.min.css'
-        }]   
+        }]
       }
     }
   });
- 
+
   grunt.loadNpmTasks('grunt-contrib-less');
-  grunt.loadNpmTasks('grunt-contrib-watch'); 
+  grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.registerTask('default', ['watch']);
 };
 

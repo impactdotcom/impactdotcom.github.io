@@ -1,10 +1,11 @@
 # Site settings
 title: Impact - Start. Accelerate. Impact.
-email: info@impact.com
+email: info@impact-accelerator.com
 description: "Subvencionamos, Aceleramos e Invertimos en los Mejores Emprendimientos de Internet Mobile Ayudándoles a Generar Impacto Global."
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://www.impact-accelerator.com"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude: [bower_components, custom_components/custom/examples, custom_components/custom/less, node_modules]
