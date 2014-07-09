@@ -9384,6 +9384,9 @@ h4,
   font-weight: 600;
   text-transform: uppercase;
 }
+.navbar-inverse {
+  border-color: transparent;
+}
 .navbar-brand {
   font-weight: 900;
 }
