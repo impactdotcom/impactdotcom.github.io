@@ -129,7 +129,7 @@ $(document).ready(function () {
 });
 
 /*===================================================================================*/
-/*	CONVERTING iOS SAFARI VIEWPORT UNITS (BUGGY) INTO PIXELS
+/* CONVERTING iOS SAFARI VIEWPORT UNITS (BUGGY) INTO PIXELS
 /*===================================================================================*/
 
 $(document).ready(function () {
@@ -139,5 +139,5 @@ $(document).ready(function () {
 //sistema de smooth scroll para anclas
 $(".scroll").click(function(event){
     event.preventDefault();
-    $('html,body').animate({scrollTop:$(this.hash).offset().top - 60}, 500);
+    $('html,body').animate({scrollTop:$(this.hash).offset().top - 96}, 500);
 });

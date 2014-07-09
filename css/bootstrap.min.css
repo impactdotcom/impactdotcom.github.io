@@ -4012,7 +4012,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-inverse {
   background-color: #222222;
-  border-color: #000000;
+  border-color: #ffffff;
 }
 .navbar-inverse .navbar-brand {
   color: #ffffff;
@@ -4067,10 +4067,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (max-width: 1199px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
-    border-color: #000000;
+    border-color: #ffffff;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu .divider {
-    background-color: #000000;
+    background-color: #ffffff;
   }
   .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
     color: #bfbfbf;

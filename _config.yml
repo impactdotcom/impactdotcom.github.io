@@ -8,4 +8,4 @@ url: "http://www.impact-accelerator.com"
 # Build settings
 markdown: kramdown
 permalink: pretty
-exclude: [bower_components, custom_components/custom/examples, custom_components/custom/less, node_modules]
+exclude: [.less, bower_components, custom_components/custom/examples, custom_components/custom/less, node_modules]
