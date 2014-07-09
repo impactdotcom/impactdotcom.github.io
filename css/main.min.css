@@ -9560,16 +9560,16 @@ h4,
   }
 }
 #how-it-works .tabs-circle-top .tab.active {
-  top: -5px;
+  top: 5px;
 }
 #how-it-works .tabs-circle-top .tab.active a {
-  height: 140px;
-  width: 140px;
-  max-width: 140px;
+  height: 130px;
+  width: 130px;
+  max-width: 130px;
   color: #404040;
 }
 #how-it-works .tabs-circle-top .tab {
-  height: 140px;
+  height: 130px;
 }
 #how-it-works .tabs-circle-top.tab-container .panel-container {
   margin-top: 0;
