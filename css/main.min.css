@@ -9595,6 +9595,15 @@ h4,
 #hot-news .h2 {
   padding-top: 15px;
 }
+#hot-news .tabs-side .tab a {
+  background: #333;
+}
+#hot-news .tabs-side .tab a:hover {
+  color: #73fcd6;
+}
+#hot-news .tabs-side .tab.active a {
+  background: #222;
+}
 #call-to-action .form-control {
   width: 280px;
 }
