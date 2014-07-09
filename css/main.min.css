@@ -9387,6 +9387,24 @@ h4,
 .navbar-brand {
   font-weight: 900;
 }
+.footer-bottom li,
+.header-top a {
+  display: table-cell;
+  vertical-align: middle;
+  height: 40px;
+}
+footer .inner {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.footer-menu li:before {
+  display: inline-block;
+  content: "·";
+  padding-right: 12px;
+}
+.footer-menu li:first-child:before {
+  display: none;
+}
 .tabs-side .tab a:hover {
   color: #333333;
 }
