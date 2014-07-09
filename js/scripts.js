@@ -15,6 +15,7 @@ $(document).ready(function () {
 /*===================================================================================*/
 /*	OWL CAROUSEL
 /*===================================================================================*/
+/*
 var owl;
 $(document).ready(function () {
 	owl = $("#owl-work").owlCarousel({
@@ -80,7 +81,7 @@ $(document).ready(function () {
 	});
 
 });
-
+*/
 /*===================================================================================*/
 /*	TABS
 /*===================================================================================*/
@@ -139,5 +140,5 @@ $(document).ready(function () {
 //sistema de smooth scroll para anclas
 $(".scroll").click(function(event){
     event.preventDefault();
-    $('html,body').animate({scrollTop:$(this.hash).offset().top - 96}, 500);
+    $('html,body').animate({scrollTop:$(this.hash).offset().top - 97}, 500);
 });
