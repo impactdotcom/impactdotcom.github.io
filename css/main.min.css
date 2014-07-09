@@ -9596,7 +9596,7 @@ footer .inner {
   margin-top: 0;
 }
 #how-it-works .tabs-circle-top .tab a {
-  padding: 3px;
+  padding: 0;
 }
 #how-it-works .tabs-circle-top .tab a:hover {
   border: 8px solid #73fcd6;
