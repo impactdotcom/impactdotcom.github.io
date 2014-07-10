@@ -9419,14 +9419,12 @@ footer .inner {
   #hero {
     background-image: url(../../../img/bk.deepbanner.v4.jpg);
   }
-}
-@media (min-width: 768px) {
   #hero .h2 {
     margin-bottom: 40px;
   }
-}
-#hero p {
-  font-size: 25px;
+  #hero p {
+    font-size: 25px;
+  }
 }
 #hero .dark-bg {
   background-color: transparent;
@@ -9499,6 +9497,14 @@ footer .inner {
 #alert-hot-new strong {
   color: #333333;
 }
+.text-normal {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  .text-normal {
+    font-size: inherit;
+  }
+}
 #what-is-impact #values .h2 {
   margin-bottom: 30px;
 }
@@ -9524,26 +9530,21 @@ footer .inner {
     clear: both;
   }
 }
-#what-is-impact .circle {
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 15px;
-  background-color: rgba(0, 0, 0, 0.2);
-}
-@media (min-width: 480px) {
-  #what-is-impact .circle {
-    margin-right: -15px;
-    float: left;
-  }
-}
 #what-is-impact ul.list-objetivos li {
-  margin-bottom: 20px;
-  font-weight: 600;
-  font-size: 28px;
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 20px;
 }
 #what-is-impact ul.list-objetivos li .tint-bg {
   padding: 5px;
   line-height: 165%;
+}
+@media (min-width: 768px) {
+  #what-is-impact ul.list-objetivos li {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 28px;
+  }
 }
 #what-is-impact h2 {
   font-weight: 300;
