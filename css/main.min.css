@@ -9601,6 +9601,8 @@ footer .inner {
 }
 #how-it-works #tab-requisitos {
   padding-top: 50px;
+  background-image: url("/img/diapos/requisitos/fondo.gif");
+  background-repeat: no-repeat;
 }
 #talent-impact .member .h4 {
   margin-bottom: 10px;
