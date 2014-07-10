@@ -9555,66 +9555,42 @@ footer .inner {
 .arrow-bottom-what-is:after {
   border-color: #222 transparent transparent;
 }
+#how-it-works {
+  /*
+
+  .tabs-circle-top .tab.active {
+    top: 5px;
+  }
+  .tabs-circle-top .tab.active a {
+    height: 130px;
+    width: 130px;
+    max-width: 130px;
+    color: #404040;
+  }
+  .tabs-circle-top .tab {
+    height: 130px;
+  }
+  .tabs-circle-top.tab-container .panel-container {
+    margin-top: 0;
+  }
+  .tabs-circle-top .tab a {
+    padding: 0;
+  }
+  .tabs-circle-top .tab a:hover {
+    border: 8px solid @brand-primary;
+  }
+  */
+}
 #how-it-works h1 {
   color: #000;
 }
 #how-it-works h1 strong {
   color: #000;
 }
-@media (min-width: 768px) {
-  #how-it-works .col-sm-2:last-child .col-inner {
-    margin-right: 0;
-    padding-right: 0;
-    border-top: none;
-  }
-}
-@media (min-width: 768px) and (max-width: 1199px) {
-  #how-it-works .col-sm-2 {
-    width: 20%;
-    margin-left: 0;
-  }
-}
-@media (min-width: 768px) {
-  #how-it-works .col-sm-2 .col-inner {
-    margin-right: -30px;
-    padding-right: 30px;
-    border-top: 1px dotted #fff;
-  }
-}
-@media (min-width: 768px) {
-  #how-it-works .line-steps {
-    padding-top: 70px;
-  }
-}
-#how-it-works .tabs-circle-top .tab.active {
-  top: 5px;
-}
-#how-it-works .tabs-circle-top .tab.active a {
-  height: 130px;
-  width: 130px;
-  max-width: 130px;
-  color: #404040;
-}
-#how-it-works .tabs-circle-top .tab {
-  height: 130px;
-}
-#how-it-works .tabs-circle-top.tab-container .panel-container {
-  margin-top: 0;
-}
-#how-it-works .tabs-circle-top .tab a {
-  padding: 0;
-}
-#how-it-works .tabs-circle-top .tab a:hover {
-  border: 8px solid #73fcd6;
-}
 @media (max-width: 767px) {
   #how-it-works .text-small {
     text-align: center;
   }
-}
-#how-it-works .icon-left-open-mini:before,
-#how-it-works .icon-right-open-mini:before {
-  float: left;
 }
 #talent-impact .member .h4 {
   margin-bottom: 10px;
