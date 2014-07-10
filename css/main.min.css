@@ -9417,7 +9417,7 @@ footer .inner {
 }
 @media (min-width: 768px) {
   #hero {
-    background-image: url(../../../img/bk.deepbanner-sm.v2.jpg);
+    background-image: url(../../../img/bk.deepbanner.v4.jpg);
   }
 }
 @media (min-width: 768px) {
@@ -9429,7 +9429,12 @@ footer .inner {
   font-size: 25px;
 }
 #hero .dark-bg {
+  background-color: transparent;
   color: #1abb9c;
+}
+#hero .dark-bg.img-bg-soft:before {
+  background-color: #000000;
+  opacity: 0.5;
 }
 #hero .brand {
   width: 280px;
