@@ -9423,7 +9423,7 @@ footer .inner {
     margin-bottom: 40px;
   }
   #hero p {
-    font-size: 25px;
+    font-size: 30px;
   }
 }
 #hero .dark-bg {
@@ -9555,42 +9555,52 @@ footer .inner {
 .arrow-bottom-what-is:after {
   border-color: #222 transparent transparent;
 }
-#how-it-works {
-  /*
-
-  .tabs-circle-top .tab.active {
-    top: 5px;
-  }
-  .tabs-circle-top .tab.active a {
-    height: 130px;
-    width: 130px;
-    max-width: 130px;
-    color: #404040;
-  }
-  .tabs-circle-top .tab {
-    height: 130px;
-  }
-  .tabs-circle-top.tab-container .panel-container {
-    margin-top: 0;
-  }
-  .tabs-circle-top .tab a {
-    padding: 0;
-  }
-  .tabs-circle-top .tab a:hover {
-    border: 8px solid @brand-primary;
-  }
-  */
-}
 #how-it-works h1 {
   color: #000;
 }
 #how-it-works h1 strong {
   color: #000;
 }
-@media (max-width: 767px) {
-  #how-it-works .text-small {
-    text-align: center;
+@media (min-width: 768px) {
+  #how-it-works .tabs-circle-top .tab.active {
+    top: 5px;
   }
+  #how-it-works .tabs-circle-top .tab.active a {
+    height: 130px;
+    width: 130px;
+    max-width: 130px;
+    color: #404040;
+  }
+  #how-it-works .tabs-circle-top .tab {
+    height: 130px;
+  }
+  #how-it-works .tabs-circle-top.tab-container .panel-container {
+    margin-top: 0;
+  }
+  #how-it-works .tabs-circle-top .tab a {
+    padding: 0;
+  }
+  #how-it-works .tabs-circle-top .tab a:hover {
+    border: 8px solid #73fcd6;
+  }
+}
+#how-it-works p,
+#how-it-works li {
+  color: #404040;
+}
+#how-it-works p strong,
+#how-it-works li strong {
+  color: #404040;
+}
+#how-it-works ul.lista-requisitos i {
+  color: #73fcd6;
+  font-size: 30px;
+}
+#how-it-works .well {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+#how-it-works #tab-requisitos {
+  padding-top: 50px;
 }
 #talent-impact .member .h4 {
   margin-bottom: 10px;
