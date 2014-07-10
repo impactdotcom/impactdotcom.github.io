@@ -9660,6 +9660,10 @@ footer .inner {
   color: #fff;
   background-color: #222222;
 }
+#call-to-action .social li a i {
+  color: #fff;
+  font-size: 40px;
+}
 .vcenter {
   display: inline-block;
   vertical-align: middle;
