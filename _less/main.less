@@ -313,21 +313,41 @@ footer .inner {
     color: @dark-color;
   }
 
-
+  .tabs-circle-top .tab.active a {
+    height: 130px;
+    width: 130px;
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      height: 110px;
+      width: 110px;
+      max-width: 110px;
+      font-size:12px;
+    }
+    @media (max-width: @screen-sm-max) {
+      height: 100px;
+      width: 100px;
+      max-width: 100px;
+    }
+  }
 
   @media (min-width: @screen-sm-min) {
     .tabs-circle-top .tab.active {
       top: 5px;
     }
+
     .tabs-circle-top .tab.active a {
-      height: 130px;
-      width: 130px;
-      max-width: 130px;
       color: #404040;
     }
+
     .tabs-circle-top .tab {
       height: 130px;
+      @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+        height: 110px;
+      }
+      @media (max-width: @screen-sm-max) {
+        height: 100px;
+      }
     }
+
     .tabs-circle-top.tab-container .panel-container {
       margin-top: 0;
     }
@@ -335,7 +355,7 @@ footer .inner {
       padding: 0;
     }
     .tabs-circle-top .tab a:hover {
-      border: 8px solid @brand-primary;
+      border: 4px solid @brand-primary;
     }
   }
 
@@ -358,6 +378,12 @@ footer .inner {
 
   #tab-requisitos {
     background-image: url("/img/diapos/requisitos/fondo.gif");
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background-position: -25px 0;
+    }
+    @media (max-width: @screen-sm-max) {
+      background-position: -100px 0;
+    }
   }
   ul.lista-requisitos i {
     color: @brand-primary;
@@ -369,6 +395,12 @@ footer .inner {
 
   #tab-seleccion {
     background-image: url("/img/diapos/seleccion/fondo.gif");
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background-position: -55px 0;
+    }
+    @media (max-width: @screen-sm-max) {
+      background-position: -150px 0;
+    }
   }
   #tab-seleccion ol li {
     color: @brand-primary;
@@ -380,18 +412,42 @@ footer .inner {
 
   #tab-financiacion {
     background-image: url("/img/diapos/financiacion/fondo.gif");
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background-position: -85px 0;
+    }
+    @media (max-width: @screen-sm-max) {
+      background-position: -200px 0;
+    }
   }
 
   #tab-formacion {
     background-image: url("/img/diapos/formacion/fondo.gif");
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background-position: -115px 0;
+    }
+    @media (max-width: @screen-sm-max) {
+      background-position: -250px 0;
+    }
   }
 
   #tab-mentoring {
     background-image: url("/img/diapos/mentoring/fondo.gif");
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background-position: -145px 0;
+    }
+    @media (max-width: @screen-sm-max) {
+      background-position: -300px 0;
+    }
   }
 
   #tab-inversores {
     background-image: url("/img/diapos/inversores/fondo.gif");
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background-position: -175px 0;
+    }
+    @media (max-width: @screen-sm-max) {
+      background-position: -350px 0;
+    }
   }
 }
 

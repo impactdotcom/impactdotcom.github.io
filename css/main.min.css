@@ -9566,14 +9566,30 @@ footer .inner {
 #how-it-works a:hover {
   color: #404040;
 }
+#how-it-works .tabs-circle-top .tab.active a {
+  height: 130px;
+  width: 130px;
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works .tabs-circle-top .tab.active a {
+    height: 110px;
+    width: 110px;
+    max-width: 110px;
+    font-size: 12px;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works .tabs-circle-top .tab.active a {
+    height: 100px;
+    width: 100px;
+    max-width: 100px;
+  }
+}
 @media (min-width: 768px) {
   #how-it-works .tabs-circle-top .tab.active {
     top: 5px;
   }
   #how-it-works .tabs-circle-top .tab.active a {
-    height: 130px;
-    width: 130px;
-    max-width: 130px;
     color: #404040;
   }
   #how-it-works .tabs-circle-top .tab {
@@ -9586,7 +9602,17 @@ footer .inner {
     padding: 0;
   }
   #how-it-works .tabs-circle-top .tab a:hover {
-    border: 8px solid #73fcd6;
+    border: 4px solid #73fcd6;
+  }
+}
+@media (min-width: 768px) and (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works .tabs-circle-top .tab {
+    height: 110px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  #how-it-works .tabs-circle-top .tab {
+    height: 100px;
   }
 }
 #how-it-works .tabs-circle-top .tab.active a.active:hover {
@@ -9612,6 +9638,16 @@ footer .inner {
 #how-it-works #tab-requisitos {
   background-image: url("/img/diapos/requisitos/fondo.gif");
 }
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works #tab-requisitos {
+    background-position: -25px 0;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works #tab-requisitos {
+    background-position: -100px 0;
+  }
+}
 #how-it-works ul.lista-requisitos i {
   color: #73fcd6;
   font-size: 30px;
@@ -9621,6 +9657,16 @@ footer .inner {
 }
 #how-it-works #tab-seleccion {
   background-image: url("/img/diapos/seleccion/fondo.gif");
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works #tab-seleccion {
+    background-position: -55px 0;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works #tab-seleccion {
+    background-position: -150px 0;
+  }
 }
 #how-it-works #tab-seleccion ol li {
   color: #73fcd6;
@@ -9632,14 +9678,54 @@ footer .inner {
 #how-it-works #tab-financiacion {
   background-image: url("/img/diapos/financiacion/fondo.gif");
 }
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works #tab-financiacion {
+    background-position: -85px 0;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works #tab-financiacion {
+    background-position: -200px 0;
+  }
+}
 #how-it-works #tab-formacion {
   background-image: url("/img/diapos/formacion/fondo.gif");
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works #tab-formacion {
+    background-position: -115px 0;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works #tab-formacion {
+    background-position: -250px 0;
+  }
 }
 #how-it-works #tab-mentoring {
   background-image: url("/img/diapos/mentoring/fondo.gif");
 }
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works #tab-mentoring {
+    background-position: -145px 0;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works #tab-mentoring {
+    background-position: -300px 0;
+  }
+}
 #how-it-works #tab-inversores {
   background-image: url("/img/diapos/inversores/fondo.gif");
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works #tab-inversores {
+    background-position: -175px 0;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works #tab-inversores {
+    background-position: -350px 0;
+  }
 }
 #talent-impact .member .h4 {
   margin-bottom: 10px;
