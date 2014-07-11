@@ -9549,6 +9549,9 @@ h4,
   line-height: 1.33;
   border-radius: 6px;
 }
+.btn-sm {
+  padding: 10px 10px;
+}
 .btn-primary {
   color: #333333;
 }
@@ -9702,6 +9705,11 @@ footer .inner {
 @media (min-width: 768px) {
   .text-normal {
     font-size: inherit;
+  }
+}
+@media (min-width: 768px) {
+  .navbar-nav .text-normal {
+    font-size: 20px;
   }
 }
 #what-is-impact #values .h2 {

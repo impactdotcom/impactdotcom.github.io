@@ -67,6 +67,10 @@ h4, .h4 {
   .button-size(11px; @padding-large-horizontal; @font-size-large; @line-height-large; @border-radius-large);
 }
 
+.btn-sm{
+  padding: 10px 10px;
+}
+
 .btn-primary{
   color: @gray-dark;
   &:hover,
@@ -108,6 +112,8 @@ h4, .h4 {
 .navbar-brand{
   font-weight: 900;
 }
+
+
 
 // Footer
 .footer-bottom li, .header-top a {
@@ -262,6 +268,12 @@ footer .inner {
   font-size: 14px;
   @media (min-width: @screen-sm-min) {
     font-size: inherit;
+  }
+}
+
+.navbar-nav .text-normal {
+  @media (min-width: @screen-sm-min) {
+    font-size: 20px;
   }
 }
 
