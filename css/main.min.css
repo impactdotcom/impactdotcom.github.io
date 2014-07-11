@@ -9555,11 +9555,16 @@ footer .inner {
 .arrow-bottom-what-is:after {
   border-color: #222 transparent transparent;
 }
-#how-it-works h1 {
-  color: #000;
+#how-it-works h1,
+#how-it-works h2 {
+  color: #404040;
 }
-#how-it-works h1 strong {
-  color: #000;
+#how-it-works h1 strong,
+#how-it-works h2 strong {
+  color: #404040;
+}
+#how-it-works a:hover {
+  color: #404040;
 }
 @media (min-width: 768px) {
   #how-it-works .tabs-circle-top .tab.active {
@@ -9584,6 +9589,9 @@ footer .inner {
     border: 8px solid #73fcd6;
   }
 }
+#how-it-works .tabs-circle-top .tab.active a.active:hover {
+  color: #fff;
+}
 #how-it-works p,
 #how-it-works li {
   color: #404040;
@@ -9592,6 +9600,18 @@ footer .inner {
 #how-it-works li strong {
   color: #404040;
 }
+#how-it-works #tab-requisitos,
+#how-it-works #tab-seleccion,
+#how-it-works #tab-financiacion,
+#how-it-works #tab-formacion,
+#how-it-works #tab-mentoring,
+#how-it-works #tab-inversores {
+  padding-top: 50px;
+  background-repeat: no-repeat;
+}
+#how-it-works #tab-requisitos {
+  background-image: url("/img/diapos/requisitos/fondo.gif");
+}
 #how-it-works ul.lista-requisitos i {
   color: #73fcd6;
   font-size: 30px;
@@ -9599,10 +9619,27 @@ footer .inner {
 #how-it-works .well {
   background-color: rgba(0, 0, 0, 0.05);
 }
-#how-it-works #tab-requisitos {
-  padding-top: 50px;
-  background-image: url("/img/diapos/requisitos/fondo.gif");
-  background-repeat: no-repeat;
+#how-it-works #tab-seleccion {
+  background-image: url("/img/diapos/seleccion/fondo.gif");
+}
+#how-it-works #tab-seleccion ol li {
+  color: #73fcd6;
+  font-weight: 800;
+}
+#how-it-works #tab-seleccion ol li p {
+  font-weight: normal;
+}
+#how-it-works #tab-financiacion {
+  background-image: url("/img/diapos/financiacion/fondo.gif");
+}
+#how-it-works #tab-formacion {
+  background-image: url("/img/diapos/formacion/fondo.gif");
+}
+#how-it-works #tab-mentoring {
+  background-image: url("/img/diapos/mentoring/fondo.gif");
+}
+#how-it-works #tab-inversores {
+  background-image: url("/img/diapos/inversores/fondo.gif");
 }
 #talent-impact .member .h4 {
   margin-bottom: 10px;
