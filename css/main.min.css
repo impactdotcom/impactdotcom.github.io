@@ -10005,6 +10005,12 @@ footer .inner {
   color: #fff;
   font-size: 40px;
 }
+@media (max-width: 992px) {
+  #call-to-action .social li a i {
+    font-size: 35px;
+    width: 35px;
+  }
+}
 #call-to-action .social li a:hover i {
   color: #000;
 }
