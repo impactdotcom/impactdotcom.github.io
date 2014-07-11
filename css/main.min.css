@@ -9775,6 +9775,15 @@ footer .inner {
 #how-it-works a:hover {
   color: #404040;
 }
+#how-it-works .panel-title > a span {
+  color: #404040;
+}
+#how-it-works .panel-title > a {
+  background-color: #73fcd6;
+}
+#how-it-works .panel-title > a.collapsed {
+  background-color: #F8FAFD;
+}
 #how-it-works .tabs-circle-top .tab.active a {
   height: 130px;
   width: 130px;
