@@ -9556,11 +9556,13 @@ footer .inner {
   border-color: #222 transparent transparent;
 }
 #how-it-works h1,
-#how-it-works h2 {
+#how-it-works h2,
+#how-it-works h3 {
   color: #404040;
 }
 #how-it-works h1 strong,
-#how-it-works h2 strong {
+#how-it-works h2 strong,
+#how-it-works h3 strong {
   color: #404040;
 }
 #how-it-works a:hover {
