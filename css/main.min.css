@@ -9628,6 +9628,11 @@ footer .inner {
     font-size: 30px;
   }
 }
+@media (max-width: 768px) {
+  #hero {
+    background-image: url(../../../img/bk.deepbanner.verde_sm.jpg);
+  }
+}
 #hero .dark-bg {
   background-color: transparent;
   color: #1abb9c;
