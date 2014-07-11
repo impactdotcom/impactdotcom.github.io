@@ -9565,6 +9565,9 @@ footer .inner {
 #how-it-works h3 strong {
   color: #404040;
 }
+#how-it-works h3 {
+  text-transform: uppercase;
+}
 #how-it-works a:hover {
   color: #404040;
 }
@@ -9650,6 +9653,9 @@ footer .inner {
     background-position: -100px 0;
   }
 }
+#how-it-works #tab-requisitos .text-large {
+  font-size: 20px;
+}
 #how-it-works ul.lista-requisitos i {
   color: #73fcd6;
   font-size: 30px;
@@ -9671,7 +9677,7 @@ footer .inner {
   }
 }
 #how-it-works #tab-seleccion ol li {
-  color: #73fcd6;
+  color: #404040;
   font-weight: 800;
 }
 #how-it-works #tab-seleccion ol li p {
@@ -9715,6 +9721,9 @@ footer .inner {
   #how-it-works #tab-mentoring {
     background-position: -300px 0;
   }
+}
+#how-it-works #tab-mentoring ul li {
+  padding-bottom: 20px;
 }
 #how-it-works #tab-inversores {
   background-image: url("/img/diapos/inversores/fondo.gif");
