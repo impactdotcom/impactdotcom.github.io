@@ -129,6 +129,15 @@ footer .inner {
 .footer-menu li:first-child:before {
     display: none;
 }
+@media (max-width: @screen-sm-min) {
+  .footer-menu li {
+    display: list-item;
+  }
+  .footer-menu li:before {
+    content: "";
+    padding-right: 0;
+  }
+}
 
 // Tabs on side
 .tabs-side{
@@ -292,6 +301,11 @@ footer .inner {
   }
   h2 {
     font-weight: 300;
+  }
+  @media (max-width: @screen-sm-min) {
+    .icon i.icn.lg {
+      font-size: 50px;
+    }
   }
 
 }

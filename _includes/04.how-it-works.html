@@ -3,7 +3,7 @@
 		<header class="text-center inner-bottom-xs">
 			<h1 class="single-block"><strong>Como funciona</strong> IMPACT</h1>
 		</header>
-		<div class="row">
+		<div class="row hidden-xs">
 			<div class="col-xs-12">
 				<div class="tabs tabs-services tabs-circle-top tab-container">
 					<ul class="etabs text-center">
@@ -20,9 +20,7 @@
 							<div class="row">
 								<div class="col-sm-8">
 									<h2>Requisitos</h2>
-									<p>
-										Emprendedores digitales, start-ups o PYMES establecidas en <strong>Europa</strong> o al menos con <strong>su equipo directivo</strong> en Europa, en las que <strong>Mobile</strong><sup>*</sup> es clave en su modelo de negocio y utilicen las <strong>tecnologías FI</strong>.
-									</p>
+									{% include entradillas/requisitos.html %}
 									<p class="text-center"><img src="/img/diapos/requisitos/mapa.png" alt="Sede en Europa y Mobile"></p>
 
 								</div>
@@ -59,14 +57,8 @@
 							<div class="row">
 								<div class="col-sm-12">
 									<h2>Proceso de selección</h2>
-									<p>
-										Se desarrollarán 3 fases de selección. Cada fase se inicia con una <strong>Convocatoria Pública (Open Call)</strong> a nivel europeo.
-									</p>
-									<ol>
-										 <li><p>Los candidatos presentarán sus proyectos a través de la plataforma online Funding Box. Aquellos que cumplan con los standards solicitados pasarán a la siguiente fase de Selección.</p></li>
-										 	<li><p>En fase 2 los proyectos serán valorados por un Panel de Expertos Independiente. Los mejor puntuados presentarán su proyecto delante de un jurado (Jury Day).</p></li>
-										 	<li><p>Por último, el Comité de Selección definirá en el Jury Day a las startups finalistas para comenzar al Programa de Aceleración.</p></li>
-									</ol>
+									{% include entradillas/seleccion.html %}
+
 									<p class="text-center"><img src="/img/diapos/seleccion/grafico.png" alt="Se desarrollarán 3 fases de selección."  class="img-responsive" ></p>
 								</div>
 							</div>
@@ -76,9 +68,8 @@
 							<div class="row">
 								<div class="col-sm-12">
 									<h2>Fases de financiación</h2>
-									<p>
-										El dinero se desembolsará en 3 tramos a lo largo del proceso de aceleración, y en función del cumplimiento de unos hitos de negocio marcados por los emprendedores y sus mentores.
-									</p>
+									{% include entradillas/financiacion.html %}
+
 									<p class="text-center"><img src="/img/diapos/financiacion/grafico.png" alt="Se desarrollarán 3 fases de selección."  class="img-responsive" ></p>
 								</div>
 							</div>
@@ -132,14 +123,8 @@
 							<h2>Mentoring</h2>
 							<div class="row">
 								<div class="col-sm-12">
+									{% include entradillas/mentoring.html %}
 
-									<p>
-										Las start-ups seleccionadas seguirán un proceso de mentorización a lo largo de 6 meses con el objetivo de cumplir los Hitos y llevar a los proyectos al siguiente nivel.
-										<ul class="circled">
-											<li><strong>Mentor de Follow Up</strong>: profesionales con perfil multifuncional y fundadores de startups, cuyo objetivo es guiar a la startup de manera holística a través de los entregables de cada hito a lo largo del proceso de aceleración.</li>
-											<li><strong>Mentores Especialistas bajo demanda</strong>: profesionales con perfil específico a disposición de las startups para tratar temas especializados.</li>
-										</ul>
-									</p>
 									<p class="text-center"><a href="#talent-impact" class="scroll"><img src="/img/diapos/mentoring/grafico.png" alt="Se desarrollarán 3 fases de selección."  class="img-responsive" ></a></p>
 								</div>
 							</div>
@@ -149,15 +134,8 @@
 							<div class="row">
 								<div class="col-sm-7">
 									<h2>Fase de inversión extendida</h2>
-									<p>
-										Impact organizará eventos, competencias de pitching, sesiones de networking y <strong>Demo Days con Inversores Europeos</strong> de primer nivel para aquellas start-ups que terminen el proceso de Aceleración en la llamada Fase de Financiación Extendida.
-									</p>
-									<p>
-										En esta Fase el consorcio IMPACT podrá <strong>invertir hasta 250.000€</strong> en start-ups escogidas con un 25% de descuento acordado en el grant agreement.
-									</p>
-									<p>
-										Además de las oportunidades de inversión, estos eventos serán una fuente de exposición mediática para los emprendedores y sus proyectos.
-									</p>
+									{% include entradillas/inversores.html %}
+
 								</div>
 								<div class="col-sm-5">
 									<p class="text-center"><img src="/img/diapos/inversores/grafico.gif" alt="Se desarrollarán 3 fases de selección."  class="img-responsive" ></p>
@@ -168,5 +146,99 @@
 				</div>
 			</div>
 		</div>
+
+		<div id="accordion2" class="panel-group visible-xs">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h4 class="panel-title">
+						<a class="panel-toggle" data-toggle="collapse" data-parent="#accordion2" href="#acc-requisitos">
+							<span>Requisitos</span>
+						</a>
+					</h4>
+				</div>
+				<div id="acc-requisitos" class="panel-collapse collapse in">
+					<div class="panel-body">
+						{% include entradillas/requisitos.html %}
+					</div>
+				</div>
+			</div><!-- /.panel -->
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h4 class="panel-title">
+						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-seleccion">
+							<span>Selección</span>
+						</a>
+					</h4>
+				</div>
+				<div id="acc-seleccion" class="panel-collapse collapse">
+					<div class="panel-body">
+						{% include entradillas/seleccion.html %}
+					</div>
+				</div>
+			</div><!-- /.panel -->
+
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h4 class="panel-title">
+						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-financiacion">
+							<span>Financiación</span>
+						</a>
+					</h4>
+				</div>
+				<div id="acc-financiacion" class="panel-collapse collapse">
+					<div class="panel-body">
+						{% include entradillas/financiacion.html %}
+					</div>
+				</div>
+			</div><!-- /.panel -->
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h4 class="panel-title">
+						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-formacion">
+							<span>Formación</span>
+						</a>
+					</h4>
+				</div>
+				<div id="acc-formacion" class="panel-collapse collapse">
+					<div class="panel-body">
+						{% include entradillas/formacion.html %}
+					</div>
+				</div>
+			</div><!-- /.panel -->
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h4 class="panel-title">
+						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-mentoring">
+							<span>Mentoring</span>
+						</a>
+					</h4>
+				</div>
+				<div id="acc-mentoring" class="panel-collapse collapse">
+					<div class="panel-body">
+						{% include entradillas/mentoring.html %}
+					</div>
+				</div>
+			</div><!-- /.panel -->
+
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h4 class="panel-title">
+						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-inversores">
+							<span>Inversores</span>
+						</a>
+					</h4>
+				</div>
+				<div id="acc-inversores" class="panel-collapse collapse">
+					<div class="panel-body">
+						{% include entradillas/inversores.html %}
+					</div>
+				</div>
+			</div><!-- /.panel -->
+		</div>
+
 	</div>
 </section>
