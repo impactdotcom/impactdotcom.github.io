@@ -9837,6 +9837,7 @@ footer .inner {
   }
   #how-it-works .tabs-circle-top .tab {
     height: 130px;
+    margin: 0 30px;
   }
   #how-it-works .tabs-circle-top.tab-container .panel-container {
     margin-top: 0;
