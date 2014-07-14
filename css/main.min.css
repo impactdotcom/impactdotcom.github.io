@@ -9623,6 +9623,10 @@ footer .inner {
   }
   #hero .h2 {
     margin-bottom: 40px;
+    font-weight: 500;
+  }
+  #hero .h2 strong {
+    font-weight: 800;
   }
   #hero p {
     font-size: 30px;
