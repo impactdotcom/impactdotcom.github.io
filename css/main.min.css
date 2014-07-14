@@ -9550,7 +9550,7 @@ h4,
   border-radius: 6px;
 }
 .btn-sm {
-  padding: 10px 15px;
+  padding: 10px 12px;
 }
 .btn-primary {
   color: #333333;
@@ -9755,14 +9755,10 @@ footer .inner {
   padding-left: 30px;
   color: #eee;
 }
-#what-is-impact ul.list-objetivos li .tint-bg {
-  padding: 5px;
-  line-height: 165%;
-}
 @media (min-width: 768px) {
   #what-is-impact ul.list-objetivos li {
     margin-bottom: 20px;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 28px;
   }
 }
