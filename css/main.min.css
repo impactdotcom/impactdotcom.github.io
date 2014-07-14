@@ -9753,6 +9753,7 @@ footer .inner {
   background: url("/img/flecha.png") no-repeat left top;
   list-style-type: none;
   padding-left: 30px;
+  color: #eee;
 }
 #what-is-impact ul.list-objetivos li .tint-bg {
   padding: 5px;
