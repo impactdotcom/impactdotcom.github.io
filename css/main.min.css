@@ -9804,6 +9804,9 @@ footer .inner {
 #how-it-works .panel-title > a.collapsed {
   background-color: #F8FAFD;
 }
+#how-it-works .tabs-out {
+  background: url("/img/bk.pestanias.png") center 0 no-repeat;
+}
 #how-it-works .tabs-circle-top .tab.active a {
   height: 130px;
   width: 130px;
