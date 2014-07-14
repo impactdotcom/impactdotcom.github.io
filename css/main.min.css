@@ -9550,7 +9550,7 @@ h4,
   border-radius: 6px;
 }
 .btn-sm {
-  padding: 10px 10px;
+  padding: 10px 20px;
 }
 .btn-primary {
   color: #333333;
@@ -9746,6 +9746,9 @@ footer .inner {
   margin-bottom: 10px;
   font-weight: 400;
   font-size: 20px;
+  background: url("arrow.png") 0 50% no-repeat;
+  list-style-type: none;
+  padding-left: 12px;
 }
 #what-is-impact ul.list-objetivos li .tint-bg {
   padding: 5px;
