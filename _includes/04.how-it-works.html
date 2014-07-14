@@ -53,13 +53,14 @@
 						</div>
 
 						<div class="tab-content" id="tab-seleccion">
+							<h2>Proceso de selección</h2>
+
 							<div class="row">
-								<div class="col-sm-7">
-									<h2>Proceso de selección</h2>
-									{% include entradillas/seleccion.html %}
-								</div>
 								<div class="col-sm-4">
 									<p class="text-center"><img src="/img/diapos/seleccion/grafico.png" alt="Se desarrollarán 3 fases de selección."  class="img-responsive" ></p>
+								</div>
+								<div class="col-sm-7">
+									{% include entradillas/seleccion.html %}
 								</div>
 							</div>
 						</div>
@@ -76,11 +77,18 @@
 						</div>
 
 						<div class="tab-content" id="tab-formacion">
-							<h2>Formación</h2>
+							<h2>Aceleración</h2>
+							<p>El proceso de aceleración está basado en dos módulos: Formación y Mentoring.</p>
+
 							<div class="row">
 								<div class="col-sm-4">
+									<h3>1. Formación</h3>
+								</div>
+							</div>
+							<div class="row inner-left-sm">
+								<div class="col-sm-4">
 									<div>
-										<h3>A. 50 horas de clases presenciales</h3>
+										<h4>A. 50 horas de clases presenciales</h4>
 										<ul class="circled">
 											<li>del concepto al prototipo</li>
 											<li>tecnología</li>
@@ -90,7 +98,7 @@
 										</ul>
 									</div>
 									<div class="inner-top-xs">
-										<h3>D. Start-up exercises</h3>
+										<h4>D. Start-up exercises</h4>
 										<p>
 											Ejercicios prácticos que pondrán los mentores a las start-ups para evaluar su continuidad en el proceso de aceleración.
 										</p>
@@ -103,13 +111,13 @@
 								</div>
 								<div class="col-sm-4">
 									<div>
-										<h3>B. E-Learning</h3>
+										<h4>B. E-Learning</h4>
 										<p>
 											3 cursos de e-learning técnicos sobre especialidades digitales a elegir entre un portfolio de 10 opciones.
 										</p>
 									</div>
 									<div class="inner-top">
-										<h3>C. Entrepreneur talks</h3>
+										<h4>C. Entrepreneur talks</h4>
 										<p>
 											Emprendedores de éxito darán charlas, expondrán dificultadas e intercambiarán consejos con los proyectos acelerados.
 										</p>
@@ -117,8 +125,12 @@
 								</div>
 							</div>
 
-							<h2 class="inner-top-xs">Mentoring</h2>
 							<div class="row">
+								<div class="col-sm-12 inner-top-xs">
+									<h3>2. Mentoring</h3>
+								</div>
+							</div>
+							<div class="row inner-left-sm">
 								<div class="col-sm-12">
 									{% include entradillas/mentoring.html %}
 

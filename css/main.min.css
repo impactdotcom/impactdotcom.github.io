@@ -9550,7 +9550,7 @@ h4,
   border-radius: 6px;
 }
 .btn-sm {
-  padding: 10px 20px;
+  padding: 10px 15px;
 }
 .btn-primary {
   color: #333333;
@@ -9781,12 +9781,14 @@ footer .inner {
 }
 #how-it-works h1,
 #how-it-works h2,
-#how-it-works h3 {
+#how-it-works h3,
+#how-it-works h4 {
   color: #404040;
 }
 #how-it-works h1 strong,
 #how-it-works h2 strong,
-#how-it-works h3 strong {
+#how-it-works h3 strong,
+#how-it-works h4 strong {
   color: #404040;
 }
 #how-it-works h3 {
