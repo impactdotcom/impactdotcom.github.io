@@ -9655,7 +9655,7 @@ footer .inner {
 @media (min-width: 768px) {
   #hero .brand {
     width: 720px;
-    height: 162px;
+    height: 200px;
     background: url(../img/img.logo-sm.png) 0 0 no-repeat;
   }
 }
