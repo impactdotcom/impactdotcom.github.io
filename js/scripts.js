@@ -34,7 +34,7 @@ $(document).ready(function () {
 //sistema de smooth scroll para anclas
 $(".scroll").click(function(event){
     event.preventDefault();
-    $('html,body').animate({scrollTop:$(this.hash).offset().top - 97}, 500);
+    $('html,body').animate({scrollTop:$(this.hash).offset().top - 98}, 500);
 });
 
 

@@ -9890,6 +9890,13 @@ footer .inner {
 #how-it-works #tab-requisitos .text-large {
   font-size: 20px;
 }
+#how-it-works #tab-requisitos a {
+  color: #404040;
+  text-decoration: underline;
+}
+#how-it-works #tab-requisitos a:hover {
+  color: #73fcd6;
+}
 #how-it-works ul.lista-requisitos i {
   color: #73fcd6;
   font-size: 30px;
