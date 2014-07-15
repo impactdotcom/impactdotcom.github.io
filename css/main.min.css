@@ -10006,6 +10006,33 @@ footer .inner {
 #talent-impact .member .h4 {
   margin-bottom: 10px;
 }
+#hot-news h1,
+#hot-news h2,
+#hot-news h3,
+#hot-news h4,
+#hot-news p {
+  color: #404040;
+}
+#hot-news h1 strong,
+#hot-news h2 strong,
+#hot-news h3 strong,
+#hot-news h4 strong,
+#hot-news p strong {
+  color: #404040;
+}
+#hot-news a {
+  color: #404040;
+  text-decoration: underline;
+}
+#hot-news p a {
+  border-bottom: none;
+}
+#hot-news h3 {
+  text-transform: uppercase;
+}
+#hot-news a:hover {
+  text-decoration: none;
+}
 #hot-news .h2 {
   padding-top: 15px;
 }
