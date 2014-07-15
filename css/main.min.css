@@ -9708,11 +9708,14 @@ footer .inner {
 #alert-hot-new strong {
   color: #333333;
 }
-.text-normal {
+.text-normal,
+.navbar-inverse .navbar-nav > li > a.text-normal {
   font-size: 14px;
+  color: #fff;
 }
 @media (min-width: 768px) {
-  .text-normal {
+  .text-normal,
+  .navbar-inverse .navbar-nav > li > a.text-normal {
     font-size: inherit;
   }
 }
@@ -9806,6 +9809,16 @@ footer .inner {
 #how-it-works .tabs-out {
   background: url("/img/bk.pestanias.png") center 0 no-repeat;
 }
+@media (min-width: 992px) and (max-width: 1199px) {
+  #how-it-works .tabs-out {
+    background: url("/img/bk.pestanias-md.png") center 0 no-repeat;
+  }
+}
+@media (max-width: 991px) {
+  #how-it-works .tabs-out {
+    background: url("/img/bk.pestanias-sm.png") center 0 no-repeat;
+  }
+}
 #how-it-works .tabs-circle-top .tab.active a {
   height: 100px;
   width: 100px;
@@ -9886,16 +9899,16 @@ footer .inner {
   background-repeat: no-repeat;
 }
 #how-it-works #tab-requisitos {
-  background-image: url("/img/diapos/requisitos/fondo.gif");
+  background: url("/img/diapos/requisitos/fondo.gif") 0 0 no-repeat;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   #how-it-works #tab-requisitos {
-    background-position: -25px 0;
+    background-position: -35px 0;
   }
 }
 @media (max-width: 991px) {
   #how-it-works #tab-requisitos {
-    background-position: -100px 0;
+    background-position: -130px 0;
   }
 }
 #how-it-works #tab-requisitos .text-large {
@@ -9920,12 +9933,12 @@ footer .inner {
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   #how-it-works #tab-seleccion {
-    background-position: -55px 0;
+    background-position: -68px 0;
   }
 }
 @media (max-width: 991px) {
   #how-it-works #tab-seleccion {
-    background-position: -150px 0;
+    background-position: -180px 0;
   }
 }
 #how-it-works #tab-seleccion ol li {
@@ -9940,12 +9953,12 @@ footer .inner {
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   #how-it-works #tab-financiacion {
-    background-position: -85px 0;
+    background-position: -103px 0;
   }
 }
 @media (max-width: 991px) {
   #how-it-works #tab-financiacion {
-    background-position: -200px 0;
+    background-position: -233px 0;
   }
 }
 #how-it-works #tab-formacion {
@@ -9953,12 +9966,12 @@ footer .inner {
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   #how-it-works #tab-formacion {
-    background-position: -115px 0;
+    background-position: -130px 0;
   }
 }
 @media (max-width: 991px) {
   #how-it-works #tab-formacion {
-    background-position: -250px 0;
+    background-position: -280px 0;
   }
 }
 #how-it-works #tab-mentoring {
@@ -9982,12 +9995,12 @@ footer .inner {
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   #how-it-works #tab-inversores {
-    background-position: -175px 0;
+    background-position: -162px 0;
   }
 }
 @media (max-width: 991px) {
   #how-it-works #tab-inversores {
-    background-position: -350px 0;
+    background-position: -330px 0;
   }
 }
 #talent-impact .member .h4 {

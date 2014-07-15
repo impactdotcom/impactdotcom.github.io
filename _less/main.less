@@ -271,8 +271,9 @@ footer .inner {
 
 }
 
-.text-normal {
+.text-normal, .navbar-inverse .navbar-nav > li > a.text-normal {
   font-size: 14px;
+  color: #fff;
   @media (min-width: @screen-sm-min) {
     font-size: inherit;
   }
@@ -364,6 +365,12 @@ footer .inner {
   .tabs-out {
     //background-color: red;
     background: url("/img/bk.pestanias.png") center 0 no-repeat;
+    @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+      background: url("/img/bk.pestanias-md.png") center 0 no-repeat;
+    }
+    @media (max-width: @screen-sm-max) {
+      background: url("/img/bk.pestanias-sm.png") center 0 no-repeat;
+    }
   }
   .tabs-circle-top .tab.active a {
     height: 100px;
@@ -439,12 +446,12 @@ footer .inner {
   }
 
   #tab-requisitos {
-    background-image: url("/img/diapos/requisitos/fondo.gif");
+    background: url("/img/diapos/requisitos/fondo.gif") 0 0 no-repeat;
     @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
-      background-position: -25px 0;
+      background-position: -35px 0;
     }
     @media (max-width: @screen-sm-max) {
-      background-position: -100px 0;
+      background-position: -130px 0;
     }
     .text-large {
       font-size: 20px;
@@ -467,11 +474,12 @@ footer .inner {
 
   #tab-seleccion {
     background-image: url("/img/diapos/seleccion/fondo.gif");
+
     @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
-      background-position: -55px 0;
+      background-position: -68px 0;
     }
     @media (max-width: @screen-sm-max) {
-      background-position: -150px 0;
+      background-position: -180px 0;
     }
   }
   #tab-seleccion ol li {
@@ -485,20 +493,20 @@ footer .inner {
   #tab-financiacion {
     background-image: url("/img/diapos/financiacion/fondo.gif");
     @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
-      background-position: -85px 0;
+      background-position: -103px 0;
     }
     @media (max-width: @screen-sm-max) {
-      background-position: -200px 0;
+      background-position: -233px 0;
     }
   }
 
   #tab-formacion {
     background-image: url("/img/diapos/formacion/fondo.gif");
     @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
-      background-position: -115px 0;
+      background-position: -130px 0;
     }
     @media (max-width: @screen-sm-max) {
-      background-position: -250px 0;
+      background-position: -280px 0;
     }
   }
 
@@ -518,10 +526,10 @@ footer .inner {
   #tab-inversores {
     background-image: url("/img/diapos/inversores/fondo.gif");
     @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
-      background-position: -175px 0;
+      background-position: -162px 0;
     }
     @media (max-width: @screen-sm-max) {
-      background-position: -350px 0;
+      background-position: -330px 0;
     }
   }
 }
