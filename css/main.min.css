@@ -10003,8 +10003,14 @@ footer .inner {
     background-position: -330px 0;
   }
 }
-#talent-impact .member .h4 {
+#talent-impact .member .h3 {
   margin-bottom: 10px;
+}
+#talent-impact .member p {
+  font-size: 16px;
+}
+#talent-impact .member p.cargo {
+  font-weight: 600;
 }
 #hot-news h1,
 #hot-news h2,
