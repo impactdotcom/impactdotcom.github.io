@@ -1,21 +1,21 @@
 <section id="what-is-impact" class="arrow-bottom arrow-bottom-what-is">
 	<div class="container inner">
 		<header class="text-center">
-			<h1 class="single-block"><strong>Objetivos</strong> IMPACT</h1>
+			<h1 class="single-block">{{ page.titulo_objetivos }}</h1>
 		</header>
 		<div class="row inner-bottom-xs">
 			<div class="col-sm-12 col-md-12 col-lg-12">
 					<ul class="list-objetivos">
-						<li>Acelerar al menos a <strong>64 start-ups</strong>  europeas con foco en <strong>Internet Mobile</strong>.</li>
-						<li>Subvencionar cada start-up con hasta <strong>100.000 euros sin contrapartida de equity</strong> invirtiendo un total de <strong>6.400.000 euros en 2 años</strong>.</li>
-						<li>Proporcionar un <strong>Servicio de Aceleración Premium</strong> durante 6 meses compuesto de Formación y Mentoring con <strong>profesionales y emprendedores clave del ecosistema digital</strong>.</li>
-						<li>Ofrecer a las start-ups más prometedoras una Fase de Inversión Extendida con <strong>Business Angels</strong> y <strong>Fondos de primera línea internacional</strong>.</li>
+						<li>{{ page.objetivo1 }}</li>
+						<li>{{ page.objetivo2 }}</li>
+						<li>{{ page.objetivo3 }}</li>
+						<li>{{ page.objetivo4 }}</li>
 				  </ul>
 			</div>
 		</div>
 
 		<div class="well">
-			<h2 class="h2 text-center"><strong>Valores</strong> IMPACT</h2>
+			<h2 class="h2 text-center"><strong>{{ page.valores }}</strong> IMPACT</h2>
 			<div class="row">
 				<div class="col-sm-2">
 					<div class="icon pull-right">
@@ -23,8 +23,8 @@
 					</div>
 				</div>
 				<div class="col-sm-4 inner-bottom-xs">
-					<h3>Transparencia</h3>
-					<p class="text-small">Trabajamos sobre modelos abiertos donde los procesos son visibles y todos suman a un objetivo común. Crear un ecosistema abierto e independiente contribuye a potenciar el impacto.</p>
+					<h3>{{ page.transparencia }}</h3>
+					<p class="text-small">{{ page.transparencia_desc }}</p>
 				</div>
 
 				<div class="col-sm-2">
@@ -33,20 +33,19 @@
 					</div>
 				</div>
 				<div class="col-sm-4">
-					<h3>Alto rendimiento</h3>
-					<p class="text-small">Alta exigencia y calidad a los proyectos y start-ups aceleradas, pasión y atrevimiento, pero también a nosotros mismos, a los mentores, los evaluadores y miembros del comité. Ritmo intenso, ejecución y determinación son nuestras claves para impactar.</p>
+					<h3>{{ page.alto_rendimiento }}</h3>
+					<p class="text-small">{{ page.alto_rendimiento_desc }}</p>
 				</div>
 			</div>
 		</div>
 
 		<br><br>
 		<div class="well">
-			<h2 class="h2 text-center"><strong>Consorcio</strong> IMPACT</h2>
+			<h2 class="h2 text-center"><strong>{{ page.consorcio }}</strong> IMPACT</h2>
 			<div class="row inner-bottom-xs">
 				<div class="col-md-10 col-md-offset-1">
 					<p class="text-normal">
-					IMPACT (Internet Mobile Projects Accelerator) es uno de los 16 consorcios europeos seleccionados por la Comisión Europea en el marco del Seventh Framework Programme. <br>
-					Está constituido por: ISDI, Boungiorno, Teknologiudvikling ApS, Seaya Ventures y una red de emprendores y profesionales referentes del ecosistema digital europeo.
+						{{ page.consorcio_desc }}
 					</p>
 				</div>
 			</div>
@@ -56,8 +55,8 @@
 					<a href="http://www.isdi.es" target="_blank"><figure>
 						<figcaption class="text-overlay visible-lg">
 							<div class="info">
-								<h4>ISDI (España)</h4>
-								<p>La primera Escuela de Negocio Digital, con todo un ecosistema de formación, emprendimiento y aceleración.</p>
+								<h4>{{ page.isdi_titulo }}</h4>
+								<p>{{ page.isdi_desc }}</p>
 							</div><!-- /.info -->
 						</figcaption>
 						<img src="/img/logos/isdi.png" class="img-responsive">
@@ -67,8 +66,8 @@
 					<a href="http://www.buongiorno.com/" target="_blank"><figure>
 						<figcaption class="text-overlay visible-lg">
 							<div class="info">
-								<h4>Buongiorno (Italia)</h4>
-								<p>Corporación multinacional del sector de tecnología Mobile que cuenta con su propia aceleradora B-Ventures.</p>
+								<h4>{{ page.buon_titulo }}</h4>
+								<p>{{ page.buon_desc }}</p>
 							</div><!-- /.info -->
 						</figcaption>
 						<img src="/img/logos/buongiorno.png" class="img-responsive">
@@ -78,8 +77,8 @@
 					<a href="http://www.teknologiudvikling.dk/"  target="_blank"><figure>
 						<figcaption class="text-overlay visible-lg">
 							<div class="info">
-								<h4>Teknologiudvikling ApS (Dinamarca)</h4>
-								<p>Consultora especializada en financiación con experiencia en gestión y monitorización online de procesos públicos de Open Call.</p>
+								<h4>{{ page.teknolo_titulo }}</h4>
+								<p>{{ page.teknolo_desc }}</p>
 							</div><!-- /.info -->
 						</figcaption>
 						<img src="/img/logos/Teknologiudvikling.png" class="img-responsive">
@@ -89,8 +88,8 @@
 					<a href="http://seayaventures.com/"  target="_blank"><figure>
 						<figcaption class="text-overlay visible-lg">
 							<div class="info">
-								<h4>Seaya Ventures (Alemania)</h4>
-								<p>Michael Kleindel, Super Angel Investor del sector digital, a través de su Venture Capital Seaya.</p>
+								<h4>{{ page.seaya_titulo }}</h4>
+								<p>{{ page.seaya_desc }}</p>
 							</div><!-- /.info -->
 						</figcaption>
 						<img src="/img/logos/seaya.png" class="img-responsive">

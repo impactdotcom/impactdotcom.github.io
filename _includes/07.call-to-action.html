@@ -3,19 +3,19 @@
 		<div class="row">
 			<div class="col-md-8 col-sm-9 center-block">
 				<header>
-					<h1><strong>Inscribe</strong> tu proyecto</h1>
-					<p>A partir de Octubre podrás inscribir tu proyecto, Déjanos tu correo y te mantendremos informado de las novedades, información importante, eventos y acciones que realizamos.</p>
+					<h1>{{page.Titulo_inscribe}}</h1>
+					<p>{{page.Entradilla_inscribe}}</p>
 				</header>
 				<form class="form-inline" role="form" action="//impact-accelerator.us8.list-manage.com/subscribe/post?u=a03def41f5b2a1f95b10bb327&amp;id=7d63f15ba2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
 					<div class="form-group">
 						<label class="sr-only" for="mce-EMAIL">Email</label>
-						<input type="email" name="EMAIL" class="form-control input-lg" id="mce-EMAIL" placeholder="Introduce tu email">
+						<input type="email" name="EMAIL" class="form-control input-lg" id="mce-EMAIL" placeholder="{{page.IntroduceEmail}}">
 					</div>
-					<button type="submit" class="btn btn-default btn-lg btn-primary">Enviar</button>
+					<button type="submit" class="btn btn-default btn-lg btn-primary">{{page.Enviar}}</button>
 				</form>
 
 				<footer class="text-normal inner-top-xs">
-					O síguenos en...
+					{{page.O_Siguenos}}
 						<ul class="social list-inline ">
 			        <li><a href="https://www.linkedin.com/groups?gid=8132990"><i class="icon-s-linkedin"></i></a></li>
 			        {% comment %}<li><a href="https://www.youtube.com/channel/UCIOQoA-ZfMxthBICI1hlDww"><i class="icon-s-youtube"></i></a></li>

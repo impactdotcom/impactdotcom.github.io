@@ -1,7 +1,17 @@
-<p>
-  Las start-ups seleccionadas seguirán un proceso de mentorización a lo largo de 6 meses con el objetivo de cumplir los Hitos y llevar a los proyectos al siguiente nivel.
-  <ul class="circled">
-    <li><strong>Mentor de Follow Up</strong>: profesionales con perfil multifuncional y fundadores de startups, cuyo objetivo es guiar a la startup de manera holística a través de los entregables de cada hito a lo largo del proceso de aceleración.</li>
-    <li><strong>Mentores Especialistas bajo demanda</strong>: profesionales con perfil específico a disposición de las startups para tratar temas especializados.</li>
-  </ul>
-</p>
+{% if {{page.lang}} == 'es' %}
+  <p>
+    Las start-ups seleccionadas seguirán un proceso de mentorización a lo largo de 6 meses con el objetivo de cumplir los Hitos y llevar a los proyectos al siguiente nivel.
+    <ul class="circled">
+      <li><strong>Mentor de Follow Up</strong>: profesionales con perfil multifuncional y fundadores de startups, cuyo objetivo es guiar a la startup de manera holística a través de los entregables de cada hito a lo largo del proceso de aceleración.</li>
+      <li><strong>Mentores Especialistas bajo demanda</strong>: profesionales con perfil específico a disposición de las startups para tratar temas especializados.</li>
+    </ul>
+  </p>
+{% else %}
+  <p>
+    The chosen start-ups will follow a mentoring process throughout 6 months with the aim of fulfilling the Milestones and bring the start-up to the next level.
+    <ul class="circled">
+      <li><strong>Follow-up mentor</strong>: professionals with multifunctional profiles and start-ups founders, whose purpose is to guide the start-up holistically through the deliverables of each milestone throughout the acceleration process. </li>
+      <li><strong>Specialists Mentors on call</strong>: professionals with certain profiles available to the start-ups to deal with specialized matters.</li>
+    </ul>
+  </p>
+{% endif %}

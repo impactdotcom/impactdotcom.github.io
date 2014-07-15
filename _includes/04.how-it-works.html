@@ -1,38 +1,38 @@
 <section id="how-it-works" class="light-bg arrow-bottom">
 	<div class="container-fluid inner-top inner-bottom-xs">
 		<header class="text-center inner-bottom-xs">
-			<h1 class="single-block"><strong>Como funciona</strong> IMPACT</h1>
+			<h1 class="single-block">{{page.como_funciona_tit}}</h1>
 		</header>
 		<div class="row hidden-xs">
 			<div class="col-xs-12 tabs-out">
 				<div class="tabs tabs-services tabs-circle-top tab-container">
 					<ul class="etabs text-center">
-						<li class="tab"><a href="#tab-requisitos"><div><i class="icon-ok"></i></div>Requisitos</a></li>
-						<li class="tab"><a href="#tab-seleccion"><div><i class="icon-flow-tree"></i></div>Selección</a></li>
-						<li class="tab"><a href="#tab-financiacion"><div><i class="icon-money"></i></div>Financiación</a></li>
-						<li class="tab"><a href="#tab-formacion"><div><i class="icon-gauge"></i></div>Aceleración</a></li>
-						<li class="tab"><a href="#tab-inversores"><div><i class="icon-users"></i></div>Inversores</a></li>
+						<li class="tab"><a href="#tab-requisitos"><div><i class="icon-ok"></i></div>{{page.Requisitos}}</a></li>
+						<li class="tab"><a href="#tab-seleccion"><div><i class="icon-flow-tree"></i></div>{{page.Seleccion}}</a></li>
+						<li class="tab"><a href="#tab-financiacion"><div><i class="icon-money"></i></div>{{page.Financiacion}}</a></li>
+						<li class="tab"><a href="#tab-formacion"><div><i class="icon-gauge"></i></div>{{page.Aceleracion}}</a></li>
+						<li class="tab"><a href="#tab-inversores"><div><i class="icon-users"></i></div>{{page.Inversores}}</a></li>
 					</ul>
 
 					<div class="container panel-container">
 						<div class="tab-content" id="tab-requisitos">
 							<div class="row">
 								<div class="col-sm-8">
-									<h2>Requisitos</h2>
+									<h2>{{page.Requisitos}}</h2>
 									{% include entradillas/requisitos.html %}
 									<p class="text-center"><img src="/img/diapos/requisitos/mapa.png" alt="Sede en Europa y Mobile"></p>
 
 								</div>
 								<div class="col-sm-4 well">
 									<p class="text-small">
-										<strong>* Mobile</strong>: Aplicaciones móviles o modelos de negocio basados en movilidad, relacionados con: comunicación, social, vídeo, medios & publicidad, diseño, educación, entretenimiento, comercio electrónico, hardware móvil, contenidos, TV conectada, infraestructuras y seguridad.
+										{{page.Requisitos_Mobile}}
 									</p>
 								</div>
 							</div>
 							<div class="row inner-top-xs">
 								<div class="col-sm-6">
 									<p class="text-large text-center">
-										<strong>Proyectos que estén en las siguientes fases:</strong>
+										<strong>{{page.Proyectos_Fase}}:</strong>
 									</p>
 									<p class="text-center"><img src="/img/diapos/requisitos/grafica.png" class="img-responsive" alt="Gráfica ubicación de proyectos"></p>
 
@@ -40,11 +40,11 @@
 								<div class="col-sm-1"><p class="text-center"><img src="/img/diapos/requisitos/mas.gif" alt="+"></p></div>
 								<div class="col-sm-5">
 									<p class="text-large">
-										<strong>Aquellos seleccionados se comprometan a:</strong>
+										<strong>{{page.Proyectos_Comprometen}}:</strong>
 
 										<ul class="lista-requisitos text-large">
-											<li><i class="icon-ok-circle"></i> Utilizar <strong>tecnologías FI</strong>: <a href="http://www.fi-ware.org/">FI-Ware</a> y/o <a href="http://mediafi.org/">FI-Content</a></li>
-											<li><i class="icon-ok-circle"></i> Seguir el Programa de Aceleración Impact durante <strong>6 meses</strong></li>
+											<li><i class="icon-ok-circle"></i> {{page.Tecnologias_FI}}</li>
+											<li><i class="icon-ok-circle"></i> {{page.seguir_programa}}</li>
 										</ul>
 
 									</p>
@@ -53,11 +53,11 @@
 						</div>
 
 						<div class="tab-content" id="tab-seleccion">
-							<h2>Proceso de selección</h2>
+							<h2>{{page.Proceso_Seleccion}}</h2>
 
 							<div class="row">
 								<div class="col-sm-4">
-									<p class="text-center"><img src="/img/diapos/seleccion/grafico.png" alt="Se desarrollarán 3 fases de selección."  class="img-responsive" ></p>
+									<p class="text-center"><img src="/img/diapos/seleccion/grafico.png" alt="{{page.Proceso_Seleccion}}"  class="img-responsive" ></p>
 								</div>
 								<div class="col-sm-7">
 									{% include entradillas/seleccion.html %}
@@ -68,7 +68,7 @@
 						<div class="tab-content" id="tab-financiacion">
 							<div class="row">
 								<div class="col-sm-12">
-									<h2>Fases de financiación</h2>
+									<h2>{{page.FasesFinanciacion}}</h2>
 									{% include entradillas/financiacion.html %}
 								</div>
 							</div>
@@ -80,52 +80,16 @@
 						</div>
 
 						<div class="tab-content" id="tab-formacion">
-							<h2>Aceleración</h2>
-							<p>El proceso de aceleración está basado en dos módulos: Formación y Mentoring.</p>
+							<h2>{{page.Aceleracion}}</h2>
+							<p>{{page.Aceleracion_entradilla}}</p>
 
 							<div class="row">
 								<div class="col-sm-4">
-									<h3>1. Formación</h3>
+									<h3>1. {{page.Formacion}}</h3>
 								</div>
 							</div>
 							<div class="row inner-left-sm">
-								<div class="col-sm-4">
-									<div>
-										<h4>A. 50 horas de clases presenciales</h4>
-										<ul class="circled">
-											<li>del concepto al prototipo</li>
-											<li>tecnología</li>
-											<li>ventas y marketing digital</li>
-											<li>creación de empresa</li>
-											<li>financiación y exit</li>
-										</ul>
-									</div>
-									<div class="inner-top-xs">
-										<h4>D. Start-up exercises</h4>
-										<p>
-											Ejecuta lo aprendido en tu start-up gracias al apoyo y orientación de los mentores.
-										</p>
-									</div>
-								</div>
-								<div class="col-sm-4">
-									<p class="text-center">
-										<img src="/img/diapos/formacion/grafica.png"  class="img-responsive" alt="programa de formación">
-									</p>
-								</div>
-								<div class="col-sm-4">
-									<div>
-										<h4>B. E-Learning</h4>
-										<p>
-											3 cursos de e-learning técnicos sobre especialidades digitales a elegir entre un portfolio de 10 opciones.
-										</p>
-									</div>
-									<div class="inner-top">
-										<h4>C. Entrepreneur talks</h4>
-										<p>
-											Emprendedores de éxito darán charlas, expondrán dificultadas e intercambiarán consejos con los proyectos acelerados.
-										</p>
-									</div>
-								</div>
+								{% include entradillas/formacion_cuerpo.html %}
 							</div>
 
 							<div class="row">
@@ -148,7 +112,7 @@
 						<div class="tab-content" id="tab-inversores">
 							<div class="row">
 								<div class="col-sm-7">
-									<h2>Fase de inversión extendida</h2>
+									<h2>{{page.FinanciacionExtendida}}</h2>
 									{% include entradillas/inversores.html %}
 
 								</div>
@@ -167,7 +131,7 @@
 				<div class="panel-heading">
 					<h4 class="panel-title">
 						<a class="panel-toggle" data-toggle="collapse" data-parent="#accordion2" href="#acc-requisitos">
-							<span><i class="icon-ok"></i> Requisitos</span>
+							<span><i class="icon-ok"></i> {{page.Requisitos}}</span>
 						</a>
 					</h4>
 				</div>
@@ -182,7 +146,7 @@
 				<div class="panel-heading">
 					<h4 class="panel-title">
 						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-seleccion">
-							<span><i class="icon-flow-tree"></i> Selección</span>
+							<span><i class="icon-flow-tree"></i> {{page.Seleccion}}</span>
 						</a>
 					</h4>
 				</div>
@@ -198,7 +162,7 @@
 				<div class="panel-heading">
 					<h4 class="panel-title">
 						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-financiacion">
-							<span><i class="icon-money"></i> Financiación</span>
+							<span><i class="icon-money"></i> {{page.Financiacion}}</span>
 						</a>
 					</h4>
 				</div>
@@ -213,18 +177,17 @@
 				<div class="panel-heading">
 					<h4 class="panel-title">
 						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-formacion">
-							<span><i class="icon-gauge"></i> Acceleración</span>
+							<span><i class="icon-gauge"></i> {{page.Aceleracion}}</span>
 						</a>
 					</h4>
 				</div>
 				<div id="acc-formacion" class="panel-collapse collapse">
 					<div class="panel-body text-small">
-						<p>El proceso de aceleración está basado en dos módulos: Formación y Mentoring.</p>
-						<h4>Formación</h4>
+						<p>{{page.Aceleracion_entradilla}}</p>
+						<h4>{{page.Formacion}}</h4>
 						{% include entradillas/formacion.html %}
 						<h4>Mentoring</h4>
 						{% include entradillas/mentoring.html %}
-
 					</div>
 				</div>
 			</div><!-- /.panel -->
@@ -234,7 +197,7 @@
 				<div class="panel-heading">
 					<h4 class="panel-title">
 						<a class="panel-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#acc-inversores">
-							<span><i class="icon-users"></i> Inversores</span>
+							<span><i class="icon-users"></i> {{page.Inversores}}</span>
 						</a>
 					</h4>
 				</div>
