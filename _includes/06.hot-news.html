@@ -5,19 +5,35 @@
 		</header>
 
 		<div class="row">
+				{% comment %}
+
 			<div class="col-md-3 col-md-push-8">
 				<figure><img src="http://lorempixel.com/410/308/business/10/" alt=""></figure>
 			</div>
-			<div class="col-md-7 col-md-pull-3 col-md-offset-1">
-				<h2 class="h2">Presentado IMPACT</h2>
+				{% endcomment %}
+
+
+
+			<div class="col-md-6 col-md-offset-3">
+
+				{% if {{page.lang}} == 'es' %}
+					<h2 class="h2">Lanzamos Impact</h2>
+					<p>
+						Madrid, 16 Julio. Hoy, conferencia de prensa. Puedes seguirnos en nuestras redes sociales: <a href="https://twitter.com/IMPACT_acc" target="_blank">@impact_acc en twitter</a> y <a href="https://www.linkedin.com/company/impact-accelerator" target="_blank">Linkedin</a>.
+					</p>
+				{% else %}
+					<h2 class="h2">Impact is officially out</h2>
+					<p>
+						Madrid, July 16. Today we have a press conference. follow us:: <a href="https://twitter.com/IMPACT_acc" target="_blank">@impact_acc in twitter</a> and <a href="https://www.linkedin.com/company/impact-accelerator" target="_blank">Linkedin</a>.
+					</p>
+				{% endif %}
+
+				{% comment %}
 				<p>
-					Madrid, 16 Julio. Magnis modipsae que lib voloratati andigen daepedor quiate ut reporemni aut labor. Laceaque quiae sitiorem ut restibusaes es tumquam core posae volor remped modis volor. Doloreiur qui commolu ptatemp dolupta orem retibusam emnis et consent accullignis lomnus conecus iure posae volor.
-				</p>
-				<p>
-					Magnis modipsae que lib voloratati andigen daepedor quiate ut reporemni aut labor. Laceaque quiae sitiorem ut restibusaes es tumquam core posae volor remped modis volor. Doloreiur qui commolu ptatemp dolupta orem retibusam emnis et consent accullignis lomnus conecus iure posae volor.
-					<br>
+
 					<a href="#">Descargar nota de prensa <i class="icon-download-1"></i></a>
 				</p>
+				{% endcomment %}
 			</div>
 		</div>
 		{% comment %}
