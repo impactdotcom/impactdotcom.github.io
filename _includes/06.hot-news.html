@@ -7,12 +7,18 @@
 		{% for post in site.categories.news %}
 		  {% if post.lang == page.lang %}
 	      <div class="row">
-					<div class="col-md-3 col-md-push-8">
-						<figure><img src="http://lorempixel.com/410/308/business/10/" alt=""></figure>
+					{% comment %}<div class="col-md-3 col-md-push-8">
+						<figure><img src="{{ post.image }}" alt="{{ post.title }}"></figure>
 					</div>
 					<div class="col-md-7 col-md-pull-3 col-md-offset-1">
+					{% endcomment %}
+					<div class="col-md-8 col-md-offset-2">
+
 						<h2 class="h2">{{ post.title }}</h2>
 						{{ post.date | date: "%b %-d, %Y" }}
+
+						<figure><img src="{{ post.image }}" alt="{{ post.title }}"></figure>
+
 						{{ post.content }}
 					</div>
 				</div>

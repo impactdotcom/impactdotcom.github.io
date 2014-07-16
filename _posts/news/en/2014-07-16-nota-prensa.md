@@ -3,6 +3,7 @@ layout: post
 category: news
 title: IMPACT is born, an innovative model of start-ups accelerator to finance 100.000 euros to 64 European mobile Internet projects
 published: true
+image: /assets/20140716-nota-prensa-impact_img.jpg
 lang: en
 ---
 

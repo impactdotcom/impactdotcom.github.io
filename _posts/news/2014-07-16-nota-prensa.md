@@ -3,6 +3,7 @@ layout: post
 category: news
 title: Nace IMPACT, un nuevo modelo de aceleradora de startups que financiará con 100.000 euros a 64 proyectos europeos de Internet móvil
 published: true
+image: /assets/20140716-nota-prensa-impact_img.jpg
 lang: es
 ---
 
