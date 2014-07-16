@@ -1,6 +1,10 @@
 <div id="alert-hot-new" class="alert alert-info text-normal" role="alert">
 	<div class="container">
     <i class="icon-attention-1"></i>
-		{{ page.hot_news }}
+    {% if {{page.lang}} == 'es' %}
+      <strong>Hot News!</strong> Lanzamos Impact. <a href="#hot-news" class="alert-link scroll">Descargar nota de prensa</a>.
+    {% else %}
+      <strong>Hot News!</strong> Impact is officially out. <a href="#hot-news" class="alert-link scroll">Download press release</a>.
+    {% endif %}
 	</div>
 </div>

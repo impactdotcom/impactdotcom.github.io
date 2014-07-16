@@ -4,38 +4,21 @@
 			<h1 class="single-block">Hot <strong>News</strong></h1>
 		</header>
 
-		<div class="row">
-				{% comment %}
+		{% for post in site.categories.news %}
+		  {% if post.lang == page.lang %}
+	      <div class="row">
+					<div class="col-md-3 col-md-push-8">
+						<figure><img src="http://lorempixel.com/410/308/business/10/" alt=""></figure>
+					</div>
+					<div class="col-md-7 col-md-pull-3 col-md-offset-1">
+						<h2 class="h2">{{ post.title }}</h2>
+						{{ post.date | date: "%b %-d, %Y" }}
+						{{ post.content }}
+					</div>
+				</div>
+      {% endif %}
+    {% endfor %}
 
-			<div class="col-md-3 col-md-push-8">
-				<figure><img src="http://lorempixel.com/410/308/business/10/" alt=""></figure>
-			</div>
-				{% endcomment %}
-
-
-
-			<div class="col-md-6 col-md-offset-3">
-
-				{% if {{page.lang}} == 'es' %}
-					<h2 class="h2">Lanzamos Impact</h2>
-					<p>
-						Madrid, 16 Julio. Hoy, conferencia de prensa. Puedes seguirnos en nuestras redes sociales: <a href="https://twitter.com/IMPACT_acc" target="_blank">@impact_acc en twitter</a> y <a href="https://www.linkedin.com/company/impact-accelerator" target="_blank">Linkedin</a>.
-					</p>
-				{% else %}
-					<h2 class="h2">Impact is officially out</h2>
-					<p>
-						Madrid, July 16. Today we have a press conference. follow us:: <a href="https://twitter.com/IMPACT_acc" target="_blank">@impact_acc in twitter</a> and <a href="https://www.linkedin.com/company/impact-accelerator" target="_blank">Linkedin</a>.
-					</p>
-				{% endif %}
-
-				{% comment %}
-				<p>
-
-					<a href="#">Descargar nota de prensa <i class="icon-download-1"></i></a>
-				</p>
-				{% endcomment %}
-			</div>
-		</div>
 		{% comment %}
 		<div class="row inner-top">
 			<div class="col-md-10 col-md-offset-1">
@@ -44,10 +27,5 @@
 			</div>
 		</div>
 		{% endcomment %}
-
-
 	</div>
-
 </section>
-
-
