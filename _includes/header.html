@@ -3,16 +3,16 @@
 		<div class="header-top hidden-xs">
 			<div class="container">
 				<ul class="info pull-left">
-					<li><a href="/{{ page.alt-lang }}"><i class="icon-ccw"></i> {{ page.alt-lang-desc }}</a></li>
-					<li><a href="mailto:info@impact-accelerator.com"><i class="icon-mail-1 contact"></i> info@impact-accelerator.com</a></li>
-					<li><a href="mailto:press@impact-accelerator.com"><i class="icon-mail-alt contact"></i> press@impact-accelerator.com</a></li>
+					<li><a href="/{{ site.data.t[page.lang].alt-lang }}"><i class="icon-ccw"></i> {{ site.data.t[page.lang].alt-lang-desc }}</a></li>
+					<li><a href="mailto:{{ site.data.variables.mail }}"><i class="icon-mail-1 contact"></i> {{ site.data.variables.mail }}</a></li>
+					<li><a href="mailto:{{ site.data.variables.mail_press }}"><i class="icon-mail-alt contact"></i> {{ site.data.variables.mail_press }}</a></li>
 				</ul>
 				<ul class="social pull-right">
-					<li><a href="https://www.linkedin.com/company/impact-accelerator" target="_blank"><i class="icon-s-linkedin"></i></a></li>
-					{% comment %}<li><a href="https://www.youtube.com/channel/UCIOQoA-ZfMxthBICI1hlDww" target="_blank"><i class="icon-s-youtube"></i></a></li>
-					<li><a href="https://www.facebook.com/pages/Impact_acc" target="_blank"><i class="icon-s-facebook"></i></a></li>
-					<li><a href="https://plus.google.com/u/0/b/106639153865804795411/106639153865804795411/about" target="_blank"><i class="icon-s-gplus"></i></a></li>{% endcomment %}
-					<li><a href="https://twitter.com/IMPACT_acc" target="_blank"><i class="icon-s-twitter"></i></a></li>
+					<li><a href="{{ site.data.variables.linkedin }}" target="_blank"><i class="icon-s-linkedin"></i></a></li>
+					{% comment %}<li><a href="{{ site.data.variables.youtube }}" target="_blank"><i class="icon-s-youtube"></i></a></li>
+					<li><a href="{{ site.data.variables.facebook }}" target="_blank"><i class="icon-s-facebook"></i></a></li>
+					<li><a href="{{ site.data.variables.gplus }}" target="_blank"><i class="icon-s-gplus"></i></a></li>{% endcomment %}
+					<li><a href="{{ site.data.variables.twitter }}" target="_blank"><i class="icon-s-twitter"></i></a></li>
 				</ul>
 			</div>
 		</div>
@@ -30,14 +30,14 @@
 
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
-						<li><a href="#what-is-impact" class="text-normal scroll">{{ page.menu_que_es }}</a></li>
-						<li><a href="#how-it-works" class="text-normal scroll">{{ page.menu_como_funciona }}</a></li>
-						<li><a href="#talent-impact" class="text-small scroll">{{ page.menu_equipo }}</a></li>
-						<li><a href="#spaces" class="text-small scroll">{{ page.menu_espacios }}</a></li>
-						<li><a href="#hot-news" class="text-small scroll">{{ page.menu_hot_news }}</a></li>
-						<li class="hidden-lg"><a href="/{{ page.alt-lang }}" class="text-small"><i class="icon-ccw"></i> {{ page.alt-lang-desc }}</a></li>
+						<li><a href="#what-is-impact" class="text-normal scroll">{{ site.data.t[page.lang].menu_que_es }}</a></li>
+						<li><a href="#how-it-works" class="text-normal scroll">{{ site.data.t[page.lang].menu_como_funciona }}</a></li>
+						<li><a href="#talent-impact" class="text-small scroll">{{ site.data.t[page.lang].menu_equipo }}</a></li>
+						<li><a href="#spaces" class="text-small scroll">{{ site.data.t[page.lang].menu_espacios }}</a></li>
+						<li><a href="#hot-news" class="text-small scroll">{{ site.data.t[page.lang].menu_hot_news }}</a></li>
+						<li class="hidden-lg"><a href="/{{ page.alt-lang }}" class="text-small"><i class="icon-ccw"></i> {{ site.data.t[page.lang].alt-lang-desc }}</a></li>
 					</ul>
-					<a href="#call-to-action" class="btn btn-sm btn-primary navbar-btn pull-right visible-lg scroll">{{ page.menu_inscribe }}</a>
+					<a href="#call-to-action" class="btn btn-sm btn-primary navbar-btn pull-right visible-lg scroll">{{ site.data.t[page.lang].menu_inscribe }}</a>
 				</div>
 			</div>
 		</nav>
