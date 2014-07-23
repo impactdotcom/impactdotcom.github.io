@@ -1,5 +1,5 @@
 es:
-  alt-lang: en
+  alt-lang:
   alt-lang-desc: English
   menu_que_es: Qué es IMPACT
   menu_como_funciona: Cómo funciona
@@ -9,7 +9,7 @@ es:
   menu_inscribe: Inscribe tu proyecto
 
 en:
-  alt-lang:
+  alt-lang: es
   alt-lang-desc: Castellano
   menu_que_es: About IMPACT
   menu_como_funciona: How it works
