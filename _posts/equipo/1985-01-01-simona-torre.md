@@ -2,7 +2,7 @@
 layout: default
 category: equipo
 title: Simona Torre
-cargo: B-ventures Manager
+cargo: b-ventures Manager
 cargo_impact_es: IMPACT Steering Committee
 cargo_impact_en: IMPACT Steering Committee
 

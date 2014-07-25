@@ -2,7 +2,7 @@
 layout: default
 category: equipo
 title: Fernando González Mesones
-cargo: CEO BuonGiorno
+cargo: CEO Buongiorno
 cargo_impact_es: IMPACT Steering Committee
 cargo_impact_en: IMPACT Steering Committee
 

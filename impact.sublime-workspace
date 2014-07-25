@@ -4,188 +4,24 @@
 		"selected_items":
 		[
 			[
-				"font-",
-				"font-family-serif"
-			],
-			[
 				"in",
 				"inline-block"
-			],
-			[
-				"ls",
-				"letter-spacing"
-			],
-			[
-				"inli",
-				"inline"
-			],
-			[
-				"po",
-				"pos-s	position: static;"
-			],
-			[
-				"pa",
-				"padding"
-			],
-			[
-				"text",
-				"text-color"
-			],
-			[
-				"pad",
-				"padding-left"
-			],
-			[
-				"i",
-				"inline"
-			],
-			[
-				"br",
-				"border-radius"
-			],
-			[
-				"gray-light",
-				"gray-lighter"
-			],
-			[
-				"di",
-				"display"
-			],
-			[
-				"d",
-				"display"
-			],
-			[
-				"bgp",
-				"bgpx	background-position-x"
-			],
-			[
-				"fo",
-				"font"
-			],
-			[
-				"font-s",
-				"font-size-small"
-			],
-			[
-				"marg",
-				"margin-left"
-			],
-			[
-				"font",
-				"font-size-small"
-			],
-			[
-				"gray-ligh",
-				"gray-light"
-			],
-			[
-				"mw",
-				"max-width"
-			],
-			[
-				"pos",
-				"pos-a	position: absolute;"
-			],
-			[
-				"ii",
-				"inline-block"
-			],
-			[
-				"ba",
-				"background"
-			],
-			[
-				"cur",
-				"cursor"
-			],
-			[
-				"co",
-				"color"
-			],
-			[
-				"ma",
-				"margin"
-			],
-			[
-				"l",
-				"left"
-			],
-			[
-				"mar",
-				"margin"
-			],
-			[
-				"no",
-				"nowrap"
-			],
-			[
-				"b",
-				"bxz	box-sizing: ${1:border-box};"
-			],
-			[
-				"gray-dar",
-				"gray-darker"
-			],
-			[
-				"margi",
-				"margin-bottom-base"
-			],
-			[
-				"margin-b",
-				"margin-bottom"
-			],
-			[
-				"margin",
-				"margin-bottom-large"
-			],
-			[
-				"margin-bo",
-				"margin-bottom-large"
-			],
-			[
-				"padding-",
-				"padding-base"
-			],
-			[
-				"gray-",
-				"gray-lighter"
-			],
-			[
-				"gray-da",
-				"gray-dark"
-			],
-			[
-				"ta",
-				"table-cell"
-			],
-			[
-				"bord",
-				"border-color"
-			],
-			[
-				"gray-li",
-				"gray-light"
-			],
-			[
-				"bgr",
-				"bgr-n	background-repeat: no-repeat;"
-			],
-			[
-				"la",
-				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
-			],
-			[
-				"bgs",
-				"bgsz-ct	background-size: contain;"
 			],
 			[
 				"bo",
 				"border-color"
 			],
 			[
+				"ba",
+				"background"
+			],
+			[
 				"grayLIght",
 				"grayLighter"
+			],
+			[
+				"la",
+				"landscapePhoneToPortraitTablet	landscapePhoneToPortraitTablet"
 			],
 			[
 				"inl",
@@ -200,8 +36,28 @@
 				"rgba(r,g,b,a)"
 			],
 			[
+				"po",
+				"portraitTabletToLandscapeAndDesktop	portraitTabletToLandscapeAndDesktop"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
 				"bw",
 				"border-width"
+			],
+			[
+				"b",
+				"bxsh	box-shadow: ${1:inset }${2:hoff} ${3:voff} ${4:blur} ${5:color};"
 			],
 			[
 				"wit",
@@ -230,6 +86,10 @@
 			[
 				"bco",
 				"border-color"
+			],
+			[
+				"mw",
+				"min-width"
 			],
 			[
 				"mi",
@@ -266,6 +126,26 @@
 			[
 				"bor-c",
 				"border-color"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ta",
+				"ta-c	text-align: center;"
 			],
 			[
 				"v",
@@ -352,6 +232,10 @@
 				"left"
 			],
 			[
+				"font",
+				"font"
+			],
+			[
 				"z",
 				"z-index"
 			],
@@ -374,6 +258,10 @@
 			[
 				"cl",
 				"clear"
+			],
+			[
+				"margi",
+				"margin-top"
 			],
 			[
 				"pt",
@@ -408,6 +296,10 @@
 				"background-position"
 			],
 			[
+				"mar",
+				"margin"
+			],
+			[
 				"wid",
 				"width"
 			],
@@ -426,6 +318,14 @@
 			[
 				"lis",
 				"list-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pos",
+				"position"
 			],
 			[
 				"f",
@@ -447,31 +347,15 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 387.0,
+		"height": 167.0,
 		"selected_items":
 		[
 			[
-				"pac",
-				"Package Control: Install Package"
+				"lips",
+				"Snippet: Lorem ipsum"
 			],
 			[
 				"li",
-				"Snippet: Lorem ipsum"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Remove Package"
-			],
-			[
-				"lip",
-				"Snippet: Lorem ipsum"
-			],
-			[
-				"bootstrap b",
-				"Snippet: Bootstrap breadcrumb"
-			],
-			[
-				"lips",
 				"Snippet: Lorem ipsum"
 			],
 			[
@@ -499,12 +383,20 @@
 				"Snippet: Bootstrap thumbnails"
 			],
 			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
 				"lipsu",
 				"Snippet: Lorem ipsum"
 			],
 			[
 				"snip",
 				"Snippet: Bootstrap primary button"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
 			],
 			[
 				"ins",
@@ -531,7 +423,7 @@
 				"Snippet: Bootstrap starter"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -548,134 +440,134 @@
 	},
 	"file_history":
 	[
-		"/Users/haritzoyaga/Sites/impactdotcom/index.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/impact.sublime-project",
-		"/Users/haritzoyaga/Sites/impactdotcom/custom_components/custom/less/type.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/custom/variables.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/custom_components/custom/less/scaffolding.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/custom.less",
-		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/hero.less",
-		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/type.less",
-		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/scaffolding.less",
-		"/Users/haritzoyaga/Sites/custom/_less/custom.less",
-		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/variables.less",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/assets/css/main.css",
-		"/Users/haritzoyaga/Sites/custom/index.html",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/index.html",
-		"/Users/haritzoyaga/Sites/custom/_layouts/default.html",
-		"/Users/haritzoyaga/Sites/custom/_includes/footer.html",
-		"/Users/haritzoyaga/Sites/custom/_includes/header.html",
-		"/Users/haritzoyaga/Sites/custom/_includes/head.html",
-		"/Users/haritzoyaga/Sites/custom/Gruntfile.js",
-		"/Users/haritzoyaga/Sites/custom/css/bootstrap.min.css",
-		"/Users/haritzoyaga/Sites/custom/css/custom.min.css",
-		"/Users/haritzoyaga/Sites/custom/package.json",
-		"/Users/haritzoyaga/Sites/custom/custom.sublime-project",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/reen.sublime-project",
-		"/Users/haritzoyaga/Sites/custom/_layouts/custom.sublime-project",
-		"/Users/haritzoyaga/Sites/custom/bower_components/custom/less/reen.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/custom_components/custom/examples/index.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/_layouts/example.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/variables.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/variables/variables.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/bootstrap.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_includes/head.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/Gruntfile.js",
-		"/Users/haritzoyaga/Sites/navarra_es/siteproject/index.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/reen.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/bootstrap/less/type.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/includes/variables.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/includes/reen-variables.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/bootstrap/less/scaffolding.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/_includes/footer.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/reen/less/general.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/assets/js/scripts.js",
-		"/Users/haritzoyaga/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/haritzoyaga/Sites/impactdotcom/css/reen.min.css",
-		"/Users/haritzoyaga/Sites/impactdotcom/css/main.min.css",
-		"/Users/haritzoyaga/Sites/impactdotcom/assets/css/main.css",
-		"/Users/haritzoyaga/Sites/impactdotcom/v1.index.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/_less/main.less",
-		"/Users/haritzoyaga/Sites/impactdotcom/css/main.css",
-		"/Users/haritzoyaga/Sites/impactdotcom/package.json",
-		"/Users/haritzoyaga/Sites/impactdotcom/feed.xml",
-		"/Users/haritzoyaga/Sites/impactdotcom/bower_components/reen/less/reen.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/index.html",
-		"/Users/haritzoyaga/Sites/madridespop/app/_layouts/default.html",
-		"/Users/haritzoyaga/Sites/impactdotcom/_includes/v1.impact-about.html",
-		"/Users/haritzoyaga/Sites/madridespop/app/google9dc3a57cd022838b.html",
-		"/Users/haritzoyaga/Sites/madridespop/app/v3.index.html",
-		"/Users/haritzoyaga/Sites/madridespop/app/js/main.js",
-		"/Users/haritzoyaga/Sites/madridespop/app/_includes/about.md",
-		"/Users/haritzoyaga/Sites/REEN - Made for Designers v1-0-1/Template/slider-carousel.html",
-		"/Users/haritzoyaga/Sites/madridespop/app/_includes/sponsorship.md",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/main.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/variables.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/overlay.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/portfolio.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_includes/deepbanner.md",
-		"/Users/haritzoyaga/Sites/impact/assets/js/scripts.js",
-		"/Users/haritzoyaga/Sites/madridespop/app/_includes/gallery.md",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/author.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_includes/offer-v3.md",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/general.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-on-top.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-on-side.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-circled-on-top.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tabs-2-big-top.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/social-icons.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/skrollr-animations.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/sidebar.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/responsive.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/pricing-tables.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/portfolio-post.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/pagination.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/owl-carousel.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/mega-menu.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/header.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/go-to-top-scroll-up.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/general.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/forms.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/features-styles.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/demo-only.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/comments.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/buttons.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/blog.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/accordion-toggle.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/testimonials-quotes.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/reen/tooltips.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/sidebar.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/tooltips.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/pagination.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/comments.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/go-to-top-scroll-up.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/features-styles.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/responsive.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/demo-only.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/skrollr-animations.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/author.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/testimonials-quotes.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/accordion-toggle.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/portfolio.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/overlay.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/portfolio-post.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/owl-carousel.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/pricing-tables.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/forms.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/blog.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/social-icons.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-on-side.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-on-top.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-circled-on-top.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/tabs-2-big-top.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/header.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/buttons.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/mega-menu.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/_less/megamenu.less",
-		"/Users/haritzoyaga/Sites/madridespop/app/css/green.css",
-		"/Users/haritzoyaga/Sites/madrid-es-pop/v1.index.html",
-		"/Users/haritzoyaga/Sites/madridespop/app/_includes/footer.md",
-		"/Users/haritzoyaga/Sites/madridespop/app/_includes/exhibitions.md"
+		"/Users/david/Sites/impact/_posts/equipo/1940-01-01-pedro-jareno.md",
+		"/Users/david/Sites/impact/index.html",
+		"/Users/david/Sites/impact/en/index.html",
+		"/Users/david/Sites/impact/es/index.html",
+		"/Users/david/Sites/impact/_includes/header.html",
+		"/Users/david/Sites/impact/_data/t.yml",
+		"/Users/david/Sites/impact/_posts/equipo/1900-01-01-alberto-benbunam.md",
+		"/Users/david/Sites/impact/_posts/equipo/1915-01-01-luis-ferrandiz.md",
+		"/Users/david/Sites/impact/_posts/equipo/1920-01-01-arnaldo-munoz.md",
+		"/Users/david/Sites/impact/_posts/equipo/1945-01-01-gustavo-garcia.md",
+		"/Users/david/Sites/impact/_posts/equipo/1985-01-01-simona-torre.md",
+		"/Users/david/Sites/impact/_posts/equipo/2000-01-01-rodrigo-miranda.md",
+		"/Users/david/Sites/impact/_posts/equipo/2014-07-16-nota-prensa.md",
+		"/Users/david/Sites/impact/_posts/news/2014-07-16-nota-prensa.md",
+		"/Users/david/Sites/impact/_includes/footer.html",
+		"/Users/david/Sites/impact/_less/variables.less",
+		"/Users/david/Sites/impact/_less/custom/variables.less",
+		"/Users/david/Sites/impact/_site/custom_components/custom/less/type.less",
+		"/Users/david/Sites/impact/_site/index.html",
+		"/Users/david/Sites/impact/_less/main.less",
+		"/Users/david/Sites/impact/_includes/06.hot-news.html",
+		"/Users/david/Sites/impact/_data/variables.yml",
+		"/Users/david/Sites/impact/_includes/07.call-to-action.html",
+		"/Users/david/Sites/impact/_includes/08.spaces.html",
+		"/Users/david/Sites/impact/_posts/news/en/2014-07-16-nota-prensa.md",
+		"/Users/david/Sites/impact/_includes/05.talent-impact.html",
+		"/Users/david/Sites/impact/_includes/01.alert.html",
+		"/Users/david/Sites/impact/_layouts/post.html",
+		"/Users/david/Sites/impact/_post/news/2014-07-16-nota-prensa.md",
+		"/Users/david/Sites/impact/_less/bootstrap.less",
+		"/Users/david/Sites/impact/Gruntfile.js",
+		"/Users/david/Sites/impact/_includes/head.html",
+		"/Users/david/Sites/impact/_layouts/default.html",
+		"/Users/david/Sites/impact/_includes/04.how-it-works.html",
+		"/Users/david/Sites/impact/_includes/entradillas/formacion_cuerpo.html",
+		"/Users/david/Sites/impact/_includes/entradillas/espacios.html",
+		"/Users/david/Sites/impact/_includes/entradillas/formacion.html",
+		"/Users/david/Sites/impact/_includes/entradillas/inversores.html",
+		"/Users/david/Sites/impact/_includes/entradillas/mentoring.html",
+		"/Users/david/Sites/impact/_includes/entradillas/financiacion.html",
+		"/Users/david/Sites/madridespop/app/_includes/home.html",
+		"/Users/david/Sites/impact/_includes/entradillas/seleccion.html",
+		"/Users/david/Sites/impact/_includes/entradillas/requisitos.html",
+		"/Users/david/Sites/impact/_includes/03.what-is-impact.html",
+		"/Users/david/Sites/impact/_includes/02.impact-about.html",
+		"/Users/david/Sites/impact/_config.yml",
+		"/Users/david/Sites/impact/_CNAME",
+		"/Users/david/Sites/impact/CNAME",
+		"/Users/david/Sites/impact/_includes/06.hot-news-pestanias.html",
+		"/Users/david/Sites/impact/js/scripts.js",
+		"/Users/david/Sites/impact/custom_components/custom/less/inner-outer-height.less",
+		"/Users/david/Sites/impact/_site/about/index.html",
+		"/Users/david/Sites/impact/.gitignore",
+		"/Users/david/Sites/impact/custom_components/custom/examples/accordion.html",
+		"/Users/david/Sites/impact/_less/custom.less",
+		"/Users/david/Sites/impact/custom_components/custom/less/tabs-circled-on-top.less",
+		"/Users/david/Sites/impact/custom_components/custom/less/type.less",
+		"/Users/david/Sites/impact/_less/bootstrap/variables.less",
+		"/Users/david/Sites/impact/custom_components/custom/examples/services.html",
+		"/Users/david/Sites/impact/custom_components/custom/js/scripts.js",
+		"/Users/david/Sites/impact/_includes/v1.financing.html",
+		"/Users/david/Sites/impact/package.json",
+		"/Users/david/Sites/impact/custom_components/custom/less/colors.less",
+		"/Users/david/Sites/impact/_includes/v1.what-is-impact.html",
+		"/Users/david/Sites/impact/_includes/v3.how-it-works.html",
+		"/Users/david/Sites/impact/_includes/v1.talent-impact.html",
+		"/Users/david/Sites/impact/_includes/v1.hot-news.html",
+		"/Users/david/Sites/impact/_includes/v4.impact-about.html",
+		"/Users/david/Sites/impact/_includes/v1.call-to-action.html",
+		"/Users/david/Sites/impact/_includes/v1.spaces.html",
+		"/Users/david/Sites/impact/_includes/v2.how-it-works.html",
+		"/Users/david/Sites/impact/custom_components/custom/less/arrows.less",
+		"/Users/david/Sites/impact/custom_components/custom/less/sidelines.less",
+		"/Users/david/Sites/impact/_includes/v3.impact-about.html",
+		"/Users/david/Sites/impact/_includes/v2.impact-about.html",
+		"/Users/david/Sites/impact/_includes/v1.alert.html",
+		"/Users/david/Sites/impact/feed.xml",
+		"/Users/david/Sites/impact/custom_components/custom/less/hero.less",
+		"/Users/david/Sites/iacademi/js/main.js",
+		"/Users/david/Sites/formacion.internetacademi.com/js/main.js",
+		"/Users/david/Sites/impact/img/bk.deepbanner.v2.jpg",
+		"/Users/david/Sites/bestaker/sites/bestaker.localhost/settings.php",
+		"/Users/david/Sites/nutch/apache-nutch-1.7/conf/regex-urlfilter.txt",
+		"/Users/david/Sites/apache-nutch-1.8/conf/regex-urlfilter.txt",
+		"/Users/david/Sites/apache-nutch-1.8/conf/suffix-urlfilter.txt",
+		"/Users/david/Sites/apache-nutch-1.8/urls/seed.txt",
+		"/Users/david/Sites/apache-nutch-1.8/conf/nutch-site.xml",
+		"/Users/david/Desktop/GN - Docs/mejoras/capistrano/capistrano/README.md",
+		"/Users/david/Sites/jboss-eap-6.1/standalone/configuration/standalone.xml",
+		"/Users/david/Sites/apache-nutch-1.8/conf/domain-urlfilter.txt",
+		"/Users/david/Sites/apache-nutch-1.8/conf/solrindex-mapping.xml",
+		"/Users/david/Sites/consorciobertiz/fr/index.html",
+		"/Users/david/Downloads/ckeditor_media/plugins/mediaBrowser/plugin.js",
+		"/Users/david/Sites/navarra_es2/sites/all/modules/contrib/blockreference/blockreference.info",
+		"/Users/david/Desktop/css-selector/static1.museoreinasofia.es-sites-all-themes-mrs_twitter_bootstra.webloc",
+		"/Users/haritzoyaga/Desktop/Lucas Gómez de la Vega Firma.htm",
+		"/Users/haritzoyaga/Sites/consorciobertiz/index.html",
+		"/Users/haritzoyaga/Sites/consorciobertiz/css/variables.less",
+		"/Users/haritzoyaga/Sites/consorciobertiz/v1.index.html",
+		"/Users/haritzoyaga/Sites/consorciobertiz/css/animation.less",
+		"/Users/haritzoyaga/Sites/consorciobertiz/css/main.less",
+		"/Users/haritzoyaga/Sites/consorciobertiz/less/variables.less",
+		"/Users/haritzoyaga/Sites/kimberlyclark/css/app.less",
+		"/Users/haritzoyaga/Sites/kimberlyclark/css/animation.less",
+		"/Users/haritzoyaga/Sites/kimberlyclark/home.html",
+		"/Users/haritzoyaga/Sites/kimberlyclark/css/bootstrap.less",
+		"/Users/haritzoyaga/Sites/bertiz/js/main.js",
+		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap-theme.less",
+		"/Users/haritzoyaga/Sites/bertiz/css/variables.less",
+		"/Users/haritzoyaga/Sites/bertiz/v1.index.html",
+		"/Users/haritzoyaga/Sites/bertiz/css/main.less",
+		"/Users/haritzoyaga/Sites/bertiz/index.html",
+		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap.less",
+		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap-theme.css",
+		"/Users/haritzoyaga/Sites/bertiz/css/app.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/video1-1/node--video1_1.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/online_event/node--online_event.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/node--contenido_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/field--contenido_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/includes/related.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/landing_modulo/node--landing_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/landing_modulo/field--landing_modulo.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/includes/que-vas-a-encontrar.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/node--portada.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/includes/itineraries.tpl.php",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/app.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/css/less/home.less",
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/home/includes/why-startup-mentor.tpl.php"
 	],
 	"find":
 	{
@@ -686,22 +578,8 @@
 		"height": 0.0,
 		"where_history":
 		[
-			"/Users/haritzoyaga/Sites/impact/assets/js",
-			"/Users/haritzoyaga/Sites/madridespop/app/_less/reen",
-			"/Users/haritzoyaga/Sites/iacademi,/Users/haritzoyaga/Sites/madridespop/app/_less/reen",
-			"/Users/haritzoyaga/Sites/iacademi",
-			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
-			"/Users/haritzoyaga/Desktop/Corsa",
-			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
-			"/Users/haritzoyaga/Sites/museo/docroot/sites/all/themes/mrs_twitter_bootstrap/css",
-			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
-			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap",
-			"/Users/haritzoyaga/Sites/iacademi/sites/all/themes/ks_bootstrap/css",
-			"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/js",
-			"/Users/haritzoyaga/Sites/iacademi/plantillas/css,/Users/haritzoyaga/Sites/startup-mentor",
-			"/Users/haritzoyaga/Sites/iacademi/plantillas/css",
-			"/Users/haritzoyaga/Sites/dontknow,/Users/haritzoyaga/Sites/dontknow/docroot/sites/all/themes/dontknow/css/less",
-			"/Users/haritzoyaga/Sites/dontknow",
+			"<project>",
+			"/Users/david/Sites/impact/bower_components/bootstrap/less",
 			"/Users/haritzoyaga/Sites/startup-mentor,/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup",
 			"/Users/haritzoyaga/Sites/startup-mentor",
 			"/Users/haritzoyaga/Sites/startups-mentor",
@@ -725,141 +603,150 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"bower_components/custom/",
-			"../bower_components/reen/fonts/",
-			"assets/images",
-			"bordered",
-			"border",
-			"hero",
-			"light-color",
-			"light-bg",
-			"main",
-			".css",
-			"custom/css/",
-			"//@import",
-			"assets",
-			"../bower_components/reen",
-			"<tr class=\"ok\">",
-			"inner",
-			"@inner",
-			"@import",
-			".inner",
-			"@import \"",
-			"//@import",
-			"animate",
-			"owl-work-samples",
-			".owl-carousel .item .text-overlay",
-			".items li .text-overlay, .thumbs .thumb .text-overlay, .owl-carousel .item .text-overlay",
-			"text-overlay",
-			"latest-works",
-			"@import \"variables.less\";\n\n",
-			"// @i",
-			"//im",
-			"//@",
-			".btn {",
-			".btn",
-			"header p",
-			"@font-size-h2",
-			"header p",
-			".text-small",
-			".footer-bottom",
-			".light-bg {",
-			".light-bg{",
-			".light-bg",
-			".dark-bg",
-			"tint-bg",
-			".btn",
-			"circulo",
-			"#ed1b2f",
-			"5ea721",
-			"8ebb37",
-			"Open",
-			"otam",
-			"open",
-			"open sans",
-			"h1",
-			"10px",
-			"header-",
-			"header-roj",
-			"tran",
-			"gl",
-			"col-sm4",
-			"zi",
-			"rib",
-			"ri",
-			"discount",
-			"doubts",
-			"overla",
-			"z-inde",
+			"novedad",
+			"less",
+			"text-normal",
+			"comite",
+			"Noelia",
+			"miguel",
+			"Luis",
+			"como",
 			"nav",
-			"*",
-			"ast",
-			"main",
-			"Posibilidad",
+			"BEATRIZ",
+			"fernando",
+			"san",
+			"fernand",
+			"san",
+			"class=\"h4\"",
+			"<img src=\"http://lorempixel.com/g/350/350/business/1/\">",
+			"<img src=\"http://lorempixel.com/g/350/350/business/7/\" class=\"img-responsive\">",
+			"<img src=\"http://lorempixel.com/g/350/350/business/2/\" class=\"img-responsive\">",
+			"<img src=\"http://lorempixel.com/g/350/350/business/1/\" class=\"img-responsive\">",
+			"\"><i class",
+			"Comité de dirección",
+			"formacion",
+			"text-normal",
+			"30px",
+			"ul.list-objetivos",
+			"navbar",
+			"hover",
+			"navbar",
+			"nabvar",
+			"navbar",
+			"nav-bar",
+			"normal",
+			"list-ob",
+			"red",
+			"inner-top-xs",
+			"tabs-out",
+			"background-image",
+			"background",
+			"tabs",
+			"h2",
+			"call-to",
+			"footer",
+			"call-to",
+			"footer",
+			"brand",
+			"grand",
+			"requisito",
+			"requisitos",
+			"hover",
+			"Perfil",
+			"list-objetivos",
+			"objeti",
+			"lista-ob",
+			"btn",
+			"logo",
+			"objetivos",
+			"deep",
+			"background",
+			"text-normal",
+			"social li",
+			"primary",
+			"panel-body",
+			"accordion2",
+			"acco",
+			"footer",
+			"footer-menu",
+			"foot",
+			"what-is",
+			"formacion",
+			"less",
+			"@inner",
+			"inner",
+			"seleccion",
+			"dark",
+			"deep",
+			"tabs-circle-top .tab.active a",
+			"less",
+			"text-normal",
 			"text-small",
-			"page-car",
-			"page-c",
-			"ast",
-			"doubts",
-			"block-locale-language",
-			"last-doubts",
-			"btn-blo",
-			"Pago parcial",
-			"last-doubts",
-			"shad",
-			"rib",
-			"//XX",
-			"mail",
-			"main-con",
-			".dropdown-menu",
-			"sprite",
-			"emb",
-			"methodology",
-			"modal",
-			"caro",
-			"caru",
-			"text-c",
-			"text-",
-			"master",
-			"col-sm-4 col-md-3",
-			"ellipsis",
-			"thumbnail-text",
-			"class=\"thumbnail-text\"",
-			"product-thumbnail col-xs-6",
-			"&nbsp;",
-			"caracteres",
-			"masters-thumbnails",
-			"form-group",
-			"list-group",
-			"img-responsive",
-			"page-blog",
-			"gly",
-			"gli",
-			"retina-hide",
-			"control-label",
-			"sprit",
-			"inde",
-			"shar",
-			"sha",
-			"pag",
-			"pagination",
-			"comm",
-			"frame",
-			"label",
-			"div#main",
-			"load",
-			"clos",
-			"w-portfolio-item",
-			"close-button",
-			"close",
-			"close-button"
+			"text-sm",
+			"\\n",
+			"#404040",
+			"text-small",
+			"circle",
+			"130",
+			"icon-left-open-mini",
+			"line-",
+			"col-sm",
+			"arrow-bottom-what-is",
+			"circle",
+			"objetivos",
+			"text-nor",
+			"text-normal",
+			"alert-hot-new",
+			"hot",
+			"favicon",
+			"deep",
+			"startup",
+			"Startups",
+			"call-to-action",
+			"map",
+			"navbar",
+			".footer-menu li:before",
+			"foot",
+			"#73fcd6",
+			"73fcd6",
+			"#73fcd6",
+			"15",
+			"hover",
+			"160",
+			"active",
+			"inner-top",
+			"border",
+			"list-objetivos",
+			"main",
+			"gray-bg",
+			"gray",
+			"arrow-b",
+			".header-top",
+			".gray-bg",
+			"gray-bg",
+			".gray-bg",
+			"border-color",
+			"@border-color",
+			"tabs-circle-top",
+			"services",
+			"circle",
+			"arrow"
 		],
 		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"class=\"h3\"",
+			"<img src=\"/img/equipo/rodrigo.miranda.jpg\" class=\"img-responsive\" alt=\"Rodrigo Miranda\">",
+			"\" target=\"_blank\"><i class",
+			"{{page.comite_direccion}}",
+			" ",
+			"span10\"",
+			"span2\"",
+			"h2 class=\"titulo-bloque\"",
+			"/sites/all/themes/mrs_twitter_bootstrap/images/visita/",
 			"granate-claro",
 			"&."
 		],
@@ -871,11 +758,6 @@
 	},
 	"groups":
 	[
-		{
-			"sheets":
-			[
-			]
-		},
 		{
 			"sheets":
 			[
@@ -899,18 +781,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -935,14 +810,6 @@
 		"selected_items":
 		[
 			[
-				"snippet",
-				"docroot/sites/all/themes/dontknow/templates/node/experiencia/node--experiencia--snippet-big.tpl.php"
-			],
-			[
-				"snippe",
-				"docroot/sites/all/themes/dontknow/templates/node/respuesta/node--respuesta--snippet-big.tpl.php"
-			],
-			[
 				"dk_expe",
 				"sites/all/modules/custom/dk_experiencias/dk_experiencias.module"
 			],
@@ -965,6 +832,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 245.0,
+	"side_bar_width": 291.0,
 	"status_bar_visible": true
 }
