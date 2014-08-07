@@ -37,4 +37,15 @@ $(".scroll").click(function(event){
     $('html,body').animate({scrollTop:$(this.hash).offset().top - 98}, 500);
 });
 
+/**
+ * Sistema para trackear eventos personalizados en analytics
+ * @return {[type]} [description]
+ */
+$('.gatrack').on('click', function() {
+   //  console.log("send event: " +
+   //    $(this).data('gacat') + " " +
+   //    $(this).data('gaacc') + " " +
+   //    $(this).data('gaeti'));
+  ga('send', 'event', $(this).data('gacat'), $(this).data('gaacc'), $(this).data('gaeti'));
+});
 
