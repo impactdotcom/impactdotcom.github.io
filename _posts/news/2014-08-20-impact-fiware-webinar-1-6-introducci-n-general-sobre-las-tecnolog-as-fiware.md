@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: IMPACT FIWARE Webinar 1/6. Introducción general sobre las tecnologías FIWARE.
 lang: es
 image: "/assets/webminar-youtube.png"
