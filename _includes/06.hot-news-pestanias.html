@@ -1,60 +1,41 @@
-<section id="hot-news" class="arrow-bottom">
+<section id="hot-news" class="light-bg">
 	<div class="container inner">
 		<header class="text-center inner-bottom-xs">
 			<h1 class="single-block">Hot <strong>News</strong></h1>
 		</header>
 		<div class="tabs tabs-side tab-container">
 			<ul class="etabs">
-				<li class="tab"><a href="#tab-1">Presentado el Hackathon de Julio</a></li>
-				<li class="tab"><a href="#tab-2">Otro evento anterior al de arriba</a></li>
-				<li class="tab"><a href="#tab-3">Presentado el Hackathon de Julio</a></li>
-				<li class="tab"><a href="#tab-4">Presentado el Hackathon de Julio</a></li>
+				{% for post in site.categories.news  %}
+				  {% if post.lang == page.lang %}
+							<li class="tab"><a href="#tab-{{ forloop.index }}">{{ post.title }}</a></li>
+		      {% endif %}
+		    {% endfor %}
 			</ul>
+
 			<div class="panel-container">
-				<div class="tab-content" id="tab-1">
-					<div class="row">
-						<div class="col-md-6 col-md-push-6 inner-left-xs">
-							<figure><img src="http://lorempixel.com/410/308/business/10/" alt=""></figure>
+				{% for post in site.categories.news  %}
+				  {% if post.lang == page.lang %}
+						<div class="tab-content" id="tab-{{ forloop.index }}">
+							<div class="row">
+								<div class="col-md-6 col-md-push-6 inner-left-xs">
+									<figure><img src="{{ post.image }}" alt="{{ post.title }}"></figure>
+								</div>
+								<div class="col-md-6 col-md-pull-6 inner-right-xs">
+									<h2 class="h2">{{ post.title }}</h2>
+									{{ post.date | date: "%b %-d, %Y" }}
+									<p>{{ post.content }}</p>
+								</div>
+							</div>
 						</div>
-						<div class="col-md-6 col-md-pull-6 inner-right-xs">
-							<h2 class="h2">Presentado el Hackathon de Julio</h2>
-							<p>Magnis modipsae que lib voloratati andigen daepedor quiate ut reporemni aut labor. Laceaque quiae sitiorem ut restibusaes es tumquam core posae volor remped modis volor. Doloreiur qui commolu ptatemp dolupta orem retibusam emnis et consent accullignis lomnus conecus iure posae volor.</p>
-						</div>
-					</div>
-				</div>
-				<div class="tab-content" id="tab-2">
-					<div class="row">
-						<div class="col-md-6 col-md-push-6 inner-left-xs">
-							<figure><img src="http://lorempixel.com/410/308/business/9/" alt=""></figure>
-						</div>
-						<div class="col-md-6 col-md-pull-6 inner-right-xs">
-							<h2 class="h2">Otro evento anterior al de arriba</h2>
-							<p>Magnis modipsae que lib voloratati andigen daepedor quiate ut reporemni aut labor. Laceaque quiae sitiorem ut restibusaes es tumquam core posae volor remped modis volor. Doloreiur qui commolu ptatemp dolupta orem retibusam emnis et consent accullignis lomnus conecus iure posae volor.</p>
-						</div>
-					</div>
-				</div>
-				<div class="tab-content" id="tab-3">
-					<div class="row">
-						<div class="col-md-6 col-md-push-6 inner-left-xs">
-							<figure><img src="http://lorempixel.com/410/308/business/8/" alt=""></figure>
-						</div>
-						<div class="col-md-6 col-md-pull-6 inner-right-xs">
-							<h2 class="h2">Presentado el Hackathon de Julio</h2>
-							<p>Magnis modipsae que lib voloratati andigen daepedor quiate ut reporemni aut labor. Laceaque quiae sitiorem ut restibusaes es tumquam core posae volor remped modis volor. Doloreiur qui commolu ptatemp dolupta orem retibusam emnis et consent accullignis lomnus conecus iure posae volor.</p>
-						</div>
-					</div>
-				</div>
-				<div class="tab-content" id="tab-4">
-					<div class="row">
-						<div class="col-md-6 col-md-push-6 inner-left-xs">
-							<figure><img src="http://lorempixel.com/410/308/business/7/" alt=""></figure>
-						</div>
-						<div class="col-md-6 col-md-pull-6 inner-right-xs">
-							<h2 class="h2">Presentado el Hackathon de Julio</h2>
-							<p>Magnis modipsae que lib voloratati andigen daepedor quiate ut reporemni aut labor. Laceaque quiae sitiorem ut restibusaes es tumquam core posae volor remped modis volor. Doloreiur qui commolu ptatemp dolupta orem retibusam emnis et consent accullignis lomnus conecus iure posae volor.</p>
-						</div>
-					</div>
-				</div>
+		      {% endif %}
+		    {% endfor %}
+			</div>
+		</div>
+
+		<div class="row inner-top">
+			<div class="col-md-10 col-md-offset-1">
+				<h2 class="h2">Storify IMPACT</h2>
+				<div class="storify"><iframe src="//storify.com/IMPACT_acc/nace-impact/embed?header=false&border=false" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/IMPACT_acc/nace-impact.js?header=false&border=false"></script><noscript>[<a href="//storify.com/IMPACT_acc/nace-impact" target="_blank">View the story "NACE IMPACT" on Storify</a>]</noscript></div>
 			</div>
 		</div>
 	</div>

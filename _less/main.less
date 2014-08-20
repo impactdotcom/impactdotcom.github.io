@@ -583,13 +583,20 @@ footer .inner {
     padding-top: 15px;
   }
   .tabs-side .tab a {
+    color: #fff;
     background: #333;
+    text-decoration: none;
   }
   .tabs-side .tab a:hover {
     color: @brand-primary;
   }
   .tabs-side .tab.active a {
-    background: #222;
+    color: @dark-color;
+    background: #fff;
+    border-right-color: #fff;
+    &:hover {
+
+    }
   }
 }
 
