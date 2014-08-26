@@ -36,7 +36,9 @@
       </p>
     </div>
   </div>
-{% else %}
+{% endif %}
+
+{% if {{page.lang}} == 'en' %}
 <div class="col-sm-4">
     <div>
       <h4>A. 50 hours face-to-face classes</h4>
@@ -71,6 +73,48 @@
       <h4>C. Entrepreneur talks</h4>
       <p>
         Successful entrepreneurs will give talks, highlight difficulties & will exchange tips with the accelerated projects.
+      </p>
+    </div>
+  </div>
+{% endif %}
+
+
+{% if {{page.lang}} == 'it' %}
+<div class="col-sm-4">
+    <div>
+      <h4>A. 50 ore di lezioni face-to-face</h4>
+      <ul class="circled">
+        <li>Dal concept al prototipo</li>
+        <li>Tecnologia</li>
+        <li>Digital Marketing e vendite</li>
+        <li>Company creation</li>
+        <li>Fondi e exit</li>
+      </ul>
+    </div>
+
+    <div class="inner-top-xs">
+      <h4>D. Start-up Training</h4>
+      <p>
+        Sotto la guida dei mentor, ogni startup implementerà ciò che è stato appreso nel processo di formazione, trasformando la conoscenza empirica in business reale.
+      </p>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <p class="text-center">
+      <img src="{{ page.grafica_formacion}}"  class="img-responsive" alt="programa de formación">
+    </p>
+  </div>
+  <div class="col-sm-4">
+    <div>
+      <h4>B. E-Learning</h4>
+      <p>
+      3 corsi online di tecniche di contrattazione in differenti ambiti specifici da scegliere tra 10 opzioni.
+      </p>
+    </div>
+    <div class="inner-top">
+      <h4>C. Entrepreneur talks</h4>
+      <p>
+        Alcuni imprenditori di successo interverranno con talk dedicati evidenziando le difficoltà che le startup possono incontrare e dando suggerimenti ai progetti accelerati.
       </p>
     </div>
   </div>

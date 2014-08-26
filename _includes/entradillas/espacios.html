@@ -8,7 +8,9 @@
   <p class="text-normal">
     IMPACT tiene también un acuerdo para el uso de las instalaciones de viveros y aceleradoras de la ciudad de Madrid a través de Madrid Emprende.
   </p>
-{% else %}
+{% endif %}
+
+{% if {{page.lang}} == 'en' %}
   <p class="text-normal">
     IMPACT will physically operate in the <strong>B-Ventures Headquarters in Parma</strong> and in <strong>Digital Acceleration Centers of ISDI in Madrid & Barcelona</strong>, although this does not include space for the start-ups.
   </p>
@@ -17,5 +19,18 @@
   </p>
   <p class="text-normal">
     IMPACT also has an agreement to use incubators and accelerators centers in Madrid through Madrid Emprende.
+  </p>
+{% endif %}
+
+{% if {{page.lang}} == 'it' %}
+  <p class="text-normal">IMPACT opererà fisicamente presso le sedi <strong>b-ventures a Parma</strong>, Milano e Frenze e nei centri di accelerazione <strong>digitali di ISDI a Madrid e Barcellona</strong>, anche se questo non include lo spazio per le startup.
+  </p>
+
+  <p class="text-normal">
+IMPACT ha un accordo per utilizzare gli spazi di coworking di Madrid Emprende in Spagna.
+  </p>
+
+  <p class="text-normal">
+Nella fase Finanziamento Esteso, le startup selezionate dal Consorzio per la fase di internazionalizzazione potranno contare sulla presenza di Buongiorno in 14 paesi, su un contatto in Messico attraverso l'accordo di ISDI con StartupMexico, e su un collegamento con la Silicon Valley attraverso 500 Startup e RocketSpace, partecipata da Docomo Innovation Inc.
   </p>
 {% endif %}

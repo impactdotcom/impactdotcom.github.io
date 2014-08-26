@@ -8,7 +8,9 @@
       <li><p>En fase 2 los proyectos serán valorados por un Panel de Expertos Independiente. Los mejor puntuados presentarán su proyecto delante de un jurado (Jury Day).</p></li>
       <li><p>Por último, el Comité de Selección definirá en el Jury Day a las startups finalistas para comenzar al Programa de Aceleración.</p></li>
   </ol>
-{% else %}
+{% endif %}
+
+{% if {{page.lang}} == 'en' %}
   <p>
     There will be three selection phases. Each phase will be initiated with an <strong>Open Call</strong> across Europe.
   </p>
@@ -17,5 +19,17 @@
      <li><p>Candidates will present their projects via the online Funding Box platform. Those complying with the standard requisites will go on to the second step of Selection.</p></li>
       <li><p>In phase 2 the projects will be evaluated by a Panel of independent Experts. Those with the best marks will present their projects to a jury in the Jury Day.</p></li>
       <li><p>Lastly, the Selection Committee will determine the start-up finalists to start the Acceleration Program. </p></li>
+  </ol>
+{% endif %}
+
+{% if {{page.lang}} == 'it' %}
+<p>
+    Ci saranno tre fasi di selezione. Ogni fase inizierà con una <strong>Call for Application</strong> aperta a tutti i progetti Europei.
+  </p>
+  <br>
+  <ol>
+     <li><p>I candidati presenteranno i loro progetti attraverso la piattaforma online Funding Box. I progetti conformi ai requisiti richiesti, accederanno alla seconda fase di selezione.</p></li>
+      <li><p>Nella fase 2 i progetti saranno valutati da una giuria di esperti. Quelli con le migliori valutazioni faranno una presentazione a una giuria durante il Jury Day.</p></li>
+      <li><p>Infine, il comitato di selezione deciderà quali sarannno le startup finaliste che entreranno a far parte del programma di accelerazione.</p></li>
   </ol>
 {% endif %}

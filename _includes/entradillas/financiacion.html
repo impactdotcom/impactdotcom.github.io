@@ -9,7 +9,9 @@
     <li><strong>FASE 2</strong>: 50% al mes 3 tras cumplir los hitos marcados.</li>
     <li><strong>FASE 3</strong>: 25% al mes 6. Este último tramo se entrega en 2 tandas tras haber cumplido los hitos. Primera tanda del 10% al terminar el programa de aceleración y el 15% restante a los 6 meses de haberlo finalizado.</li>
   </ul>
-{% else %}
+{% endif %}
+
+{% if {{page.lang}} == 'en' %}
   <p>
   Funds will be disbursed in 3 installments throughout the acceleration process and subject to the attainment of certain business milestones set by the entrepreneurs and their mentors.
   </p>
@@ -19,5 +21,18 @@
   </li>
     <li><strong>PHASE 2</strong>: 50% - Month 3. After fulfillment of business milestones agreed on.</li>
     <li><strong>PHASE 3</strong>: 25% - Month 6. After fulfillment of corresponding business milestones agreed on. This last stage has, in turn, 2 scheduled payments breakdown; 10% at completion of acceleration and the remaining 15% 6 months after completion.</li>
+  </ul>
+{% endif %}
+
+{% if {{page.lang}} == 'it' %}
+  <p>
+  I fondi saranno erogati in 3 rate durante tutto il processo di accelerazione e saranno soggette al raggiungimento di determinati traguardi definiti dagli imprenditori e dei loro mentori.
+  </p>
+
+  <ul class="circled">
+    <li><strong>FASE 1</strong>: il 25% del totale sarà erogato nel Mese 0 o dopo il processo di selezione e la firma dell’accordo.
+  </li>
+    <li><strong>FASE 2</strong>: il 50% del totale sarà erogato nel 3° Mese / Dopo il raggiungimento delle milestone concordate.</li>
+    <li><strong>FASE 3</strong>: il 25% del totale sarà erogato nel 6° Mese / Dopo il raggiungimento delle ulteriori milestone concordate. Quest'ultima fase ha a sua volta una ripartizione in due momenti programmati: 10% al completamento del percorso di accelerazione e il restante 15% 6 mesi dopo il completamento.</li>
   </ul>
 {% endif %}

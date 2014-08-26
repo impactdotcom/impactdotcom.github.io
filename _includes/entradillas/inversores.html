@@ -8,7 +8,9 @@
   <p>
     Además de las oportunidades de inversión, estos eventos serán una fuente de <strong>exposición mediática</strong> para los emprendedores y sus proyectos.
   </p>
-{% else %}
+{% endif %}
+
+{% if {{page.lang}} == 'en' %}
   <p>
     Impact will organize events, pitching competitions, networking sessions & <strong>demo days with top-notch European investors</strong> for those start-ups completing the Acceleration process in what is called the Extended Funding Phase.
   </p>
@@ -17,5 +19,19 @@
   </p>
   <p>
     Aside from the investment opportunities this entails, these events give <strong>media exposure</strong> to the entrepreneurs & their projects.
+  </p>
+{% endif %}
+
+{% if {{page.lang}} == 'it' %}
+<p>
+
+
+    Impact organizzerà eventi, pitch competition, sessioni e <strong>giornate dimostrative con investitori europei</strong> e occasioni di networking per le startup che parteciperanno al processo di accelerazione in quella che viene chiamata la fase di “finanziamento esteso”.
+  </p>
+  <p>
+    In questa fase il consorzio IMPACT potrà <strong>investire fino a 250.000 Euro</strong> in deteminate startup con uno sconto del 25% concordato durante il contratto di sovvenzione iniziale.
+  </p>
+  <p>
+    A parte le opportunità di investimento, questi eventi daranno <strong>esposizione mediatica</strong> agli imprenditori e ai rispettivi progetti.
   </p>
 {% endif %}

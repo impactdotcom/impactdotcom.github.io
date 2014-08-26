@@ -1,0 +1,43 @@
+*** para el fichero index *** not translate this line
+*****************************************************
+FinanciacionExtendida: Extended Funding
+
+
+*** para el fichero de datos *** not translate this line
+*****************************************************
+
+  menu_que_es: About IMPACT
+  menu_como_funciona: How it works
+  menu_equipo: IMPACT Team
+  menu_espacios: Acceleration Spaces
+  menu_hot_news: Hot News
+  menu_inscribe: Submit your Project
+
+*** para el fichero requisitos *** not translate this line
+*****************************************************
+
+<p>
+    Digital entrepreneurs, start-ups or SMEs established in <strong>Europe</strong> or at least with <strong>their management team</strong> located in Europe  where <strong>Mobile</strong><sup>*</sup> is key in its business model and who use <strong>FI technologies</strong>.
+  </p>
+
+*** hotnews - nota prensa *** not translate this line
+*****************************************************
+
+titular_superior: IMPACT FIWARE Webinar 1/6. Introducción general sobre las tecnologías FIWARE.
+
+
+title: IMPACT is born, an innovative model of start-ups accelerator to finance 100.000 euros to 64 European mobile Internet projects
+
+text: Today we have a press conference. follow us: <a href="https://twitter.com/IMPACT_acc" target="_blank">@impact_acc in twitter</a> and <a href="https://www.linkedin.com/company/impact-accelerator" target="_blank">Linkedin</a>.
+
+<a href="/assets/20140716-nota-prensa-impact-english.pdf"><i class="icon-download-1"></i> Download press release</a>.
+
+
+*** hot news - fiware *** not translate this line
+*****************************************************
+
+title: IMPACT FIWARE Webinar 1/6. General introduction about FIWARE technologies.
+text:
+<a href="https://www.youtube.com/watch?v=FYh9S_wPNHU" target="_blank"><i class="icon-s-youtube"></i> Watch webminar</a>.
+
+<a href="/assets/Impact_Webinar-01_Presentacion_MR_v2.pdf"><i class="icon-download-1"></i> Download presentation</a>.
