@@ -14,10 +14,10 @@
 									{% if post.cargo %}
 										<p class="cargo">{{ post.cargo }}</p>
 									{% endif %}
-									{% if {{page.lang}} == 'es' %}
-	  								<p>{{ post.cargo_impact_es }}</p>
-							    {% else %}
+									{% if {{page.lang}} == 'en' %}
 	  								<p>{{ post.cargo_impact_en }}</p>
+							    {% else %}
+	  								<p>{{ post.cargo_impact_es }}</p>
 							    {% endif %}
 									<ul class="social">
 										{% if post.linked-in %}
