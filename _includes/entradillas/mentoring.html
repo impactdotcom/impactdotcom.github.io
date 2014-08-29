@@ -6,12 +6,24 @@
       <li><strong>Mentores Especialistas bajo demanda</strong>: profesionales con perfil específico a disposición de las startups para tratar temas especializados.</li>
     </ul>
   </p>
-{% else %}
+{% endif %}
+
+{% if {{page.lang}} == 'en' %}
   <p>
     The chosen start-ups will follow a mentoring process throughout 6 months with the aim of fulfilling the Milestones and bring the start-up to the next level.
     <ul class="circled">
       <li><strong>Follow-up mentor</strong>: professionals with multifunctional profiles and start-ups founders, whose purpose is to guide the start-up holistically through the deliverables of each milestone throughout the acceleration process. </li>
       <li><strong>Specialists Mentors on call</strong>: professionals with certain profiles available to the start-ups to deal with specialized matters.</li>
+    </ul>
+  </p>
+{% endif %}
+
+{% if {{page.lang}} == 'it' %}
+  <p>
+  Le startup selezionate seguiranno un percorso di mentoring di sei mesi con l'obiettivo di raggiungere i risultati definiti anticipatamente e portare la startup al livello successivo.
+    <ul class="circled">
+      <li><strong>Mentor Follow-up</strong>: professionisti con profili multifunzionali e fondatori di startup, il cui scopo è quello di guidare le imprese attraverso un percorso olistico strutturato nelle diverse tappe del processo di accelerazione. </li>
+      <li><strong>Mentor professionisti a chiamata: </strong>: i professionisti con profili specifi a disposizione delle startup per affrontare problematiche settoriali.</li>
     </ul>
   </p>
 {% endif %}
