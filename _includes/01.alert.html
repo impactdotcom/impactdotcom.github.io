@@ -1,10 +1,16 @@
 <div id="alert-hot-new" class="alert alert-info text-normal" role="alert">
 	<div class="container">
     <i class="icon-info-circle"></i>
-    {% if {{page.lang}} == 'es' %}
+    {% if {{page.lang}} == 'en' %}
       <strong>Hot News!</strong> IMPACT FIWARE Webinar 1/6. General introduction about FIWARE technologies.
-    {% else %}
+    {% endif %}
+
+    {% if {{page.lang}} == 'es' %}
       <strong>Hot News!</strong> IMPACT FIWARE Webinar 1/6. Introducción general sobre las tecnologías FIWARE.
+    {% endif %}
+
+    {% if {{page.lang}} == 'it' %}
+      <strong>Hot News!</strong> IMPACT FIWARE Webinar 1/6. Introduzione generale alla tecnologia FIWARE.
     {% endif %}
 	</div>
 </div>
