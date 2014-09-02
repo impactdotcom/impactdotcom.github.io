@@ -53,7 +53,19 @@
 						<li><a href="#talent-impact" class="text-small scroll">{{ site.data.t[page.lang].menu_equipo }}</a></li>
 						<li><a href="#spaces" class="text-small scroll">{{ site.data.t[page.lang].menu_espacios }}</a></li>
 						<li><a href="#hot-news" class="text-small scroll">{{ site.data.t[page.lang].menu_hot_news }}</a></li>
-						<li class="hidden-lg"><a href="/{{ page.alt-lang }}" class="text-small"><i class="icon-ccw"></i> {{ site.data.t[page.lang].alt-lang-desc }}</a></li>
+
+						{% if page.lang == 'en' %}
+								<li class="hidden-lg"><a href="/es"  class="text-small">> Español</a></li>
+								<li class="hidden-lg"><a href="/it"  class="text-small">> Italiano</a></li>
+						{% endif %}
+						{% if page.lang == 'es' %}
+								<li class="hidden-lg"><a href="/"  class="text-small">> English</a></li>
+								<li class="hidden-lg"><a href="/it"  class="text-small">> Italiano</a></li>
+						{% endif %}
+						{% if page.lang == 'it' %}
+								<li class="hidden-lg"><a href="/"  class="text-small">> English</a></li>
+								<li class="hidden-lg"><a href="/es"  class="text-small">> Español</a></li>
+						{% endif %}
 					</ul>
 					<a href="#call-to-action" class="btn btn-sm btn-primary navbar-btn pull-right visible-lg scroll">{{ site.data.t[page.lang].menu_inscribe }}</a>
 				</div>
