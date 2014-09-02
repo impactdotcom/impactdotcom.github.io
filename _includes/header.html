@@ -2,18 +2,36 @@
 	<div class="navbar-fixed-top">
 		<div class="header-top hidden-xs">
 			<div class="container">
-				<ul class="info pull-left">
-					<li><a href="/{{ site.data.t[page.lang].alt-lang }}"><i class="icon-ccw"></i> {{ site.data.t[page.lang].alt-lang-desc }}</a></li>
-					<li><a href="mailto:{{ site.data.variables.mail }}"><i class="icon-mail-1 contact"></i> {{ site.data.variables.mail }}</a></li>
-					<li><a href="mailto:{{ site.data.variables.mail_press }}"><i class="icon-mail-alt contact"></i> {{ site.data.variables.mail_press }}</a></li>
-				</ul>
-				<ul class="social pull-right">
+				<ul class="social pull-left">
 					<li><a href="{{ site.data.variables.linkedin }}" target="_blank"><i class="icon-s-linkedin"></i></a></li>
 					{% comment %}<li><a href="{{ site.data.variables.youtube }}" target="_blank"><i class="icon-s-youtube"></i></a></li>
 					<li><a href="{{ site.data.variables.facebook }}" target="_blank"><i class="icon-s-facebook"></i></a></li>
 					<li><a href="{{ site.data.variables.gplus }}" target="_blank"><i class="icon-s-gplus"></i></a></li>{% endcomment %}
 					<li><a href="{{ site.data.variables.twitter }}" target="_blank"><i class="icon-s-twitter"></i></a></li>
 				</ul>
+				<ul class="info pull-left">
+					<li class="inner-left-xs"><a href="mailto:{{ site.data.variables.mail }}"><i class="icon-mail-1 contact"></i> {{ site.data.variables.mail }}</a></li>
+					<li><a href="mailto:{{ site.data.variables.mail_press }}"><i class="icon-mail-alt contact"></i> {{ site.data.variables.mail_press }}</a></li>
+				</ul>
+
+				{% if page.lang == 'en' %}
+					<ul class="info pull-right">
+						<li class="idioma"><a href="/es"><i class="icon-ccw"></i> Español</a></li>
+						<li class="idioma"><a href="/it">| Italiano</a></li>
+					</ul>
+				{% endif %}
+				{% if page.lang == 'es' %}
+					<ul class="info pull-right">
+						<li class="idioma"><a href="/"><i class="icon-ccw"></i> English</a></li>
+						<li class="idioma"><a href="/it">| Italiano</a></li>
+					</ul>
+				{% endif %}
+				{% if page.lang == 'it' %}
+					<ul class="info pull-right">
+						<li class="idioma"><a href="/"><i class="icon-ccw"></i> English</a></li>
+						<li class="idioma"><a href="/es">| Español</a></li>
+					</ul>
+				{% endif %}
 			</div>
 		</div>
 		<nav class="navbar navbar-inverse" role="navigation">

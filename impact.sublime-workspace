@@ -344,10 +344,10 @@
 	"buffers":
 	[
 		{
-			"file": "falta-traducir.txt",
+			"file": "/Users/david/Sites/selfbank/docroot/sites/all/themes/tema/less/global/fonts.less",
 			"settings":
 			{
-				"buffer_size": 1981,
+				"buffer_size": 2048,
 				"line_ending": "Unix"
 			}
 		}
@@ -448,8 +448,13 @@
 	},
 	"file_history":
 	[
-		"/Users/david/Sites/impact/_posts/news/it/2014-08-20-webminar1.md",
+		"/Users/david/Sites/impact/falta-traducir.txt",
+		"/Users/david/Sites/impact/_data/t.yml",
+		"/Users/david/Sites/impact/_includes/entradillas/requisitos.html",
+		"/Users/david/Sites/impact/_includes/01.alert.html",
 		"/Users/david/Sites/impact/_posts/news/it/2014-07-16-nota-prensa.md",
+		"/Users/david/Sites/impact/_posts/news/it/2014-08-20-webminar1.md",
+		"/Users/david/Sites/impact/_includes/05.talent-impact.html",
 		"/Users/david/Sites/impact/_includes/04.how-it-works.html",
 		"/Users/david/Sites/impact/it/index.html",
 		"/Users/david/Sites/impact/index.html",
@@ -457,17 +462,14 @@
 		"/Users/david/Sites/impact/_includes/entradillas/mentoring.html",
 		"/Users/david/Sites/impact/_includes/entradillas/formacion_cuerpo.html",
 		"/Users/david/Sites/impact/_includes/entradillas/financiacion.html",
-		"/Users/david/Sites/impact/_includes/entradillas/requisitos.html",
 		"/Users/david/Sites/impact/_includes/entradillas/espacios.html",
 		"/Users/david/Sites/impact/_includes/entradillas/seleccion.html",
-		"/Users/david/Sites/impact/_data/t.yml",
 		"/Users/david/Sites/impact/_less/main.less",
 		"/Users/david/Sites/impact/_posts/equipo/1885-01-01-marcelo-royan.md",
 		"/Users/david/Sites/consorciobertiz/_config.yml",
 		"/Users/david/Sites/impact/_config.yml",
 		"/Users/david/Sites/impact/_posts/news/en/2014-08-20-webminar1.md",
 		"/Users/david/Sites/impact/es/index.html",
-		"/Users/david/Sites/impact/_includes/01.alert.html",
 		"/Users/david/Sites/impact/_includes/06.hot-news.html",
 		"/Users/david/Sites/impact/_includes/06.hot-news-pestanias.html",
 		"/Users/david/Sites/impact/js/scripts.js",
@@ -494,7 +496,6 @@
 		"/Users/david/Sites/impact/_data/variables.yml",
 		"/Users/david/Sites/impact/_includes/08.spaces.html",
 		"/Users/david/Sites/impact/_posts/news/en/2014-07-16-nota-prensa.md",
-		"/Users/david/Sites/impact/_includes/05.talent-impact.html",
 		"/Users/david/Sites/impact/_layouts/post.html",
 		"/Users/david/Sites/impact/_post/news/2014-07-16-nota-prensa.md",
 		"/Users/david/Sites/impact/_less/bootstrap.less",
@@ -574,8 +575,7 @@
 		"/Users/haritzoyaga/Sites/bertiz/css/app.less",
 		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/video1-1/node--video1_1.tpl.php",
 		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/online_event/node--online_event.tpl.php",
-		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/node--contenido_modulo.tpl.php",
-		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/field--contenido_modulo.tpl.php"
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/node--contenido_modulo.tpl.php"
 	],
 	"find":
 	{
@@ -611,6 +611,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\"\"",
+			"titular_su",
+			"IMPACT FIWARE Webinar 1/6. Introduzione generale alla tecnologia FIWARE.",
 			"digital",
 			"FinanciacionExtendida",
 			"arrow-bottom",
@@ -735,10 +738,7 @@
 			"hover",
 			"160",
 			"active",
-			"inner-top",
-			"border",
-			"list-objetivos",
-			"main"
+			"inner-top"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -746,6 +746,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"\"",
 			"ingreso",
 			"class=\"h3\"",
 			"<img src=\"/img/equipo/rodrigo.miranda.jpg\" class=\"img-responsive\" alt=\"Rodrigo Miranda\">",
@@ -773,18 +774,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "falta-traducir.txt",
+					"file": "/Users/david/Sites/selfbank/docroot/sites/all/themes/tema/less/global/fonts.less",
 					"settings":
 					{
-						"buffer_size": 1981,
+						"buffer_size": 2048,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1652,
-								1652
+								0,
+								0
 							]
 						],
 						"settings":
@@ -926,7 +927,9 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
