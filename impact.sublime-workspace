@@ -344,10 +344,10 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/david/Sites/selfbank/docroot/sites/all/themes/tema/less/global/fonts.less",
+			"file": "_includes/header.html",
 			"settings":
 			{
-				"buffer_size": 2048,
+				"buffer_size": 3787,
 				"line_ending": "Unix"
 			}
 		}
@@ -448,6 +448,7 @@
 	},
 	"file_history":
 	[
+		"/Users/david/Sites/selfbank/docroot/sites/all/themes/tema/less/global/fonts.less",
 		"/Users/david/Sites/impact/falta-traducir.txt",
 		"/Users/david/Sites/impact/_data/t.yml",
 		"/Users/david/Sites/impact/_includes/entradillas/requisitos.html",
@@ -574,8 +575,7 @@
 		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap-theme.css",
 		"/Users/haritzoyaga/Sites/bertiz/css/app.less",
 		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/video1-1/node--video1_1.tpl.php",
-		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/online_event/node--online_event.tpl.php",
-		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/contenido_modulo/node--contenido_modulo.tpl.php"
+		"/Users/haritzoyaga/Sites/startup-mentor/sites/all/themes/startup/templates/node/online_event/node--online_event.tpl.php"
 	],
 	"find":
 	{
@@ -774,18 +774,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/david/Sites/selfbank/docroot/sites/all/themes/tema/less/global/fonts.less",
+					"file": "_includes/header.html",
 					"settings":
 					{
-						"buffer_size": 2048,
+						"buffer_size": 3787,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3544,
+								3544
 							]
 						],
 						"settings":
@@ -927,12 +927,11 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 650.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
