@@ -344,10 +344,10 @@
 	"buffers":
 	[
 		{
-			"file": "_includes/header.html",
+			"file": "_includes/05.talent-impact.html",
 			"settings":
 			{
-				"buffer_size": 3787,
+				"buffer_size": 1468,
 				"line_ending": "Unix"
 			}
 		}
@@ -448,6 +448,7 @@
 	},
 	"file_history":
 	[
+		"/Users/david/Sites/impact/_includes/header.html",
 		"/Users/david/Sites/selfbank/docroot/sites/all/themes/tema/less/global/fonts.less",
 		"/Users/david/Sites/impact/falta-traducir.txt",
 		"/Users/david/Sites/impact/_data/t.yml",
@@ -481,7 +482,6 @@
 		"/Users/david/Sites/impact/_posts/equipo/1985-01-01-simona-torre.md",
 		"/Users/david/Sites/impact/_posts/equipo/1940-01-01-pedro-jareno.md",
 		"/Users/david/Sites/impact/en/index.html",
-		"/Users/david/Sites/impact/_includes/header.html",
 		"/Users/david/Sites/impact/_posts/equipo/1900-01-01-alberto-benbunam.md",
 		"/Users/david/Sites/impact/_posts/equipo/1915-01-01-luis-ferrandiz.md",
 		"/Users/david/Sites/impact/_posts/equipo/1920-01-01-arnaldo-munoz.md",
@@ -774,18 +774,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_includes/header.html",
+					"file": "_includes/05.talent-impact.html",
 					"settings":
 					{
-						"buffer_size": 3787,
+						"buffer_size": 1468,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3544,
-								3544
+								736,
+								736
 							]
 						],
 						"settings":
@@ -931,7 +931,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 650.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
