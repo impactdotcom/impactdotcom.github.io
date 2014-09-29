@@ -271,6 +271,13 @@ footer .inner {
   strong{
     color: @gray-dark;
   }
+  a {
+    color: @gray-dark;
+    text-decoration: underline;
+    &:hover {
+      color: #000;
+    }
+  }
 
 }
 
@@ -650,4 +657,24 @@ footer .inner {
     display: inline-block;
     vertical-align: middle;
     float: none;
+}
+
+.faq .panel-group .panel {
+  background: @gray-dark;
+
+  .panel-toggle:hover {
+    color: @gray;
+  }
+
+  h4 {
+    margin-bottom: 0;
+  }
+
+  ul {
+    list-style: initial;
+  }
+
+  .panel-group + .panel-group {
+    margin-top: 20px;
+  }
 }
