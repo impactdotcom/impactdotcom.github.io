@@ -43,16 +43,36 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#"><span class="hide">IMPACT</span></a>
+					{% if page.es_hija %}
+						<a class="navbar-brand" href="/{{page.lang}}/"><span class="hide">IMPACT</span></a>
+					{% else %}
+						<a class="navbar-brand" href="#"><span class="hide">IMPACT</span></a>
+					{% endif %}
+
 				</div>
 
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav">
-						<li><a href="#what-is-impact" class="text-normal scroll">{{ site.data.t[page.lang].menu_que_es }}</a></li>
-						<li><a href="#how-it-works" class="text-normal scroll">{{ site.data.t[page.lang].menu_como_funciona }}</a></li>
-						<li><a href="#talent-impact" class="text-small scroll">{{ site.data.t[page.lang].menu_equipo }}</a></li>
-						<li><a href="#spaces" class="text-small scroll">{{ site.data.t[page.lang].menu_espacios }}</a></li>
-						<li><a href="#hot-news" class="text-small scroll">{{ site.data.t[page.lang].menu_hot_news }}</a></li>
+						{% if page.es_hija %}
+							<li><a href="/{{page.lang}}/#what-is-impact" class="text-normal">{{ site.data.t[page.lang].menu_que_es }}</a></li>
+							<li><a href="/{{page.lang}}/#how-it-works" class="text-normal">{{ site.data.t[page.lang].menu_como_funciona }}</a></li>
+							<li><a href="/{{page.lang}}/#talent-impact" class="text-small">{{ site.data.t[page.lang].menu_equipo }}</a></li>
+							<li><a href="/{{page.lang}}/#spaces" class="text-small">{{ site.data.t[page.lang].menu_espacios }}</a></li>
+							<li><a href="/{{page.lang}}/#hot-news" class="text-small">{{ site.data.t[page.lang].menu_hot_news }}</a></li>
+						{% else %}
+							<li><a href="#what-is-impact" class="text-normal scroll">{{ site.data.t[page.lang].menu_que_es }}</a></li>
+							<li><a href="#how-it-works" class="text-normal scroll">{{ site.data.t[page.lang].menu_como_funciona }}</a></li>
+							<li><a href="#talent-impact" class="text-small scroll">{{ site.data.t[page.lang].menu_equipo }}</a></li>
+							<li><a href="#spaces" class="text-small scroll">{{ site.data.t[page.lang].menu_espacios }}</a></li>
+							<li><a href="#hot-news" class="text-small scroll">{{ site.data.t[page.lang].menu_hot_news }}</a></li>
+
+						{% endif %}
+
+						{% if page.lang == 'en' %}
+								<li><a href="/faq/" class="text-small">FAQ</a></li>
+							{% else %}
+								<li><a href="/{{page.lang}}/faq/" class="text-small">FAQ</a></li>
+							{% endif %}
 
 						{% if page.lang == 'en' %}
 								<li class="hidden-lg"><a href="/es"  class="text-small">> Español</a></li>
