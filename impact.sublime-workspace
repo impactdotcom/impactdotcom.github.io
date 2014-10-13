@@ -344,53 +344,34 @@
 	"buffers":
 	[
 		{
-			"contents": "---\nlayout: default\nlang: en\n---\n\n<section class=\"faq\">\n  <div class=\"container inner-top-xs\">\n    <header class=\"text-center\">\n      <h1 class=\"single-block\"><strong>FAQ</strong></h1>\n      <h2>IMPACT 1st OPEN CALL (2014 edition)</h2>\n      <p>Closing date for proposals: <br> Friday, 7th November 2014 at 15:00 p.m. (CET)</p>\n    </header>\n    <div class=\"row inner-bottom-xs\">\n      <div class=\"col-md-10 col-md-offset-1\">\n        <p class=\"single-line\">\n          We are grateful that you are interested in applying to the IMPACT Accelerator. The following information is intended to help you through the process, and solving queries on the IMPACT Open Call.\n          <br>The FAQ will be updated regularly based on the questions we receive.\n          <br><br>If you cannot find the answer to your question here, please submit your question(s) to <a href=\"mailto:opencall@impact-accelerator.com\">opencall@IMPACT-accelerator.com</a>.  We will do our best to assist you!\n        </p>\n\n        <div id=\"accordion1\" class=\"panel-group\">\n          <div class=\"panel panel-default\">\n            <div class=\"panel-heading\">\n              <h4 class=\"panel-title\">\n                <a class=\"panel-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#content1\">\n                  <span>1. General Questions related with FI-PPP</span>\n                </a>\n              </h4>\n            </div><!-- /.panel-heading -->\n            <div id=\"content1\" class=\"panel-collapse collapse\" style=\"height: 0px;\">\n              <div class=\"panel-body\">\n                  <h3>1.1 What is FI-PPP</h3>\n                  <p><a href=\"http://www.fi-ppp.eu/\" target=\"nueva\">The Future Internet Public Private Partnership (FI-PPP)</a> is an European programme for Internet-enabled innovation. The FI-PPP will accelerate the development and adoption of Future Internet technologies in Europe, advance the European market for smart infrastructures, and increase the effectiveness of business processes through the Internet. The core platform of the FI-PPP program is realized by the FIWARE project. A number of Use Case projects contribute to the realization of the Future Internet vision. </p>\n\n                  <h3>1.2 What is FIWARE?</h3>\n                  <p><a href=\"http://www.fi-ware.org/\" target=\"nueva\">FIWARE</a> is an innovative, open cloud-based infrastructure for cost-effective creation and delivery of Future Internet applications and services. FIWARE API specifications are public and royalty-free, driven by the development of an open source reference implementation, which accelerates the availability of commercial products and services based on FIWARE technologies.</p>\n              </div><!-- /.panel-body -->\n            </div><!-- /.content -->\n          </div><!-- /.panel -->\n        </div>\n\n        <div id=\"accordion2\" class=\"panel-group\">\n          <div class=\"panel panel-default\">\n            <div class=\"panel-heading\">\n              <h4 class=\"panel-title\">\n                <a class=\"panel-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion2\" href=\"#content2\">\n                  <span>2. General Questions related with IMPACT</span>\n                </a>\n              </h4>\n            </div><!-- /.panel-heading -->\n            <div id=\"content2\" class=\"panel-collapse collapse\" style=\"height: 0px;\">\n              <div class=\"panel-body\">\n                  <h3>2.1 What is IMPACT?</h3>\n                  <p>The Internet Mobile ConTent (IMPACT) partnership and project contributes to the promotion and early adoption of <strong>FIWARE Technology</strong> by providing <strong>premium acceleration services</strong> and distributing a total grant support of 6,4 M€ to around 64 European SMEs operating in <strong>INTERNET MOBILE</strong>.</p>\n\n                  <h3>2.2 What is considered Mobile Content?</h3>\n                  <p>Mobile content or technologies are mobile apps or business models based on mobility in the communications areas, social, video, media & advertising; design, education, entertainment, ecommerce, peripheral devices, content, connected TV, infrastructure, security, productivity, finance, smart cities and social networks, among others.</p>\n                  <p>It is important to highlight that to be considered a Mobile business is not enough to pass a web into a mobile, the strategy of the business model must focus on mobility.</p>\n\n                  <h3>2.3 Why should I participate in the IMPACT Open Call?</h3>\n                  <p>First of all, because you have the possibility of receiving up to 100.000€ (in cash and services), without diluting equity. </p>\n                  <p><strong>But it is not just for the money!!!</strong></p>\n                  <p>You would be able to participate in a 6 months <strong>Premium Acceleration Service</strong>, led by key world class digital ecosystem professionals and entrepreneurs, which will offer you:</p>\n                  <ul>\n                    <li>A specialized <strong>training on Digital entrepreneurship</strong> and mobile content to grow your chances of business and technology success </li>\n                    <li><strong>A high level team of mentors</strong>, supporting you along the whole process.</li>\n                    <li>Individual support in finding <strong>complementary funding</strong> opportunities </li>\n                    <li>A <strong>Demo Day</strong> where you will have the possibility of contact with Business Angels and other first class global Funds.</li>\n                  </ul>\n\n                  <p>Moreover, as beneficiary you will have the possibility of an <strong>Extended Investment Phase</strong>, which will consist of a fast track access to the Project Partners investment programs.</p>\n\n                  <p>Therefore, if you want to leverage with the most recognized professionals within the Mobile sector, having first class mentoring support and an important financial support, IMPACT is your programme!!!</p>\n              </div><!-- /.panel-body -->\n            </div><!-- /.content -->\n          </div><!-- /.panel -->\n        </div>\n\n        <div id=\"accordion3\" class=\"panel-group\">\n          <div class=\"panel panel-default\">\n            <div class=\"panel-heading\">\n              <h4 class=\"panel-title\">\n                <a class=\"panel-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion3\" href=\"#content3\">\n                  <span>3. General Questions related with IMPACT Open Call</span>\n                </a>\n              </h4>\n            </div><!-- /.panel-heading -->\n            <div id=\"content3\" class=\"panel-collapse collapse\" style=\"height: 0px;\">\n              <div class=\"panel-body\">\n                  <h3>3.1  Who can apply for the open call?</h3>\n                  <p>\n                    The IMPACT Open Call is open for two types of applicants:\n                    <ul>\n                      <li>\n                        SMEs (legal persons)   participating on their own (only one SME per application).</li>\n                        <li>Web Entrepreneurs (physical persons), or individuals, participating in groups of minimum 2 members</li>\n                    </ul>\n                  </p>\n                  <p>\n\n                    As applicant you shall be <strong>established</strong>, or at least your key management team, in any of the <strong>EU-28 countries</strong>  or a <strong>FP7 Associated countries</strong>.\n                  </p>\n                  <p>\n                    Moreover, to be <strong>eligible</strong>, your proposals have to fully comply with the <strong>eligibility criteria</strong> indicated in ‘Guide for Applicants’, which are:\n                    <ul>\n                      <li>Use of FIWARE technologies</li>\n                      <li>Scope must be in Mobile domain</li>\n                    </ul>\n                  </p>\n                  <p>\n                    In addition you should look out  the <strong>exclusion criteria</strong>, also indicated in the ‘Guide for Applicants’:\n                    <ul>\n                      <li>The same proposal must not be funded by more than one FIWARE Accelerator.  If the same proposal, or a very similar one, has been already funded by other accelerator, the proposal will be excluded from the IMPACT process.</li>\n                      <li>Only one proposal per SME or individual can be submitted. If more than one proposal per SME or individual is identified, the proposal will be excluded from the process.</li>\n                    </ul>\n                  </p>\n\n                    <h3>3.2 What type of projects is IMPACT looking for?</h3>\n                    <p>If you fit in the criteria above described and you want to promote an innovative way to do business in mobile domain, you are welcome to submit your application, within one of the following categories: </p>\n\n                  <table class=\"table table-bordered\">\n                        <thead>\n                          <tr>\n                            <th>N.  </th>\n                            <th>Category  </th>\n                            <th>Description</th>\n                          </tr>\n                        </thead>\n                        <tbody>\n                          <tr>\n                            <td>1</td>\n                            <td>Start-up Phase</td>\n                            <td>Market deployment to break-even</td>\n                          </tr>\n                          <tr>\n                            <td>2</td>\n                            <td>Growth Phase</td>\n                            <td>Business scalability after proven profitability.</td>\n                          </tr>\n                        </tbody>\n                      </table>\n\n\n\n                    <p>The following items will be taken into account when pre-scoring the applications included in each category:</p>\n\n                    <ul><li><strong>Start-up Phase:</strong>\n                      <ul><li>Level of usage of Mobility concept as a core of the business model</li>\n                        <li>Level of integration of FIWARE technology and level of innovation</li>\n                        <li>Functional prototype available before investing (or previous product success)</li>\n                       <li>Founders full time dedicated to the project (minimum required: 2)</li>\n                       <li>Less than 3 years since its constitution</li>\n                       <li>Company value below 1.000.000€</li>\n                       <li>Objective to be in the market in less than 6 months</li>\n                      <li>Established Metrics in terms of Users, Sales and Profit.</li></ul>\n\n                      <li>\n                        <strong>Growth Phase:</strong>\n                        <ul>\n                          <li>Level of usage of Mobility concept as a core of the business model</li>\n                          <li>Level of integration of FIWARE technology and level of innovation</li>\n                          <li>Functional prototype available before investing (or previous product success)</li>\n                          <li>Founders full time dedicated to the project (minimum required: 2)</li>\n                          <li>Turnover  < 2.000.000€</li>\n                          <li>\n                          Less than 7 years since its constitution</li>\n                          <li>Founders retaining at least 51% of equity</li>\n                          <li>Established Metrics in terms of Users, Sales and Profit.</li>\n                        </ul>\n                      </li>\n                    </ul>\n\n                    <p>Choose the category that better defines your project’s stage. You can only apply to one of the categories.</p>\n\n                    <h3>3.3 Can I apply if I’m a single person?</h3>\n                    <p>An “Individual” can submit a proposal, but only by participating in a group of at least 2 persons, as indicated in the section ‘Type of Applicants’ within the ‘Guide for Applicants’.</p>\n                    <p>IMPACT looks for high potential start-ups and, in this sense, a consolidated team is one of the most important aspects of achieving potential. That’s why IMPACT asks for teams of at least 2 persons full time dedicated to the project.</p>\n\n                    <h3>3.4 Do we have to be constituted as SME?</h3>\n                    <p>No, it’s not a requirement, because as indicated in Question 3.3. a group of at least 2 “individuals” can submit a Proposal. However, it would be recommended because IMP</p>ACT is looking for consolidated projects, even in legal terms.\n                    <p>In any case, although you can apply as a group of individuals, or as SMEs in constitution process, if you are finally selected as beneficiary, IMPACT project will ask you to be articulated as SME before the first milestone of the IMPACT Acceleration Program.</p>\n\n                    <h3>3.5 Do we have to be already selling or invoicing?</h3>\n                    <p>It is not a requirement, but it would be positively evaluated, because one of the objectives of the Acceleration Process is that all of you, as beneficiaries, will be able to sell at the end of the 6 months of acceleration.</p>\n\n                    <h3>3.6 If we are in another Acceleration Program, can we apply to IMPACT? </h3>\n                    <p>Yes, you can apply but, if you are selected, you will have to sign a Declaration confirming that you won’t be in another Acceleration Program, once you will start IMPACT Program.</p>\n                    <p>We do not accept beneficiaries which are, at the same time, committed with another acceleration program. It will be a conflict of interest and focus. A beneficiary cannot receive 2 mentoring, with different objectives and milestones, at the same time. However, if both acceleration programmes are not going to overlap time wise, you can apply for the IMPACT Acceleration program.</p>\n\n                    <h3>3.7 How can I apply for the open call?</h3>\n                    <p>You can apply for the call through the following link: <a href=\"http://www.fundingbox.com/IMPACT/apply\" target=\"_blank\">www.fundingbox.com/IMPACT/apply</a></p>\n\n                    <h3>3.8 How long does it take to fill in an application?</h3>\n                    <p>It shouldn’t take long. You only have to fill in the contest application form. Specific character limits have been established for each field.</p>\n                    <p>An important issue to this respect is that you should have a clear project plan in terms of technology and business. Because you will be required to upload a Technology Map (including FIWARE Technologies Use Plan) and a Business Plan of the service/software to be developed.</p>\n                    <p>Anyway, we highly encourage you to keep your proposal focused and relatively brief.</p>\n\n                    <h3>3.9 What type of support is available for preparing the proposal?</h3>\n                    <p>The ‘Guide for Applicants’ is the main document of reference for you. It informs you about the evaluation and selection process of the proposals and the acceleration program offered by IMPACT.</p>\n                    <p>Additionally a help desk service (<a href=\"mailto:opencall@IMPACT-accelerator.com\">opencall@IMPACT-accelerator.com</a>) is articulated to solve all doubts you may have within the application process.</p>\n\n                    <h3>3.10  What is the deadline for the application?</h3>\n                    <p>The deadline for the first call is November 7th 2014 at 15:00 p.m (CET). No application will be accepted after deadline.</p>\n\n              </div><!-- /.panel-body -->\n            </div><!-- /.content -->\n          </div><!-- /.panel -->\n        </div><!-- /.accordion -->\n\n        <div id=\"accordion4\" class=\"panel-group\">\n          <div class=\"panel panel-default\">\n            <div class=\"panel-heading\">\n              <h4 class=\"panel-title\">\n                <a class=\"panel-toggle collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1\" href=\"#content4\">\n                  <span>4. Questions related with IMPACT evaluation process</span>\n                </a>\n              </h4>\n            </div><!-- /.panel-heading -->\n            <div id=\"content4\" class=\"panel-collapse collapse\" style=\"height: 0px;\">\n              <div class=\"panel-body\">\n                  <h3>4.1 What are the criteria for selecting the final beneficiaries?</h3> \n                  <p>The IMPACT selection process has been designed to be fair, fun and interesting for you.  Therefore we have designed a process in 3 phases.</p> \n                  <ul>\n                    <li><strong>Phase 1</strong>. You will present projects through the Funding Box platform. After filling the online questionnaire, those who meet the <strong>eligibility criteria</strong> (see Question Nº 3.1) and better align with the categories requirements (See Question Nº 3.2), will move to the next phase of selection.</li>\n                    <li><strong>Phase 2</strong>. After that, each proposal will be evaluated by 2 independent experts who will assess different variables (Market opportunity, Technology, Competition/Differentiation, Commercial Strategy and Scalability, Financials & Metrics and Team)</li>\n                    <li><strong>Phase 3</strong>. Finally, best rated proposals will participate in the Jury Day and will be interviewed by the Selection Committee that will select the final beneficiaries.</li>\n                  </ul>\n                  For more information about the evaluation process, consult the “Guide for Applicants”.\n                  \n                  <h3>4.2 What kind of rewards and benefits will IMPACT offer to beneficiaries?</h3>\n                  If you are selected by the IMPACT Selection Committee, you will receive:\n                  • An exclusive 6 months Acceleration Program which will include: 90.000€ of Funding, to be sequentially delivered against the accomplishment of the specific deliverables included in the ’IMPACT Sub-grant Agreement’ signed with IMPACT consortium, and 10.000€ in Services Vouchers, articulated through a Premium Acceleration Program consisting in Training and Mentoring under the guidance of key world class digital ecosystem professionals and entrepreneurs.\n                  • an Extended Investment Phase, beyond the European Commission funding support and therefore out of the IMPACT project, but which could be a very important step for you in terms of project sustainability. In this phase the project partners of IMPACT consortium will invite the most outstanding projects into their existing investment tracks.\n\n\n              </div><!-- /.panel-body -->\n            </div><!-- /.content -->\n          </div><!-- /.panel -->\n        </div>\n\n      </div>\n    </div>\n  </div><!-- /.container -->\n</section>\n\n",
-			"file": "faq/index.html",
-			"file_size": 15903,
-			"file_write_time": 1411997518000000,
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 18870,
+				"buffer_size": 5034,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/01.alert.html",
+			"file": "_includes/07.call-to-action.html",
 			"settings":
 			{
-				"buffer_size": 889,
+				"buffer_size": 1711,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_includes/header.html",
+			"file": "es/index.html",
 			"settings":
 			{
-				"buffer_size": 3821,
+				"buffer_size": 5053,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_posts/news/en/2014-09-29-opencall.md",
+			"file": "it/index.html",
 			"settings":
 			{
-				"buffer_size": 562,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/news/it/2014-09-29-opencall.md",
-			"settings":
-			{
-				"buffer_size": 562,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_posts/news/2014-09-29-opencall.md",
-			"settings":
-			{
-				"buffer_size": 562,
+				"buffer_size": 5191,
 				"line_ending": "Unix"
 			}
 		}
@@ -499,22 +480,23 @@
 	},
 	"file_history":
 	[
-		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/david/Sites/impact/_less/main.less",
+		"/Users/david/Sites/impact/_includes/01.alert.html",
+		"/Users/david/Sites/impact/_includes/header.html",
 		"/Users/david/Sites/impact/_posts/news/en/2014-09-29-opencall.md",
 		"/Users/david/Sites/impact/_posts/news/it/2014-09-29-opencall.md",
 		"/Users/david/Sites/impact/_posts/news/2014-09-29-opencall.md",
+		"/Users/david/Sites/impact/faq/index.html",
+		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
 		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
 		"/Users/david/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
 		"/Users/david/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/david/Sites/impact/_less/main.less",
 		"/Users/david/Sites/impact/_less/bootstrap/variables.less",
-		"/Users/david/Sites/impact/_includes/01.alert.html",
 		"/Users/david/Sites/impact/index.html",
 		"/Users/david/Sites/impact/_less/custom.less",
 		"/Users/david/Sites/impact/_includes/07.call-to-action.html",
 		"/Users/david/Sites/impact/es/index.html",
 		"/Users/david/Sites/impact/it/index.html",
-		"/Users/david/Sites/impact/_includes/header.html",
 		"/Users/david/Sites/impact/_data/t.yml",
 		"/Users/david/Sites/impact/en/index.html",
 		"/Users/david/Sites/impact/_includes/05.talent-impact.html",
@@ -625,8 +607,7 @@
 		"/Users/haritzoyaga/Sites/kimberlyclark/css/bootstrap.less",
 		"/Users/haritzoyaga/Sites/bertiz/js/main.js",
 		"/Users/haritzoyaga/Sites/bertiz/css/bootstrap-theme.less",
-		"/Users/haritzoyaga/Sites/bertiz/css/variables.less",
-		"/Users/haritzoyaga/Sites/bertiz/v1.index.html"
+		"/Users/haritzoyaga/Sites/bertiz/css/variables.less"
 	],
 	"find":
 	{
@@ -662,6 +643,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"data",
+			"Entradilla_inscribe",
+			"Enviar",
+			"@font-family-base",
+			"font-style",
+			"font",
 			"nueva",
 			"abb",
 			"+g",
@@ -783,13 +770,7 @@
 			"text-small",
 			"text-sm",
 			"\\n",
-			"#404040",
-			"text-small",
-			"circle",
-			"130",
-			"icon-left-open-mini",
-			"line-",
-			"col-sm"
+			"#404040"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -825,18 +806,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "faq/index.html",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 18870,
+						"buffer_size": 5034,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								16827,
-								16827
+								3772,
+								3776
 							]
 						],
 						"settings":
@@ -981,198 +962,25 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 6279.0,
+						"translation.y": 989.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_includes/01.alert.html",
+					"file": "_includes/07.call-to-action.html",
 					"settings":
 					{
-						"buffer_size": 889,
+						"buffer_size": 1711,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								349,
-								349
-							],
-							[
-								595,
-								595
-							],
-							[
-								841,
-								841
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/header.html",
-					"settings":
-					{
-						"buffer_size": 3821,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3724,
-								3724
+								159,
+								159
 							]
 						],
 						"settings":
@@ -1318,25 +1126,188 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1061.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "es/index.html",
+					"settings":
+					{
+						"buffer_size": 5053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3798,
+								3798
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 841.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "_posts/news/en/2014-09-29-opencall.md",
+					"file": "it/index.html",
 					"settings":
 					{
-						"buffer_size": 562,
+						"buffer_size": 5191,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								511,
-								517
+								4048,
+								4054
 							]
 						],
 						"settings":
@@ -1478,336 +1449,10 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_posts/news/it/2014-09-29-opencall.md",
-					"settings":
-					{
-						"buffer_size": 562,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								517,
-								517
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_posts/news/2014-09-29-opencall.md",
-					"settings":
-					{
-						"buffer_size": 562,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								517,
-								517
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 841.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
