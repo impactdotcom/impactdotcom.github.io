@@ -2,7 +2,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     watch: {
       styles: {
-        files: ['_less/**/*.less','bower-components/bootstrap/less/**/*.less','custom-components/custom/less/**/*.less'],
+        files: ['_less/**/*.less','bower-components/bootstrap/less/**/*.less','custom_components/custom/less/**/*.less'],
         tasks: ['less:development']
       }
     },
