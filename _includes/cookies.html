@@ -1,5 +1,7 @@
+
 <div class="alert alert--cookies fade js-alert--cookies" role="alert">
 	<div class="container">
-		This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. <a href="">Find out more</a> | <a href="#">Ok, I got it, hide this info!</a>
+		This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. 
+		<a class="js-cookie-more" href="{% if page.lang != 'en' %}/{{page.lang}}{% endif %}/cookie-policy">Find out more</a> | <a href="#">Ok, I got it, hide this info!</a>
 	</div>
 </div>
