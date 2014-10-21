@@ -53,18 +53,49 @@ $('.gatrack').on('click', function() {
 /*===================================================================================*/
 /* COOKIES
 /*===================================================================================*/
-$(function(e) {
+$(function() {
+	var SCROLL_FOR_ACCEPTANCE = 300;
+
 	function hasAgreedCookies() {
 		return ($.cookie('cookie-agreed'));
 	}
 
+	function watchForImplicitAcceptance() {
+    var alreadyAccepted = false;
+    window.onscroll = function(e) {
+      var y = verticalScroll();
+      if (y > SCROLL_FOR_ACCEPTANCE && !alreadyAccepted) {
+        alreadyAccepted = true;
+        implicitAcceptance();
+      }
+    };
+  }
+
+  function verticalScroll() {
+    return  (window.pageYOffset !== undefined) ? window.pageYOffset : (document.documentElement || document.body.parentNode || document.body).scrollTop;
+  }
+
+  function implicitAcceptance(){ //have this run when/if they opt-in.
+    setAcceptanceCookie();
+    stopWatchingForAcceptance();
+  }
+
+  function setAcceptanceCookie(){
+    $('.js-alert--cookies').alert('close');
+		$.cookie('cookie-agreed', '1', { expires: 365 * 5, path: '/' });
+  }
+
+  function stopWatchingForAcceptance() {
+    window.onscroll = null;
+  }
+
 	if (!hasAgreedCookies()) {
 		$('.js-alert--cookies').addClass('in');
+		watchForImplicitAcceptance();
 	}
 });
 
 $('a').on('click', function(e) {
-	$('.js-alert--cookies').alert('close');
-	$.cookie('cookie-agreed', '1', { expires: 365 * 5, path: '/' });
+	setAcceptanceCookie();
 });
 
