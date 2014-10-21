@@ -49,3 +49,22 @@ $('.gatrack').on('click', function() {
   ga('send', 'event', $(this).data('gacat'), $(this).data('gaacc'), $(this).data('gaeti'));
 });
 
+
+/*===================================================================================*/
+/* COOKIES
+/*===================================================================================*/
+$(function(e) {
+	function hasAgreedCookies() {
+		return ($.cookie('cookie-agreed'));
+	}
+
+	if (!hasAgreedCookies()) {
+		$('.js-alert--cookies').addClass('in');
+	}
+});
+
+$('a').on('click', function(e) {
+	$('.js-alert--cookies').alert('close');
+	$.cookie('cookie-agreed', '1', { expires: 365 * 5, path: '/' });
+});
+
