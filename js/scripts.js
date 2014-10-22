@@ -93,9 +93,10 @@ $(function() {
 		$('.js-alert--cookies').addClass('in');
 		watchForImplicitAcceptance();
 	}
-});
 
-$('a').on('click', function(e) {
-	setAcceptanceCookie();
+  
+  $('a').on('click', function(e) {
+    setAcceptanceCookie();
+  });
 });
 
