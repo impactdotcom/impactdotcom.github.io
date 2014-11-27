@@ -12,7 +12,5 @@ In the first phase of the selection process 289 projects have been selected via 
 
 Once the deliberations have completed, the results will be published on the website.  Good luck!
 
-![IMPACT 1st OPEN CALL INFOGRAPHY_FINAL_v2.jpg](/assets/IMPACT 1st OPEN CALL INFOGRAPHY_FINAL_v2.jpg)
 
-
-<a href=”/assets/Impact_Webinar-01_Presentacion_MR_v2.pdf”><i class=”icon-download-1”></i> Descargar presentacion</a>
+<a href=”/assets/IMPACT 1st OPEN CALL INFOGRAPHY_FINAL_v2.jpg”><i class=”icon-download-1”></i>Download Infographic</a>
