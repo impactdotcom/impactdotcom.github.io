@@ -17,4 +17,4 @@ Once the deliberations have completed, the results will be published on the webs
 ![IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2.jpg](/assets/IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2.jpg)
 
 
-<a href=”/assets/IMPACT-1st-OPEN-CALL-INFOGRAPHY_FINAL_v2.jpg”><i class=”icon-download-1”></i>Download Infographic</a>
+<a href=”/assets/IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2.jpg”><i class=”icon-download-1”></i>Download Infographic</a>
