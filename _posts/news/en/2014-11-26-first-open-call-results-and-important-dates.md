@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: true
+published: false
 title: First Open Call results and important dates
 lang: es
 ---
