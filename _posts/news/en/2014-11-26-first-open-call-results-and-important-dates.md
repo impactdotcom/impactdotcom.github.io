@@ -13,6 +13,8 @@ Thank you for participating in the 1st round of the **IMPACT Open Call**. We hav
 In the first phase of the selection process 289 projects have been selected via the **FundingBox platform**. During the next few weeks, the **External Evaluators Panel** will evaluate the selected proposals and will choose the 50 best proposals to compete in the Jury Day, to be held in Madrid on December 18th and 19th. The **Selection Committee** will shortlist the applicants entering the Acceleration program.
 
 Once the deliberations have completed, the results will be published on the website.  Good luck!
+![IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2.jpg](/assets/IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2.jpg)
+
 
 
 <a href=”/assets/IMPACT-1st-OPEN-CALL-INFOGRAPHY_FINAL_v2.jpg”><i class=”icon-download-1”></i>Download Infographic</a>
