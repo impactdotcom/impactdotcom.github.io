@@ -13,4 +13,4 @@ In the first phase of the selection process 289 projects have been selected via 
 
 Once the deliberations have completed, the results will be published on the website.  Good luck!
 
-<a href=”/assets/IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2.jpg”><i class=”icon-download-1”></i>Download Infographic</a>
+  <a href=”/assets/IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2.jpg”><i class=”icon-download-1”></i>Download Infographic</a>
