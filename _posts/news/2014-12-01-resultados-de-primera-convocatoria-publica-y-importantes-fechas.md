@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: "Resultados de primera Convocatoria publica y importantes fechas "
 lang: es
 image: /assets/IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2_recortada.jpg
