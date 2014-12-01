@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: true
+published: false
 title: First Open Call results and important dates
 lang: en
 image: /assets/IMPACT_1st_OPEN_CALL_INFOGRAPHY_FINAL_v2_recortada.jpg
