@@ -17,6 +17,8 @@ With great pleasure we announce that the External Evaluators Panel has shortlist
 As the image shows, the 57 Strat-ups will be competing on one of the given days: 18th or 19th Dec. 
 
 The Jury Day will consist of two parts: **the pitch** (mandatory for each Start-up) and a **personal interview** (only for the projects selected by the Selection Committee). 
+
 The winners entering the IMPACT Accelerator will be announced at the Jury Day Ceremony on the 19th Dec.
+
 Shortly afterwards we will publish the results on our website.
 
