@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: "The Jury Day finalists "
 lang: es
 image: "/assets/57 To go further!.png"
