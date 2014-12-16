@@ -2,7 +2,7 @@
 layout: post
 category: news
 published: false
-title: The finalists entering the Jury Day final evaluation phase
+title: "The Jury Day finalists "
 lang: es
 ---
 
