@@ -4,7 +4,7 @@ category: news
 published: false
 title: "The Jury Day finalists "
 lang: es
-image: "/assets/57 To go further!.png"
+image: ""
 ---
 
 ## A New Post
