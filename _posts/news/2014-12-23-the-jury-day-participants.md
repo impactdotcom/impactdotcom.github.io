@@ -20,3 +20,4 @@ The Jury Day will consist of two parts: **the pitch** (mandatory for each Start-
 The winners entering the IMPACT Accelerator will be announced at the Jury Day Ceremony on the 19th Dec.
 
 Shortly afterwards we will publish the results on our website.
+![18 t 19 on top 800.jpg](/assets/18 t 19 on top 800.jpg)
