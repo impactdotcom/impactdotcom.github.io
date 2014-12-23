@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: The Jury Day participants
 lang: en
 image: /assets/18 t 19 on top 800.jpg
