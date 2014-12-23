@@ -2,11 +2,9 @@
 layout: post
 category: news
 published: false
-title: ""
+title: The Jury Day participants
 lang: es
 ---
-
-![Pitches Scheduled 18 Dec Image V2 with hour.png](/assets/Pitches Scheduled 18 Dec Image V2 with hour.png)
 
 We would like to thank all the participants who have joined us for this exciting journey! **The 1st Open Call** has highlighted the 289 most creative, and promising internet mobile ideas. 
 
@@ -21,5 +19,5 @@ The Jury Day will consist of two parts: **the pitch** (mandatory for each Start-
 The winners entering the IMPACT Accelerator will be announced at the Jury Day Ceremony on the 19th Dec.
 
 Shortly afterwards we will publish the results on our website.
-
-
+![Pitches Scheduled 18 Dec Image V2 with hour.png](/assets/Pitches Scheduled 18 Dec Image V2 with hour.png)
+![Pitches Scheduled 19 Dec Image V2 with hour.png](/assets/Pitches Scheduled 19 Dec Image V2 with hour.png)
