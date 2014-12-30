@@ -2,24 +2,24 @@
 layout: post
 category: news
 published: false
-title: "The Jury Day finalists "
+title: El Día de Jurado
 lang: es
 image: /assets/18 t 19 on top 800.jpg
 ---
 
 ## A New Post
 
-We would like to thank all the participants who have joined us for this exciting journey! **The 1st Open Call** has highlighted the 289 most creative, and promising internet mobile ideas. 
+¡Nos gustaría agradecer a todos los participantes por habernos acompañado en tan excitante viaje! **La Primera Convocatoria** ha sacado a la luz las 289 más creativas y prometedoras ideas de internet móvil. 
 
-With great pleasure we announce that the External Evaluators Panel has shortlisted the 57 finalists who will be entering **the final evaluation phase at the Jury Day event** in Madrid, 18th & 19th Dec.
+Con gran satisfacción anunciamos que el panel de evaluadores externos ha seleccionado los 57 finalistas que pasarán a **la fase final del Día del Jurado** en Madrid, los próximos 18 y 19 de diciembre.
+ 
+**¡Felicidades!**
 
-**Congratulations!**
+Como podéis ver en la imagen, las 57 start-up competirán en uno de los dos días indicados.
 
-As the image shows, the 57 Strat-ups will be competing on one of the given days: 18th or 19th Dec. 
+El Día del Jurado constará de dos partes: **la presentación** (obligatoria para cada start-up) y una **entrevista personal** (solamente para los proyectos seleccionados por el Comité de Selección).
 
-The Jury Day will consist of two parts: **the pitch** (mandatory for each Start-up) and a **personal interview** (only for the projects selected by the Selection Committee). 
+Los ganadores que entrarán en IMPACT Accelerator serán anunciados en la ceremonia del Día del Jurado el 19 de diciembre.
 
-The winners entering the IMPACT Accelerator will be announced at the Jury Day Ceremony on the 19th Dec.
-
-Shortly afterwards we will publish the results on our website.
+Los resultados serán publicados poco después en nuestra web.
  <a href="/assets/57 To go further!.png"><i class="icon-download-1"></i>Download Infografía</a>
