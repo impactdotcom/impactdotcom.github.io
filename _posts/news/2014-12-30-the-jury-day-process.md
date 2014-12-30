@@ -3,7 +3,8 @@ layout: post
 category: news
 published: false
 title: The Jury Day Process
-lang: es
+lang: en
+image: /assets/prueba xx.jpg
 ---
 
 The Jury Day event took place in Madrid on the 18th and 19th of December, marking the IMPACT Accelerator´s last evaluation phase.
@@ -29,6 +30,7 @@ We would like to remind these **20 lucky winners** (please see the image) that *
 **IMPACT Team encourages all participants who did not make the final cut to try again for the following Open Call which is foreseen in May 2015** (the 2nd Open Call updates will be published on our website). 
 
 **Thanks to all of you who have put their time and effort to make this event as special as it was: multicultural, creative, loud, busy, and fun! See you again in 2015!**
+
 
 
 
