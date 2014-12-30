@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: The Jury Day Process
 lang: en
 image: /assets/hot news 20.jpg
