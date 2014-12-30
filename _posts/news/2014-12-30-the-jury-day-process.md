@@ -10,11 +10,11 @@ image: /assets/hot news 20.jpg
 The Jury Day event took place in Madrid on the 18th and 19th of December, marking the IMPACT Accelerator´s last evaluation phase.
 
 We would like to thank you for being part of this great internet mobile multicultural gather! 
-The 57 projects from all over Europe competed to enter the IMPACT Accelerator program as a final step towards the funding. Ideas coming from 12 different countries surely proved that together we can make a positive IMPACT on the digital world! 
+The **57 projects from all over Europe** competed to enter the IMPACT Accelerator program as a final step towards the funding. Ideas coming from **12 different countries** surely proved that together we can make a positive IMPACT on the digital world! 
 
-Based on the Jury Day mandatory pitch, the Selection Committee had preselected the 29 candidates for a personal interview, shortlisting them as potential Jury Day winners.
+Based on the Jury Day mandatory pitch, the Selection Committee had preselected the **29 candidates for a personal interview**, shortlisting them as potential Jury Day winners.
 
-The Selection Committee consisted of 9 members all together: 1 external evaluator, and 8 juries presenting one of the partners of IMPACT Accelerator. 
+The Selection Committee consisted of **9 members** all together: 1 external evaluator, and 8 juries presenting one of the partners of IMPACT Accelerator. 
    The Selection Committee members were as follows:
    1.	**Nacho de Pinedo** ISDI´s CEO, IMPACT Steering Committee member and **Rodrigo  Miranda** the General Director of internetAcademi, IMPACT Steering Committee member**(Spain)**.
    2.	**Michael Kliendl** the Founder & Partner at Seaya Ventures, IMPACT Steering Committee member and **Beatriz González** Founding Partner and Director of Seaya Ventures **(Germany)**.
