@@ -2,11 +2,10 @@
 layout: post
 category: news
 published: true
-title: El Día de Jurado
+title: El Día del Jurado
 lang: es
 image: /assets/18 t 19 on top 800.jpg
 ---
-
 
 ¡Nos gustaría agradecer a todos los participantes por habernos acompañado en tan excitante viaje! **La Primera Convocatoria** ha sacado a la luz las 289 más creativas y prometedoras ideas de internet móvil. 
 
