@@ -7,7 +7,6 @@ lang: es
 image: /assets/18 t 19 on top 800.jpg
 ---
 
-## A New Post
 
 ¡Nos gustaría agradecer a todos los participantes por habernos acompañado en tan excitante viaje! **La Primera Convocatoria** ha sacado a la luz las 289 más creativas y prometedoras ideas de internet móvil. 
 
