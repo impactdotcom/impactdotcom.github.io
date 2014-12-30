@@ -4,7 +4,7 @@ category: news
 published: false
 title: "The Jury Day finalists "
 lang: es
-image: ""
+image: /assets/18 t 19 on top 800.jpg
 ---
 
 ## A New Post
@@ -22,4 +22,4 @@ The Jury Day will consist of two parts: **the pitch** (mandatory for each Start-
 The winners entering the IMPACT Accelerator will be announced at the Jury Day Ceremony on the 19th Dec.
 
 Shortly afterwards we will publish the results on our website.
- <a href="/assets/57 To go further!.png"><i class="icon-download-1"></i>Download Infographic</a>
+ <a href="/assets/57 To go further!.png"><i class="icon-download-1"></i>Download Infografía</a>
