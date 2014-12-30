@@ -30,6 +30,7 @@ We would like to remind these **20 lucky winners** (please see the image) that *
 **IMPACT Team encourages all participants who did not make the final cut to try again for the following Open Call which is foreseen in May 2015** (the 2nd Open Call updates will be published on our website). 
 
 **Thanks to all of you who have put their time and effort to make this event as special as it was: multicultural, creative, loud, busy, and fun! See you again in 2015!**
+<a href="/assets/prueba xx.jpg"><i class="icon-download-1"></i>Download Infographic</a> 
 
 
 
