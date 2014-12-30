@@ -4,7 +4,7 @@ category: news
 published: false
 title: The Jury Day Process
 lang: en
-image: /assets/prueba xx.jpg
+image: /assets/hot news 20.jpg
 ---
 
 The Jury Day event took place in Madrid on the 18th and 19th of December, marking the IMPACT Accelerator´s last evaluation phase.
