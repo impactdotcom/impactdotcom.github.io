@@ -4,6 +4,7 @@ category: news
 published: false
 title: El proceso del Día del Jurado
 lang: es
+image: /assets/Hot News (right side) imagen Jury Day 20 winners.jpg
 ---
 
 El evento del Día del Jurado tuvo lugar en Madrid los días 18 y 19 de diciembre, marcando la última fase de evaluación de IMPACT Accelerator. 
@@ -28,4 +29,7 @@ Nos gustaría recordar a estos **20 afortunados ganadores** (ver la imagen) **qu
 **El equipo de IMPACT anima a todos los participantes que no han conseguido llegar al corte final a intentarlo de nuevo en la siguiente convocatoria abierta que se prevé para mayo 2015**(las actualizaciones de la segunda Convocatoria serán publicadas en nuestro sitio web).
 
 **¡Gracias a todos los que han invertido su tiempo y esfuerzo para hacer de este evento algo tan especial como fue: multicultural, creativo, animado, emocionante y divertido! Nos veremos de nuevo en 2015!**
+
+<a href="/assets/Hot News (right side) imagen Jury Day 20 winners.jpg"><i class="icon-download-1"></i>Download Infographic</a> 
+
 
