@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: El proceso del Día del Jurado
 lang: es
 image: /assets/Hot News (right side) imagen Jury Day 20 winners.jpg
