@@ -30,6 +30,6 @@ Nos gustaría recordar a estos **20 afortunados ganadores** (ver la imagen) **qu
 
 **¡Gracias a todos los que han invertido su tiempo y esfuerzo para hacer de este evento algo tan especial como fue: multicultural, creativo, animado, emocionante y divertido! Nos veremos de nuevo en 2015!**
 
-<a href="/assets/Hot News (right side) imagen Jury Day 20 winners.jpg"><i class="icon-download-1"></i>Download Infografia</a> 
+<a href="/assets/Hot News (right side) imagen Jury Day 20 winners.jpg"><i class="icon-download-1"></i>Download Infografía</a> 
 
 
