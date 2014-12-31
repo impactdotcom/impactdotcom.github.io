@@ -14,6 +14,7 @@ El evento del Día del Jurado tuvo lugar en Madrid los días 18 y 19 de diciembr
 
 Basado en la presentación obligatoria del Día del Jurado, el Comité de Selección preseleccionó a **los 29 candidatos**(los ganadores potenciales) para una entrevista personal. 
 **El Comité de Selección** estaba formado por **9 miembros**: 1 evaluador externo, y 8 jurados cada uno presentando a uno de los socios de IMPACT Accelerator.
+
     Los miembros del Comité de Selección fueron los siguientes:
     1. **Nacho de Pinedo**- CEO de ISDI, miembro del IMPACT Steering Committee y **Rodrigo Miranda**-  Director General de internetAcademi, miembro de IMPACT Steering Committee **(España)**.
     2. **Michael Kliendl**- Fundador y Socio de Seaya Ventures, miembro de IMPACT Steering Committee y **Beatriz González**- Socia Fundadora y Directora de Seaya Ventures **(Alemania)**.
