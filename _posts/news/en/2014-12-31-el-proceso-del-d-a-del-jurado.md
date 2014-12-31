@@ -26,6 +26,6 @@ El "training" se llevará a cabo en **ISDI, CAD** (Carrer Diputació 37, Interio
 Nos gustaría recordar a estos **20 afortunados ganadores** (ver la imagen) **que estarán oficialmente en el programa de IMPACT una vez que el mismo sea aprobado de nuevo por la Comisión de la UE.** Una vez que tengamos la validación de la UE, recibirá un e-mail indicando los siguientes pasos, y también publicaremos una breve descripción de "stratups" en la sección ¨Hot News¨ de nuestra página web.
 
 **El equipo de IMPACT anima a todos los participantes que no han conseguido llegar al corte final a intentarlo de nuevo en la siguiente convocatoria abierta que se prevé para mayo 2015**(las actualizaciones de la segunda Convocatoria serán publicadas en nuestro sitio web).
- 
+
 **¡Gracias a todos los que han invertido su tiempo y esfuerzo para hacer de este evento algo tan especial como fue: multicultural, creativo, animado, emocionante y divertido! Nos veremos de nuevo en 2015!**
 
