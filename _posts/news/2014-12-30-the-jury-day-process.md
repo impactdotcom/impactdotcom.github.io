@@ -23,7 +23,7 @@ The Selection Committee consisted of **9 members** all together: 1 external eval
    5.	**Gustavo García Brusilowski**, (As an External Expert) Advisory Board Member at Chemo and Mabxcience, Klikin Cofounder **(Spain)**. 
 
 **The 1st Open Call winners** who were announced at the **GALA ceremony** (the final closure of the Jury Day event), are advised to **SAVE THE DATE for Barcelona training 2nd – 11th of February, 2015.**
-The training will take place at **ISDI, CAD** (Carrer Diputació 37, Interior 2A - 08015 Barcelona) and **Madiatec as part of the Barcelona City Hall/ Barcelona Activa** (Carrer Llacuna 162 164, 08018 Barcelona). 
+The training will take place at **ISDI, CAD** (Carrer Diputació 37, Interior 2A - 08015 Barcelona) and **Madiatic as part of the Barcelona City Hall/ Barcelona Activa** (Carrer Llacuna 162 164, 08018 Barcelona). 
 
 We would like to remind these **20 lucky winners** (please see the image) that **they will officially enter the IMPACT Accelerator program once it is reapproved by the EU commission.** Once we have the EU validation, you will receive an e-mail indicating the following steps, and we will also publish a short description of selected stratups in a ¨Hot News¨ section of our website.
 
