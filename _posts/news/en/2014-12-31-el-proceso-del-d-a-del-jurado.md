@@ -22,7 +22,7 @@ Basado en la presentación obligatoria del Día del Jurado, el Comité de Selecc
    5. **Gustavo García Brusilowski**- (como experto externo) Miembro del Consejo de Chemo y Mabxcience, Klikin Cofundador **(España)**.
     
    A **los ganadores de la primera Convocatoria** que fueron anunciados en **la ceremonia de Gala** (el cierre definitivo del evento del Día del Jurado), se les aconseja **RESERVAR  LA FECHA para el "training" en Barcelona, del 02- 11 de febrero 2015.**
-El "training" se llevará a cabo en **ISDI, CAD** (Carrer Diputació 37, Interior 2A - 08015 Barcelona) y **Madiatic como parte del Ayuntamiento de Barcelona / Barcelona Activa** (Carrer Llacuna 162 164, 08018 Barcelona).
+El "training" se llevará a cabo en **ISDI, CAD** (Carrer Diputació 37, Interior 2A - 08015 Barcelona) y **Madia-Tic como parte del Ayuntamiento de Barcelona / Barcelona Activa** (Carrer Llacuna 162 164, 08018 Barcelona).
  
 Nos gustaría recordar a estos **20 afortunados ganadores** (ver la imagen) **que estarán oficialmente en el programa de IMPACT una vez que el mismo sea aprobado de nuevo por la Comisión de la UE.** Una vez que tengamos la validación de la UE, recibirá un e-mail indicando los siguientes pasos, y también publicaremos una breve descripción de "stratups" en la sección ¨Hot News¨ de nuestra página web.
 
