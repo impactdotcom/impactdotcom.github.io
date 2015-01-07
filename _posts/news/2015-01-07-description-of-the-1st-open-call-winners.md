@@ -31,7 +31,7 @@ Following is a brief description on each winner project.
 </tr>
 <tr>
 <td width="200px">
-![bastly 100.png](/assets/bastly 100.png)
+![bastly 100.jpg](/assets/bastly 100.jpg)
 </td>
 <td>
 Bastly is a mobile backend service (MBaaS) that provides state of the art technologies to all mobile developers seamlessly.
