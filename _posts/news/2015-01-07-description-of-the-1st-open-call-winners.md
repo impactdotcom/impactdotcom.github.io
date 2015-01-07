@@ -7,8 +7,8 @@ lang: es
 ---
 
 <table width="500px" height="100%" border="1">
-<tr width="200px">
-<td>
+<tr>
+<td width="200px">
 ![intoino logo firma100.jpg](/assets/intoino logo firma100.jpg)
 </td>
 <td>
