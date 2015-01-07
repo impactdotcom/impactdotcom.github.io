@@ -6,15 +6,17 @@ title: Description of the 1st Open Call winners
 lang: es
 ---
 
-1. [INTOINO](http://www.intoino.com/)![intoino logo firma200.jpg](/_posts/news/intoino logo firma200.jpg)
-We make open source hardware and software accessible for everyone unleashing your creativity and innovation in a funny and intuitive way.###
+<table width="500px" height="100%" border="1">
+<tr>
+<td>
+![intoino logo firma100.jpg](/assets/intoino logo firma100.jpg)
+</td>
+<td>
+INTOINO kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
+</td>
+</tr>
+</table>
 
 
-2. item
-3. item
-
-
-
-
-
+    
 
