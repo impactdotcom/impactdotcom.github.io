@@ -21,7 +21,6 @@ Following is a brief description on each winner project.
 [INTOINO](http://www.intoino.com/) kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
 </td>
 </tr>
-</table>
 <table width="500px" height="100%" border="1">
 <tr>
 <td width="200px">
