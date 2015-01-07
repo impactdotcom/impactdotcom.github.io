@@ -10,7 +10,7 @@ image: /assets/Hot News (right side) imagen Jury Day 20 winners.jpg
 El evento del Día del Jurado tuvo lugar en Madrid los días 18 y 19 de diciembre, marcando la última fase de evaluación de IMPACT Accelerator. 
 ¡Nos gustaría agradecerle por formar parte de este gran encuentro multicultural de Internet móvil!
 **Los 57 proyectos de toda Europa** compitieron para entrar en el programa IMPACT Accelerator
-(la etapa final hacia la financiación). ¡Las ideas procedieron de **12 países diferentes** y demuestran que juntos podemos lograr un impacto positivo en el mundo digital!
+(la etapa final hacia la financiación). ¡Las diferentes ideas procedieron de **12 países** y demuestran que juntos podemos lograr un impacto positivo en el mundo digital!
 
 Basado en la presentación obligatoria del Día del Jurado, el Comité de Selección preseleccionó a **los 29 candidatos**(los ganadores potenciales) para una entrevista personal. 
 **El Comité de Selección** estaba formado por **9 miembros**: 1 evaluador externo, y 8 jurados cada uno presentando a uno de los socios de IMPACT Accelerator.
