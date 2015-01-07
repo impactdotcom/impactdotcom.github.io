@@ -31,9 +31,9 @@ Following is a brief description on each winner project.
 </tr>
 <tr>
 <td width="200px">
-![ImagenNEW ONOMONDO100.jpg](/assets/ImagenNEW ONOMONDO100.jpg)
+![bastly 100.png](/assets/bastly 100.png)
 </td>
 <td>
-[ONOMONDO](http://onomondo.com/) is a unique scalable software technology that combines mobile networks and eliminates roaming completely on a network level.
+Bastly is a mobile backend service (MBaaS) that provides state of the art technologies to all mobile developers seamlessly.
 </td>
 </tr>
