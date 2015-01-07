@@ -10,7 +10,7 @@ image: /assets/hot news 20.jpg
 The Jury Day event took place in Madrid on the 18th and 19th of December, marking the IMPACT Accelerator´s last evaluation phase.
 
 We would like to thank you for being part of this great internet mobile multicultural gather! 
-The **57 projects from all over Europe** competed to enter the IMPACT Accelerator program as a final step towards the funding. Ideas coming from **12 different countries** surely proved that together we can make a positive IMPACT on the digital world! 
+The **57 projects from all over Europe** competed to enter the IMPACT Accelerator program as a final step towards the funding. Different ideas coming from **12 countries** surely proved that together we can make a positive IMPACT on the digital world! 
 
 Based on the Jury Day mandatory pitch, the Selection Committee had preselected the **29 candidates for a personal interview**, shortlisting them as potential Jury Day winners.
 
