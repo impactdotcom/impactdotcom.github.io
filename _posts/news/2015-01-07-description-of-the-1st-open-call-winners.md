@@ -21,7 +21,6 @@ Following is a brief description on each winner project.
 [INTOINO](http://www.intoino.com/) kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
 </td>
 </tr>
-<table width="500px" height="100%" border="1">
 <tr>
 <td width="200px">
 ![ImagenNEW ONOMONDO100.jpg](/assets/ImagenNEW ONOMONDO100.jpg)
@@ -30,4 +29,3 @@ Following is a brief description on each winner project.
 [ONOMONDO](http://onomondo.com/) is a unique scalable software technology that combines mobile networks and eliminates roaming completely on a network level.
 </td>
 </tr>
-</table>
