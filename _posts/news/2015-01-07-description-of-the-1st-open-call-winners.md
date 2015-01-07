@@ -6,8 +6,8 @@ title: Description of the 1st Open Call winners
 lang: es
 ---
 
-<table width="200px" height="100%" border="1">
-<tr>
+<table width="500px" height="100%" border="1">
+<tr width="200px">
 <td>
 ![intoino logo firma100.jpg](/assets/intoino logo firma100.jpg)
 </td>
@@ -16,7 +16,3 @@ INTOINO kits allows you to learn and build electronic projects and Internet of T
 </td>
 </tr>
 </table>
-
-
-    
-
