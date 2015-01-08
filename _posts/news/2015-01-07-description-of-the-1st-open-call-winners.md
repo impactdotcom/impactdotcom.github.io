@@ -23,7 +23,7 @@ Following is a brief description on each winner project.
 </tr>
 <tr>
 <td width="200px">
-![ImagenNEW ONOMONDO100.jpg](/assets/ImagenNEW ONOMONDO100.jpg)
+![ImagenNEW ONOMONDO50.jpg](/assets/ImagenNEW ONOMONDO50.jpg)
 </td>
 <td>
 [ONOMONDO](http://onomondo.com/) is a unique scalable software technology that combines mobile networks and eliminates roaming completely on a network level.
