@@ -34,14 +34,28 @@ Following is a brief description on each winner project.
 ![bastly 100.jpg](/assets/bastly 100.jpg)
 </td>
 <td>
-Bastly is a mobile backend service (MBaaS) that provides state of the art technologies to all mobile developers seamlessly.
+BASTLY is a mobile backend service (MBaaS) that provides state of the art technologies to all mobile developers seamlessly.
 </td>
 </tr>
 <tr>
 <td width="200px">
-![intoino logo firma100.jpg](/assets/intoino logo firma100.jpg)
+![Logo inevio 100.jpg](/assets/Logo inevio 100.jpg)
 </td>
 <td>
-[INTOINO](http://www.intoino.com/) kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
+[INEVIO](https://www.inevio.com/) is an HTML5 Virtual Desktop, a website that looks, works and feels like a real computer.
 </td>
 </tr>
+<tr>
+<td width="200px">
+![chronobook120.jpg](/assets/chronobook120.jpg)
+</td>
+<td>
+[CHRONOBOOK](https://chronobook.com/) keeps, organizes,and helps you share and enjoy your digital life. ¨We do the tedious work, and we leave the fun for you¨. 
+</td>
+</tr>
+<tr>
+<td width="200px">
+![notegraphy100.jpg](/assets/notegraphy100.jpg)
+</td>
+<td>
+[NOTOGRAPHY](https://notegraphy.com/) rethinks the way we write and share text online through design. Described as an Instagram for text.
