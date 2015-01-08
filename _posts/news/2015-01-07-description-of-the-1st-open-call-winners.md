@@ -63,7 +63,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 </tr>
 <tr>
 <td width="200px">
-![conductr80.jpg](/assets/conductr80.jpg)
+![ConductrIcon50.jpg](/assets/ConductrIcon50.jpg)
 </td>
 <td>
 [CONDUCTR](http://www.conductr.net/) is a music creation app specifically designed for iPad. It provides musicians with a new way to interact with their instruments.
