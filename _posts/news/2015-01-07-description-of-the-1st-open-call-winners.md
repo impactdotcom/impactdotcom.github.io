@@ -93,6 +93,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 [OLAII PAYMENTS](http://payments.olaii.com/) offers the visitors to pay in the fastest and securest way to the event organizers.
 </td>
 </tr>
+<tr>
 <td width="200px">
 ![_8fit_50.jpg](/assets/_8fit_50.jpg)
 </td>
@@ -100,13 +101,68 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 [8FIT](http://8fit.com/)is a mobile fitness app which helps you reach your goals by providing you with a custom workout and meal plan.
 </td>
 </tr>
+<tr>
 <td width="200px">
-![Psious_80.jpg](/assets/Psious_80.jpg)
+![shopping leeks80.jpg](/assets/shopping leeks80.jpg)
 </td>
 <td>
-[PSIOUS](http://psious.com/) is a mobile based technology that uses hyper-realistic virtual environments to treat anxiety disorders.
+[SHOPPING LEEKS](http://www.shoppingleeks.com/es/) helps restaurants to order their supplies of food and beverages by using mobile applications.
 </td>
 </tr>
+<tr>
+<td width="200px">
+![Mivoq-logo-100.jpg](/assets/Mivoq-logo-100.jpg)
+</td>
+<td>
+[MIVOQ](http://www.mivoq.it/joomla/) offers innovative services suitable for creating and using personalized synthetic voices on mobile devices.
+</td>
+</tr>
+<tr>
+<td width="200px">
+![crowdfashion70.jpg](/assets/crowdfashion70.jpg)
+</td>
+<td>
+[CROWDFASHION](http://dlaodmiany.pl/) believes in scientific proof that crowdsourced design is a more creative and a useful design. This is an app that allows people to create their own style. 
+</td>
+</tr>
+<tr>
+<td width="200px">
+![BridgeMediatech_100.jpg](/assets/BridgeMediatech_100.jpg)
+</td>
+<td>
+[BRIDGE MEDIATECH](http://bridgemediatech.com/en/index.html) is a platform that enables the widespread use of BigData and Second Screen tech. to the entire TV and radio market in a very easy way.
+</td>
+</tr>
+<tr>
+<td width="200px">
+![njoy corporation60.jpg](/assets/njoy corporation60.jpg)
+</td>
+<td>
+[N´JOY CORPORATION](http://njoycorporation.com/)develops both hardware and software solutions to make the shopping experience more enjoyable at the point of sale.
+</td>
+</tr>
+<tr>
+<td width="200px">
+![Revisely logo_120.jpg](/assets/Revisely logo_120.jpg)
+</td>
+<td>
+[REVISE.LY](http://revise.ly/es/) is a mobile application that helps language teachers to correct texts: provide a better feedback to students and comparative studies for managers.
+</td>
+</tr>
+<tr>
+<td width="200px">
+![coffee strap logo120.jpg](/assets/coffee strap logo120.jpg)
+</td>
+<td>
+[COFFEESTRAP](http://www.coffeestrap.com/) is the mobile market that aims to improve your conversation skills: it automatically selects your perfect language exchange partner.
+</td>
+</tr>
+
+
+
+
+
+
 
 
 
