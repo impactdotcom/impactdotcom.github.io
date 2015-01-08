@@ -37,3 +37,11 @@ Following is a brief description on each winner project.
 Bastly is a mobile backend service (MBaaS) that provides state of the art technologies to all mobile developers seamlessly.
 </td>
 </tr>
+<tr>
+<td width="200px">
+![intoino logo firma100.jpg](/assets/intoino logo firma100.jpg)
+</td>
+<td>
+[INTOINO](http://www.intoino.com/) kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
+</td>
+</tr>
