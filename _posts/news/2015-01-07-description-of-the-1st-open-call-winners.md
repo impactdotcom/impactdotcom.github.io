@@ -100,6 +100,14 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 [8FIT](http://8fit.com/)is a mobile fitness app which helps you reach your goals by providing you with a custom workout and meal plan.
 </td>
 </tr>
+<td width="200px">
+![Psious_80.jpg](/assets/Psious_80.jpg)
+</td>
+<td>
+[PSIOUS](http://psious.com/) is a mobile based technology that uses hyper-realistic virtual environments to treat anxiety disorders.
+</td>
+</tr>
+
 
 
 
