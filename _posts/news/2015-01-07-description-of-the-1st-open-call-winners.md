@@ -69,3 +69,38 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 [CONDUCTR](http://www.conductr.net/) is a music creation app specifically designed for iPad. It provides musicians with a new way to interact with their instruments.
 </td>
 </tr>
+<tr>
+<td width="200px">
+![Goalshouter_50.jpg](/assets/Goalshouter_50.jpg)
+</td>
+<td>
+[GOALSHOUTER](http://www.goalshouter.com/) helps football clubs of any size to better connect their passionate supporters with their sponsors at local and global level.
+</td>
+</tr>
+<tr>
+<td width="200px">
+![healthia100 cortado.jpg](/assets/healthia100 cortado.jpg)
+</td>
+<td>
+[HEALTHIA](http://www.healthia.es/) will change the private health care to a more transparent, accessible and patient-centered one, aiming to put their patients directly in contact with the doctors.
+</td>
+</tr>
+<tr>
+<td width="200px">
+![Olaii_Logo60.jpg](/assets/Olaii_Logo60.jpg)
+</td>
+<td>
+[OLAII PAYMENTS](http://payments.olaii.com/) offers the visitors to pay in the fastest and securest way to the event organizers.
+</td>
+</tr>
+<td width="200px">
+![_8fit_50.jpg](/assets/_8fit_50.jpg)
+</td>
+<td>
+[8FIT](http://8fit.com/)is a mobile fitness app which helps you reach your goals by providing you with a custom workout and meal plan.
+</td>
+</tr>
+
+
+
+
