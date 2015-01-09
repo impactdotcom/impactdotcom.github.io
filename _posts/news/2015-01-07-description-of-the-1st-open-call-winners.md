@@ -103,6 +103,14 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 </tr>
 <tr>
 <td width="200px">
+![Psious_80.jpg](/assets/Psious_80.jpg)
+</td>
+<td>
+[PSIOUS](http://psious.com/)is a mobile based technology which uses hyper-realistic virtual environments to treat anxiety disorders by virtual gradual exposure.
+</td>
+</tr>
+<tr>
+<td width="200px">
 ![shopping leeks80.jpg](/assets/shopping leeks80.jpg)
 </td>
 <td>
