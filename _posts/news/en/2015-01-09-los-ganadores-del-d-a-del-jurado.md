@@ -2,12 +2,13 @@
 layout: post
 category: news
 published: false
-title: Los Ganadores del Día del Jurado
+title: Proyectos Selecionados de la Primera Convocatoria de IMPACT
 lang: es
 ---
 
-Es un placer para confirmar que los ganadores de Primera Convocatoria están entrando oficialmente en el programa de Formación IMPACT, como el último paso hacia una financiación completa.
-A continuación se presenta una breve descripción de los 20 proyectos que habían sido elegidos como las startups más prometedoras en el evento del Día del Jurado, la última fase de evaluación.
+Es un placer para nosotros confirmar finalmente los proyectos selecionados en la Primera Convocatoria de IMPACT. Estos proyectos recibiran financiación (hasta 100 mil euros), formación (presencial intensiva y online) y mentoring de 6 meses de duración.
+
+A continuación presentamos una breve descripción de los 20 proyectos seleccionados como las startups más prometedoras.
 
 <table width="500px" height="100%" border="1">
 <tr>
@@ -15,7 +16,7 @@ A continuación se presenta una breve descripción de los 20 proyectos que habí
 ![intoino logo firma100.jpg](/assets/intoino logo firma100.jpg)
 </td>
 <td>
-[INTOINO](http://www.intoino.com/) kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
+[INTOINO](http://www.intoino.com/) permite aprender y construir proyectos electrónicos y del Internet de las cosas en cuestión de minutos sin ser un programador o ingeniero.
 </td>
 </tr>
 <tr>
@@ -23,7 +24,7 @@ A continuación se presenta una breve descripción de los 20 proyectos que habí
 ![ImagenNEW ONOMONDO50.jpg](/assets/ImagenNEW ONOMONDO50.jpg)
 </td>
 <td>
-[ONOMONDO](http://onomondo.com/) is a unique scalable software technology that combines mobile networks and eliminates roaming completely on a network level.
+[ONOMONDO](http://onomondo.com/) ofrece la tecnología de software única y escalable que permite combinar las redes móviles y eliminar por completo el "roaming" en el nivel de red.
 </td>
 </tr>
 <tr>
@@ -31,7 +32,7 @@ A continuación se presenta una breve descripción de los 20 proyectos que habí
 ![bastly 100.jpg](/assets/bastly 100.jpg)
 </td>
 <td>
-BASTLY is a mobile backend service (MBaaS) that provides state of the art technologies to all mobile developers seamlessly.
+**BASTLY** es un backend móvil como servicio (MBaaS) que proporciona la tecnología más avanzada para los desarrolladores móviles sin esfuerzo añadido.
 </td>
 </tr>
 <tr>
@@ -39,7 +40,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![Logo inevio 100.jpg](/assets/Logo inevio 100.jpg)
 </td>
 <td>
-[INEVIO](https://www.inevio.com/) is an HTML5 Virtual Desktop, a website that looks, works and feels like a real computer.
+[INEVIO](https://www.inevio.com/) es un Virtual Desktop en HTML5, un sitio web que parece, funciona y siente como un ordenador real.
 </td>
 </tr>
 <tr>
@@ -47,7 +48,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![chronobook120.jpg](/assets/chronobook120.jpg)
 </td>
 <td>
-[CHRONOBOOK](https://chronobook.com/) keeps, organizes,and helps you share and enjoy your digital life. ¨We do the tedious work, and we leave the fun for you¨. 
+[CHRONOBOOK](https://chronobook.com/) guarda, organiza, y te permite compartir tu vida digital. Nosotros hacemos el trabajo tedioso, y te dejamos la parte divertida.
 </td>
 </tr>
 <tr>
@@ -55,7 +56,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![notegraphy100.jpg](/assets/notegraphy100.jpg)
 </td>
 <td>
-[NOTEGRAPHY](https://notegraphy.com/) rethinks the way we write and share text online through design. Best described as an Instagram for text.
+[NOTEGRAPHY](https://notegraphy.com/) replantea la forma en que escribimos y compartimos los textos online gracias al diseño. Es como un Instagram para el texto.
 </td>
 </tr>
 <tr>
@@ -63,7 +64,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![ConductrIcon50.jpg](/assets/ConductrIcon50.jpg)
 </td>
 <td>
-[CONDUCTR](http://www.conductr.net/) is a music creation app specifically designed for iPad. It provides musicians with a new way to interact with their instruments.
+[CONDUCTR](http://www.conductr.net/) es una aplicación de creación musical diseñada específicamente para el iPad. Proporciona a los músicos con una nueva manera de interactuar con sus instrumentos.
 </td>
 </tr>
 <tr>
@@ -71,7 +72,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![Goalshouter_50.jpg](/assets/Goalshouter_50.jpg)
 </td>
 <td>
-[GOALSHOUTER](http://www.goalshouter.com/) helps football clubs of any size to better connect their passionate supporters with their sponsors at local and global level.
+[GOALSHOUTER](http://www.goalshouter.com/) ayuda a los clubes de fútbol de cualquier tamaño para conectar mejor a sus apasionados seguidores con sus patrocinadores tanto a nivel local y global.
 </td>
 </tr>
 <tr>
@@ -79,7 +80,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![healthia100 cortado.jpg](/assets/healthia100 cortado.jpg)
 </td>
 <td>
-[HEALTHIA](http://www.healthia.es/) will change the private health care to a more transparent, accessible and patient-centered one, aiming to put their patients directly in contact with the doctors.
+[HEALTHIA](http://www.healthia.es/) cambiará la sanidad privada a una más transparente, accesible y centrada en el paciente, con el objetivo de poner sus pacientes directamente en contacto con los médicos.
 </td>
 </tr>
 <tr>
@@ -87,7 +88,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![Olaii_Logo60.jpg](/assets/Olaii_Logo60.jpg)
 </td>
 <td>
-[OLAII PAYMENTS](http://payments.olaii.com/) offers the visitors to pay in the fastest and securest way to the event organizers.
+[OLAII PAYMENTS](http://payments.olaii.com/) ofrece a sus visitantes pagar de forma rápida y segura a los organizadores de conciertos, festivales o cualquier otro tipo de evento.
 </td>
 </tr>
 <tr>
@@ -95,7 +96,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![_8fit_50.jpg](/assets/_8fit_50.jpg)
 </td>
 <td>
-[8FIT](http://8fit.com/)is a mobile fitness app which helps you reach your goals by providing you with a custom workout and meal plan.
+[8FIT](http://8fit.com/) es una aplicación de fitness móvil. Alcance sus objetivos con entrenamiento personalizado y planes de comidas.
 </td>
 </tr>
 <tr>
@@ -103,7 +104,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![Psious_80.jpg](/assets/Psious_80.jpg)
 </td>
 <td>
-[PSIOUS](http://psious.com/)is a mobile based technology which uses hyper-realistic virtual environments to treat anxiety disorders by virtual gradual exposure.
+[PSIOUS](http://psious.com/) es una tecnología basada en móvil que utiliza entornos virtuales hiperrealistas para tratar los trastornos de ansiedad.
 </td>
 </tr>
 <tr>
@@ -143,7 +144,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![njoy corporation60.jpg](/assets/njoy corporation60.jpg)
 </td>
 <td>
-[N´JOY CORPORATION](http://njoycorporation.com/)desarrolla soluciones de hardware y software para hacer la experiencia de compra más agradable en el punto de venta.
+[N´JOY CORPORATION](http://njoycorporation.com/) desarrolla soluciones de hardware y software para hacer la experiencia de compra más agradable en el punto de venta.
 </td>
 </tr>
 <tr>
