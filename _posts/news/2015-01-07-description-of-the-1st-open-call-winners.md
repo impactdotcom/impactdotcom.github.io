@@ -98,7 +98,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![_8fit_50.jpg](/assets/_8fit_50.jpg)
 </td>
 <td>
-[8FIT](http://8fit.com/)is a mobile fitness app which helps you reach your goals by providing you with a custom workout and meal plan.
+[8FIT](http://8fit.com/) is a mobile fitness app which helps you reach your goals by providing you with a custom workout and meal plan.
 </td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![Psious_80.jpg](/assets/Psious_80.jpg)
 </td>
 <td>
-[PSIOUS](http://psious.com/)is a mobile based technology which uses hyper-realistic virtual environments to treat anxiety disorders by virtual gradual exposure.
+[PSIOUS](http://psious.com/) is a mobile based technology which uses hyper-realistic virtual environments to treat anxiety disorders by virtual gradual exposure.
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 ![njoy corporation60.jpg](/assets/njoy corporation60.jpg)
 </td>
 <td>
-[N´JOY CORPORATION](http://njoycorporation.com/)develops both hardware and software solutions to make the shopping experience more enjoyable at the point of sale.
+[N´JOY CORPORATION](http://njoycorporation.com/) develops both hardware and software solutions to make the shopping experience more enjoyable at the point of sale.
 </td>
 </tr>
 <tr>
