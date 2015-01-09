@@ -6,11 +6,11 @@ title: Description of the 1st Open Call winners
 lang: es
 ---
 
-The following 20 Start-ups had been chosen as the most promising startups at the Jury Day, IMPACT´s last evaluation phase.
+It is our pleasure to confirm that the 1st Open Call winners are officially entering
+the IMPACT Training program, as the last step towards a complete funding.
 
-The EU commission has reapproved the selected winners, who are now officially entering the IMPACT Training program,the last step towards a complete funding.
+Following is a brief description of the 20 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
 
-Following is a brief description on each winner project.
 
 <table width="500px" height="100%" border="1">
 <tr>
@@ -157,14 +157,11 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 [COFFEESTRAP](http://www.coffeestrap.com/) is the mobile market that aims to improve your conversation skills: it automatically selects your perfect language exchange partner.
 </td>
 </tr>
-
-
-
-
-
-
-
-
-
-
-
+<tr>
+<td width="200px">
+![smartsea 80.jpg](/assets/smartsea 80.jpg)
+</td>
+<td>
+[SMARTSEA](http://smartport.es/) integrates smart technology into yachting using mobile devices. We work with sailors and with marinas.
+</td>
+</tr>
