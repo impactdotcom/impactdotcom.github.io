@@ -9,7 +9,11 @@ lang: es
 It is a pleasure to finally confirm the selected projects in the First Call. These projects will receive funding (up to 100 thousand euros), training (a face to face intensive training and online learning) and mentoring of 6 months.
 
 Following is a brief description of the 20 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 <br>
 <table width="500px" height="100%" border="1">
