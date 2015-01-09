@@ -6,8 +6,7 @@ title: The 1st Open Call Winners
 lang: es
 ---
 
-It is our pleasure to confirm that the 1st Open Call winners are officially entering
-the IMPACT Training program, as the last step towards a complete funding.
+It is a pleasure to finally confirm the selected projects in the First Call. These projects will receive funding (up to 100 thousand euros), training (a face to face intensive training and online learning) and mentoring of 6 months.
 
 Following is a brief description of the 20 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
 
