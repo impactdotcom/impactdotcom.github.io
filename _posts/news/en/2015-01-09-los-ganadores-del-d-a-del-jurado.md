@@ -10,6 +10,7 @@ Es un placer para nosotros confirmar finalmente los proyectos selecionados en la
 
 A continuación presentamos una breve descripción de los 20 proyectos seleccionados como las startups más prometedoras.
 
+
 <table width="500px" height="100%" border="1">
 <tr>
 <td width="200px">
