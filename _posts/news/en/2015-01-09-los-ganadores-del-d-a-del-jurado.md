@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: true
+published: false
 title: Proyectos Selecionados de la Primera Convocatoria de IMPACT
 lang: es
 ---
