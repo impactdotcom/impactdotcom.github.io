@@ -165,3 +165,4 @@ BASTLY is a mobile backend service (MBaaS) that provides state of the art techno
 [SMARTSEA](http://smartport.es/) integrates smart technology into yachting using mobile devices. We work with sailors and with marinas.
 </td>
 </tr>
+</table>
