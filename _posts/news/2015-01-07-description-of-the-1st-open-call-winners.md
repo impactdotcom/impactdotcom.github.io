@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: true
+published: false
 title: The Selected Projects of the 1st Open Call
 lang: es
 ---
