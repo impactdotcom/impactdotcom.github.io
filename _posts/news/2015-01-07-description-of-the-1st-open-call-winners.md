@@ -2,7 +2,7 @@
 layout: post
 category: news
 published: false
-title: Description of the 1st Open Call winners
+title: The 1st Open Call Winners
 lang: es
 ---
 
