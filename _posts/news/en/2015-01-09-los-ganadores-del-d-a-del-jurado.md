@@ -6,7 +6,7 @@ title: Proyectos Selecionados de la Primera Convocatoria de IMPACT
 lang: es
 ---
 
-Es un placer para nosotros confirmar finalmente los proyectos selecionados en la Primera Convocatoria de IMPACT. Estos proyectos recibiran financiación (hasta 100 mil euros), formación (presencial intensiva y online) y mentoring de 6 meses de duración.
+Es un placer para nosotros confirmar finalmente los **proyectos selecionados** en la **Primera Convocatoria de IMPACT**. Estos proyectos recibiran financiación (hasta 100 mil euros), formación (presencial intensiva y online) y mentoring de 6 meses de duración.
 
 A continuación presentamos una breve descripción de los 20 proyectos seleccionados como las startups más prometedoras.
 
