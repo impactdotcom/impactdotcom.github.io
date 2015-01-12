@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: Proyectos Selecionados de la Primera Convocatoria de IMPACT
 lang: es
 ---
@@ -10,166 +10,166 @@ Es un placer para nosotros confirmar finalmente los **proyectos selecionados** e
 
 A continuación presentamos una breve descripción de los 20 proyectos seleccionados como las startups más prometedoras.
 
-<br>
-<table width="500px" height="100%" border="1">
+
+<table class="table">
 <tr>
-<td width="200px">
-![intoino logo firma100.jpg](/assets/intoino logo firma100.jpg)
+<td>
+<a href="http://www.intoino.com/"><img src="/assets/intoino logo firma100.jpg"></a>
 </td>
 <td>
-[INTOINO](http://www.intoino.com/) permite aprender y construir proyectos electrónicos y del Internet de las cosas en cuestión de minutos sin ser un programador o ingeniero.
+<p><a href="http://www.intoino.com/">INTOINO</a> permite aprender y construir proyectos electrónicos y del Internet de las cosas en cuestión de minutos sin ser un programador o ingeniero. </p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![ImagenNEW ONOMONDO50.jpg](/assets/ImagenNEW ONOMONDO50.jpg)
+<td>
+<a href="http://onomondo.com/"><img src="/assets/ImagenNEW ONOMONDO50.jpg"></a>
 </td>
 <td>
-[ONOMONDO](http://onomondo.com/) ofrece la tecnología de software única y escalable que permite combinar las redes móviles y eliminar por completo el "roaming" en el nivel de red.
+<p><a href="http://onomondo.com/">ONOMONDO</a> ofrece la tecnología de software única y escalable que permite combinar las redes móviles y eliminar por completo el "roaming" en el nivel de red.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![bastly 100.jpg](/assets/bastly 100.jpg)
+<td>
+<img src="/assets/bastly 100.jpg">
 </td>
 <td>
-**BASTLY** es un backend móvil como servicio (MBaaS) que proporciona la tecnología más avanzada para los desarrolladores móviles sin esfuerzo añadido.
+<p><strong>BASTLY</strong> es un backend móvil como servicio (MBaaS) que proporciona la tecnología más avanzada para los desarrolladores móviles sin esfuerzo añadido.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![Logo inevio 100.jpg](/assets/Logo inevio 100.jpg)
+<td>
+<a href="https://www.inevio.com/"><img src="/assets/Logo inevio 100.jpg"></a>
 </td>
 <td>
-[INEVIO](https://www.inevio.com/) es un Virtual Desktop en HTML5, un sitio web que parece, funciona y siente como un ordenador real.
+<p><a href="https://www.inevio.com/">INEVIO</a> es un Virtual Desktop en HTML5, un sitio web que parece, funciona y siente como un ordenador real.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![chronobook120.jpg](/assets/chronobook120.jpg)
+<td>
+<a href="https://chronobook.com/"><img src="/assets/chronobook120.jpg"></a>
 </td>
 <td>
-[CHRONOBOOK](https://chronobook.com/) guarda, organiza, y te permite compartir tu vida digital. Nosotros hacemos el trabajo tedioso, y te dejamos la parte divertida.
+<p><a href="https://chronobook.com/">CHRONOBOOK</a> guarda, organiza, y te permite compartir tu vida digital. Nosotros hacemos el trabajo tedioso, y te dejamos la parte divertida.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![notegraphy100.jpg](/assets/notegraphy100.jpg)
+<td>
+<a href="https://notegraphy.com/"><img src="/assets/notegraphy100.jpg"></a>
 </td>
 <td>
-[NOTEGRAPHY](https://notegraphy.com/) replantea la forma en que escribimos y compartimos los textos online gracias al diseño. Es como un Instagram para el texto.
+<p><a href="https://notegraphy.com/">NOTEGRAPHY</a> replantea la forma en que escribimos y compartimos los textos online gracias al diseño. Es como un Instagram para el texto.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![ConductrIcon50.jpg](/assets/ConductrIcon50.jpg)
+<td>
+<a href="http://www.conductr.net/"><img src="/assets/ConductrIcon50.jpg"></a>
 </td>
 <td>
-[CONDUCTR](http://www.conductr.net/) es una aplicación de creación musical diseñada específicamente para el iPad. Proporciona a los músicos con una nueva manera de interactuar con sus instrumentos.
+<p><a href="http://www.conductr.net/">CONDUCTR</a> es una aplicación de creación musical diseñada específicamente para el iPad. Proporciona a los músicos con una nueva manera de interactuar con sus instrumentos.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![Goalshouter_50.jpg](/assets/Goalshouter_50.jpg)
+<td>
+<a href="http://www.goalshouter.com/"><img src="/assets/Goalshouter_50.jpg"></a>
 </td>
 <td>
-[GOALSHOUTER](http://www.goalshouter.com/) ayuda a los clubes de fútbol de cualquier tamaño para conectar mejor a sus apasionados seguidores con sus patrocinadores tanto a nivel local y global.
+<p><a href="http://www.goalshouter.com/">GOALSHOUTER</a> ayuda a los clubes de fútbol de cualquier tamaño para conectar mejor a sus apasionados seguidores con sus patrocinadores tanto a nivel local y global.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![healthia100 cortado.jpg](/assets/healthia100 cortado.jpg)
+<td>
+<a href="http://www.healthia.es/"><img src="/assets/healthia100 cortado.jpg"></a>
 </td>
 <td>
-[HEALTHIA](http://www.healthia.es/) cambiará la sanidad privada a una más transparente, accesible y centrada en el paciente, con el objetivo de poner sus pacientes directamente en contacto con los médicos.
+<p><a href="http://www.healthia.es/">HEALTHIA</a> cambiará la sanidad privada a una más transparente, accesible y centrada en el paciente, con el objetivo de poner sus pacientes directamente en contacto con los médicos.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![Olaii_Logo60.jpg](/assets/Olaii_Logo60.jpg)
+<td>
+<a href="http://payments.olaii.com/"><img src="/assets/Olaii_Logo60.jpg"></a>
 </td>
 <td>
-[OLAII PAYMENTS](http://payments.olaii.com/) ofrece a sus visitantes pagar de forma rápida y segura a los organizadores de conciertos, festivales o cualquier otro tipo de evento.
+<p><a href="http://payments.olaii.com/">OLAII PAYMENTS</a> ofrece a sus visitantes pagar de forma rápida y segura a los organizadores de conciertos, festivales o cualquier otro tipo de evento.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![_8fit_50.jpg](/assets/_8fit_50.jpg)
+<td>
+<a href="http://8fit.com/"><img src="/assets/8fit_50.jpg"></a>
 </td>
 <td>
-[8FIT](http://8fit.com/) es una aplicación de fitness móvil. Alcance sus objetivos con entrenamiento personalizado y planes de comidas.
+<p><a href="http://8fit.com/">8FIT</a> es una aplicación de fitness móvil. Alcance sus objetivos con entrenamiento personalizado y planes de comidas.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![Psious_80.jpg](/assets/Psious_80.jpg)
+<td>
+<a href="http://psious.com/"><img src="/assets/Psious_80.jpg"></a>
 </td>
 <td>
-[PSIOUS](http://psious.com/) es una tecnología basada en móvil que utiliza entornos virtuales hiperrealistas para tratar los trastornos de ansiedad.
+<p><a href="http://psious.com/">PSIOUS</a> es una tecnología basada en móvil que utiliza entornos virtuales hiperrealistas para tratar los trastornos de ansiedad.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![shopping leeks80.jpg](/assets/shopping leeks80.jpg)
+<td>
+<a href="http://www.shoppingleeks.com/es/"><img src="/assets/shopping leeks80.jpg"></a>
 </td>
 <td>
-[SHOPPING LEEKS](http://www.shoppingleeks.com/es/) ayuda a los restaurantes a pedir sus suministros de alimentos y bebidas a los distribuidores usando las aplicaciones móviles. .
+<p><a href="http://www.shoppingleeks.com/es/">SHOPPING LEEKS</a> ayuda a los restaurantes a pedir sus suministros de alimentos y bebidas a los distribuidores usando las aplicaciones móviles.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![Mivoq-logo-100.jpg](/assets/Mivoq-logo-100.jpg)
+<td>
+<a href="http://www.mivoq.it/joomla/"><img src="/assets/Mivoq-logo-100.jpg"></a>
 </td>
 <td>
-[MIVOQ](http://www.mivoq.it/joomla/) ofrece los servicios innovadores adecuados para la creación y uso de voces sintéticas personalizadas en los dispositivos móviles.
+<p><a href="http://www.mivoq.it/joomla/">MIVOQ</a> ofrece los servicios innovadores adecuados para la creación y uso de voces sintéticas personalizadas en los dispositivos móviles.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![crowdfashion70.jpg](/assets/crowdfashion70.jpg)
+<td>
+<a href="http://dlaodmiany.pl/"><img src="/assets/crowdfashion70.jpg"></a>
 </td>
 <td>
-[CROWDFASHION](http://dlaodmiany.pl/) es una aplicación que permitirá a la gente a crear diseños colaborativos. Apoya La evidencia científica que el ¨crowdsourcing¨ aplicado al diseño es más creativo y útil. 
+<p><a href="http://dlaodmiany.pl/">CROWDFASHION</a> es una aplicación que permitirá a la gente a crear diseños colaborativos. Apoya La evidencia científica que el ¨crowdsourcing¨ aplicado al diseño es más creativo y útil.</p> 
 </td>
 </tr>
 <tr>
-<td width="200px">
-![BridgeMediatech_100.jpg](/assets/BridgeMediatech_100.jpg)
+<td>
+<a href="http://bridgemediatech.com/en/index.html"><img src="/assets/BridgeMediatech_100.jpg"></a>
 </td>
 <td>
-[BRIDGE MEDIATECH](http://bridgemediatech.com/en/index.html) es una plataforma que permite el uso generalizado de ¨BigData¨ y ¨Second Screen tech.¨ a toda la TV y el mercado de radio de una manera muy fácil.
+<p><a href="http://bridgemediatech.com/en/index.html">BRIDGE MEDIATECH</a> es una plataforma que permite el uso generalizado de ¨BigData¨ y ¨Second Screen tech.¨ a toda la TV y el mercado de radio de una manera muy fácil.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![njoy corporation60.jpg](/assets/njoy corporation60.jpg)
+<td>
+<a href="http://njoycorporation.com/"><img src="/assets/njoy corporation60.jpg"></a>
 </td>
 <td>
-[N´JOY CORPORATION](http://njoycorporation.com/) desarrolla soluciones de hardware y software para hacer la experiencia de compra más agradable en el punto de venta.
+<p><a href="http://njoycorporation.com/">N´JOY CORPORATION</a> desarrolla soluciones de hardware y software para hacer la experiencia de compra más agradable en el punto de venta.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![Revisely logo_120.jpg](/assets/Revisely logo_120.jpg)
+<td>
+<a href="http://revise.ly/es/"><img src="/assets/Revisely logo_120.jpg"></a>
 </td>
 <td>
-[REVISE.LY](http://revise.ly/es/) es una aplicación móvil que ayuda a los profesores de idiomas  corregir textos: mejor feedback para los estudiantes y estudios comparativos para los gestores.
+<p><a href="http://revise.ly/es/">REVISE.LY</a> es una aplicación móvil que ayuda a los profesores de idiomas  corregir textos: mejor feedback para los estudiantes y estudios comparativos para los gestores.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![coffee strap logo120.jpg](/assets/coffee strap logo120.jpg)
+<td>
+<a href="http://www.coffeestrap.com/"><img src="/assets/coffee strap logo120.jpg"></a>
 </td>
 <td>
-[COFFEESTRAP](http://www.coffeestrap.com/) es el mercado móvil para mejorar tus habilidades de conversación: selección automática de tu compañero perfecto
+<p><a href="http://www.coffeestrap.com/">COFFEESTRAP</a> es el mercado móvil para mejorar tus habilidades de conversación: selección automática de tu compañero perfecto.</p>
 </td>
 </tr>
 <tr>
-<td width="200px">
-![smartsea 80.jpg](/assets/smartsea 80.jpg)
+<td>
+<a href="http://smartport.es/"><img src="/assets/smartsea 80.jpg"></a>
 </td>
 <td>
-[SMARTSEA](http://smartport.es/) integra la tecnología inteligente en la náutica de recreo utilizando dispositivos móviles. Trabajan tanto con marineros como con puertos deportivos.
+<p><a href="http://smartport.es/">SMARTSEA</a> integra la tecnología inteligente en la náutica de recreo utilizando dispositivos móviles. Trabajan tanto con marineros como con puertos deportivos.</p>
 </td>
 </tr>
 </table>

@@ -17,14 +17,23 @@
 				  {% if post.lang == page.lang %}
 						<div class="tab-content" id="tab-{{ forloop.index }}">
 							<div class="row">
-								<div class="col-md-6 col-md-push-6 inner-left-xs">
-									<figure><img src="{{ post.image }}" alt="{{ post.title }}"></figure>
-								</div>
-								<div class="col-md-6 col-md-pull-6 inner-right-xs">
-									<h2 class="h2">{{ post.title }}</h2>
-									{{ post.date | date: "%b %-d, %Y" }}
-									<p>{{ post.content }}</p>
-								</div>
+								{% if post.image %}				
+									<div class="col-md-6 col-md-push-6 inner-left-xs">
+										<figure><img src="{{ post.image }}" alt="{{ post.title }}"></figure>
+									</div>
+									<div class="col-md-6 col-md-pull-6 inner-right-xs">
+										<h2 class="h2">{{ post.title }}</h2>
+										{{ post.date | date: "%b %-d, %Y" }}
+										<p>{{ post.content }}</p>
+									</div>
+								{% else %} 
+
+									<div class="col-md-12 inner-right-xs">
+										<h2 class="h2">{{ post.title }}</h2>
+										{{ post.date | date: "%b %-d, %Y" }}
+										<p>{{ post.content }}</p>
+									</div>
+								{% endif %}
 							</div>
 						</div>
 		      {% endif %}
