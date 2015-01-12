@@ -10,18 +10,6 @@ It is a pleasure to finally confirm the selected projects in the First Call. The
 
 Following is a brief description of the 20 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
 
-<table width="500px" height="100%" border="1">
-<tr>
-<td width="200px">
-<img src="/assets/intoino logo firma100.jpg">
-</td>
-<td>
-<a href="http://www.intoino.com/">INTOINO</a> kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
-</td>
-</tr>
-</table>
-
-
 <br>
 <table width="500px" height="100%" border="1">
 <tr>
