@@ -11,11 +11,6 @@ It is a pleasure to finally confirm the selected projects in the First Call. The
 Following is a brief description of the 20 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 <table width="500px" height="100%" border="1">
 <tr>
