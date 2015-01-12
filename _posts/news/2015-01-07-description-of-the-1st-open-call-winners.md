@@ -17,6 +17,18 @@ Following is a brief description of the 20 projects which had been chosen as the
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+<table width="500px" height="100%" border="1">
+<tr>
+<td width="200px">
+<img src="/assets/intoino logo firma100.jpg">
+</td>
+<td>
+<a href="http://www.intoino.com/">INTOINO</a> kits allows you to learn and build electronic projects and Internet of Things in minutes without being a programmer or engineer.
+</td>
+</tr>
+</table>
+
+
 <br>
 <table width="500px" height="100%" border="1">
 <tr>
