@@ -33,7 +33,7 @@ A continuación presentamos una breve descripción de los 20 proyectos seleccion
 <img src="/assets/bastly 100.jpg">
 </td>
 <td>
-<p><strong>BASTLY</strong> es un backend móvil como servicio (MBaaS) que proporciona la tecnología más avanzada para los desarrolladores móviles sin esfuerzo añadido.</p>
+<p><strong>[BASTLY](http://bastly.com/)</strong> es un backend móvil como servicio (MBaaS) que proporciona la tecnología más avanzada para los desarrolladores móviles sin esfuerzo añadido.</p>
 </td>
 </tr>
 <tr>
