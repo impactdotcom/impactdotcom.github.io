@@ -172,4 +172,3 @@ Following is a brief description of the 20 projects which had been chosen as the
 </td>
 </tr>
 </table>
-
