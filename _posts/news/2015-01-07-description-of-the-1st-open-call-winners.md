@@ -168,7 +168,7 @@ Following is a brief description of the 20 projects which had been chosen as the
 <a href="http://smartport.es/"><img src="/assets/smartsea 80.jpg"></a>
 </td>
 <td>
-<p><a href="http://smartport.es/">SMARTSEA</a> iintegrates smart technology into yachting using mobile devices. We work with sailors and with marinas.</p>
+<p><a href="http://smartport.es/">SMARTSEA</a> integrates smart technology into yachting using mobile devices. We work with sailors and with marinas.</p>
 </td>
 </tr>
 </table>
