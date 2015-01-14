@@ -3,7 +3,7 @@ layout: post
 category: news
 published: false
 title: The Selected Projects of the 1st Open Call
-lang: es
+lang: en
 ---
 
 It is a pleasure to announce the final confirmation of the selected projects in the First Call. These projects will receive funding (up to 100 thousand euros), training (a face to face intensive training and online learning) and mentoring of 6 months.
