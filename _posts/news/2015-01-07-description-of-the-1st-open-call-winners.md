@@ -6,7 +6,7 @@ title: The Selected Projects of the 1st Open Call
 lang: en
 ---
 
-It is a pleasure to announce the final confirmation of the selected projects in the First Call. These projects will receive funding (up to 100 thousand euros), training (a face to face intensive training and online learning) and mentoring of 6 months.
+With great pleasure we announce the final confirmation of the selected projects in the First Open Call. These projects will receive funding (up to 100 thousand euros), training (a face to face intensive training and online learning) and a 6 month mentoring program.
 
 Following is a brief description of the 20 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
 
