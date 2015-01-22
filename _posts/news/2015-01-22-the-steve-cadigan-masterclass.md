@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: The Steve Cadigan Masterclass
 lang: en
 image: "[/assets/Steve Cadigan photo date600.jpg](https://www.eventbrite.es/e/entradas-steve-cadigan-barcelona-2nd-february-from-startup-to-ipo-13925586805)"
