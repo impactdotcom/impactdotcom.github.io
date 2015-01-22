@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: The Steve Cadigan Masterclass
 lang: en
 image: /assets/Steve Cadigan photo date600.jpg
