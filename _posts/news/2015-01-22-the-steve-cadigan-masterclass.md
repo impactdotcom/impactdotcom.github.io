@@ -19,5 +19,5 @@ Drawing from his experiences in LinkedIn, Cisco, EA and many of the startups tha
 
 Please keep in mind that the number of seats is limited. In order to obtain your ticket, you must [register online](https://www.eventbrite.es/e/entradas-steve-cadigan-barcelona-2nd-february-from-startup-to-ipo-13925586805)
 
-![Steve Cadigan photo date600.jpg]([/assets/Steve Cadigan photo date600.jpg](https://www.eventbrite.es/e/entradas-steve-cadigan-barcelona-2nd-february-from-startup-to-ipo-13925586805))
+
 
