@@ -18,6 +18,8 @@ As one of the IMPACT mentors, Steve Cadigan will discuss some of the critical co
 Drawing from his experiences in LinkedIn, Cisco, EA and many of the startups that Steve advises today, his Masterclass may not only open the new perspective on entrepreneurship, but also bring motivation and encouragement to the future applicants of the upcoming IMPACT Open Call, foreseen in May, 2015.
 
 Please keep in mind that the number of seats is limited. In order to obtain your ticket, you must [register online](https://www.eventbrite.es/e/entradas-steve-cadigan-barcelona-2nd-february-from-startup-to-ipo-13925586805)
+![Steve Cadigan photo date600.jpg](/assets/Steve Cadigan photo date600.jpg)
+
 
 
 
