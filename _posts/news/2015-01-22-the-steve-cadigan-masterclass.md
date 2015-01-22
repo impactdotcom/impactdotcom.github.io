@@ -1,10 +1,10 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: The Steve Cadigan Masterclass
 lang: en
-image: "[/assets/Steve Cadigan photo date600.jpg]"
+image: "[/assets/Steve Cadigan photo date600.jpg](https://www.eventbrite.es/e/entradas-steve-cadigan-barcelona-2nd-february-from-startup-to-ipo-13925586805)"
 ---
 
 On Behalf of Barcelona Activa and IMPACT Accelerator, with great pleasure we announce the IMPACT Exclusive Event (Barcelona, 2nd February, 2015) - The STEVE CADIGAN Masterclass: ¨From Startup to IPO.¨
@@ -19,5 +19,5 @@ Drawing from his experiences in LinkedIn, Cisco, EA and many of the startups tha
 
 Please keep in mind that the number of seats is limited. In order to obtain your ticket, you must [register online](https://www.eventbrite.es/e/entradas-steve-cadigan-barcelona-2nd-february-from-startup-to-ipo-13925586805)
 
-
+![Steve Cadigan photo date600.jpg]([/assets/Steve Cadigan photo date600.jpg](https://www.eventbrite.es/e/entradas-steve-cadigan-barcelona-2nd-february-from-startup-to-ipo-13925586805))
 
