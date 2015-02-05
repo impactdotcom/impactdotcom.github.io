@@ -17,6 +17,10 @@
 				  {% if post.lang == page.lang %}
 						<div class="tab-content" id="tab-{{ forloop.index }}">
 							<div class="row">
+
+								
+
+
 								{% if post.image %}				
 									<div class="col-md-6 col-md-push-6 inner-left-xs">
 										<figure><img src="{{ post.image }}" alt="{{ post.title }}"></figure>
@@ -24,13 +28,53 @@
 									<div class="col-md-6 col-md-pull-6 inner-right-xs">
 										<h2 class="h2">{{ post.title }}</h2>
 										{{ post.date | date: "%b %-d, %Y" }}
+
+										<div id="compartir">
+										  <ul class="share-buttons list-inline">
+										    <li class="facebook"><div class="fb-like" data-href="http://www.impact-accelerator.com/{{page.lang}}/#hot-news" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+										    <li class="twitter"><iframe width="90px" scrolling="no" height="21px" frameborder="0"
+										              src="http://platform.twitter.com/widgets/tweet_button.html?url=http://www.impact-accelerator.com/{{page.lang}}/#hot-news&amp;via=museoreinasofia&amp;text={{ post.title }}&amp;count=horizontal"
+										              role="presentation" allowtransparency="true" class="twitter-share-button"
+										              name="tweet_frame" id="tweet_frame"></iframe></li>
+										    <li class="googleplus"><div class="g-plusone" data-size="medium" data-href="http://www.impact-accelerator.com/{{page.lang}}/#hot-news"></div>
+										        <script type="text/javascript">
+										          window.___gcfg = {lang: 'es'};
+
+										          (function() {
+										            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+										            po.src = 'https://apis.google.com/js/plusone.js';
+										            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+										          })();
+										        </script>
+										    </li>
+										  </ul>
+										</div>
 										<p>{{ post.content }}</p>
 									</div>
 								{% else %} 
-
 									<div class="col-md-12 inner-right-xs">
 										<h2 class="h2">{{ post.title }}</h2>
 										{{ post.date | date: "%b %-d, %Y" }}
+										<div id="compartir">
+										  <ul class="share-buttons list-inline">
+										    <li class="facebook"><div class="fb-like" data-href="http://www.impact-accelerator.com/{{page.lang}}/#hot-news" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+										    <li class="twitter"><iframe width="90px" scrolling="no" height="21px" frameborder="0"
+										              src="http://platform.twitter.com/widgets/tweet_button.html?url=http://www.impact-accelerator.com/{{page.lang}}/#hot-news&amp;via=museoreinasofia&amp;text={{ post.title }}&amp;count=horizontal"
+										              role="presentation" allowtransparency="true" class="twitter-share-button"
+										              name="tweet_frame" id="tweet_frame"></iframe></li>
+										    <li class="googleplus"><div class="g-plusone" data-size="medium" data-href="http://www.impact-accelerator.com/{{page.lang}}/#hot-news"></div>
+										        <script type="text/javascript">
+										          window.___gcfg = {lang: 'es'};
+
+										          (function() {
+										            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+										            po.src = 'https://apis.google.com/js/plusone.js';
+										            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+										          })();
+										        </script>
+										    </li>
+										  </ul>
+										</div>
 										<p>{{ post.content }}</p>
 									</div>
 								{% endif %}
@@ -40,12 +84,13 @@
 		    {% endfor %}
 			</div>
 		</div>
-
+		{% comment %}
 		<div class="row inner-top">
 			<div class="col-md-10 col-md-offset-1">
 				<h2 class="h2">Storify IMPACT</h2>
 				<div class="storify"><iframe src="//storify.com/IMPACT_acc/nace-impact/embed?header=false&border=false" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/IMPACT_acc/nace-impact.js?header=false&border=false"></script><noscript>[<a href="//storify.com/IMPACT_acc/nace-impact" target="_blank">View the story "NACE IMPACT" on Storify</a>]</noscript></div>
 			</div>
 		</div>
+		{% endcomment %}
 	</div>
 </section>
