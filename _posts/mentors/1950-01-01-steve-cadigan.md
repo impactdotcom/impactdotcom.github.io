@@ -1,6 +1,6 @@
 ---
 layout: default
-category: equipo
+category: mentor
 
 title: Steve Cadigan
 cargo:
