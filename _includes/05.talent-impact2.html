@@ -42,9 +42,54 @@
 		<div class="text-center inner-bottom-xs">
 			<h1 class="single-block">{{ page.titulo_mentors }}</h1>
 		</div>
-		<div class="row thumbs no-gap">
+		
+		<div class="inner-bottom-xs">
+			<form class="form-inline controls" id="Filters">
+				  <fieldset class="form-group">
+			        <label for="selectMentor">{{ page.Mentor }}: </label>
+
+				    <select id="selectMentor" class="form-control" >
+				      <option value="">{{ page.All }}</option>
+				      <option value=".follow_up">{{ page.follow_up }}Follow up Mentor</option>
+				      <option value=".specialized">{{ page.specialized }}Specialized Mentor</option>
+				    </select>
+				  </fieldset>
+				<fieldset class="form-group">
+			        <label for="selectField">{{ page.field_of_expertixe }}: </label>
+
+				    <select id="selectField" class="form-control" >
+						<option value="">{{ page.All }}</option>
+						<option value=".strategy">{{ page.strategy }}</option>
+						<option value=".marketing">{{ page.marketing }}</option>
+						<option value=".product_development">{{ page.product_development }}</option>
+						<option value=".internationalization">{{ page.internationalization }}</option>
+						<option value=".finance">{{ page.finance }}</option>
+						<option value=".management">{{ page.management }}</option>
+						<option value=".legal">{{ page.legal }}</option>
+						<option value=".tech">{{ page.tech }}</option>	
+				    </select>
+				  </fieldset>
+	  		  	<fieldset class="form-group">
+			        <label for="selectCountry">{{ page.Country }}: </label>
+				    <select id="selectCountry" class="form-control" >
+						<option value="">{{ page.All }}</option>
+						<option value=".Spain">{{ page.Spain }}</option>
+						<option value=".Italy">{{ page.Italy }}</option>
+						<option value=".Denmark">{{ page.Denmark }}</option>
+						<option value=".Poland">{{ page.Poland }}</option>
+						<option value=".UK">{{ page.UK }}</option>
+						<option value=".Germany">{{ page.Germany }}</option>
+				    </select>
+				  </fieldset>
+			</form>	
+		</div>
+
+		<div id="container_mentores" class="row thumbs no-gap">
 			{% for post in site.categories.mentor %}
-				<div class="col-xs-6 col-sm-4 col-lg-2 thumb">
+				<div class="col-xs-6 col-sm-4 col-lg-2 thumb mix 
+							{% for type in post.mentor_type %} {{ type }} {% endfor %} 
+							{% for field in post.mentor_field %} {{ field }} {% endfor %}
+							{% for country in post.mentor_country %} {{ country }} {% endfor %}">
 					<figure class="member">
 						<div class="member-image">
 							<div class="text-overlay">

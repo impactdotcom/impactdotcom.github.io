@@ -100,3 +100,86 @@ $(function() {
   });
 });
 
+
+/***** FILTRADO MENTORES ****/
+var dropdownFilter = {
+  $filters: null,
+  groups: [],
+  outputArray: [],
+  outputString: '',
+  
+  init: function(){
+    var self = this; 
+    
+    self.$filters = $('#Filters');
+    self.$container = $('#container_mentores');
+    
+    self.$filters.find('fieldset').each(function(){
+      self.groups.push({
+        $dropdown: $(this).find('select'),
+        active: ''
+      });
+    });
+    
+    self.bindHandlers();
+  },
+  
+  bindHandlers: function(){
+    var self = this;
+    
+    self.$filters.on('change', 'select', function(e){
+      e.preventDefault();
+      
+      self.parseFilters();
+    });
+  },
+  
+  // The parseFilters method pulls the value of each active select option
+  parseFilters: function(){
+    var self = this;
+ 
+    // loop through each filter group and grap the value from each one.
+    for(var i = 0, group; group = self.groups[i]; i++){
+      group.active = group.$dropdown.val();
+    }
+    
+    self.concatenate();
+  },
+  
+  // The "concatenate" method will crawl through each group, concatenating filters as desired:
+  concatenate: function(){
+    var self = this;
+    
+    self.outputString = '';
+    
+    for(var i = 0, group; group = self.groups[i]; i++){
+      self.outputString += group.active;
+    }
+    !self.outputString.length && (self.outputString = 'all'); 
+    
+    //console.log(self.outputString); 
+    
+    if(self.$container.mixItUp('isLoaded')){
+      self.$container.mixItUp('filter', self.outputString);
+    }
+  }
+};
+  
+$(function(){
+  dropdownFilter.init();
+  $('#container_mentores').mixItUp({
+    controls: {
+      enable: false 
+    },
+    animation: {
+      duration: 400,
+      effects: 'fade',
+      easing: 'ease'
+    }
+    //callbacks: {
+    //  onMixFail: function(){
+      //  alert('No items were found matching the selected filters.');
+    //  }
+    //}
+  });    
+});

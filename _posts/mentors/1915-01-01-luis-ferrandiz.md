@@ -9,6 +9,8 @@ cargo_impact_en: Mentor
 linked-in: https://www.linkedin.com/in/luisferrandiz
 twitter: https://twitter.com/LFMAG
 image: /img/equipo/luis.ferrandiz.jpg
-
+mentor_type: follow_up
+mentor_field: strategy
+mentor_country: Spain
 published: true
 ---

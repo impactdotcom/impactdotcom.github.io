@@ -9,7 +9,9 @@ cargo_impact_en: Mentor
 linked-in: http://es.linkedin.com/in/salvadorsuarez
 twitter: https://twitter.com/salvadorsuarez
 image: /img/equipo/salvador.suarez.jpg
-
+mentor_type: follow_up
+mentor_field: strategy
+mentor_country: Spain
 published: true
 ---
 
