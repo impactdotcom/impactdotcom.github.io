@@ -18,4 +18,4 @@ mentor_country:
   - Spain
 ---
 
-![Javier Martin.png](/assets/Javier Martin.png)
+![1.png](/assets/1.png)
