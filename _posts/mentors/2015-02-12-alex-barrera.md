@@ -11,6 +11,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Alex Barrera.png
 ---
 
 ![Alex Barrera.png](/assets/Alex Barrera.png)
