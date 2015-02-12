@@ -10,6 +10,7 @@ twitter: "https://twitter.com/scadigan"
 image: /img/equipo/steve.cadigan.jpg
 mentor_type: 
   - follow_up
+  - specialized
 mentor_field: 
   - strategy
   - internationalization
