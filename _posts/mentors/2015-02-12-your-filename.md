@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: true
+published: false
 title: Oriol Juncosa
 cargo: ""
 mentor_type: 
@@ -19,4 +19,5 @@ mentor_field:
   - finance
 ---
 
-![ORIOL JUNCOSA.jpg](/_posts/mentors/ORIOL JUNCOSA.jpg)
+![ORIOL JUNCOSA.jpg](![ORIOL JUNCOSA.jpg](/assets/ORIOL JUNCOSA.jpg)
+)
