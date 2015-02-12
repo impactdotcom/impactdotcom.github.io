@@ -15,4 +15,5 @@ mentor_country:
   - Italy
 ---
 
+![Lucia Predolin.jpg](/assets/Lucia Predolin.jpg)
 
