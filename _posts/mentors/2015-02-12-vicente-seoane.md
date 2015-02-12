@@ -10,6 +10,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Vicente Seoane.png
 ---
 
 ![Vicente Seoane.png](/assets/Vicente Seoane.png)
