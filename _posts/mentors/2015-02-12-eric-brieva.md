@@ -12,3 +12,4 @@ mentor_country:
   - Spain
 ---
 
+![Eric Brieva.png](/assets/Eric Brieva.png)
