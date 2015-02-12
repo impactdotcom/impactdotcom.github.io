@@ -17,3 +17,4 @@ image: /assets/Lucia Giancaspro.png
 ---
 
 ![Lucia Giancaspro.png](/assets/Lucia Giancaspro.png)
+![Lucia Giancaspro.png](/assets/Lucia Giancaspro.png)
