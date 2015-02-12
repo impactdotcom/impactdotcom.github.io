@@ -13,3 +13,4 @@ mentor_country:
 ---
 
 
+![Arturo Gonzalez Mac Dowell.png](/assets/Arturo Gonzalez Mac Dowell.png)
