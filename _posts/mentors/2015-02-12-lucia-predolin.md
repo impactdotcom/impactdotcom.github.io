@@ -16,3 +16,4 @@ mentor_country:
 image: /assets/Lucia Predolin.jpg
 ---
 
+![Lucia Predolin.jpg](/assets/Lucia Predolin.jpg)
