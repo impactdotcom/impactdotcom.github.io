@@ -13,3 +13,4 @@ mentor_country:
   - Spain
 ---
 
+![Marcelo Royan.png](/assets/Marcelo Royan.png)
