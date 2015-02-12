@@ -11,6 +11,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Dionis Guzman.png
 ---
 
 ![Dionis Guzman.png](/assets/Dionis Guzman.png)
