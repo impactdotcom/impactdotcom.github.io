@@ -13,3 +13,4 @@ mentor_country:
   - Spain
 ---
 
+![Dionis Guzman.png](/assets/Dionis Guzman.png)
