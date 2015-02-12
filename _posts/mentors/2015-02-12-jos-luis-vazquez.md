@@ -10,7 +10,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - UK
+image: /assets/José Luis Vazquez.png
 ---
 
 ![José Luis Vazquez.png](/assets/José Luis Vazquez.png)
-
