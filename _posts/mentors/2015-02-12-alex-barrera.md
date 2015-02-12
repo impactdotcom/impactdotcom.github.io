@@ -13,3 +13,4 @@ mentor_country:
   - Spain
 ---
 
+![Alex Barrera.png](/assets/Alex Barrera.png)
