@@ -13,7 +13,7 @@ mentor_field:
   - marketing
 mentor_country: 
   - Italy
+image: /assets/Lucia Predolin.jpg
 ---
 
 ![Lucia Predolin.jpg](/assets/Lucia Predolin.jpg)
-
