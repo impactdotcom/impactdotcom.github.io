@@ -9,6 +9,7 @@ image: /assets/1.png
 "linked-in": "https://www.linkedin.com/profile/view?id=119285"
 twitter: "https://twitter.com/almiralabs"
 mentor_type: 
+  - follow_up
   - specialized
 mentor_field: 
   - strategy
