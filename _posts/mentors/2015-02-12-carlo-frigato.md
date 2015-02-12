@@ -14,3 +14,4 @@ mentor_country:
   - Italy
 ---
 
+![Carlo Frigato.png](/assets/Carlo Frigato.png)
