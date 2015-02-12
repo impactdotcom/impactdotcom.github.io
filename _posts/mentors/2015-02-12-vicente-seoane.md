@@ -14,3 +14,4 @@ image: /assets/Vicente Seoane.png
 ---
 
 ![Vicente Seoane.png](/assets/Vicente Seoane.png)
+![Vicente Seoane.png](/assets/Vicente Seoane.png)
