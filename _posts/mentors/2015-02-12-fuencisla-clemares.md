@@ -11,7 +11,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Fuencisla Clemares.png
 ---
-
 
 ![Fuencisla Clemares.png](/assets/Fuencisla Clemares.png)
