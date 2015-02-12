@@ -14,4 +14,5 @@ mentor_country:
   - Italy
 ---
 
+![Alessandro Gatteschi.png](/assets/Alessandro Gatteschi.png)
 
