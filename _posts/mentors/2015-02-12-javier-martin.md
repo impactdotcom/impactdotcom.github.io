@@ -3,6 +3,19 @@ layout: default
 category: mentor
 published: false
 title: Javier Martin
+cargo_impact_es: Mentor
+cargo_impact_en: Mentor
+image: /assets/Javier Martin.png)
+"linked-in": "https://www.linkedin.com/profile/view?id=119285"
+twitter: "https://twitter.com/almiralabs"
+mentor_type: 
+  - specialized
+mentor_field: 
+  - strategy
+  - product_development
+  - internationalization
+mentor_country: 
+  - Spain
 ---
 
 ![Javier Martin.png](/assets/Javier Martin.png)
