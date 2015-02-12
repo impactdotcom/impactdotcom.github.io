@@ -13,7 +13,7 @@ mentor_field:
   - legal
 mentor_country: 
   - Italy
+image: /assets/Lucia Giancaspro.png
 ---
 
 ![Lucia Giancaspro.png](/assets/Lucia Giancaspro.png)
-
