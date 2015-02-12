@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: false
+published: true
 title: Oriol Juncosa
 cargo: ""
 mentor_type: 
