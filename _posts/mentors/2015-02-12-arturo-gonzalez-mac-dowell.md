@@ -10,7 +10,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Arturo Gonzalez Mac Dowell.png
 ---
-
 
 ![Arturo Gonzalez Mac Dowell.png](/assets/Arturo Gonzalez Mac Dowell.png)
