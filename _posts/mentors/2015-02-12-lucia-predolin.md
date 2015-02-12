@@ -11,8 +11,10 @@ mentor_type:
   - specialized
 mentor_field: 
   - marketing
+  - internationalization
+  - finance
 mentor_country: 
-  - Italy
+  - Spain
 image: /assets/Lucia Predolin.jpg
 ---
 
