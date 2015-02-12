@@ -12,3 +12,4 @@ mentor_country:
   - Spain
 ---
 
+![Vicente Seoane.png](/assets/Vicente Seoane.png)
