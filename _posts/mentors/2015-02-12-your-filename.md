@@ -19,3 +19,4 @@ mentor_field:
   - finance
 ---
 
+![ORIOL JUNCOSA.jpg](/_posts/mentors/ORIOL JUNCOSA.jpg)
