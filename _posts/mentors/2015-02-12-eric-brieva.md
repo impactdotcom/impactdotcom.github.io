@@ -10,6 +10,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Eric Brieva.png
 ---
 
 ![Eric Brieva.png](/assets/Eric Brieva.png)
