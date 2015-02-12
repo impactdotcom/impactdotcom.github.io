@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: false
+published: true
 title: Javier Buron
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
