@@ -11,7 +11,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Javier Buron.png
 ---
-
 
 ![Javier Buron.png](/assets/Javier Buron.png)
