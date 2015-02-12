@@ -15,4 +15,5 @@ mentor_country:
   - Spain
 ---
 
+![Iñaki Arrola.png](/assets/Iñaki Arrola.png)
 
