@@ -13,7 +13,7 @@ mentor_field:
   - finance
 mentor_country: 
   - Spain
+image: /assets/Iñaki Arrola.png
 ---
 
 ![Iñaki Arrola.png](/assets/Iñaki Arrola.png)
-
