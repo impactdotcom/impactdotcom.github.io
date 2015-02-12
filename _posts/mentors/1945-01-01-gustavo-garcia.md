@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-title: Gustavo García Brusilowski
+title: Gustavo García Brusilovski
 cargo: null
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
