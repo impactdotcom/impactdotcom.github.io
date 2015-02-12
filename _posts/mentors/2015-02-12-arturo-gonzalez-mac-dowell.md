@@ -14,4 +14,3 @@ image: /assets/Arturo Gonzalez Mac Dowell.png
 ---
 
 ![Arturo Gonzalez Mac Dowell.png](/assets/Arturo Gonzalez Mac Dowell.png)
-![Arturo Gonzalez Mac Dowell.png](/assets/Arturo Gonzalez Mac Dowell.png)
