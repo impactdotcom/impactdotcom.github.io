@@ -11,6 +11,7 @@ mentor_type:
   - specialized
 mentor_country: 
   - Spain
+image: /assets/Marcelo Royan.png
 ---
 
 ![Marcelo Royan.png](/assets/Marcelo Royan.png)
