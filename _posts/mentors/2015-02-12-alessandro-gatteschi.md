@@ -12,7 +12,7 @@ mentor_field:
   - tech
 mentor_country: 
   - Italy
+image: /assets/Alessandro Gatteschi.png
 ---
 
 ![Alessandro Gatteschi.png](/assets/Alessandro Gatteschi.png)
-
