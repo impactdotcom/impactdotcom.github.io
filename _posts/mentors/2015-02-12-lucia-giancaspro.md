@@ -15,4 +15,5 @@ mentor_country:
   - Italy
 ---
 
+![Lucia Giancaspro.png](/assets/Lucia Giancaspro.png)
 
