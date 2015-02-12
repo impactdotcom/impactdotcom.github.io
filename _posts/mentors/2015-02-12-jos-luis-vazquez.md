@@ -12,4 +12,5 @@ mentor_country:
   - UK
 ---
 
+![José Luis Vazquez.png](/assets/José Luis Vazquez.png)
 
