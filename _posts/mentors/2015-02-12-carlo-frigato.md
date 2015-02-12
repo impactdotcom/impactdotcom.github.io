@@ -12,6 +12,7 @@ mentor_field:
   - finance
 mentor_country: 
   - Italy
+image: /assets/Carlo Frigato.png
 ---
 
 ![Carlo Frigato.png](/assets/Carlo Frigato.png)
