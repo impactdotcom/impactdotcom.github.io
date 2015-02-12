@@ -14,7 +14,7 @@ mentor_field:
   - internationalization
   - finance
 mentor_country: 
-  - Spain
+  - Italy
 image: /assets/Lucia Predolin.jpg
 ---
 
