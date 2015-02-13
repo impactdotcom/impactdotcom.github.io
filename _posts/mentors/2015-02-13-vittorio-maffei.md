@@ -13,4 +13,5 @@ mentor_country:
   - Italy
 ---
 
+![Vittorio Maffei.png](/assets/Vittorio Maffei.png)
 
