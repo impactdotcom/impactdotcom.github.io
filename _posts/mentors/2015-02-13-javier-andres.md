@@ -11,7 +11,7 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Spain
+image: /assets/Javier Andrés.png
 ---
 
 ![Javier Andrés.png](/assets/Javier Andrés.png)
-
