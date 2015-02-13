@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: false
+published: true
 title: Juan Acosta
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -12,4 +12,3 @@ mentor_country:
 ---
 
 ![Juan Acosta.png](/assets/Juan Acosta.png)
-
