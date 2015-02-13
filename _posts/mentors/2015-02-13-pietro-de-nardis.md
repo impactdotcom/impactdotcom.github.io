@@ -12,4 +12,5 @@ mentor_country:
   - Italy
 ---
 
+![Pietro De Nardis.png](/assets/Pietro De Nardis.png)
 
