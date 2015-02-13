@@ -13,4 +13,5 @@ mentor_country:
   - Denmark
 ---
 
+![Morten Hother Sorensen.png](/assets/Morten Hother Sorensen.png)
 
