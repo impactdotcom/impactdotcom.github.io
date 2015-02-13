@@ -11,7 +11,7 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Spain
+image: /assets/Cristina Chacon.png
 ---
-
 
 ![Cristina Chacon.png](/assets/Cristina Chacon.png)
