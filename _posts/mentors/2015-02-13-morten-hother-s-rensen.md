@@ -11,7 +11,7 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Denmark
+image: /assets/Morten Hother Sorensen.png
 ---
 
 ![Morten Hother Sorensen.png](/assets/Morten Hother Sorensen.png)
-
