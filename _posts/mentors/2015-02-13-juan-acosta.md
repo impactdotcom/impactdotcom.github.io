@@ -11,4 +11,5 @@ mentor_country:
   - Spain
 ---
 
+![Juan Acosta.png](/assets/Juan Acosta.png)
 
