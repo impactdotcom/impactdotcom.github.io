@@ -10,7 +10,7 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Italy
+image: /assets/Pietro De Nardis.png
 ---
 
 ![Pietro De Nardis.png](/assets/Pietro De Nardis.png)
-
