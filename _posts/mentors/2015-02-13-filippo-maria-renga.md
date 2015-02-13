@@ -11,4 +11,5 @@ mentor_country:
   - Italy
 ---
 
+![Filippo Maria Renga.png](/assets/Filippo Maria Renga.png)
 
