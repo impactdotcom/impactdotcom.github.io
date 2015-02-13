@@ -13,3 +13,4 @@ mentor_country:
 ---
 
 
+![Adam Zajdzik.png](/assets/Adam Zajdzik.png)
