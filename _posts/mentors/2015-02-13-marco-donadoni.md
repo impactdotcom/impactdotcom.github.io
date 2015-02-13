@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: false
+published: true
 title: Marco Donadoni
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -11,7 +11,7 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Italy
+image: /assets/Marco Donadoni.png
 ---
 
 ![Marco Donadoni.png](/assets/Marco Donadoni.png)
-
