@@ -9,7 +9,7 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Italy
+image: /assets/Filippo Maria Renga.png
 ---
 
 ![Filippo Maria Renga.png](/assets/Filippo Maria Renga.png)
-
