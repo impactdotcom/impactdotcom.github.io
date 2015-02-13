@@ -11,7 +11,7 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Italy
+image: /assets/Vittorio Maffei.png
 ---
 
 ![Vittorio Maffei.png](/assets/Vittorio Maffei.png)
-
