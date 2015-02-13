@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: false
+published: true
 title: Pietro De Nardis
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
