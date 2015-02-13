@@ -13,4 +13,5 @@ mentor_country:
   - Italy
 ---
 
+![Marco Donadoni.png](/assets/Marco Donadoni.png)
 
