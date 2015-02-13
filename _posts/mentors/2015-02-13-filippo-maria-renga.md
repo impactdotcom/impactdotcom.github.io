@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: false
+published: true
 title: Filippo Maria Renga
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
