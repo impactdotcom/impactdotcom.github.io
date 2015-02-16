@@ -12,6 +12,10 @@ mentor_type:
 mentor_country: 
   - Spain
 image: /assets/JAVIER BURON.jpg
+mentor_field: 
+  - marketing
+  - product_development
+  - finance
 ---
 
 ![JAVIER BURON.jpg](/assets/JAVIER BURON.jpg)
