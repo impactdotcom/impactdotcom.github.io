@@ -19,4 +19,3 @@ mentor_country:
   - Spain
 ---
 
-![1.png](/assets/1.png)
