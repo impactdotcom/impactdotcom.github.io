@@ -14,4 +14,4 @@ mentor_country:
 image: /assets/Javier Buron.png
 ---
 
-![Javier Buron.png](/assets/Javier Buron.png)
+![JAVIER BURON.jpg](/assets/JAVIER BURON.jpg)
