@@ -9,6 +9,10 @@ mentor_type:
   - follow_up
 mentor_country: 
   - Spain
+image: /assets/Juan Acosta.png
+"linked-in": "www.linkedin.com/pub/juan-acosta/8/411/a87/en"
+mentor_field: 
+  - strategy
 ---
 
 ![Juan Acosta.png](/assets/Juan Acosta.png)
