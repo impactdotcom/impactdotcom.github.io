@@ -14,4 +14,4 @@ mentor_country:
 image: /assets/Fuencisla Clemares.png
 ---
 
-![Fuencisla Clemares.png](/assets/Fuencisla Clemares.png)
+![FUENCISLA.jpg](/assets/FUENCISLA.jpg)
