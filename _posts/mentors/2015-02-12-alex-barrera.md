@@ -14,4 +14,4 @@ mentor_country:
 image: /assets/Alex Barrera.png
 ---
 
-![Alex Barrera.png](/assets/Alex Barrera.png)
+![ALEX BARRERA.jpg](/assets/ALEX BARRERA.jpg)
