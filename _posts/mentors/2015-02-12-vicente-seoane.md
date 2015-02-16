@@ -13,5 +13,4 @@ mentor_country:
 image: /assets/Vicente Seoane.png
 ---
 
-![Vicente Seoane.png](/assets/Vicente Seoane.png)
-![Vicente Seoane.png](/assets/Vicente Seoane.png)
+![Vicente Seoane.jpg](/assets/Vicente Seoane.jpg)
