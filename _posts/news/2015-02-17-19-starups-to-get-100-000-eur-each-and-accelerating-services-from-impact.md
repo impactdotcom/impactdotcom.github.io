@@ -11,6 +11,7 @@ Startups selected within **Impact Accelerator 1st Open Call** have just ended th
 The successful teams were part of a total number of 846 applications coming from 30 European countries.
 The 19 startups come from a cross-section of EU countries, namely: **11 from Spain** (8fit, Notegraphy, Bastly, Inevio, Conductr, Chronobook, Healthia Salud Inteligente, Shopping Leeks, BridgeMedia Service, Njoy, Smartsea), **3 from Italy** (Intoino, Goal Shouter, Mivoq), **2 from the Netherlands** (Revisely and Cofeestrap) and **1 from each of the following countries**: **Denmark** (Onomondo), **Poland** (Dlaodmiany) and **Slovenia** (Olaii Payments). 
 All teams participated in an 11 days’ Training Programme: “Digital Entrepreneurship” which included:
+
 - an entrepreneurial digital acceleration course, focused on the mobile environment, covering the development of start-ups, digital marketing, technology and financing; and
 - e-learning courses concentrating on the digital tools & capabilities necessary for a company's successful development.
 
@@ -20,10 +21,10 @@ The 6-month acceleration path consists of an intensive mentoring and training pr
 
 The Training Programme hosted Steve Cadigan, talent advisor (Founder of Cadigan Talent Ventures) and one of IMPACT’s Mentors, who managed the growth of Linkedin from 400 to 5k employees in 4 years. Cadigan gave a master class on the key elements required to build a strong competitive base and highlighted the importance of ongoing learning through institutions that can provide a high level of teaching focused on the digital and online sector.
 
-Arnaldo Muñoz, Director de ISDI Barcelona (Instituto Superior para el Desarrollo de Internet) commented: “_As part of our path in the digital learning field we designed with b-ventures the Impact Accelerator program for European startups. At MIB (Master en Internet Business) we offered our work space to startups to create a virtuous circle and knowledge-sharing between companies. It is a natural thing we see at MIB where 20% of participants create their own startup and 60% end up working in the digital space"._
+Arnaldo Muñoz, Director de ISDI Barcelona (Instituto Superior para el Desarrollo de Internet) commented: _“As part of our path in the digital learning field we designed with b-ventures the Impact Accelerator program for European startups. At MIB (Master en Internet Business) we offered our work space to startups to create a virtuous circle and knowledge-sharing between companies. It is a natural thing we see at MIB where 20% of participants create their own startup and 60% end up working in the digital space"_.
 
-Simona Torre, General Manager of b-ventures commented “_All the selected projects proved to be outstanding in terms of quality of the team (mastery, skills, fluency) and in terms of worth and attractiveness of the business ideas behind. An important criteria in the selection process was the readiness of a prototype already developed by using components of FIWARE European digital technologies.
-Startups joining IMPACT programme will count on Buongiorno’s (and b-ventures)’ 15 years of expertise in the mobile ecosystem and its international connections to support the growth of their projects_”.
+Simona Torre, General Manager of b-ventures commented _“All the selected projects proved to be outstanding in terms of quality of the team (mastery, skills, fluency) and in terms of worth and attractiveness of the business ideas behind. An important criteria in the selection process was the readiness of a prototype already developed by using components of FIWARE European digital technologies.
+Startups joining IMPACT programme will count on Buongiorno’s (and b-ventures)’ 15 years of expertise in the mobile ecosystem and its international connections to support the growth of their projects”_.
 
 Filippo Renga IMPACT’s mentor and Professor of Politecnico di Milano added: “I_t is a great pleasure to be part of this international project that involves entrepreneurs from across Europe. Being able to stimulate a sustainable business growth is one of the most important challenges facing today's European economic system_"
 
