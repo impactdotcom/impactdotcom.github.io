@@ -16,4 +16,3 @@ image: /assets/Carlo Frigato.png
 ---
 
 ![Carlo Frigato.png](/assets/Carlo Frigato.png)
-![Carlo Frigato.png](/assets/Carlo Frigato.png)
