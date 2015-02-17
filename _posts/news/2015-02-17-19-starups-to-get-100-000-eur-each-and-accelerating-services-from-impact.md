@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: 19 starups to get 100 000 EUR each and accelerating services from IMPACT
 lang: es
 ---
