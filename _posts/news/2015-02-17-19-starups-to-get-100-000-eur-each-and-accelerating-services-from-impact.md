@@ -3,7 +3,7 @@ layout: post
 category: news
 published: true
 title: 19 starups to get 100 000 EUR each and accelerating services from IMPACT
-lang: es
+lang: en
 ---
 
 Startups selected within Impact Accelerator 1st Open Call have just ended the Training Programme held in Barcelona. Their next step is participating in a 6 month specialized mentoring programme organized by the EU accelerator IMPACT – whose members are Buongiorno (via its accelerator b-ventures), ISDI, Seaya Ventures and Teknologiudviking ApS( via its accelerator FundingBox.com)
