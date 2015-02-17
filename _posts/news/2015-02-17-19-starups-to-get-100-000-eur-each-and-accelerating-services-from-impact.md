@@ -11,7 +11,6 @@ Startups selected within **Impact Accelerator 1st Open Call** have just ended th
 The successful teams were part of a total number of 846 applications coming from 30 European countries.
 The 19 startups come from a cross-section of EU countries, namely: **11 from Spain** (8fit, Notegraphy, Bastly, Inevio, Conductr, Chronobook, Healthia Salud Inteligente, Shopping Leeks, BridgeMedia Service, Njoy, Smartsea), **3 from Italy** (Intoino, Goal Shouter, Mivoq), **2 from the Netherlands** (Revisely and Cofeestrap) and **1 from each of the following countries**: **Denmark** (Onomondo), **Poland** (Dlaodmiany) and **Slovenia** (Olaii Payments). 
 All teams participated in an 11 days’ Training Programme: “Digital Entrepreneurship” which included:
-
 - an entrepreneurial digital acceleration course, focused on the mobile environment, covering the development of start-ups, digital marketing, technology and financing; and
 - e-learning courses concentrating on the digital tools & capabilities necessary for a company's successful development.
 
