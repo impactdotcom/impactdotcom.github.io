@@ -8,7 +8,7 @@ lang: en
 
 With great pleasure we announce the final confirmation of the selected projects in the First Open Call. These projects will receive funding (up to 100 thousand euros), training (a face to face intensive training and online learning) and a 6 month mentoring program.
 
-Following is a brief description of the 20 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
+Following is a brief description of the 19 projects which had been chosen as the most promising startups at the Jury Day Event, IMPACT´s last evaluation phase.
 
 <table class="table">
 <tr>
@@ -97,14 +97,6 @@ Following is a brief description of the 20 projects which had been chosen as the
 </td>
 <td>
 <p><a href="http://8fit.com/">8FIT</a> is a mobile fitness app which helps you reach your goals by providing you with a custom workout and meal plan.</p>
-</td>
-</tr>
-<tr>
-<td>
-<a href="http://psious.com/"><img src="/assets/Psious_80.jpg"></a>
-</td>
-<td>
-<p><a href="http://psious.com/">PSIOUS</a> is a mobile based technology which uses hyper-realistic virtual environments to treat anxiety disorders by virtual gradual exposure.</p>
 </td>
 </tr>
 <tr>
