@@ -16,3 +16,4 @@ image: /assets/Alessandro Gatteschi.png
 ---
 
 ![Alessandro Gatteschi.png](/assets/Alessandro Gatteschi.png)
+![Alessandro Gatteschi.png](/assets/Alessandro Gatteschi.png)
