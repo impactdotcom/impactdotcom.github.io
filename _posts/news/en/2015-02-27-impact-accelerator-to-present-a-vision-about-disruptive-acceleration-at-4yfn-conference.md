@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: IMPACT Accelerator to present a vision about disruptive acceleration at 4YFN conference
 lang: en
 ---
