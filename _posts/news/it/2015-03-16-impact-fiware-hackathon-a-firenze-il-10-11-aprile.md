@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: "IMPACT FIWARE HACKATHON a Firenze il 10-11 Aprile"
 lang: es
 ---
