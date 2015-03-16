@@ -4,6 +4,7 @@ category: news
 published: true
 title: "IMPACT FIWARE HACKATHON a Firenze il 10-11 Aprile"
 lang: es
+image: "/assets/Firenze-Hackathon.jpg"
 ---
 
 <p style="text-align: justify;">b-ventures desidera segnalare un'interessante opportunità aperta a startup, developer, marketing manager e designer.</p>
