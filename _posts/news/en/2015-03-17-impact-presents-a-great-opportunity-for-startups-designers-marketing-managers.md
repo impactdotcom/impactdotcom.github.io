@@ -19,9 +19,11 @@ The event, as well as offering possibilities for networking between aspiring sta
 
 Are you ready for the first FIWARE Hackathon in Italy?
 
-->[## SIGN UP NOW](http://po.st/HackIMPACTSignUp)
+[## SIGN UP NOW](http://po.st/HackIMPACTSignUp)
+
 MORE INFO: [impact-hackathon.com](http://www.impact-hackathon.com/)
-FOLLOW IMPACT ON [FACEBOOK](https://www.facebook.com/ImpactAcc) AND [TWITTER](https://twitter.com/IMPACT_acc)<-
+
+FOLLOW IMPACT ON [FACEBOOK](https://www.facebook.com/ImpactAcc) AND [TWITTER](https://twitter.com/IMPACT_acc)
 
 
 Questions? Write to hackathon@impact-accelerator.com
