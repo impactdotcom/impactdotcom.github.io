@@ -2,7 +2,7 @@
 layout: post
 category: news
 published: true
-title: "IMPACT presents a great opportunity for startups, designers and marketing managers-"
+title: "IMPACT presents a great opportunity for startups, designers and marketing managers"
 lang: en
 image: "/assets/Firenze-Hackathon.jpg"
 ---
