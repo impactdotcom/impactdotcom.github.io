@@ -1,7 +1,7 @@
 ---
 layout: default
 category: equipo
-published: false
+published: true
 title: Mauro Del Rio
 cargo: "b-ventures Founder"
 cargo_impact_es: IMPACT Steering Committee
@@ -10,5 +10,4 @@ cargo_impact_en: IMPACT Steering Committee
 twitter: "https://twitter.com/mdelrio"
 image: /img/equipo/mauro.rio.jpg
 ---
-
 
