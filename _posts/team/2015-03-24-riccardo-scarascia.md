@@ -1,7 +1,7 @@
 ---
 layout: default
 category: equipo
-published: false
+published: true
 title: Riccardo Scarascia
 cargo: Organization Team
 cargo_impact_es: Organization Team
