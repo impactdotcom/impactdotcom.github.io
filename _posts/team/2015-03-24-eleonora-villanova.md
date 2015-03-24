@@ -7,4 +7,5 @@ title: Eleonora Villanova
 cargo: Organization Team
 ---
 
+![ELE.png](/assets/ELE.png)
 
