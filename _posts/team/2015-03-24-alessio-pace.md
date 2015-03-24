@@ -7,5 +7,3 @@ cargo: Organization Team
 "linked-in": it.linkedin.com/in/pacealessio
 ---
 
-![ALE.png](/assets/ALE.png)
-
