@@ -3,7 +3,7 @@ layout: post
 category: news
 published: true
 title: "2,5 milioni di euro per 25 progetti d’impresa basati su tecnologia FIWARE"
-lang: es
+lang: it
 ---
 
 <a href="http://bit.ly/IMPACTapplyNOW"><strong>2,5 milioni di euro</strong></a>, suddivisi in seed da 100mila euro a fondo perduto ciascuno, senza cessione di quote di capitale, più un programma di training e mentoring dedicato della durata di sei mesi. Questi i vantaggi di cui potranno beneficiare i progetti d’impresa di tutta Europa che verranno selezionati nel corso della seconda Open Call lanciata oggi da <a href="http://www.impact-accelerator.com/"><strong>IMPACT</strong></a> (Mobile Internet Projects Accelerator) uno dei 16 consorzi selezionati dall’Unione Europea nell'ambito del Seventh Framework Programme, guidato da Buongiorno (tramite b-ventures) insieme a ISDI, Teknologiudviking ApS, Seaya Ventures più una rete di imprenditori e noti professionisti dell'ecosistema europeo digitale, in qualità di mentor.
