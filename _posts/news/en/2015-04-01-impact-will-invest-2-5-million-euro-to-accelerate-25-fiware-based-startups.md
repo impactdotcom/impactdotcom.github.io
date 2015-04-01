@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: "IMPACT will invest 2.5 Million Euro to accelerate 25 FIWARE-based startups"
 lang: en
 ---
