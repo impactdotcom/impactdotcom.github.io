@@ -42,6 +42,8 @@ prose:
               value: "es"
             - name: "Ingles"
               value: "en"
+            - name: "Italian"
+              value: "it"
           selected: "en"
     _posts/team:
       - name: "category"
