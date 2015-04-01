@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: "2,5 milioni di euro per 25 progetti d’impresa basati su tecnologia FIWARE"
 lang: es
 ---
