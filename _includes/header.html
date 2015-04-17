@@ -36,6 +36,11 @@
 		</div>
 		<nav class="navbar navbar-inverse" role="navigation">
 			<div class="container">
+				{%comment%}
+					<a href="#call-to-action" class="btn btn-sm btn-primary navbar-btn pull-right xvisible-lg">{{ site.data.t[page.lang].menu_inscribe2 }}</a>
+				{%endcomment%}
+				<a href="http://bit.ly/IMPACTapplyNOW" target="_blank"  class="btn btn-sm btn-primary navbar-btn pull-right xvisible-lg">{{ site.data.t[page.lang].menu_inscribe }}</a>
+
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
 						<span class="sr-only">Toggle navigation</span>
@@ -48,7 +53,6 @@
 					{% else %}
 						<a class="navbar-brand" href="#"><span class="hide">IMPACT</span></a>
 					{% endif %}
-
 				</div>
 
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -87,11 +91,6 @@
 								<li class="hidden-lg"><a href="/es"  class="text-small">> Español</a></li>
 						{% endif %}
 					</ul>
-					{%comment%}
-					<a href="#call-to-action" class="btn btn-sm btn-primary navbar-btn pull-right visible-lg">{{ site.data.t[page.lang].menu_inscribe2 }}</a>
-					{%endcomment%}
-						<a href="http://bit.ly/IMPACTapplyNOW" target="_blank"  class="btn btn-sm btn-primary navbar-btn pull-right visible-lg">{{ site.data.t[page.lang].menu_inscribe }}</a>
-					
 				</div>
 			</div>
 		</nav>
