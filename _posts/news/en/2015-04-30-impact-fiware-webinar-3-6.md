@@ -1,0 +1,12 @@
+---
+layout: post
+category: news
+published: false
+title: IMPACT FIWARE WEBINAR 3/6.
+lang: es
+---
+
+<a href=" https://www.youtube.com/watch?v=olzCUHgJxUE" target="_blank"><i class="icon-s-youtube"></i> Watch webminar</a>.
+ 
+
+
