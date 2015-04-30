@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: IMPACT FIWARE Webinar 4/6
 lang: es
 ---
