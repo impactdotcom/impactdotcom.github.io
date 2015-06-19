@@ -4,6 +4,7 @@ category: news
 published: true
 title: "IMPACT startups with #ShareToIMPACT offer as a giveback 260 products for free for a value of 90.000€"
 lang: en
+image: "/assets/sharetoimpact-up1.jpg"
 ---
 
 
@@ -13,7 +14,7 @@ lang: en
 
 To this purpose we are launching the campaign **#ShareToIMPACT** to spread the word and to reach as much people as possible to deliver the gifts. 
 
-This initiative will start **next June 23** and it aims at thanking the community, the European Union and Fiware program as they believe in #IMPACTers and help them in developing their projects.
+This initiative will start **next June 23** and it aims at thanking the community, the European Union and Fiware program as they believe in #IMPACTers! and help them in developing their projects.
 
 The gifts will be delivered to the users who participate in the campaign by filling up their info on IMPACT website. If there are more applicants than gifts, the winners will be selected according to their answers to the questionnaire.
 
