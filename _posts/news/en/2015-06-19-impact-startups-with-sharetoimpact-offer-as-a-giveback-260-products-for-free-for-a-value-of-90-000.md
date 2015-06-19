@@ -18,7 +18,7 @@ This initiative will start **next June 23** and it aims at thanking the communit
 The gifts will be delivered to the users who participate in the campaign by filling up their info on IMPACT website. If there are more applicants than gifts, the winners will be selected according to their answers to the questionnaire.
 
 Get your free product here:
-http://bit.ly/ShareToIMPACTform 
+[http://bit.ly/ShareToIMPACTform](http://bit.ly/ShareToIMPACTform) 
 
 On June 23rd, IMPACT will share the campaign through its social media: 
 
