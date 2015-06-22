@@ -5,6 +5,7 @@ published: false
 title: Massimo Mancini
 cargo: Legal Consultant
 "linked-in": "https://it.linkedin.com/pub/massimo-mancini/4/811/351"
+image: /assets/Massimo Mancini 800x533.jpg
 ---
 
-![Massimo Mancini 800x533.jpg]({{site.baseurl}}/assets/Massimo Mancini 800x533.jpg)
+
