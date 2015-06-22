@@ -2,7 +2,7 @@
 layout: default
 category: equipo
 published: false
-title: ""
+title: prova
 ---
 
 ## A New Post
