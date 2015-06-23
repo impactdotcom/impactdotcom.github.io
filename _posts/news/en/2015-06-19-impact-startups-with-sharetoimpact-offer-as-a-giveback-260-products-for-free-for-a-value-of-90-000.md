@@ -7,7 +7,10 @@ lang: en
 image: ""
 ---
 
-<figure class="col-md-6"><img src="/assets/sharetoimpact-up1.jpg" alt="IMPACT startups with #ShareToIMPACT offer as a giveback 260 products for free for a value of 90.000€"></figure>
+<figure class="col-md-6"  style="float:right">
+<img src="/assets/sharetoimpact-up1.jpg" alt="IMPACT startups with #ShareToIMPACT offer as a giveback 260 products for free for a value of 90.000€">
+</figure>
+
 **IMPACT** is finishing its first wave of acceleration. 
 
 19 startups are in the final weeks of the acceleration program and they want to show their gratitude for receiving IMPACT´s support by offering a gift to the community: 
