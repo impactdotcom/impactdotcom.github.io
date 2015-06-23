@@ -13,7 +13,7 @@ image: "/assets/sharetoimpact-up1.jpg"
 
 ## http://bit.ly/ShareToIMPACTform
 
-For this purpose we are launching the campaign **#ShareToIMPACT** in order to spread the word and reach as many people as possible who are interested in receiving these gifts.
+For this purpose we are launching the campaign [**#ShareToIMPACT**](http://bit.ly/ShareToIMPACTform) in order to spread the word and reach as many people as possible who are interested in receiving these gifts.
 
 This initiative starts **this Tuesday, June 23rd** and it aims at thanking the community, the European Union and Fiware program for the strong support they have given to IMPACTers, by believing in them and helping them develop their projects.
 
