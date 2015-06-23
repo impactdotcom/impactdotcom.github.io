@@ -7,20 +7,22 @@ lang: en
 image: "/assets/sharetoimpact-up1.jpg"
 ---
 
-
 **IMPACT** is finishing its first wave of acceleration. 
 
-19 startups are in the final weeks of the acceleration program and they want to show their gratitude for receiving IMPACT´s support by offering a gift to the community. 
+19 startups are in the final weeks of the acceleration program and they want to show their gratitude for receiving IMPACT´s support by offering a gift to the community: 
 
-To this purpose we are launching the campaign **#ShareToIMPACT** to spread the word and to reach as much people as possible to deliver the gifts. 
+## http://bit.ly/ShareToIMPACTform
 
-This initiative will start **next June 23** and it aims at thanking the community, the European Union and Fiware program as they believe in #IMPACTers! and help them in developing their projects.
+For this purpose we are launching the campaign **#ShareToIMPACT** in order to spread the word and reach as many people as possible who are interested in receiving these gifts.
 
-The gifts will be delivered to the users who participate in the campaign by filling up their info on IMPACT website. If there are more applicants than gifts, the winners will be selected according to their answers to the questionnaire.
+This initiative starts **this Tuesday, June 23rd** and it aims at thanking the community, the European Union and Fiware program for the strong support they have given to IMPACTers, by believing in them and helping them develop their projects.
 
-Get your free product here:
-[http://bit.ly/ShareToIMPACTform](http://bit.ly/ShareToIMPACTform) 
+The gifts will be delivered to those participants who provide all necessary information asked in the questionnaire: 
 
-On June 23rd, IMPACT will share the campaign through its social media: 
+## http://bit.ly/ShareToIMPACTform
 
-[Facebook](https://www.facebook.com/ImpactAcc), [Twitter](https://twitter.com/IMPACT_acc) and [LinkedIn](https://www.linkedin.com/company/impact-accelerator).
+In case there are more applicants than gifts, the winners will be selected according to their answers written in the questionnaire.
+
+IMPACT will share the campaign through its social media: 
+[**Facebook**](https://www.facebook.com/ImpactAcc "FACEBOOK IMPACT"), [**Twitter**](https://twitter.com/IMPACT_acc "TWITTER IMPACT") and [**LinkedIn**](https://www.linkedin.com/company/impact-accelerator "LINKEDIN IMPACT").
+
