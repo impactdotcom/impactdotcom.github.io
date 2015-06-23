@@ -4,9 +4,10 @@ category: news
 published: true
 title: "IMPACT startups with #ShareToIMPACT offer as a giveback 260 products for free for a value of 90.000€"
 lang: en
-image: "/assets/sharetoimpact-up1.jpg"
+image: ""
 ---
 
+<figure class="col-md-6"><img src="/assets/sharetoimpact-up1.jpg" alt="IMPACT startups with #ShareToIMPACT offer as a giveback 260 products for free for a value of 90.000€"></figure>
 **IMPACT** is finishing its first wave of acceleration. 
 
 19 startups are in the final weeks of the acceleration program and they want to show their gratitude for receiving IMPACT´s support by offering a gift to the community: 
@@ -25,4 +26,3 @@ In case there are more applicants than gifts, the winners will be selected accor
 
 IMPACT will share the campaign through its social media: 
 [**Facebook**](https://www.facebook.com/ImpactAcc "FACEBOOK IMPACT"), [**Twitter**](https://twitter.com/IMPACT_acc "TWITTER IMPACT") and [**LinkedIn**](https://www.linkedin.com/company/impact-accelerator "LINKEDIN IMPACT").
-
