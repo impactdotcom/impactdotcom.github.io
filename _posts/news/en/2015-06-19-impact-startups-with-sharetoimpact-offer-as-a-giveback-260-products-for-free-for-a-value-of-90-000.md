@@ -4,7 +4,6 @@ category: news
 published: true
 title: "IMPACT startups with #ShareToIMPACT offer as a giveback 260 products for free for a value of 90.000€"
 lang: en
-image: ""
 ---
 
 <figure class="col-md-6"  style="float:right">
