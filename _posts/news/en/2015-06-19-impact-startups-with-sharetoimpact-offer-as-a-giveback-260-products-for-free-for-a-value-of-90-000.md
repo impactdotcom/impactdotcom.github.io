@@ -4,13 +4,10 @@ category: news
 published: true
 title: "IMPACT startups with #ShareToIMPACT offer as a giveback 260 products for free for a value of 90.000€"
 lang: en
-image: ""
+image: "/assets/sharetoimpact-up1.jpg"
 ---
 
 **IMPACT** is finishing its first wave of acceleration. 
-
-![#ShareToIMPACT]({{site.baseurl}}/assets/sharetoimpact-up1.jpg)
-
 
 19 startups are in the final weeks of the acceleration program and they want to show their gratitude for receiving IMPACT´s support by offering a gift to the community: 
 
