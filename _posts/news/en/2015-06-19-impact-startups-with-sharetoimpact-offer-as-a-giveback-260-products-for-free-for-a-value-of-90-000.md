@@ -9,7 +9,8 @@ image: ""
 
 **IMPACT** is finishing its first wave of acceleration. 
 
-[![]({{site.baseurl}}/http://www.impact-accelerator.com/assets/sharetoimpact-up1.jpg)](HTTP://BIT.LY/SHARETOIMPACTFORM)
+![#ShareToIMPACT]({{site.baseurl}}/assets/sharetoimpact-up1.jpg)
+
 
 19 startups are in the final weeks of the acceleration program and they want to show their gratitude for receiving IMPACT´s support by offering a gift to the community: 
 
