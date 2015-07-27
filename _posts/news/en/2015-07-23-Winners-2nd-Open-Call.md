@@ -38,7 +38,7 @@ IMPACT selected startups come from all Europe: 10 have been selected from Spain,
 
 <tr>
 <td>
-<a href="http://www.gamepho.com"><img src="/assets/winners-2nd/gamepho.png"></a>
+<a href="http://www.gamepho.com"><img src="/assets/gamepho.png"></a>
 </td>
 <td>
 <p>Re-invent connected TV gaming with motion controller in your pocket! <a href="http://www.gamepho.com">GamePho</a> comes for all gamers and developers on any connected platform!</p>
