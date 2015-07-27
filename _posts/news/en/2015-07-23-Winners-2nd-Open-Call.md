@@ -7,6 +7,7 @@ lang: en
 ---
 
 
+
 Second IMPACT Open Call successfully completed: **23 additional startups** have been selected to start in September the **IMPACT Acceleration program** and will be receiving **fundings for a total of 2,3million Euro (100,000 Euro** per Project articulated as 90,000 Euro in funding and 10,000 Euro in services to be implemented through a 6 month specialized mentoring and training program). 
 
 These 23 applications come from a **total of 819 candidates, translated into 434** applications received from 32 countries. Only 57 were selected to pitch in front of IMPACT Selection Committee at Milan Jury Day on July 14-15th
@@ -38,7 +39,7 @@ IMPACT selected startups come from all Europe: 10 have been selected from Spain,
 
 <tr>
 <td>
-<a href="http://www.gamepho.com"><img src="/assets/gamepho.png"></a>
+<a href="http://www.gamepho.com"><img src="/assets/gamepho (2)"></a>
 </td>
 <td>
 <p>Re-invent connected TV gaming with motion controller in your pocket! <a href="http://www.gamepho.com">GamePho</a> comes for all gamers and developers on any connected platform!</p>
