@@ -8,6 +8,7 @@ twitter: ""
 image: /assets/andreagranelli.jpg
 mentor_type: 
   - follow_up
+  - specialized
 mentor_field: 
   - strategy
   - management
@@ -18,6 +19,7 @@ published: true
 title: Andrea Granelli
 category: mentors
 ---
+
 
 
 ![andreagranelli.jpg](/assets/andreagranelli.jpg)
