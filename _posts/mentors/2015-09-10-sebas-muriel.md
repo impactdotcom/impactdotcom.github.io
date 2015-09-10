@@ -16,10 +16,10 @@ mentor_field:
   - management
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Sebas Muriel
 category: mentor
 ---
 
-![Sebas Muriel.jpg](/assets/Sebas Muriel.jpg)
 
+![Sebas Muriel.jpg](/assets/Sebas Muriel.jpg)
