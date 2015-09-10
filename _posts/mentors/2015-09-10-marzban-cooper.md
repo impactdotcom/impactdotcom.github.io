@@ -18,3 +18,4 @@ title: Marzban Cooper
 category: mentor
 ---
 
+![Marzban Cooper.jpg](/assets/Marzban Cooper.jpg)
