@@ -14,10 +14,11 @@ mentor_field:
   - management
 mentor_country: 
   - Spain
-published: false
+published: true
 title: David De Miguel
 category: mentor
 ---
+
 
 
 ![david de miguel.jpg](/assets/david de miguel.jpg)
