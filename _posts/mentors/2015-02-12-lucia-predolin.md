@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: true
+published: false
 title: Lucia Predolin
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -16,7 +16,9 @@ mentor_field:
 mentor_country: 
   - Italy
 image: /assets/Lucia Predolin.jpg
+cargo: ""
 ---
+
 
 ![Lucia Predolin.jpg](/assets/Lucia Predolin.jpg)
 ![Lucia Predolin.jpg](/assets/Lucia Predolin.jpg)
