@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: true
+published: false
 title: Lucia Giancaspro
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -14,6 +14,8 @@ mentor_field:
 mentor_country: 
   - Italy
 image: /assets/Lucia Giancaspro.png
+cargo: ""
 ---
+
 
 ![Lucia Giancaspro.png](/assets/Lucia Giancaspro.png)
