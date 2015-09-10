@@ -1,16 +1,22 @@
 ---
 layout: default
 cargo: ""
-cargo_impact_es: ""
-cargo_impact_en: ""
-"linked-in": ""
-twitter: ""
+cargo_impact_es: Mentor
+cargo_impact_en: Mentor
+"linked-in": "https://www.linkedin.com/in/dantart"
+twitter: "http://twitter/dantart"
 image: ""
-mentor_type: null
-mentor_field: null
-mentor_country: null
+mentor_type: 
+  - specialized
+mentor_field: 
+  - strategy
+  - product_development
+  - tech
+mentor_country: 
+  - Spain
 published: false
-title: ""
+title: Alex Dantart
+category: mentor
 ---
 
 
