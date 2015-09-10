@@ -20,3 +20,4 @@ category: mentor
 ---
 
 
+![david de miguel.jpg](/assets/david de miguel.jpg)
