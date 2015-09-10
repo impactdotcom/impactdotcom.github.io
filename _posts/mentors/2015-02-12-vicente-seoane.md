@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: true
+published: false
 title: Vicente Seoane
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -11,6 +11,10 @@ mentor_type:
 mentor_country: 
   - Spain
 image: /assets/Vicente Seoane.jpg
+cargo: ""
+twitter: ""
+mentor_field: null
 ---
+
 
 ![Vicente Seoane.jpg](/assets/Vicente Seoane.jpg)
