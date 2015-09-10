@@ -17,8 +17,9 @@ mentor_country:
   - Italy
 published: true
 title: Andrea Granelli
-category: mentors
+category: mentor
 ---
+
 
 
 
