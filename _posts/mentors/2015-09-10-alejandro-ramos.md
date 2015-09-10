@@ -12,9 +12,9 @@ mentor_field:
   - tech
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Alejandro Ramos
 ---
 
-![AlejandroRamos.png]({{site.baseurl}}/assets/AlejandroRamos.png)
 
+![AlejandroRamos.png]({{site.baseurl}}/assets/AlejandroRamos.png)
