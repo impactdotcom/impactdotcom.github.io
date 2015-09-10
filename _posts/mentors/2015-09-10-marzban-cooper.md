@@ -1,15 +1,20 @@
 ---
 layout: default
 cargo: ""
-cargo_impact_es: ""
-cargo_impact_en: ""
-"linked-in": ""
-twitter: ""
+cargo_impact_es: Mentor
+cargo_impact_en: Mentor
+"linked-in": "https://es.linkedin.com/in/marzbancooper"
+twitter: "https://twitter.com/marzbanc"
 image: ""
-mentor_type: null
-mentor_field: null
-mentor_country: null
+mentor_type: 
+  - specialized
+mentor_field: 
+  - strategy
+  - internationalization
+mentor_country: 
+  - Spain
 published: false
 title: Marzban Cooper
+category: mentor
 ---
 
