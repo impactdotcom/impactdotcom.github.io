@@ -14,7 +14,7 @@ mentor_field:
   - legal
 mentor_country: 
   - Italy
-published: false
+published: true
 title: Bianca Del Genio
 category: mentor
 ---
