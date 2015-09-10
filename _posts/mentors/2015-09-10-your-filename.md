@@ -19,4 +19,4 @@ title: Alex Dantart
 category: mentor
 ---
 
-
+![3020a2f.jpg](/assets/3020a2f.jpg)
