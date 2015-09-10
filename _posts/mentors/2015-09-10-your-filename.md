@@ -5,7 +5,7 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": "https://www.linkedin.com/in/dantart"
 twitter: "http://twitter/dantart"
-image: ""
+image: /assets/3020a2f.jpg
 mentor_type: 
   - specialized
 mentor_field: 
