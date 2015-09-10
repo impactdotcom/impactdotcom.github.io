@@ -15,10 +15,10 @@ mentor_field:
   - internationalization
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Marina Zaliznyak
 category: mentor
 ---
 
-![marina.jpg](/assets/marina.jpg)
 
+![marina.jpg](/assets/marina.jpg)
