@@ -17,4 +17,5 @@ title: Alejandro Ramos
 ---
 
 
-![AlejandroRamos.png]({{site.baseurl}}/assets/AlejandroRamos.png)
+
+![AlejandroRamos.png](/assets/AlejandroRamos.png)
