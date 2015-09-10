@@ -5,7 +5,7 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": "https://es.linkedin.com/in/marinazaliznyak"
 twitter: "http://www.twitter.com/marinazal"
-image: ""
+image: /assets/marina.jpg
 mentor_type: 
   - follow_up
 mentor_field: 
