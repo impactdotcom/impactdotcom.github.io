@@ -1,31 +1,27 @@
 ---
 layout: default
 category: mentor
-
-title:  Luciano Schalen
-cargo:
+title: Luciano Schalen
+cargo: ""
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
-linked-in: https://www.linkedin.com/in/lucianoschlaen
-twitter: https://twitter.com/lschlaen
+"linked-in": "https://www.linkedin.com/in/lucianoschlaen"
+twitter: "https://twitter.com/lschlaen"
 image: /img/equipo/lucianoschlaen​.jpg
-
 mentor_type: 
- - follow_up
- - specialized
+  - specialized
 mentor_field: 
- - strategy
- - marketing
- - product_development
- - internationalization
- - finance
- - management
- - legal
- - tech
-
+  - strategy
+  - marketing
+  - product_development
+  - internationalization
+  - finance
+  - management
+  - legal
+  - tech
 mentor_country: 
- - Spain
- - Italy
-
+  - Spain
+  - Italy
 published: true
 ---
+
