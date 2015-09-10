@@ -12,7 +12,7 @@ mentor_field:
   - tech
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Alejandro Ramos
 category: mentor
 ---
