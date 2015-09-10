@@ -5,7 +5,7 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": "https://es.linkedin.com/in/aramosf"
 twitter: "https://twitter.com/aramosf"
-image: ""
+image: /assets/AlejandroRamos.png
 mentor_type: 
   - follow_up
 mentor_field: 
@@ -17,3 +17,6 @@ title: Alejandro Ramos
 ---
 
 
+
+
+![AlejandroRamos.png](/assets/AlejandroRamos.png)
