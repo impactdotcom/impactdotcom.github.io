@@ -14,9 +14,10 @@ mentor_field:
   - tech
 mentor_country: 
   - Italy
-published: false
+published: true
 title: Andrea Granelli
 category: mentors
 ---
+
 
 ![andreagranelli.jpg](/assets/andreagranelli.jpg)
