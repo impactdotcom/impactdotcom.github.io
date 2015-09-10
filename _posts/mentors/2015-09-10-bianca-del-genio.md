@@ -16,3 +16,4 @@ published: false
 title: Bianca Del Genio
 ---
 
+![bianca del genio.jpg](/assets/bianca del genio.jpg)
