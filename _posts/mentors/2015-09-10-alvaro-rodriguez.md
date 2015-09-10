@@ -5,7 +5,7 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": es.linkedin.com/in/alvarorodriguezgalindo
 twitter: "http://twitter.com/arodrigalindo"
-image: ""
+image: /assets/alvaro rodriguez.jpg
 mentor_type: 
   - follow_up
 mentor_field: 
