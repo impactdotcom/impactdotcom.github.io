@@ -13,9 +13,10 @@ mentor_field:
   - internationalization
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Marzban Cooper
 category: mentor
 ---
+
 
 ![Marzban Cooper.jpg](/assets/Marzban Cooper.jpg)
