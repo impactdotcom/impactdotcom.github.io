@@ -20,4 +20,5 @@ title: Marina Zaliznyak
 category: mentor
 ---
 
+![marina.jpg](/assets/marina.jpg)
 
