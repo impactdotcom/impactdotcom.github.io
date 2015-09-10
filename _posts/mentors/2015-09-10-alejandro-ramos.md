@@ -16,4 +16,5 @@ published: false
 title: Alejandro Ramos
 ---
 
+![AlejandroRamos.png]({{site.baseurl}}/assets/AlejandroRamos.png)
 
