@@ -14,7 +14,7 @@ mentor_field:
   - legal
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Alejandro Santana
 category: mentor
 ---
