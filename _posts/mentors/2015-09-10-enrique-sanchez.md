@@ -16,10 +16,10 @@ mentor_field:
   - management
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Enrique Sanchez
 category: mentor
 ---
 
-![Enrique Sanchez.jpg](/assets/Enrique Sanchez.jpg)
 
+![Enrique Sanchez.jpg](/assets/Enrique Sanchez.jpg)
