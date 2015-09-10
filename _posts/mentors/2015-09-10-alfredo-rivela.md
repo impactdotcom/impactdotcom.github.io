@@ -15,8 +15,9 @@ mentor_field:
 mentor_country: 
   - Spain
 published: true
-title: "Alfredo\tRivela"
+title: Alfredo Rivela
 category: mentor
 ---
+
 
 ![alfredo rivela.jpg](/assets/alfredo rivela.jpg)
