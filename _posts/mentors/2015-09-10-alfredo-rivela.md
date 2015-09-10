@@ -19,3 +19,4 @@ title: "Alfredo\tRivela"
 category: mentor
 ---
 
+![alfredo rivela.jpg](/assets/alfredo rivela.jpg)
