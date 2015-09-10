@@ -10,11 +10,12 @@ mentor_type:
   - follow_up
 mentor_field: 
   - strategy
-mentor_country: null
-published: false
+mentor_country: 
+  - "null"
+published: true
 title: Tony Raurich
 category: mentor
 ---
 
-![Toni_Raurich.jpg](/assets/Toni_Raurich.jpg)
 
+![Toni_Raurich.jpg](/assets/Toni_Raurich.jpg)
