@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: true
+published: false
 title: Morten Hother Sørensen
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -12,6 +12,9 @@ mentor_type:
 mentor_country: 
   - Denmark
 image: /assets/Morten Hother Sorensen.png
+cargo: ""
+mentor_field: null
 ---
+
 
 ![Morten Hother Sorensen.png](/assets/Morten Hother Sorensen.png)
