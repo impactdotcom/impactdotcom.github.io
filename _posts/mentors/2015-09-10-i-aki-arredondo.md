@@ -14,10 +14,10 @@ mentor_field:
   - tech
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Iñaki Arredondo
 category: mentor
 ---
 
-![Iñaki Arredondo.jpg](/assets/Iñaki Arredondo.jpg)
 
+![Iñaki Arredondo.jpg](/assets/Iñaki Arredondo.jpg)
