@@ -6,11 +6,13 @@ cargo_impact_en: ""
 "linked-in": ""
 twitter: ""
 image: ""
-mentor_type: null
-mentor_field: null
-mentor_country: null
+mentor_type: 
+  - "null"
+mentor_field: 
+  - "null"
+mentor_country: 
+  - "null"
 published: false
 title: Bianca Del Genio
 ---
-
 
