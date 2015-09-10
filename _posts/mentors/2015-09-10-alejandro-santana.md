@@ -5,7 +5,7 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": "https://es.linkedin.com/in/alejandrosantana/it"
 twitter: "https://twitter.com/jandrosantana"
-image: ""
+image: /assets/alejandrosantana.jpg
 mentor_type: 
   - follow_up
 mentor_field: 
@@ -19,4 +19,4 @@ title: Alejandro Santana
 category: mentor
 ---
 
-
+![alejandrosantana.jpg](/assets/alejandrosantana.jpg)
