@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: true
+published: false
 title: Juan Acosta
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -13,6 +13,9 @@ image: /assets/Juan Acosta.png
 "linked-in": "www.linkedin.com/pub/juan-acosta/8/411/a87/en"
 mentor_field: 
   - strategy
+cargo: ""
+twitter: ""
 ---
+
 
 ![Juan Acosta.png](/assets/Juan Acosta.png)
