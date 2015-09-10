@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: true
+published: false
 title: Adam Zajdzik
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -11,6 +11,10 @@ mentor_type:
 mentor_country: 
   - Poland
 image: /assets/Adam Zajdzik.png
+cargo: ""
+twitter: ""
+mentor_field: null
 ---
+
 
 ![Adam Zajdzik.png](/assets/Adam Zajdzik.png)
