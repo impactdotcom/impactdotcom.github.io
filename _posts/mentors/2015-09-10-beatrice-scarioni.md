@@ -14,10 +14,10 @@ mentor_field:
   - management
 mentor_country: 
   - Italy
-published: false
+published: true
 title: Beatrice Scarioni
 category: mentor
 ---
 
-![Betrice.jpg](/assets/Betrice.jpg)
 
+![Betrice.jpg](/assets/Betrice.jpg)
