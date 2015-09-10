@@ -9,9 +9,13 @@ cargo_impact_en: Mentor
 twitter: "https://twitter.com/MarcoDonadoni"
 mentor_type: 
   - follow_up
+  - specialized
 mentor_country: 
   - Italy
 image: /assets/Marco Donadoni.png
+cargo: ""
+mentor_field: null
 ---
+
 
 ![Marco Donadoni.png](/assets/Marco Donadoni.png)
