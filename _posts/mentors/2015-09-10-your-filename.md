@@ -14,7 +14,7 @@ mentor_field:
   - tech
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Alex Dantart
 category: mentor
 ---
