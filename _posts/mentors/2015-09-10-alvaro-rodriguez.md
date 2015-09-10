@@ -18,4 +18,4 @@ published: false
 title: Alvaro Rodriguez
 ---
 
-
+![alvaro rodriguez.jpg](/assets/alvaro rodriguez.jpg)
