@@ -16,6 +16,7 @@ mentor_country:
   - Spain
 published: true
 title: Alvaro Rodriguez
+category: mentor
 ---
 
 
