@@ -5,7 +5,7 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": "https://www.linkedin.com/in/sebasmuriel"
 twitter: "https://twitter.com/sebasmuriel"
-image: ""
+image: /assets/Sebas Muriel.jpg
 mentor_type: 
   - follow_up
 mentor_field: 
