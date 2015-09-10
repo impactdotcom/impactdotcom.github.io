@@ -8,6 +8,7 @@ twitter: "http://twitter.com/BiancaDelGenio"
 image: /assets/bianca del genio.jpg
 mentor_type: 
   - follow_up
+  - specialized
 mentor_field: 
   - internationalization
   - management
@@ -18,5 +19,6 @@ published: true
 title: Bianca Del Genio
 category: mentor
 ---
+
 
 ![bianca del genio.jpg](/assets/bianca del genio.jpg)
