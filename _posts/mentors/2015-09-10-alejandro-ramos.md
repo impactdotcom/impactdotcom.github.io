@@ -1,14 +1,17 @@
 ---
 layout: default
 cargo: ""
-cargo_impact_es: ""
-cargo_impact_en: ""
-"linked-in": ""
-twitter: ""
+cargo_impact_es: Mentor
+cargo_impact_en: Mentor
+"linked-in": "https://es.linkedin.com/in/aramosf"
+twitter: "https://twitter.com/aramosf"
 image: ""
-mentor_type: null
-mentor_field: null
-mentor_country: null
+mentor_type: 
+  - follow_up
+mentor_field: 
+  - tech
+mentor_country: 
+  - Spain
 published: false
 title: Alejandro Ramos
 ---
