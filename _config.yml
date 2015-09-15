@@ -26,12 +26,42 @@ prose:
         field:
           element: "text"
           label: "Title"
-          value: ""
       - name: "image"
         field:
           element: "text"
           label: "URL relativa de la imagen"
           value: ""
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Selecciona idioma"
+          placeholder: "Ingles"
+          options:
+            - name: "Castellano"
+              value: "es"
+            - name: "Ingles"
+              value: "en"
+            - name: "Italian"
+              value: "it"
+          selected: "es"
+    _posts/news/en:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "news"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "URL relativa de la imagen"
       - name: "lang"
         field:
           element: "select"
