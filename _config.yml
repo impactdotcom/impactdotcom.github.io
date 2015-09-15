@@ -14,9 +14,9 @@ prose:
   media: 'assets'
   metadata:
     _posts/news:
-      - name: "categories"
+      - name: "category"
         field:
-          element: "hidden"
+          element: "text"
           value: "news"
       - name: "layout"
         field:
@@ -47,7 +47,7 @@ prose:
     _posts/news/en:
       - name: "categories"
         field:
-          element: "hidden"
+          element: "text"
           value: "news"
       - name: "layout"
         field:
