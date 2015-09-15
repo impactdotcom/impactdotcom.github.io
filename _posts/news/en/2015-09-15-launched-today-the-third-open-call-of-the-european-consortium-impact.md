@@ -1,7 +1,7 @@
 ---
 layout: post
 image: ""
-lang: es
+lang: en
 published: true
 title: Launched today the third Open Call of the European Consortium IMPACT
 ---
