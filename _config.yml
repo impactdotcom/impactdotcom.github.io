@@ -16,6 +16,7 @@ prose:
     _posts/news:
       - name: "category"
         field:
+          label: "Categoría"
           element: "text"
           value: "news"
       - name: "layout"
@@ -45,8 +46,9 @@ prose:
               value: "it"
           selected: "es"
     _posts/news/en:
-      - name: "categories"
+      - name: "category"
         field:
+          label: "Categoría"
           element: "text"
           value: "news"
       - name: "layout"
@@ -75,10 +77,43 @@ prose:
             - name: "Italian"
               value: "it"
           selected: "en"
+    _posts/news/it:
+      - name: "category"
+        field:
+          label: "Categoría"
+          element: "text"
+          value: "news"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "URL relativa de la imagen"
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Selecciona idioma"
+          placeholder: "Ingles"
+          options:
+            - name: "Castellano"
+              value: "es"
+            - name: "Ingles"
+              value: "en"
+            - name: "Italian"
+              value: "it"
+          selected: "it"
     _posts/team:
       - name: "category"
         field:
-          element: "hidden"
+          label: "Categoría"
+          element: "text"
           value: "equipo"
       - name: "layout"
         field:
@@ -122,7 +157,8 @@ prose:
     _posts/mentors:
       - name: "category"
         field:
-          element: "hidden"
+          label: "Categoría"
+          element: "text"
           value: "mentor"
       - name: "layout"
         field:
