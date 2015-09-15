@@ -7,6 +7,7 @@ title: Launched today the third Open Call of the European Consortium IMPACT
 ---
 
 
+
 **€2.2 Million to accelerate further 22 European FIWARE-based startups.** [IMPACT Accelerator](www.impact-accelerator.com) launches today its third and last Open Call for innovative ideas and projects based on FIWARE technology related to the Mobile Internet. Start-ups and Web Entrepreneurs interested in the program can submit their projects up until **October 15th** through the **Funding Box Platform**: www.fundingbox.com/p/impact-accelerator/. The most innovative and high-growth ventures will receive around **€100,000** per project without equity consideration (split into €90,000 funding + €10,000 in services) and a 6-month specialized Mentoring & Training program. <br>
 
 Since the beginning, IMPACT, the EU consortium composed by **Buongiorno** (via its accelerator **b-ventures**) **ISDI**, **Seaya Ventures** and **Teknologiudvikling ApS.**, has accelerated 42 projects in total and the aim is to be accelerating up to 64 startups by the end of 2016, for a total amount of €6.4M. <br>
