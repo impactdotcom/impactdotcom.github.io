@@ -3,9 +3,10 @@ layout: post
 category: news
 image: ""
 lang: it
-published: false
+published: true
 title: Lanciata oggi la terza e ultima Open Call del Consorzio europeo
 ---
+
 
 Ancora una tranche da **2,2 milioni di euro** a disposizione dei progetti di impresa basati su tecnologia FIWARE e relativi al Mobile Internet . Il Consorzio europeo [**IMPACT**](http://www.impact-accelerator.com/it/) (Mobile Internet Projects Accelerator) lancia infatti oggi la sua terza e ultima call, con scadenza 15 ottobre 2015, destinata a finanziare ulteriori 22 startup e imprenditori web di tutta Europa. Le proposte possono essere presentate **dal 15 settembre al 15 ottobre 2015 sulla piattaforma Funding Box** : [www.fundingbox.com/p/impact-accelerator/] Quelle più innovative e a con più potenziale di crescita riceveranno una media di **100mila euro** (90mila di fondi e 10mila in servizi) a fondo perduto e senza cessione di capitale da implementare con un mentoring e un programma di training specializzato di sei mesi.
 
