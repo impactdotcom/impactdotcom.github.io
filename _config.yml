@@ -14,7 +14,7 @@ prose:
   media: 'assets'
   metadata:
     _posts/news:
-      - name: "category"
+      - name: "categories"
         field:
           element: "hidden"
           value: "news"
@@ -45,7 +45,7 @@ prose:
               value: "it"
           selected: "es"
     _posts/news/en:
-      - name: "category"
+      - name: "categories"
         field:
           element: "hidden"
           value: "news"
