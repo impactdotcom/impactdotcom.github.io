@@ -1,16 +1,12 @@
-# Site settings
 title: IMPACT - Start, Accelerate, Impact.
 email: info@impact-accelerator.com
 baseurl: ""
 url: "http://www.impact-accelerator.com"
-
-# Build settings
 markdown: kramdown
 permalink: pretty
 exclude: [Gruntfile.js, package.json, .less, bower_components, custom_components/custom/examples, custom_components/custom/less, node_modules]
 
 prose:
-#  rooturl: '_posts'
   media: 'assets'
   metadata:
     _posts/news:
