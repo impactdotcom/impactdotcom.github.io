@@ -3,8 +3,10 @@ layout: post
 category: news
 published: true
 title: "IMPACT will invest 2.5 Million Euro to accelerate 25 FIWARE-based startups"
-lang: en
+lang: es
+image: ""
 ---
+
 
 <a href="http://www.impact-accelerator.com/">IMPACT Accelerator </a>launches today its second <a href="http://bit.ly/IMPACTapplyNOW" target="_blank"><strong>€2.5 Million Open Call</strong></a>, which will select around <strong>25 European start-ups</strong> with innovative ideas and projects based on FIWARE technology related to the Mobile Internet. <strong>IMPACT will invest €6.4 million in 64 start-ups over 2 years via 3 Open Calls</strong>. The first call took place last October, with the final call expected to be launched in October 2015.
 
