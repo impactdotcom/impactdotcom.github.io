@@ -1,7 +1,6 @@
 ---
 layout: post
 category: news
-image: ""
 lang: it
 published: true
 title: Lanciata oggi la terza e ultima Open Call del Consorzio europeo
