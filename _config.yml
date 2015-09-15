@@ -40,7 +40,7 @@ prose:
               value: "en"
             - name: "Italian"
               value: "it"
-          selected: "es"
+          value: "es"
     _posts/news/en:
       - name: "category"
         field:
@@ -72,7 +72,7 @@ prose:
               value: "en"
             - name: "Italian"
               value: "it"
-          selected: "en"
+          value: "en"
     _posts/news/it:
       - name: "category"
         field:
@@ -104,7 +104,7 @@ prose:
               value: "en"
             - name: "Italian"
               value: "it"
-          selected: "it"
+          value: "it"
     _posts/team:
       - name: "category"
         field:
