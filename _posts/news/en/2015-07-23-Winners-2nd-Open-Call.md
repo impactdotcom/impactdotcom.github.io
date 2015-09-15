@@ -1,10 +1,12 @@
 ---
 layout: post
 category: news
-published: true
+published: false
 title: IMPACT announces the winners of the 2nd Open Call
 lang: en
+image: ""
 ---
+
 
 
 
