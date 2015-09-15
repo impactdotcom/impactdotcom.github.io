@@ -2,9 +2,10 @@
 layout: post
 image: ""
 lang: es
-published: false
+published: true
 title: Launched today the third Open Call of the European Consortium IMPACT
 ---
+
 
 **€2.2 Million to accelerate further 22 European FIWARE-based startups.** [IMPACT Accelerator](www.impact-accelerator.com) launches today its third and last Open Call for innovative ideas and projects based on FIWARE technology related to the Mobile Internet. Start-ups and Web Entrepreneurs interested in the program can submit their projects up until **October 15th** through the **Funding Box Platform**: www.fundingbox.com/p/impact-accelerator/. The most innovative and high-growth ventures will receive around **€100,000** per project without equity consideration (split into €90,000 funding + €10,000 in services) and a 6-month specialized Mentoring & Training program. <br>
 
@@ -25,4 +26,3 @@ The type of projects that IMPACT consortium is looking for are projects in the m
 
 Additionally, IMPACT will offer an **Extended Investments Phase** to the most outstanding projects after the 6-month Acceleration Process, consisting in a fast track access to the IMPACT Partners’ 
 investment programs and up to €250,000 in additional funding, against 10% of equity, with a pre-defined discount of 25% to market value.
-
