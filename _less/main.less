@@ -189,22 +189,57 @@ footer .inner {
     background-color: transparent;
     color: @green;
   }
-  .dark-bg.img-bg-soft:before {
-    background-color: #000000;
-    opacity: 0.5;
-  }
   .brand{
     width: 280px;
-    height: 64px;
+    height: 60px;
     margin-left: auto;
     margin-right: auto;
     background: url(../img/img.logo.png) 0 0 no-repeat;
-    @media (min-width: @screen-sm-min) {
-      width: 720px;
-      height: 200px;
+    @media (min-width: @screen-md-min) {
+      width: 512px;
+      height: 135px;
       background: url(../img/img.logo-sm.png) 0 0 no-repeat;
     }
   }
+  .hero__entradilla p{
+    text-transform: uppercase;
+    font-size: @hero-h1-font-size;
+    line-height: @hero-h1-line-height;
+    letter-spacing: @hero-h1-letter-spacing;
+    color: white; 
+    margin-left: auto;
+    margin-right: auto;  
+    width: 400px; 
+    @media (min-width: @screen-xs-min) {
+        font-size: @hero-h1-font-size-xs;
+    }
+    @media (min-width: @screen-sm-min) {
+        font-size: @hero-h1-font-size-sm;
+    }
+    @media (min-width: @screen-md-min) {
+        font-size: @hero-h1-font-size-md;
+    }
+    @media (min-width: @screen-lg-min) {
+        font-size: @hero-h1-font-size-lg;
+    }
+
+    strong {
+      margin-top: 10px;
+      padding: 5px;
+      display: block;
+      background-color: rgba(255,255,255, 0.7);
+      color: black;
+      border-radius: 6px;
+    }  
+  }
+  .btn {
+      padding: 12px 30px;
+  } 
+}
+
+.dark-bg.img-bg-soft:before {
+  background-color: #000000;
+  opacity: .2 !important; 
 }
 
 
