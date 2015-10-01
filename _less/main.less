@@ -351,6 +351,50 @@ footer .inner {
   }
 }
 
+// Estadísticas
+
+.arrow-bottom-estadisticas:after {
+    border-color: @gray transparent transparent;
+}
+
+.myStat {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.estadisticas__titulo-grupo {
+  padding-bottom: 8px;
+  border-bottom: 2px solid #00A6AC;
+  @media (min-width: @screen-sm-min) {
+    text-align: center;
+  }
+}
+
+.estadistica__grafico {
+  @media (max-width: @screen-xs-max) {
+    float: left;
+  }
+}
+
+.estadistica__pie {
+  @media (min-width: @screen-sm-min) {
+    text-align: center;
+  }
+  @media (max-width: @screen-xs-max) {
+    height: 140px;
+    display: table-cell;
+    vertical-align: middle;
+  }
+}
+
+.estadistica__titulo {
+  color: #ccc!important;
+  @media (max-width: @screen-xs-max) {
+    margin-bottom: 0;
+    font-size: 16px;
+  } 
+}
+
 // Qué es IMPACT
 
 #what-is-impact{
