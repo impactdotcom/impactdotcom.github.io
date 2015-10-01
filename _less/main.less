@@ -364,27 +364,33 @@ footer .inner {
 
 .estadisticas__titulo-grupo {
   padding-bottom: 8px;
-  border-bottom: 2px solid #00A6AC;
-  @media (min-width: @screen-sm-min) {
-    text-align: center;
-  }
+  border-bottom: 1px solid #73fcd6;
+  text-align: center;
 }
 
 .estadistica__grafico {
-  @media (max-width: @screen-xs-max) {
-    float: left;
+  font-weight: bold;
+}
+
+.estadistica__cifra {
+  font-size: 56px;
+  text-align: center;
+  @media (min-width: @screen-sm-min) {
+    min-height: 131px;
+    padding-top: 25px;
+    margin-bottom: 15px;  
+    font-weight: 700;
+    font-size: 66px;
+    border-bottom: 4px solid #444;
   }
 }
 
+.estadistica__cifra__texto {
+  font-size: 24px;
+}
+
 .estadistica__pie {
-  @media (min-width: @screen-sm-min) {
-    text-align: center;
-  }
-  @media (max-width: @screen-xs-max) {
-    height: 140px;
-    display: table-cell;
-    vertical-align: middle;
-  }
+  text-align: center;
 }
 
 .estadistica__titulo {
