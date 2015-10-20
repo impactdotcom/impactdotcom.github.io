@@ -14,9 +14,9 @@ mentor_field:
   - marketing
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Oscar Gallego
 ---
 
-![Oscar Gallego.jpg]({{site.baseurl}}/assets/Oscar Gallego.jpg)
 
+![Oscar Gallego.jpg]({{site.baseurl}}/assets/Oscar Gallego.jpg)
