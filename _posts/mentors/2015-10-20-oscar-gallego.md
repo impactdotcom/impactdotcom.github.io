@@ -18,4 +18,5 @@ published: false
 title: Oscar Gallego
 ---
 
+![Oscar Gallego.jpg]({{site.baseurl}}/assets/Oscar Gallego.jpg)
 
