@@ -8,9 +8,9 @@ title: "IMPACT FIWARE Webinar 5/6. FIWARE Technology for IMPACT projects: ORION 
 ---
 
 
-
 <a href="https://www.youtube.com/watch?v=xYxzGBnWdVc" target="_blank"><i class="icon-s-youtube"></i> Ver webminar</a>.
 
+![imagen_web5_853.jpg]({{site.baseurl}}/assets/imagen_web5_853.jpg)
 <br>
 
 
