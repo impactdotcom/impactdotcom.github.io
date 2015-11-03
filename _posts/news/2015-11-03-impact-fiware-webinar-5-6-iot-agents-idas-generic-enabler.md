@@ -4,7 +4,7 @@ category: news
 image: /assets/webinar6_600.jpg
 lang: es
 published: false
-title: "IMPACT FIWARE Webinar 5/6. IoT Agents: IDAS Generic Enabler"
+title: "IMPACT FIWARE Webinar 6/6. IoT Agents: IDAS Generic Enabler"
 ---
 
 
