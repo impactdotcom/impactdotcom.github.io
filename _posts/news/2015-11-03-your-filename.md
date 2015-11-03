@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-image: ""
+image: /assets/webinar5_600.jpg
 lang: es
 published: true
 title: "IMPACT FIWARE Webinar 5/6. FIWARE Technology for IMPACT projects: ORION Context Broker"
