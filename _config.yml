@@ -355,7 +355,7 @@ prose:
               value: "B2C" 
             - name: "B2B"
               value: "B2B"
-      - name: "mentor_country"
+      - name: "country"
         field:
           element: "multiselect"
           label: "Country"
