@@ -86,7 +86,15 @@
 								<div class="info">
 									<a href="{{ post.web }}" target="_blank">
 										{% comment %}<h2 class="h3">{{ post.title }}</h2>{% endcomment %}
-										<p>{{ post.desc }}</p>
+										{% if page.lang == 'en' %}
+											<p>{{ post.desc_en }}</p>
+										{% endif %}
+										{% if page.lang == 'es' %}
+											<p>{{ post.desc }}</p>
+										{% endif %}
+										{% if page.lang == 'it' %}
+											<p>{{ post.desc_it }}</p>
+										{% endif %}
 									</a>
 								</div>
 							</div>
