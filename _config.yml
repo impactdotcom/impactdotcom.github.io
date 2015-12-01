@@ -287,74 +287,74 @@ prose:
           element: "multiselect"
           label: "Sector"
           options:
-            - name: CTV 
-              value: CTV
-            - name: Deporte 
-              value: Deporte
-            - name: Diseño 
-              value: Diseno
-            - name: Educación 
-              value: Educacion
-            - name: Eventos 
-              value: Eventos
-            - name: Fotografias 
-              value: Fotografias
-            - name: Futbol 
-              value: Futbol
-            - name: Horeca 
-              value: Horeca
-            - name: Medios 
-              value: Medios
-            - name: Moda 
-              value: Moda
-            - name: Musica 
-              value: Musica
-            - name: Navegación 
-              value: Navegacion
-            - name: Pagos 
-              value: Pagos
-            - name: Productividad 
-              value: Productividad
-            - name: Restauración 
-              value: Restauracion
-            - name: Salud 
-              value: Salud
-            - name: Social  
-              value: Social 
-            - name: Técnología móvil 
-              value: TecnologiaMovil
-            - name: Telecomunicaciones
-               value: Telecomunicaciones
-            - name: Viajes 
-              value: Viajes
+            - name: "CTV" 
+              value: "CTV"
+            - name: "Deporte" 
+              value: "Deporte"
+            - name: "Diseño" 
+              value: "Diseno"
+            - name: "Educación" 
+              value: "Educacion"
+            - name: "Eventos" 
+              value: "Eventos"
+            - name: "Fotografias" 
+              value: "Fotografias"
+            - name: "Futbol" 
+              value: "Futbol"
+            - name: "Horeca" 
+              value: "Horeca"
+            - name: "Medios" 
+              value: "Medios"
+            - name: "Moda" 
+              value: "Moda"
+            - name: "Musica" 
+              value: "Musica"
+            - name: "Navegación" 
+              value: "Navegacion"
+            - name: "Pagos" 
+              value: "Pagos"
+            - name: "Productividad" 
+              value: "Productividad"
+            - name: "Restauración" 
+              value: "Restauracion"
+            - name: "Salud" 
+              value: "Salud"
+            - name: "Social"  
+              value: "Social" 
+            - name: "Técnología móvil" 
+              value: "TecnologiaMovil"
+            - name: "Telecomunicaciones"
+               value: "Telecomunicaciones"
+            - name: "Viajes" 
+              value: "Viajes"
       - name: "bussiness"
         field:
           element: "multiselect"
           label: "Type Of Business"
           options:
-            - name: App  
-              value: App 
-            - name: E-commerce 
-              value: E-commerce
-            - name: Fremium 
-              value: Fremium
-            - name: Marketplace 
-              value: Marketplace
-            - name: SaaS 
-              value: SaaS
-            - name: Service 
-              value: Service
-            - name: Servicios 
-              value: Servicios
+            - name: "App"  
+              value: "App" 
+            - name: "E-commerce" 
+              value: "E-commerce"
+            - name: "Fremium" 
+              value: "Fremium"
+            - name: "Marketplace" 
+              value: "Marketplace"
+            - name: "SaaS" 
+              value: "SaaS"
+            - name: "Service" 
+              value: "Service"
+            - name: "Servicios" 
+              value: "Servicios"
       - name: "model"
         field:
           element: "multiselect"
-          label: "BusinessModel"
+          label: "Business Model"
           options:
-            - name: B2C
-              value: B2C 
-            - name: B2B
-              value: B2B
+            - name: "B2C"
+              value: "B2C" 
+            - name: "B2B"
+              value: "B2B"
       - name: "mentor_country"
         field:
           element: "multiselect"
