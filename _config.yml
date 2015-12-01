@@ -242,3 +242,137 @@ prose:
               value: "UK"
             - name: "Germany"
               value: "Germany"
+    _posts/portfolio:
+      - name: "category"
+        field:
+          label: "Categoría"
+          element: "text"
+          value: "portfolio"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Nombre Empresa"
+          value: ""
+      - name: "desc"
+        field:
+          element: "text"
+          label: "Entradilla en castellano."
+          value: ""
+      - name: "desc_en"
+        field:
+          element: "text"
+          label: "Entradilla en Ingles."
+          value: ""
+      - name: "desc_it"
+        field:
+          element: "text"
+          label: "Entradilla en Italiano."
+          value: ""
+      - name: "web"
+        field:
+          element: "text"
+          label: "URL de página web (incluir http://)"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "URL relativa a la imagen (300x300px)"
+          value: ""
+      - name: "sector"
+        field:
+          element: "multiselect"
+          label: "Sector"
+          options:
+            - name: CTV 
+              value: CTV
+            - name: Deporte 
+              value: Deporte
+            - name: Diseño 
+              value: Diseno
+            - name: Educación 
+              value: Educacion
+            - name: Eventos 
+              value: Eventos
+            - name: Fotografias 
+              value: Fotografias
+            - name: Futbol 
+              value: Futbol
+            - name: Horeca 
+              value: Horeca
+            - name: Medios 
+              value: Medios
+            - name: Moda 
+              value: Moda
+            - name: Musica 
+              value: Musica
+            - name: Navegación 
+              value: Navegacion
+            - name: Pagos 
+              value: Pagos
+            - name: Productividad 
+              value: Productividad
+            - name: Restauración 
+              value: Restauracion
+            - name: Salud 
+              value: Salud
+            - name: Social  
+              value: Social 
+            - name: Técnología móvil 
+              value: TecnologiaMovil
+            - name: Telecomunicaciones
+               value: Telecomunicaciones
+            - name: Viajes 
+              value: Viajes
+      - name: "bussiness"
+        field:
+          element: "multiselect"
+          label: "Type Of Business"
+          options:
+            - name: App  
+              value: App 
+            - name: E-commerce 
+              value: E-commerce
+            - name: Fremium 
+              value: Fremium
+            - name: Marketplace 
+              value: Marketplace
+            - name: SaaS 
+              value: SaaS
+            - name: Service 
+              value: Service
+            - name: Servicios 
+              value: Servicios
+      - name: "model"
+        field:
+          element: "multiselect"
+          label: "BusinessModel"
+          options:
+            - name: B2C
+              value: B2C 
+            - name: B2B
+              value: B2B
+      - name: "mentor_country"
+        field:
+          element: "multiselect"
+          label: "Country"
+          options:
+            - name: "Spain"
+              value: "Spain"
+            - name: "Italy"
+              value: "Italy"
+            - name: "Denmark"
+              value: "Denmark"
+            - name: "Poland"
+              value: "Poland"
+            - name: "UK"
+              value: "UK"
+            - name: "Germany"
+              value: "Germany" 
+            - name: "Holland"
+              value: "Holland"
+            - name: "Slovenia"
+              value: "Slovenia"
