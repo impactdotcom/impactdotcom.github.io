@@ -324,7 +324,7 @@ prose:
             - name: "Técnología móvil" 
               value: "TecnologiaMovil"
             - name: "Telecomunicaciones"
-               value: "Telecomunicaciones"
+              value: "Telecomunicaciones"
             - name: "Viajes" 
               value: "Viajes"
       - name: "bussiness"
