@@ -1,0 +1,100 @@
+<section id="talent-impact" class="gray-bg">
+	<div class="inner inner-top-xs">
+		<header class="text-center">
+			<h1 class="single-block">Portfolio</h1>
+		</header>
+		
+		<div class="inner-bottom-xs ">
+			<form class="form-inline controls" id="Filters">
+				  <fieldset class="form-group">
+			        <label for="selectSector">{{ page.Sector }}: </label>
+				    <select id="selectSector" class="form-control" >
+				      <option value="">{{ page.All }}</option>
+						<option value='.CTV'>{{ page.CTV }}</option>
+						<option value='.Deporte'>{{ page.Deporte }}</option>
+						<option value='.Diseno'>{{ page.Diseno }}</option>
+						<option value='.Educacion'>{{ page.Educacion }}</option>
+						<option value='.Eventos'>{{ page.Eventos }}</option>
+						<option value='.Fotografias'>{{ page.Fotografias }}</option>
+						<option value='.Futbol'>{{ page.Futbol }}</option>
+						<option value='.Horeca'>{{ page.Horeca }}</option>
+						<option value='.Medios'>{{ page.Medios }}</option>
+						<option value='.Moda'>{{ page.Moda }}</option>
+						<option value='.Musica'>{{ page.Musica }}</option>
+						<option value='.Navegacion'>{{ page.Navegacion }}</option>
+						<option value='.Pagos'>{{ page.Pagos }}</option>
+						<option value='.Productividad'>{{ page.Productividad }}</option>
+						<option value='.Restauracion'>{{ page.Restauracion }}</option>
+						<option value='.Salud'>{{ page.Salud }}</option>
+						<option value='.Social'>{{ page.Social  }}</option>
+						<option value='.TecnologiaMovil'>{{ page.TecnologiaMovil }}</option>
+						<option value='.Telecomunicaciones'>{{ page.Telecomunicaciones }}</option>
+						<option value='.Viajes'>{{ page.Viajes }}</option>
+				    </select>
+				  </fieldset>
+				<fieldset class="form-group">
+			        <label for="selectType">{{ page.TypeOfBusiness }}: </label>
+
+				    <select id="selectType" class="form-control" >
+						<option value="">{{ page.All }}</option>
+						<option value='.App '>{{ page.App  }}</option>
+						<option value='.E-commerce'>{{ page.E-commerce }}</option>
+						<option value='.Fremium'>{{ page.Fremium }}</option>
+						<option value='.Marketplace'>{{ page.Marketplace }}</option>
+						<option value='.SaaS'>{{ page.SaaS }}</option>
+						<option value='.Service'>{{ page.Service }}</option>
+						<option value='.Servicios'>{{ page.Servicios }}</option>
+				    </select>
+				  </fieldset>
+				
+				  <fieldset class="form-group">
+			        <label for="selectBussiness">{{ page.BusinessModel }}: </label>
+				    <select id="selectBussiness" class="form-control" >
+						<option value="">{{ page.All }}</option>
+						<option value=".B2C">B2C</option>
+						<option value=".B2B">B2B</option>
+				    </select>
+				  </fieldset>
+
+	  		  	<fieldset class="form-group">
+			        <label for="selectCountry">{{ page.Country }}: </label>
+				    <select id="selectCountry" class="form-control" >
+						<option value="">{{ page.All }}</option>
+						<option value=".Denmark">{{ page.Denmark }}</option>
+						<option value=".Germany">{{ page.Germany }}</option>
+						<option value=".Holland">{{ page.Holland }}</option>
+						<option value=".Italy">{{ page.Italy }}</option>
+						<option value=".Poland">{{ page.Poland }}</option>
+						<option value=".Spain">{{ page.Spain }}</option>
+						<option value=".Slovenia">{{ page.Slovenia }}</option>
+						<option value=".UK">{{ page.UK }}</option>
+				    </select>
+				  </fieldset>
+			</form>	
+		</div>
+
+		<div id="container_mentores" class="row thumbs no-gap light-bg inner-top-xs inner-bottom-xs">
+			{% for post in site.categories.portfolio %}
+				<div class="col-xs-6 col-sm-4 col-lg-2 thumb mix 
+							{% for sector_item in post.sector %} {{ sector_item }} {% endfor %} 
+							{% for bussiness_item in post.bussiness %} {{ bussiness_item }} {% endfor %}
+							{% for country_item in post.country %} {{ country_item }} {% endfor %}
+							{% for model_item in post.model %} {{ model_item }} {% endfor %}">
+					<figure class="member member--portfolio">
+						<div class="member-image">
+							<div class="text-overlay">
+								<div class="info">
+									<a href="{{ post.web }}" target="_blank">
+										{% comment %}<h2 class="h3">{{ post.title }}</h2>{% endcomment %}
+										<p>{{ post.desc }}</p>
+									</a>
+								</div>
+							</div>
+							<img src="{{ post.image }}" class="img-responsive" alt="{{ post.title }}">
+						</div>
+					</figure>
+				</div>
+	    	{% endfor %}
+		</div>
+	</div>
+</section>
