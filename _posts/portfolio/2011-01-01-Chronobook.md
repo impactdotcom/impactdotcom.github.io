@@ -9,7 +9,7 @@ web: http://chronobook.com
 image: /assets/portfolio/chronobook.png
 sector: 
   - Social
-  - Fotografias
+  - Pictures
 bussiness: 
   - SaaS
 model:

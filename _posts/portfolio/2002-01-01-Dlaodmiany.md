@@ -8,7 +8,7 @@ desc_it: DLAODMIANY è un’applicazione che consente attraverso l’utilizzo di
 web: http://modsgn.com/
 image: /assets/portfolio/dlaodmiany.png 
 sector: 
-  - Moda
+  - Fashion
 bussiness: 
   - Marketplace
   - SaaS

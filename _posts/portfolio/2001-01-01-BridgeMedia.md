@@ -8,7 +8,7 @@ desc_it: BRIDGEMEDIA Service è una piattaforma “plug-and-play” che offre se
 web: http://bridgemediatech.com/
 image: /assets/portfolio/bridgemediatech.png
 sector: 
-  - Medios	
+  - MediaSmartTv	
 bussiness: 
   - Marketplace
   - Service

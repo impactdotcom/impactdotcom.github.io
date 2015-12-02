@@ -8,7 +8,7 @@ desc_it: COFFEESTRAP ti permette di imparare le lingue facendoti incontrare pers
 web: http://www.coffeestrap.com
 image: /assets/portfolio/coffeestrap.png
 sector: 
-  - Educacion
+  - Learning
 bussiness: 
   - Marketplace
 model:

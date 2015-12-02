@@ -8,8 +8,8 @@ desc_it: OLAII PAYMENTS è un servizio di pagamento veloce e sicuro pensato e de
 web: http://payments.olaii.com
 image: /assets/portfolio/olaii.png
 sector: 
-  - Pagos
-  - Eventos
+  - Payments 
+  - Events
 bussiness: 
   - Servicios
 model:

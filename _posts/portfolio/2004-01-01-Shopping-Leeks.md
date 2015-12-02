@@ -8,7 +8,7 @@ desc_it: SHOPPING LEEKS è un applicazione mobile che si rivolge al mercato dell
 web: http://www.shoppingleeks.com
 image: /assets/portfolio/shoppingleeks.png
 sector: 
-  - Restauracion
+  - Retail
 bussiness: 
   - Marketplace
 model:

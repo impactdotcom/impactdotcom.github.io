@@ -9,7 +9,7 @@ web: http://www.goalshouter.com
 image: /assets/portfolio/goalshouter.png
 sector: 
   - Social
-  - Futbol
+  - Football
 bussiness: 
   - SaaS
 model:

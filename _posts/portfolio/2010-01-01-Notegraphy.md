@@ -9,7 +9,7 @@ web: http://www.notegraphy.com
 image: /assets/portfolio/notegraphy.png
 sector: 
   - Social
-  - Diseno
+  - Design
 bussiness: 
   - App
   - Fremium

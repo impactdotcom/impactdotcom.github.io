@@ -287,46 +287,86 @@ prose:
           element: "multiselect"
           label: "Sector"
           options:
-            - name: "CTV" 
-              value: "CTV"
-            - name: "Deporte" 
-              value: "Deporte"
-            - name: "Diseño" 
-              value: "Diseno"
-            - name: "Educación" 
-              value: "Educacion"
-            - name: "Eventos" 
-              value: "Eventos"
-            - name: "Fotografias" 
-              value: "Fotografias"
-            - name: "Futbol" 
-              value: "Futbol"
-            - name: "Horeca" 
-              value: "Horeca"
-            - name: "Medios" 
-              value: "Medios"
-            - name: "Moda" 
-              value: "Moda"
-            - name: "Musica" 
-              value: "Musica"
-            - name: "Navegación" 
-              value: "Navegacion"
-            - name: "Pagos" 
-              value: "Pagos"
-            - name: "Productividad" 
-              value: "Productividad"
-            - name: "Restauración" 
-              value: "Restauracion"
-            - name: "Salud" 
-              value: "Salud"
-            - name: "Social"  
-              value: "Social" 
-            - name: "Técnología móvil" 
-              value: "TecnologiaMovil"
-            - name: "Telecomunicaciones"
-              value: "Telecomunicaciones"
-            - name: "Viajes" 
-              value: "Viajes"
+            - name: Adventure 
+              value: Adventure
+            - name: Analytics 
+              value: Analytics
+            - name: Big Data 
+              value: BigData
+            - name: Cloud Productivity 
+              value: CloudProductivity
+            - name: Connectivity 
+              value: Connectivity
+            - name: Content 
+              value: Content
+            - name: Coupons 
+              value: Coupons
+            - name: CRM 
+              value: CRM
+            - name: Cryptocurrencies 
+              value: Cryptocurrencies
+            - name: Design 
+              value: Design
+            - name: Domotics 
+              value: Domotics
+            - name: E-commerce 
+              value: E-commerce
+            - name: E-health 
+              value: E-health
+            - name: Education 
+              value: Education
+            - name: Energy 
+              value: Energy
+            - name: Events 
+              value: Events
+            - name: Farmers 
+              value: Farmers
+            - name: Fashion 
+              value: Fashion
+            - name: Fintech 
+              value: Fintech
+            - name: Fitness 
+              value: Fitness
+            - name: Football 
+              value: Football
+            - name: Health 
+              value: Health
+            - name: Human Resources 
+              value: HumanResources
+            - name: Insurance 
+              value: Insurance
+            - name: IoT 
+              value: IoT
+            - name: Learning 
+              value: Learning
+            - name: Media / Smart Tv 
+              value: MediaSmartTv
+            - name: Mobile Technology 
+              value: MobileTechnology
+            - name: Music 
+              value: Music
+            - name: Payments 
+              value: Payments
+            - name: Pictures 
+              value: Pictures
+            - name: Retail 
+              value: Retail
+            - name: Sailing 
+              value: Sailing
+            - name: Science 
+              value: Science
+            - name: Security 
+              value: Security
+            - name: Social 
+              value: Social
+            - name: Telco 
+              value: Telco
+            - name: Travel 
+              value: Travel
+            - name: TTS 
+              value: TTS
+            - name: Weather 
+              value: Weather
       - name: "bussiness"
         field:
           element: "multiselect"
@@ -344,8 +384,6 @@ prose:
               value: "SaaS"
             - name: "Service" 
               value: "Service"
-            - name: "Servicios" 
-              value: "Servicios"
       - name: "model"
         field:
           element: "multiselect"
