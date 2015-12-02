@@ -1,4 +1,4 @@
-<section id="talent-impact" class="gray-bg">
+<section id="talent-impact" class="dark-bg">
 	<div class="inner inner-top-xs">
 		<header class="text-center">
 			<h1 class="single-block">Portfolio</h1>
@@ -93,7 +93,7 @@
 			</form>	
 		</div>
 
-		<div id="container_mentores" class="row thumbs no-gap light-bg inner-top-xs inner-bottom-xs">
+		<div id="container_mentores" class="row thumbs no-gap dark-bg inner-top-xs inner-bottom-xs">
 			{% for post in site.categories.portfolio %}
 				<div class="col-xs-6 col-sm-4 col-lg-2 thumb mix 
 							{% for sector_item in post.sector %} {{ sector_item }} {% endfor %} 
@@ -118,7 +118,7 @@
 									</a>
 								</div>
 							</div>
-							<img src="{{ post.image }}" class="img-responsive" alt="{{ post.title }}">
+							<img src="{{ post.image }}" class="img-circle" alt="{{ post.title }}">
 						</div>
 					</figure>
 				</div>
