@@ -14,8 +14,7 @@ bussiness:
   - App
   - Service
 model:
-  - B2B
-  - B2C
+  - B2B2C
 country: 
   - UK
 published: true
