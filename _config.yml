@@ -393,6 +393,8 @@ prose:
               value: "B2C" 
             - name: "B2B"
               value: "B2B"
+            - name: "B2B2C"
+              value: "B2B2C"
       - name: "country"
         field:
           element: "multiselect"
