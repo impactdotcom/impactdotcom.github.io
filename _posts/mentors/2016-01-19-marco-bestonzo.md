@@ -7,7 +7,8 @@ cargo_impact_en: Mentor
 "linked-in": "https://it.linkedin.com/in/marcobestonzo/es"
 twitter: "https://twitter.com/MarcoBesto"
 image: /assets/Marco Bestonzo.jpg
-mentor_type: null
+mentor_type: 
+  - "null"
 mentor_field: 
   - strategy
   - product_development
@@ -15,9 +16,9 @@ mentor_field:
   - management
 mentor_country: 
   - Italy
-published: false
+published: true
 title: Marco Bestonzo
 ---
 
-![Marco Bestonzo.jpg]({{site.baseurl}}/assets/Marco Bestonzo.jpg)
 
+![Marco Bestonzo.jpg]({{site.baseurl}}/assets/Marco Bestonzo.jpg)
