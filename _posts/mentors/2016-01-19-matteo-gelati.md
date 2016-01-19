@@ -15,9 +15,9 @@ mentor_field:
   - management
 mentor_country: 
   - Italy
-published: false
+published: true
 title: Matteo Gelati
 ---
 
-![mg.png]({{site.baseurl}}/assets/mg.png)
 
+![mg.png]({{site.baseurl}}/assets/mg.png)
