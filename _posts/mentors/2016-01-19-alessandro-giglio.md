@@ -16,8 +16,9 @@ mentor_field:
   - management
 mentor_country: 
   - Italy
-published: false
+published: true
 title: Alessandro Giglio
 ---
+
 
 ![Alessadro Giglio.jpeg]({{site.baseurl}}/assets/Alessadro Giglio.jpeg)
