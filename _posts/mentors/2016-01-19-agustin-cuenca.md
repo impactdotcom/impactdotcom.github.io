@@ -16,9 +16,9 @@ mentor_field:
   - management
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Agustin Cuenca
 ---
 
-![Agustin Cuenca.jpg]({{site.baseurl}}/assets/Agustin Cuenca.jpg)
 
+![Agustin Cuenca.jpg]({{site.baseurl}}/assets/Agustin Cuenca.jpg)
