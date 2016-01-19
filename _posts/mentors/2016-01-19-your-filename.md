@@ -16,8 +16,9 @@ mentor_field:
   - management
 mentor_country: 
   - Spain
-published: false
+published: true
 title: David Garcia Fuentes
 ---
+
 
 ![David Garcia Fuentes.jpg]({{site.baseurl}}/assets/David Garcia Fuentes.jpg)
