@@ -18,7 +18,7 @@ mentor_field:
   - tech
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Fernando González Mesones
 ---
 
