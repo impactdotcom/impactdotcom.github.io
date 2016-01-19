@@ -17,9 +17,9 @@ mentor_field:
   - management
 mentor_country: 
   - UK
-published: false
+published: true
 title: Bindi Karia
 ---
 
-![bk.png]({{site.baseurl}}/assets/bk.png)
 
+![bk.png]({{site.baseurl}}/assets/bk.png)
