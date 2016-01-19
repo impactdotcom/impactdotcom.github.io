@@ -6,7 +6,7 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": "https://www.linkedin.com/in/inigoonieva/es"
 twitter: ""
-image: assets/InigoOnieva.jpg
+image: /assets/io2.png
 mentor_type: 
   - follow_up
 mentor_field: 
@@ -21,6 +21,6 @@ published: false
 title: Iñigo Onieva
 ---
 
+![io2.png]({{site.baseurl}}/assets/io2.png)
 
-![InigoOnieva.jpg]({{site.baseurl}}/assets/InigoOnieva.jpg)
 
