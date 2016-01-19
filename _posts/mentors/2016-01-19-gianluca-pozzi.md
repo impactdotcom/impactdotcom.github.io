@@ -16,9 +16,9 @@ mentor_field:
   - management
 mentor_country: 
   - Italy
-published: false
+published: true
 title: Gianluca Pozzi
 ---
 
-![gp.png]({{site.baseurl}}/assets/gp.png)
 
+![gp.png]({{site.baseurl}}/assets/gp.png)
