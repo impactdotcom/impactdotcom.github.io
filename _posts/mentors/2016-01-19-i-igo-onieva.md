@@ -17,8 +17,9 @@ mentor_field:
   - management
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Iñigo Onieva
 ---
+
 
 ![Iñigo Onieva.jpeg]({{site.baseurl}}/assets/Iñigo Onieva.jpeg)
