@@ -17,7 +17,7 @@ mentor_field:
 mentor_country: 
   - Spain
 published: false
-title: ""
+title: David Garcia Fuentes
 ---
 
 ![David Garcia Fuentes.jpg]({{site.baseurl}}/assets/David Garcia Fuentes.jpg)
