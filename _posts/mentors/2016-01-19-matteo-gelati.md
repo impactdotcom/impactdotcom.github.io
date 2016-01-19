@@ -6,10 +6,15 @@ cargo_impact_es: Mentor
 cargo_impact_en: Mentor
 "linked-in": "https://www.linkedin.com/in/matteogelati"
 twitter: ""
-image: ""
-mentor_type: null
-mentor_field: null
-mentor_country: null
+image: /assets/mg.png
+mentor_type: 
+  - follow_up
+mentor_field: 
+  - strategy
+  - product_development
+  - management
+mentor_country: 
+  - Italy
 published: false
 title: Matteo Gelati
 ---
