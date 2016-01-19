@@ -18,9 +18,9 @@ mentor_field:
   - tech
 mentor_country: 
   - Spain
-published: false
+published: true
 title: Javier Rodriguez Zapatero
 ---
 
-![avier Rodriguez Zapatero.jpg]({{site.baseurl}}/assets/avier Rodriguez Zapatero.jpg)
 
+![avier Rodriguez Zapatero.jpg]({{site.baseurl}}/assets/avier Rodriguez Zapatero.jpg)
