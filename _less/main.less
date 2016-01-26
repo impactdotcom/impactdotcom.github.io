@@ -719,12 +719,23 @@ footer .inner {
 }
 
 // Hot News
-
+ 
 #hot-news{
-  h1, h2, h3, h4, p {
+  h1, h2, h3, h4, p, .tab-content ul:not([class]) {
     color: @dark-color;
     strong {
       color: @dark-color;
+    }
+  }
+  .tab-content ul:not([class]) li { 
+    &:before {
+      content: '\2192';
+      font-weight: normal;
+      color: @brand-primary;
+      margin-top: -1px;
+      margin-left: -23px;
+      vertical-align: top;
+      position: absolute;
     }
   }
   a {
