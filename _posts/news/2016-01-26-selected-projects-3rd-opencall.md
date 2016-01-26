@@ -2,30 +2,21 @@
 layout: post
 category: news
 published: true
-title: IMPACT announces the winners of the 3rd and last Open Call
-lang: en
+title: IMPACT incorpora otras 18 startups europeas a su programa de aceleración y suma una financiación global de 6 millones de euros
+lang: es
 ---
 
-Third and last IMPACT Open Call successfully completed: **18**  **additional startups** have been selected to startin January the [**IMPACT Acceleration**](http://www.impact-accelerator.com/) **program** and will be receiving **fundings for a total of 1.8 million Euro**  **(100,000 Euro** per Project articulated as 90,000 Euro in funding and 10,000 Euro in services to be implemented through a 6 month specialized mentoring and training program).
+La aceleradora de proyectos de Internet móvil [**IMPACT**](http://www.impact-accelerator.com/es/) ha completado su tercera y última convocatoria: ha seleccionado a las 18 nuevas _startups_ a las que va a apoyar con financiación, _mentoring_ y formación intensiva. Cada una de ellas recibirá una media de 100.000 euros para desarrollar sus proyectos, a fondo perdido, sin intercambio de acciones.
 
-The selection has been done by 11 evaluators from all over Europe who chose the winners of the competition among 57 projects that participated to the Jury Day on Dec 9th and 10th  in Madrid.
+De las 18 _startups_, ocho son españolas; seis proceden de Italia; dos, de Estonia; una, de Alemania; y una, del Reino Unido.
 
-The 18 teams will join the 42 already selected during the other 2 Calls and will commence the **6 month specialized mentoring program** held by the EU accelerator IMPACT composed by [**Buongiorno**](http://www.buongiorno.com/)(via its accelerator b-ventures) [**ISDI**](http://www.isdi.es), [**Seaya Ventures**](http://seayaventures.com/en/)and [**Teknologiudviking ApS**](http://www.technology-development.eu/) **.** IMPACT acceleration program kick-off will be a **Welcome Week** taking place in Madrid on January 12th, 2016.
+Se dedican, mayoritariamente, al sector de servicios a empresas pero también hay proyectos de los campos de educación y ocio, redes sociales, productividad y seguridad, contenido y publicidad y _smart cities_.
 
-The 6 month acceleration process consists of mentoring and training with key digital ecosystem experts and entrepreneurs. The Mentoring Plan involves 'follow-up mentors' (intended to follow continuously the team throughout the duration of the acceleration program) and 'specialized mentors' (specialists in different strategic areas such as entrepreneurship, technology, marketing and financing).
+Con estos 18 equipos, IMPACT suma 60 proyectos apoyados a través de sus tres convocatorias y una inversión global de seis millones de euros.
 
-The training plan includes:
+Las _startups_ seleccionadas en esta tercera convocatoria son:
 
-  * a face-to-face program on entrepreneurial digital acceleration which will cover the development of start-ups, digital marketing, technology and financing, all of that focused on the mobile environment;
-  * e-learning courses about specific digital tools & capabilities necessary for the development of the companies.
 
-These 18 applications come from a **total of 971 candidates, translated into 560 applications** received from 29 countries. Only 57 were selected to pitch in front of IMPACT Selection Committee at Madrid Jury Day on 9 and 10 December, 2015.
-
-A large majority of the 57 mobile internet projects were of an outstanding level in terms of the quality of the team (mastery, skills, fluency) and the worth and attractiveness of the business ideas behind. An important criteria in the selection process was that teams had already developed prototypes using selected components of the on [FIWARE](http://www.fiware.org) European digital technologies.
-
-Each of the 18 selected participants for the 3rd Open Call IMPACT Acceleration program **receives an initial injection of up to 100,000 Euro** , without equity consideration. Funding is disbursed in three installments linked to the attainment of pre-defined business milestones over the 6 month period. Additionally, IMPACT will offer an Extended Investments Phase to the most outstanding projects after the 6-month Acceleration Process, consisting in fast track access to a network of international private investor and also to the IMPACT Partners investment programs, providing them with up to an additional 250,000 Euros, against 10% of equity with a pre-defined discount of 25% to market value.
-
-IMPACT selected startups come from all Europe: 9 have been selected from Spain, 5 from Italy, 1 from Germany, 2 from Estonia and 1 from The UK.
 
 <table class="table">
 <tr>
@@ -33,7 +24,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/agora.png">
 </td>
 <td>
-<p>Agora Voting (Spain): Secure digital elections with open source software.</p>
+<p>Agora Voting (España): Agora Voting. Plataforma para realizar elecciones digitales seguras, con software de código abierto.</p>
 </td>
 </tr>
 <tr>
@@ -41,7 +32,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/albert.png">
 </td>
 <td>
-<p>Albert (United Kingdom): The super-simple financial assistant for the self-employed on their mobile.</p>
+<p>Albert (Reino Unido): Asistente financiero mobile para autónomos.</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +40,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/antlos.png">
 </td>
 <td>
-<p>Antlos (Italy): Antlos is a peer-to-peer marketplace offering skippered boat holiday experiences.</p>
+<p>Antlos (Italia): Marketplace para que los propietarios de barcos puedan ofrecer vacaciones directamente a los viajeros.</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +48,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/bugfender.png">
 </td>
 <td>
-<p>Bugfender (Germany):	Protect your app against bugs, low ratings and bad user reviews.</p>
+<p>Bugfender (Alemania):	Protege las aplicaciones móviles contra errores de software, las calificaciones bajas y malas críticas de usuarios.</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +56,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/easystay.png">
 </td>
 <td>
-<p>Easy Stay (Spain): Easy Stay provides hospitality solutions through an innovative app that gives the user access to all of the hotels' products and services</p>
+<p>Easy Stay (España): Facilita al huésped el acceso a todos los servicios de su hotel de una manera fácil y cómoda y permite a los establecimientos adaptarse a las necesidades de los clientes.</p>
 </td>
 </tr>
 <tr>
@@ -73,7 +64,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/everyride.png">
 </td>
 <td>
-<p>eVeryride (Italy): eVeryride is the aggregator of all carsharing, bikesharing and scooter sharing services.</p>
+<p>eVeryride (Italia): eAgregador de todos los servicios de intercambio de carsharing, bikesharing y scooters.</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +72,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/neurodigital.png">
 </td>
 <td>
-<p>Gloveone (Spain):	Touch and Feel Virtual Reality with your own hands</p>
+<p>Gloveone (España):Guante para tocar y sentir la realidad virtual extendida.</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +80,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/lmsc.png">
 </td>
 <td>
-<p>LastMinuteSottoCasa (Italy):Lastminutesottocasa..food has never to be thrown away!</p>
+<p>LastMinuteSottoCasa (Italia): Permite a los comerciantes realizar ofertas de productos frescos en su zona de influencia antes de que se le estropeen.</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +88,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/lectios.png">
 </td>
 <td>
-<p>Lectios (Italy):Lectios turns text contents into audio,expanding the audience of a website and generating a new stream of revenues through audio advertising</p>
+<p>Lectios (Italia): Convierte el texto del contenido de un sitio web en audio, ampliando la audiencia y generando una nueva fuente de ingresos a través de publicidad.</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +96,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/little.png">
 </td>
 <td>
-<p>Little Smart Planet (Spain): Learning system based on educational mobile games for Primary and Secondary school. The more you play the more proficient you become.</p>
+<p>Little Smart Planet (España): Sistema de aprendizaje basado en juegos móviles educativos para reforzar lo aprendido en la escuela primaria y secundaria.</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +104,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/meteor.png">
 </td>
 <td>
-<p>MeteorDesk (Spain): METEORDESK connects the customer service industry to the two billion people using instant messaging mobile applications.</p>
+<p>MeteorDesk (España): Facilita a las empresas la atención al cliente a través de aplicaciones móviles de mensajería instantánea. </p>
 </td>
 </tr>
 <tr>
@@ -121,7 +112,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/multidub.png">
 </td>
 <td>
-<p>MultiDub (Spain): MultiLanguage. MultiYou. The movies, in your language. Wherever you are. Just with your smartphone, earphones and internet connection.</p>
+<p>MultiDub (España): Permite escuchar cualquier película en cualquier idioma a través de un dispositivo móvil con conexión a Internet.</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +120,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/situm.png">
 </td>
 <td>
-<p>Situm (Spain): GPS for indoor spaces</p>
+<p>Situm (España): Tecnología de localización en interiores, capaz de adaptarse a cualquier espacio, evitando la instalación de hardware adicional.</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +128,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/sporty.png">
 </td>
 <td>
-<p>Sporty Heroes (Spain): Video Content Marketplace where brands can save time and money finding authentic, inspiring stories published by awesome athletes</p>
+<p>Sporty Heroes (España): Marketplace de contenido de vídeo en donde las marcas pueden encontrar historias inspiradoras publicadas por grandes atletas, profesionales y amateurs, de todo el mundo.</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +136,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/taxy.png">
 </td>
 <td>
-<p>TaxiStartup (Estonia): TaxiStartup helps taxi and limo companies compete with Uber by providing advanced cloud tech and white label mobile apps.</p>
+<p>TaxiStartup (Estonia): Permite a las empresas de taxi y de alquiler de limusinas crear una red de conductores personalizada a través de tecnología cloud y aplicaciones con “marca blanca”.</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +144,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/timejoy.png">
 </td>
 <td>
-<p>TimeJoy (Estonia): Unique combination between a smart calendar and a personal assistant.</p>
+<p>TimeJoy (Estonia): App que combina un calendario inteligente y un asistente personal, permitiendo reservar taxi o parking.</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +152,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/wazy.png">
 </td>
 <td>
-<p>Wazypark (Spain): Wazypark is creating the most valuable community of car drivers by offering solutions to daily driving problems in a disrupting way!</p>
+<p>Wazypark (España): Comunidad de más de 500.000 conductores de automóviles, que se avisan de los huecos que dejan libres al empezar a conducir, ayudando a otros a encontrar plaza más rápido y ganando dinero con ello.</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +160,7 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 <img src="/assets/empresas3/whataspace.png">
 </td>
 <td>
-<p>What a Space (Italy): What a Space is a B2B online community and marketplace for businesses and young entrepreneurs to rent short-term retail and event spaces.</p>
+<p>What a Space (Italia): Comunidad online y marketplace para el alquiler de espacios comerciales durante cortos espacios de tiempo y para eventos, orientada a empresas y emprendedores.</p>
 </td>
 </tr>
 </table>
@@ -177,13 +168,18 @@ IMPACT selected startups come from all Europe: 9 have been selected from Spain, 
 
 
 
-**IMPACT results:**
+**Proceso de selección**
 
-IMPACT accelerator is consolidating an acceleration process based on transparency and high performance which has been satisfactorily evaluated by the Startups .The training program has been evaluated with 8,2 points out to 10, and the Mentoring Program 9,4 out to 10 and, in general, IMPACT has gotten a Net Promoter Score of 84% which means that more than 80% of startups participating are really satisfied with IMPACT. Few positive results of IMPACT's startups are:
+IMPACT recibió en esta tercera _open call_ 971 solicitudes desde 29 países (173 ciudades), de las cuales 560 cumplieron con los criterios de selección.
 
-- [8Fit](https://8fit.com/) has closed a round of 2,5 million Euro
-- [Wiffinity](https://wiffinity.com/), was chosen by  [US Today as one of the top 10 startups worldwide in traveling](http://www.10best.com/awards/travel/best-new-travel-app/wiffinity/)
-- [Alpify](http://www.alpify.com/es/) was chosen by  [El Diario Expansion as one of the 50 best mobile apps in 2015](http://www.expansion.com/economia-digital/premios/votacion.html)
-- [Roberto Gomez](https://es.linkedin.com/in/rgomezv), CEO  [INEVIO](https://www.inevio.com/) has just been elected  [by MIT](http://www.technologyreview.es/tr35espana/1617/roberto-gomez/)as the best entrepreneur under the age of 35
+El 9 y 10 de diciembre, IMPACT convocó en Madrid a las 57 _startups_ finalistas al **Jury Day**. El jurado identificó en dos fases los 18 mejores proyectos: la primera consistió en un _pitch_ o presentación de cuatro minutos y tres de preguntas. En la segunda fase, de entrevistas personales, más extensas, el jurado, compuesto por 10 expertos europeos, pudo aclarar sus dudas y ver demostraciones de uso de los proyectos.
 
-In terms of Mentors IMPACT continuous to grow. Mentors committed to the first Open Call are: Steve Cadigan (ex VP LinkedIn),), Mauro del Río (Buongiorno's Founder), Inmaculada Martínez (London Business Cathalyst ambassador and Favr.tt CEO), Francois Derbaix (Indexa Capital and Ex Top Rural founder), Gustavo García Brusilovski (Buy VIP founder), Carina Szpilka (UNICEF VP and Ex ING general Manager) or Didac Lee (F.C. Barcelona Advisory Board and Founder & CEO of Inspirit). Following are few mentor's that belong to the second and third Open Call: Oscar Gallego (WW Direct at Hewlett Packard), Tony Raurich (EMEA Director at Booking.com), Javier Rodriguez Zapatero (Managing Director Spain & Portugal at Google), Bindi Karia (ex VP at Silicon Valley Bank), Arnaldo Muñoz (Managing Director Spain & Portugal at Airbnb) or Iñigo Onieva (ex VP of NH Hotels))
+A la _open call_ se presentaron _startups_ de 29 países europeos y de 173 ciudades diferentes, con un 44% de las iniciativas provenientes de _startups_ españolas, el 15% italianas, un 5% de Polonia, Alemania y Reino Unido. El 26% restante eran de hasta 24 nacionalidades diferentes.
+
+De ellos, el 67% se encuentran en fase _startup_ (con un prototipo funcional disponible, una valoración menor de un millón de euros y en los que al menos dos fundadores tienen una dedicación plena a la compañía). Y el 33% en fase de crecimiento (empresas desarrolladas, con presencia en el mercado, con menos de siete años de vida, una facturación que oscila entre uno y dos millones de euros y en las que los fundadores mantienen al menos el 51% del accionariado).  Más del 50% de las iniciativas tienen de 3 a 5 empleados, un 20% menos de 3 y 30% más de 5 empleados.
+
+Todas las 570 iniciativas cumplían el requisito de encontrarse en el entorno _mobile_ y usar o se comprometían a utilizar tecnología [**FIWARE**](http://www.fi-ware.org/), una infraestructura innovadora y abierta impulsada por la [Unión Europea](http://europa.eu/index_es.htm) (UE) y basada en la _nube_ para la creación y publicación de aplicaciones y servicios de Internet.
+
+**Nacho de Pinedo** , _CEO_ de ISDI y _Steering Committee_ de IMPACT destaca _"con esta nueva edición, IMPACT consolida su modelo internacional de aceleración de startups, centrado en la transparencia y el alto rendimiento. Este modelo se basa en la capacidad de atraer un gran dealflow de  proyectos de calidad de toda Europa, y en proporcionar un servicio de aceleración deslocalizado, en el que la formación en el negocio digital, la altura de los mentores y los procesos de seguimiento permiten maximizar el potencial de los emprendedores"._
+
+El pasado 12 de enero se celebró en Madrid el _Welcome Event_, que reunió a los equipos de las _startups_ seleccionadas, en un acto que tuvo como ponente principal a **Miguel Arias** , _COO_ de CartoDB. Arias ofreció en una ponencia abierta al público consejos para emprendedores tecnológicos, basándose en su experiencia. CartoDB ha pasado en sólo dos años de 200 a 1.200 clientes y triplica sus ingresos anualmente. La empresa cerró 2015 con más de 130.000 usuarios, 1.000 clientes de pago y una estructura de 50 personas. Han logrado cerrar una nueva ronda de financiación por 23 millones de dólares.
