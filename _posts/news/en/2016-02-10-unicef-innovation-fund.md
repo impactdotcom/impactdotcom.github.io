@@ -7,10 +7,6 @@ published: true
 title: UNICEF INNOVATION FUND
 ---
 
-
-
-![uninno.png]({{site.baseurl}}/assets/uninno.png)
-
 The United Nations will fund 60 startups to create open source technologies to improve the lives of children in developing countries.
  
 Unicef, the children's charity run by the UN, will channel more than $9 million into startups based on venture capital-style investing. But it isn't concerned if the companies fail.
