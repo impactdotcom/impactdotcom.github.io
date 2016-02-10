@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-image: /assets/uninno.png
+image: ""
 lang: en
 published: true
 title: UNICEF INNOVATION FUND
