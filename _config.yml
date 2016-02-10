@@ -289,6 +289,8 @@ prose:
           options:
             - name: Adventure 
               value: Adventure
+            - name: Advertising 
+              value: Advertising
             - name: Analytics 
               value: Analytics
             - name: Big Data 
@@ -327,6 +329,8 @@ prose:
               value: Fintech
             - name: Fitness 
               value: Fitness
+            - name: Food 
+              value: Food
             - name: Football 
               value: Football
             - name: Health 
@@ -341,6 +345,8 @@ prose:
               value: Learning
             - name: Media / Smart Tv 
               value: MediaSmartTv
+            - name: Messaging 
+              value: Messaging
             - name: Mobile Technology 
               value: MobileTechnology
             - name: Music 
@@ -349,22 +355,34 @@ prose:
               value: Payments
             - name: Pictures 
               value: Pictures
+            - name: Productivity 
+              value: Productivity
             - name: Retail 
               value: Retail
             - name: Sailing 
               value: Sailing
             - name: Science 
               value: Science
+            - name: Shareconomy 
+              value: Shareconomy
             - name: Security 
               value: Security
+            - name: SmartCities 
+              value: SmartCities
+            - name: Smart TV 
+              value: SmartTV
             - name: Social 
               value: Social
+            - name: Sports 
+              value: Sports
             - name: Telco 
               value: Telco
             - name: Travel 
               value: Travel
             - name: TTS 
               value: TTS
+            - name: VR 
+              value: VR
             - name: Weather 
               value: Weather
       - name: "bussiness"
