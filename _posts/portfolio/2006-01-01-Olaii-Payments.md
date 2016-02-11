@@ -11,7 +11,7 @@ sector:
   - Payments 
   - Events
 bussiness: 
-  - Servicios
+  - Service
 model:
   - B2B
 country: 
