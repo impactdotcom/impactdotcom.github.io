@@ -1,7 +1,7 @@
 ---
 layout: default
 category: equipo
-title: "Daniel Twal -"
+title: "Daniel Twal"
 cargo: ""
 cargo_impact_es: Equipo de organización
 cargo_impact_en: Organization Team
