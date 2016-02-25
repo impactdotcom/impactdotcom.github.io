@@ -7,7 +7,7 @@ cargo_impact_en: Communications
 "linked-in": "http://es.linkedin.com/in/vesna-boskovic-aba62334"
 twitter: ""
 image: /img/equipo/vesna.jpg
-published: true
+published: false
 title: Vesna Boskovic
 ---
 
