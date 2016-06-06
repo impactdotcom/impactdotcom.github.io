@@ -1,7 +1,7 @@
 ---
 layout: default
 category: mentor
-published: false
+published: true
 title: Diego Fernández
 cargo_impact_es: Mentor
 cargo_impact_en: Mentor
@@ -20,4 +20,3 @@ image: /assets/diego fernandez.jpg
 ---
 
 ![diego fernandez.jpg]({{site.baseurl}}/assets/diego fernandez.jpg)
-
