@@ -17,6 +17,7 @@ mentor_field:
 mentor_country:
   - Spain
 image: /assets/diego fernandez.jpg
+twitter: 'https://twitter.com/twittingenio'
 ---
 
 ![diego fernandez.jpg]({{site.baseurl}}/assets/diego fernandez.jpg)
