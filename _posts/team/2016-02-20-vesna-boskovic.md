@@ -4,7 +4,7 @@ category: equipo
 cargo_impact_es: Comunicación
 cargo_impact_en: Communications
 linked-in: 'https://www.linkedin.com/in/emilymcarroll'
-image: /img/equipo/emilycarroll.jpg
+image: /assets/emilycarroll.resized.jpg
 published: true
 title: Emily Carroll
 ---
