@@ -1,13 +1,10 @@
 ---
 layout: default
 category: equipo
-cargo: ""
 cargo_impact_es: Comunicación
 cargo_impact_en: Communications
-"linked-in": "http://es.linkedin.com/in/vesna-boskovic-aba62334"
-image: /img/equipo/vesna.boskovic.jpg
+linked-in: 'https://www.linkedin.com/in/emilymcarroll'
+image: /img/equipo/emilycarroll.jpg
 published: true
-title: Vesna Boskovic
+title: Emily Carroll
 ---
-
-
