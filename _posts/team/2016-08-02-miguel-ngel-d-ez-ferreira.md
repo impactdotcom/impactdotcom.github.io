@@ -3,7 +3,6 @@ layout: default
 category: equipo
 published: false
 title: Miguel Ángel Díez Ferreira
-cargo: Training Coordinator
 cargo_impact_es: Coordinador de Formación
 cargo_impact_en: Training Coordinator
 linked-in: 'https://www.linkedin.com/in/ferrenet'
