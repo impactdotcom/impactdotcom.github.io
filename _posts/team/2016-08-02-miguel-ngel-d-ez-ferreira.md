@@ -1,7 +1,7 @@
 ---
 layout: default
 category: equipo
-published: false
+published: true
 title: Miguel Ángel Díez Ferreira
 cargo_impact_es: Coordinador de Formación
 cargo_impact_en: Training Coordinator
