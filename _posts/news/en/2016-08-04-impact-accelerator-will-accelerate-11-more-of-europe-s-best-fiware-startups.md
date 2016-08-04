@@ -43,7 +43,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.donkey.bike/"><img src="/assets/winners-2nd/dnaphone.png"></a>
+<a href="http://www.donkey.bike/"><img src="/assets/Donkey Republic logo.png"></a>
 </td>
 <td>
 <p>Donkey Republic: World's bike rental platform</p>
@@ -79,7 +79,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.leeluu.fi/"><img src="/assets/winners-2nd/glampinghub.png"></a>
+<a href="http://www.leeluu.fi/"><img src="/assets/Leeluu_logo3.png"></a>
 </td>
 <td>
 <p>LeeLuu: Magical Together.</p>
