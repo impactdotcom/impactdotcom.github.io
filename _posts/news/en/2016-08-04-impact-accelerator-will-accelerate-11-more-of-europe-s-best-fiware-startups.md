@@ -152,6 +152,6 @@ Startups taking part in the IMPACT Extension Program are:
 </table>
 
 
-Congratulations to the new #IMPACTers, and best of luck to them!
+Congratulations to the new #IMPACTers, and best of luck!
 
 _IMPACT Extension is a joint effort between [ISDI](http://www.isdi.es/), [Buongiorno](http://www.buongiorno.com/) (via its accelerator b-ventures), [Seaya Ventures](http://seayaventures.com/en/), [Teknologiudviking ApS](http://www.technology-development.eu/), and the IMPACT team. It has received funding from the European Union Seventh Framework Programme (FP7/2007-2013) under grant agreement number 632828._
