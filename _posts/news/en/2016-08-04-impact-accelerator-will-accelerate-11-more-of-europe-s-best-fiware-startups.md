@@ -58,7 +58,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.fueloyal.com"><img src="/assets/winners-2nd/fueloyal.png"></a>
 </td>
 <td>
-<p>Fueloyal: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
+<p>FUELOYAL: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
 </td>
 <td>
 <p>Bulgaria</p>
@@ -70,7 +70,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.glampinghub.com"><img src="/assets/winners-2nd/glampinghub.png"></a>
 </td>
 <td>
-<p>Glamping Hub: The world's leading platform for unique outdoors accommodations.</p>
+<p>GLAMPINGHUB: The world's leading platform for unique outdoors accommodations.</p>
 </td>
 <td>
 <p>Spain</p>
@@ -79,108 +79,76 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<img src="/assets/empresas3/everyride.png">
+<a href="http://www.leeluu.fi/"><img src="/assets/winners-2nd/glampinghub.png"></a>
 </td>
 <td>
-<p>eVeryride (Italy): eVeryride is the aggregator of all carsharing, bikesharing and scooter sharing services.</p>
+<p>LeeLuu: Magical Together.</p>
+</td>
+<td>
+<p>Finland</p>
 </td>
 </tr>
+
 <tr>
 <td>
-<img src="/assets/empresas3/neurodigital.png">
+<a href="http://www.measurence.com"><img src="/assets/winners-2nd/measurence.png"></a>
 </td>
 <td>
-<p>Gloveone (Spain):	Touch and Feel Virtual Reality with your own hands</p>
+<p>Measurence: Actionable data platform for the physical world.</p>
+</td>
+<td>
+<p>Ireland</p>
 </td>
 </tr>
+
 <tr>
 <td>
-<img src="/assets/empresas3/lmsc.png">
+<a href="http://www.atsora.com/en"><img src="/assets/winners-2nd/atsora.png"></a>
 </td>
 <td>
-<p>LastMinuteSottoCasa (Italy):Lastminutesottocasa..food has never to be thrown away!</p>
+<p>Momentum: Mobile and web platform as "one-stop-shop" for SME financial services- integration of business management tools with fintech services.</p>
+</td>
+<td>
+<p>Poland</p>
 </td>
 </tr>
+
 <tr>
 <td>
-<img src="/assets/empresas3/lectios.png">
+<a href="https://notegraphy.com/"><img src="/assets/notegraphy100.jpg"></a>
 </td>
 <td>
-<p>Lectios (Italy):Lectios turns text contents into audio,expanding the audience of a website and generating a new stream of revenues through audio advertising</p>
+<p>Notegraphy: Making your text messages and social media posts more meaningful and fun.</p>
+</td>
+<td>
+<p>Spain</p>
 </td>
 </tr>
+
 <tr>
 <td>
-<img src="/assets/empresas3/little.png">
+<a href="http://www.situm.es/"><img src="/assets/empresas3/situm.png"></a>
 </td>
 <td>
-<p>Little Smart Planet (Spain): Learning system based on educational mobile games for Primary and Secondary school. The more you play the more proficient you become.</p>
+<p>Situm: Hardware-free indoor positioning platform for smartphones.</p>
+</td>
+<td>
+<p>Spain</p>
 </td>
 </tr>
+
 <tr>
 <td>
-<img src="/assets/empresas3/meteor.png">
+<a href="http://www.umanick.com/"><img src="/assets/winners-2nd/atsora.png"></a>
 </td>
 <td>
-<p>MeteorDesk (Spain): METEORDESK connects the customer service industry to the two billion people using instant messaging mobile applications.</p>
+<p>UMANICK: Safer patients with secure biometric identification.</p>
+</td>
+<td>
+<p>Spain</p>
 </td>
 </tr>
-<tr>
-<td>
-<img src="/assets/empresas3/multidub.png">
-</td>
-<td>
-<p>MultiDub (Spain): MultiLanguage. MultiYou. The movies, in your language. Wherever you are. Just with your smartphone, earphones and internet connection.</p>
-</td>
-</tr>
-<tr>
-<td>
-<img src="/assets/empresas3/situm.png">
-</td>
-<td>
-<p>Situm (Spain): GPS for indoor spaces</p>
-</td>
-</tr>
-<tr>
-<td>
-<img src="/assets/empresas3/sporty.png">
-</td>
-<td>
-<p>Sporty Heroes (Spain): Video Content Marketplace where brands can save time and money finding authentic, inspiring stories published by awesome athletes</p>
-</td>
-</tr>
-<tr>
-<td>
-<img src="/assets/empresas3/taxy.png">
-</td>
-<td>
-<p>TaxiStartup (Estonia): TaxiStartup helps taxi and limo companies compete with Uber by providing advanced cloud tech and white label mobile apps.</p>
-</td>
-</tr>
-<tr>
-<td>
-<img src="/assets/empresas3/timejoy.png">
-</td>
-<td>
-<p>TimeJoy (Estonia): Unique combination between a smart calendar and a personal assistant.</p>
-</td>
-</tr>
-<tr>
-<td>
-<img src="/assets/empresas3/wazy.png">
-</td>
-<td>
-<p>Wazypark (Spain): Wazypark is creating the most valuable community of car drivers by offering solutions to daily driving problems in a disrupting way!</p>
-</td>
-</tr>
-<tr>
-<td>
-<img src="/assets/empresas3/whataspace.png">
-</td>
-<td>
-<p>What a Space (Italy): What a Space is a B2B online community and marketplace for businesses and young entrepreneurs to rent short-term retail and event spaces.</p>
-</td>
-</tr>
+
 </table>
 
 
