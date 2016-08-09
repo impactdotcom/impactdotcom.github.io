@@ -56,7 +56,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.fueloyal.com"><img src="/assets/portfolio/fueloyal.png"></a>
+<a href="http://www.fueloyal.com"><img src="/assets/fueloyal logo.png"></a>
 </td>
 <td>
 <p>FUELOYAL: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
