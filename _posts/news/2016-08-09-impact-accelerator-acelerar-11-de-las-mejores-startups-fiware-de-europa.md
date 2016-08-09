@@ -22,7 +22,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="https://www.antlos.com/"><img src="/assets/antlos logo.png"></a>
 </td>
 <td>
-<p>Antlos: Antlos is a peer-to-peer marketplace offering skippered boat holiday experiences.</p>
+<p><a href="https://www.antlos.com/">Antlos</a>: Antlos is a peer-to-peer marketplace offering skippered boat holiday experiences.</p>
 </td>
 <td>
 <p>Italy</p>
@@ -34,7 +34,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.dnaphone.it"><img src="/assets/dnaphone logo.png"></a>
 </td>
 <td>
-<p>DNAPhone: DNAPhone allows you to learn and build portable devices for scientific purposes througt IoT technologies, in an economic and simple way.</p>
+<p><a href="http://www.dnaphone.it">DNAPhone</a>: DNAPhone allows you to learn and build portable devices for scientific purposes througt IoT technologies, in an economic and simple way.</p>
 </td>
 <td>
 <p>Italy</p>
@@ -46,7 +46,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.donkey.bike/"><img src="/assets/Donkey Republic logo 200.png"></a>
 </td>
 <td>
-<p>Donkey Republic: World's bike rental platform</p>
+<p><a href="http://www.donkey.bike/">Donkey Republic</a>: World's bike rental platform</p>
 </td>
 <td>
 <p>Denmark</p>
@@ -58,7 +58,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.fueloyal.com"><img src="/assets/fueloyal logo.png"></a>
 </td>
 <td>
-<p>FUELOYAL: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
+<p><a href="http://www.fueloyal.com">FUELOYAL</a>: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
 </td>
 <td>
 <p>Bulgaria</p>
@@ -70,7 +70,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.glampinghub.com"><img src="/assets/glamping hub logo.png"></a>
 </td>
 <td>
-<p>GLAMPING HUB: The world's leading platform for unique outdoors accommodations.</p>
+<p><a href="http://www.glampinghub.com">GLAMPING HUB</a>: The world's leading platform for unique outdoors accommodations.</p>
 </td>
 <td>
 <p>Spain</p>
@@ -82,7 +82,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.leeluu.fi/"><img src="/assets/Leeluu_logo3.png"></a>
 </td>
 <td>
-<p>LeeLuu: Magical Together.</p>
+<p><a href="http://www.leeluu.fi/">LeeLuu</a>: Magical Together.</p>
 </td>
 <td>
 <p>Finland</p>
@@ -94,7 +94,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.measurence.com"><img src="/assets/measurence logo.png"></a>
 </td>
 <td>
-<p>Measurence: Actionable data platform for the physical world.</p>
+<p><a href="http://www.measurence.com">Measurence</a>: Actionable data platform for the physical world.</p>
 </td>
 <td>
 <p>Ireland</p>
