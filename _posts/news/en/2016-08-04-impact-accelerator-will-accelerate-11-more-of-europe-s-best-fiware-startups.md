@@ -104,7 +104,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.atsora.com/en"><img src="/assets/portfolio/atsora.png"></a>
+<a href="http://www.atsora.com/en"><img src="/assets/momentum logo.png"></a>
 </td>
 <td>
 <p>Momentum: Mobile and web platform as "one-stop-shop" for SME financial services- integration of business management tools with fintech services.</p>
@@ -140,7 +140,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.umanick.com/"><img src="/assets/winners-2nd/atsora.png"></a>
+<a href="http://www.umanick.com/"><img src="/assets/umanick logo.png"></a>
 </td>
 <td>
 <p>UMANICK: Safer patients with secure biometric identification.</p>
