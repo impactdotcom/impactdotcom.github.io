@@ -3,6 +3,7 @@ layout: post
 category: news
 published: false
 title: IMPACT ACCELERATOR acelerará 11 de las mejores startups FIWARE de Europa
+lang: es
 ---
 ## Ya es oficial: IMPACT Accelerator ha abierto sus puertas a otras 11 startups [FIWARE](https://www.fiware.org/). La iniciativa ofrecerá formación y servicios premium a startups maduras. Será la cuarta convocatoria y se llamará **IMPACT Extension Program**.
 
