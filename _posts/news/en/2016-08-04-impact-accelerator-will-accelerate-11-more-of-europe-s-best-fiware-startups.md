@@ -128,7 +128,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.situm.es/"><img src="/assets/empresas3/situm.png"></a>
+<a href="http://www.situm.es/"><img src="/assets/situm logo.png"></a>
 </td>
 <td>
 <p>Situm: Hardware-free indoor positioning platform for smartphones.</p>
