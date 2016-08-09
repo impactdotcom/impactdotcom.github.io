@@ -20,7 +20,7 @@ Startups taking part in the IMPACT Extension Program are:
 <table class="table">
 <tr>
 <td>
-<a href="https://www.antlos.com/"><img src="/assets/empresas3/antlos.png"></a>
+<a href="https://www.antlos.com/"><img src="/assets/antlos logo.png"></a>
 </td>
 <td>
 <p>Antlos: Antlos is a peer-to-peer marketplace offering skippered boat holiday experiences.</p>
@@ -116,7 +116,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="https://notegraphy.com/"><img src="/assets/notegraphy100.jpg"></a>
+<a href="https://notegraphy.com/"><img src="/assets/notegraphy logo.png"></a>
 </td>
 <td>
 <p>Notegraphy: Making your text messages and social media posts more meaningful and fun.</p>
