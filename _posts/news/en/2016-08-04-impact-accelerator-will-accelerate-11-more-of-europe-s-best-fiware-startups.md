@@ -32,7 +32,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.dnaphone.it"><img src="/assets/portfolio/dnaphone.png"></a>
+<a href="http://www.dnaphone.it"><img src="/assets/dnaphone logo.png"></a>
 </td>
 <td>
 <p>DNAPhone: DNAPhone allows you to learn and build portable devices for scientific purposes througt IoT technologies, in an economic and simple way.</p>
@@ -44,7 +44,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.donkey.bike/"><img src="/assets/Donkey Republic logo 200.png)"></a>
+<a href="http://www.donkey.bike/"><img src="/assets/Donkey Republic logo 200.png"></a>
 </td>
 <td>
 <p>Donkey Republic: World's bike rental platform</p>
