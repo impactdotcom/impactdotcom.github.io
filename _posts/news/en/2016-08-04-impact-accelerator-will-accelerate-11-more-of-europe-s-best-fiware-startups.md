@@ -23,7 +23,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="https://www.antlos.com/"><img src="/assets/antlos logo.png"></a>
 </td>
 <td>
-<p>Antlos: Antlos is a peer-to-peer marketplace offering skippered boat holiday experiences.</p>
+<p><a href="https://www.antlos.com/">Antlos</a>: Antlos is a peer-to-peer marketplace offering skippered boat holiday experiences.</p>
 </td>
 <td>
 <p>Italy</p>
@@ -35,7 +35,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.dnaphone.it"><img src="/assets/dnaphone logo.png"></a>
 </td>
 <td>
-<p>DNAPhone: DNAPhone allows you to learn and build portable devices for scientific purposes througt IoT technologies, in an economic and simple way.</p>
+<p><a href="http://www.dnaphone.it">DNAPhone</a>: DNAPhone allows you to learn and build portable devices for scientific purposes througt IoT technologies, in an economic and simple way.</p>
 </td>
 <td>
 <p>Italy</p>
@@ -47,7 +47,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.donkey.bike/"><img src="/assets/Donkey Republic logo 200.png"></a>
 </td>
 <td>
-<p>Donkey Republic: World's bike rental platform</p>
+<p><a href="http://www.donkey.bike/">Donkey Republic</a>: World's bike rental platform</p>
 </td>
 <td>
 <p>Denmark</p>
@@ -59,7 +59,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.fueloyal.com"><img src="/assets/fueloyal logo.png"></a>
 </td>
 <td>
-<p>FUELOYAL: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
+<p><a href="http://www.fueloyal.com">FUELOYAL</a>: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
 </td>
 <td>
 <p>Bulgaria</p>
@@ -71,7 +71,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.glampinghub.com"><img src="/assets/glamping hub logo.png"></a>
 </td>
 <td>
-<p>GLAMPING HUB: The world's leading platform for unique outdoors accommodations.</p>
+<p><a href="http://www.glampinghub.com">GLAMPING HUB</a>: The world's leading platform for unique outdoors accommodations.</p>
 </td>
 <td>
 <p>Spain</p>
@@ -83,7 +83,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.leeluu.fi/"><img src="/assets/Leeluu_logo3.png"></a>
 </td>
 <td>
-<p>LeeLuu: Magical Together.</p>
+<p><a href="http://www.leeluu.fi/">LeeLuu</a>: Magical Together.</p>
 </td>
 <td>
 <p>Finland</p>
@@ -95,7 +95,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.measurence.com"><img src="/assets/measurence logo.png"></a>
 </td>
 <td>
-<p>Measurence: Actionable data platform for the physical world.</p>
+<p><a href="http://www.measurence.com">Measurence</a>: Actionable data platform for the physical world.</p>
 </td>
 <td>
 <p>Ireland</p>
@@ -107,7 +107,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.atsora.com/en"><img src="/assets/momentum logo.png"></a>
 </td>
 <td>
-<p>Momentum: Mobile and web platform as "one-stop-shop" for SME financial services- integration of business management tools with fintech services.</p>
+<p><a href="http://www.atsora.com/en">Momentum</a>: Mobile and web platform as "one-stop-shop" for SME financial services- integration of business management tools with fintech services.</p>
 </td>
 <td>
 <p>Poland</p>
@@ -119,7 +119,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="https://notegraphy.com/"><img src="/assets/notegraphy logo.png"></a>
 </td>
 <td>
-<p>Notegraphy: Making your text messages and social media posts more meaningful and fun.</p>
+<p><a href="https://notegraphy.com/">Notegraphy</a>: Making your text messages and social media posts more meaningful and fun.</p>
 </td>
 <td>
 <p>Spain</p>
@@ -131,7 +131,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.situm.es/"><img src="/assets/situm logo.png"></a>
 </td>
 <td>
-<p>Situm: Hardware-free indoor positioning platform for smartphones.</p>
+<p><a href="http://www.situm.es/">Situm</a>: Hardware-free indoor positioning platform for smartphones.</p>
 </td>
 <td>
 <p>Spain</p>
@@ -143,7 +143,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.umanick.com/"><img src="/assets/umanick logo.png"></a>
 </td>
 <td>
-<p>UMANICK: Safer patients with secure biometric identification.</p>
+<p><a href="http://www.umanick.com/">UMANICK</a>: Safer patients with secure biometric identification.</p>
 </td>
 <td>
 <p>Spain</p>
