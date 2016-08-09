@@ -68,10 +68,10 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.glampinghub.com"><img src="/assets/portfolio/glampinghub.png"></a>
+<a href="http://www.glampinghub.com"><img src="/assets/glamping hub logo.png"></a>
 </td>
 <td>
-<p>GLAMPINGHUB: The world's leading platform for unique outdoors accommodations.</p>
+<p>GLAMPING HUB: The world's leading platform for unique outdoors accommodations.</p>
 </td>
 <td>
 <p>Spain</p>
@@ -92,7 +92,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.measurence.com"><img src="/assets/portfolio/measurence.png"></a>
+<a href="http://www.measurence.com"><img src="/assets/measurence logo.png"></a>
 </td>
 <td>
 <p>Measurence: Actionable data platform for the physical world.</p>
