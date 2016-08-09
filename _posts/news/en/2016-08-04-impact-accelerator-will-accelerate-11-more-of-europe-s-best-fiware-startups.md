@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: IMPACT ACCELERATOR will accelerate 11 more of Europe’s best FIWARE startups
 lang: en
 ---
@@ -32,7 +32,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.dnaphone.it"><img src="/assets/winners-2nd/dnaphone.png"></a>
+<a href="http://www.dnaphone.it"><img src="/assets/portfolio/dnaphone.png"></a>
 </td>
 <td>
 <p>DNAPhone: DNAPhone allows you to learn and build portable devices for scientific purposes througt IoT technologies, in an economic and simple way.</p>
@@ -56,7 +56,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.fueloyal.com"><img src="/assets/winners-2nd/fueloyal.png"></a>
+<a href="http://www.fueloyal.com"><img src="/assets/portfolio/fueloyal.png"></a>
 </td>
 <td>
 <p>FUELOYAL: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
@@ -68,7 +68,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.glampinghub.com"><img src="/assets/winners-2nd/glampinghub.png"></a>
+<a href="http://www.glampinghub.com"><img src="/assets/portfolio/glampinghub.png"></a>
 </td>
 <td>
 <p>GLAMPINGHUB: The world's leading platform for unique outdoors accommodations.</p>
@@ -92,7 +92,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.measurence.com"><img src="/assets/winners-2nd/measurence.png"></a>
+<a href="http://www.measurence.com"><img src="/assets/portfolio/measurence.png"></a>
 </td>
 <td>
 <p>Measurence: Actionable data platform for the physical world.</p>
@@ -104,7 +104,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.atsora.com/en"><img src="/assets/winners-2nd/atsora.png"></a>
+<a href="http://www.atsora.com/en"><img src="/assets/portfolio/atsora.png"></a>
 </td>
 <td>
 <p>Momentum: Mobile and web platform as "one-stop-shop" for SME financial services- integration of business management tools with fintech services.</p>
