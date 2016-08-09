@@ -23,10 +23,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="https://www.antlos.com/"><img src="/assets/antlos logo.png"></a>
 </td>
 <td>
-<p><a href="https://www.antlos.com/">Antlos</a>: Antlos is a peer-to-peer marketplace offering skippered boat holiday experiences.</p>
+<p><a href="https://www.antlos.com/">Antlos</a>: Marketplace para que los propietarios de barcos puedan ofrecer vacaciones directamente a los viajeros.</p>
 </td>
 <td>
-<p>Italy</p>
+<p>Italia</p>
 </td>
 </tr>
 
@@ -35,10 +35,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.dnaphone.it"><img src="/assets/dnaphone logo.png"></a>
 </td>
 <td>
-<p><a href="http://www.dnaphone.it">DNAPhone</a>: DNAPhone allows you to learn and build portable devices for scientific purposes througt IoT technologies, in an economic and simple way.</p>
+<p><a href="http://www.dnaphone.it">DNAPhone</a>: DNAPhone te permite aprender y crear dispositivos portátiles con propósitos científicos a través de Internet de las cosas, de una forma económica y simple.</p>
 </td>
 <td>
-<p>Italy</p>
+<p>Italia</p>
 </td>
 </tr>
 
@@ -50,7 +50,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <p><a href="http://www.donkey.bike/">Donkey Republic</a>: World's bike rental platform</p>
 </td>
 <td>
-<p>Denmark</p>
+<p>Dinamarca</p>
 </td>
 </tr>
 
@@ -59,7 +59,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.fueloyal.com"><img src="/assets/fueloyal logo.png"></a>
 </td>
 <td>
-<p><a href="http://www.fueloyal.com">FUELOYAL</a>: Developed smart fuelcap that is installed on the fuel tanks on vehicles, controls and prevents fuel theft.</p>
+<p><a href="http://www.fueloyal.com">Fueloyal</a>: Fueloyal desarrolló el producto smart fuelcap que se instala en los tanques de combustible de los vehículos para controlar y evitar el robo de combustible.</p>
 </td>
 <td>
 <p>Bulgaria</p>
@@ -71,10 +71,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.glampinghub.com"><img src="/assets/glamping hub logo.png"></a>
 </td>
 <td>
-<p><a href="http://www.glampinghub.com">GLAMPING HUB</a>: The world's leading platform for unique outdoors accommodations.</p>
+<p><a href="http://www.glampinghub.com">Glamping Hub</a>: Glamping Hub es la plataforma líder a nivel mundial para alojamientos al aire libre únicos.</p>
 </td>
 <td>
-<p>Spain</p>
+<p>España</p>
 </td>
 </tr>
 
@@ -86,7 +86,7 @@ Las startups que participarán en el IMPACT Extension Program son:
 <p><a href="http://www.leeluu.fi/">LeeLuu</a>: Magical Together.</p>
 </td>
 <td>
-<p>Finland</p>
+<p>Finlandia</p>
 </td>
 </tr>
 
@@ -95,10 +95,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.measurence.com"><img src="/assets/measurence logo.png"></a>
 </td>
 <td>
-<p><a href="http://www.measurence.com">Measurence</a>: Actionable data platform for the physical world.</p>
+<p><a href="http://www.measurence.com">Measurence</a>: Ayuda a transformar las tiendas en websites físicos generando conocimiento a través de una platforma IOT, y compartiendolo fácilmente con diferentes actores.</p>
 </td>
 <td>
-<p>Ireland</p>
+<p>Irlanda</p>
 </td>
 </tr>
 
@@ -107,10 +107,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.atsora.com/en"><img src="/assets/momentum logo.png"></a>
 </td>
 <td>
-<p><a href="http://www.atsora.com/en">Momentum</a>: Mobile and web platform as "one-stop-shop" for SME financial services- integration of business management tools with fintech services.</p>
+<p><a href="http://www.atsora.com/en">Momentum</a>: Momentum es una plataforma móvil virtual de finanzas para ayudar a las PYMEs con su cashflow, con la planificación del modelo de negocio, con la optimización de costes y las ventas.</p>
 </td>
 <td>
-<p>Poland</p>
+<p>Polonia</p>
 </td>
 </tr>
 
@@ -119,10 +119,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="https://notegraphy.com/"><img src="/assets/notegraphy logo.png"></a>
 </td>
 <td>
-<p><a href="https://notegraphy.com/">Notegraphy</a>: Making your text messages and social media posts more meaningful and fun.</p>
+<p><a href="https://notegraphy.com/">Notegraphy</a>: Notegraphy replantea la forma en que escribimos y compartimos los textos online gracias al diseño. Es como un Instagram para el texto.</p>
 </td>
 <td>
-<p>Spain</p>
+<p>España</p>
 </td>
 </tr>
 
@@ -131,10 +131,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.situm.es/"><img src="/assets/situm logo.png"></a>
 </td>
 <td>
-<p><a href="http://www.situm.es/">Situm</a>: Hardware-free indoor positioning platform for smartphones.</p>
+<p><a href="http://www.situm.es/">Situm</a>: Tecnología de localización en interiores, capaz de adaptarse a cualquier espacio, evitando la instalación de hardware adicional.</p>
 </td>
 <td>
-<p>Spain</p>
+<p>España</p>
 </td>
 </tr>
 
@@ -143,10 +143,10 @@ Las startups que participarán en el IMPACT Extension Program son:
 <a href="http://www.umanick.com/"><img src="/assets/umanick logo.png"></a>
 </td>
 <td>
-<p><a href="http://www.umanick.com/">UMANICK</a>: Safer patients with secure biometric identification.</p>
+<p><a href="http://www.umanick.com/">Umanick</a>: Safer patients with secure biometric identification.</p>
 </td>
 <td>
-<p>Spain</p>
+<p>España</p>
 </td>
 </tr>
 
