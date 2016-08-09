@@ -44,7 +44,7 @@ Startups taking part in the IMPACT Extension Program are:
 
 <tr>
 <td>
-<a href="http://www.donkey.bike/"><img src="/assets/Donkey Republic logo.png"></a>
+<a href="http://www.donkey.bike/"><img src="/assets/Donkey Republic logo 200.png)"></a>
 </td>
 <td>
 <p>Donkey Republic: World's bike rental platform</p>
