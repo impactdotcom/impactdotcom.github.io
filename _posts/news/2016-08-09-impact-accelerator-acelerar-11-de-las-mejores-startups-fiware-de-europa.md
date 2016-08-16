@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-published: false
+published: true
 title: IMPACT ACCELERATOR acelerará 11 de las mejores startups FIWARE de Europa
 lang: es
 ---
