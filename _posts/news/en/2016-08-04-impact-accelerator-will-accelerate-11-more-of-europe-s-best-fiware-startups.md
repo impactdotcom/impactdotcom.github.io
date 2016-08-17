@@ -83,7 +83,7 @@ Startups taking part in the IMPACT Extension Program are:
 <a href="http://www.leeluu.fi/"><img src="/assets/Leeluu_logo3.png"></a>
 </td>
 <td>
-<p><a href="http://www.leeluu.fi/">LeeLuu</a>: Magical Together.</p>
+<p><a href="http://www.leeluu.fi/">LeeLuu</a>: LeeLuu Stories helps families sleep better through providing a platform for communication and storytelling around sleep and fear of darkness.</p>
 </td>
 <td>
 <p>Finland</p>
